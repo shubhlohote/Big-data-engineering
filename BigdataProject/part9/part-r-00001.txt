@@ -1,0 +1,310 @@
+2013-07-29,Wells Fargo & Company,VA,Consumer Loan,Vehicle loan,Managing the loan or lease,NA,Yes,Phone,NA,NA,24540,,N/A,2013-07-30,Closed with explanation,No,468882
+2013-12-04,Navient Solutions Inc,VA,Student loan,Non-federal student loan,Repaying your loan,Repaying your loan,Yes,Web,,,23860,,N/A,2013-12-03,Closed with explanation,No,621947
+2013-11-29,Experian,VA,Credit reporting,,Incorrect information on credit report,Account status,Yes,Postal mail,,,22192,,N/A,2013-12-12,Closed with explanation,No,616224
+2013-11-26,Encore Capital Group,VA,Debt collection,I do not know,Taking/threatening an illegal action,Threatened arrest/jail if do not pay,Yes,Web,,,24055,,N/A,2013-11-27,Closed with explanation,No,612596
+2013-12-03,Trident Asset Management LLC,VA,Debt collection,Other (ie phone health club etc),Cont'd attempts collect debt not owed,Debt resulted from identity theft,Yes,Web,,,23451,,N/A,2013-12-03,Closed with non-monetary relief,No,619164
+2013-11-02,Dominion Law Associates PLLC,VA,Debt collection,Medical,False statements or representation,Indicated shouldn't respond to lawsuit,Yes,Web,,,23464,,N/A,2013-11-13,Closed with explanation,No,582521
+2013-11-02,PHH Mortgage,VA,Mortgage,VA mortgage,Loan servicing payments escrow account,,Yes,Web,,,22079,,N/A,2013-11-01,Closed with explanation,No,582439
+2013-11-07,Platinum Holdings Group LLC,VA,Debt collection,Credit card,Communication tactics,Threatened to take legal action,Yes,Web,,,23231,,N/A,2013-11-07,Closed,No,589589
+2013-11-07,PayPal Holdings Inc,VA,Bank account or service,Savings account,Making/receiving payments sending money,,Yes,Web,,,23229,,N/A,2013-11-12,Closed with explanation,No,589572
+2013-11-07,Experian,VA,Credit reporting,,Incorrect information on credit report,Information is not mine,Yes,Web,,,23703,Servicemember,N/A,2013-11-07,Closed with explanation,No,589564
+2013-11-07,Bank of America,VA,Credit card,,Transaction issue,,Yes,Web,,,22314,,N/A,2013-11-06,Closed with explanation,No,589524
+2013-12-03,Experian,VA,Credit reporting,,Incorrect information on credit report,Personal information,Yes,Web,,,22032,,N/A,2013-12-02,Closed with non-monetary relief,No,618739
+2013-11-20,Capital One,VA,Consumer Loan,Vehicle loan,Managing the loan or lease,,Yes,Web,,,20155,,N/A,2013-11-29,Closed with explanation,No,605391
+2013-11-20,Wells Fargo & Company,VA,Mortgage,VA mortgage,Loan modificationcollectionforeclosure,,Yes,Web,,,22405,,N/A,2013-11-19,Closed with explanation,No,605385
+2013-12-02,Nationstar Mortgage,VA,Mortgage,Conventional adjustable mortgage (ARM),Loan modificationcollectionforeclosure,,Yes,Web,,,22025,,N/A,2013-12-02,Closed with explanation,No,618229
+2013-11-06,Ditech Financial LLC,VA,Mortgage,Conventional adjustable mortgage (ARM),Loan servicing payments escrow account,,Yes,Web,,,23185,,N/A,2013-11-06,Closed with explanation,No,588582
+2013-10-29,Stephens and Michaels Associates Inc,VA,Debt collection,I do not know,Communication tactics,Frequent or repeated calls,Yes,Web,,,22482,,N/A,2013-10-29,Closed with explanation,No,575181
+2013-10-28,James B Nutter & Company,VA,Mortgage,Reverse mortgage,Loan modificationcollectionforeclosure,,Yes,Referral,,,23936,,N/A,2013-10-29,Closed with explanation,Yes,574525
+2013-12-02,Experian,VA,Credit reporting,,Credit reporting company's investigation,Problem with statement of dispute,Yes,Web,,,23704,,N/A,2013-12-03,Closed with explanation,No,617763
+2013-11-01,TransUnion Intermediate Holdings Inc,VA,Credit reporting,,Incorrect information on credit report,Account status,Yes,Web,,,20147,,N/A,2013-11-01,Closed with explanation,No,581142
+2013-11-19,Receivables Performance Management LLC,VA,Debt collection,Other (ie phone health club etc),Disclosure verification of debt,Not given enough info to verify debt,Yes,Web,,,23847,,N/A,2013-11-26,Closed with explanation,No,604381
+2013-11-06,Capital One,VA,Credit card,,Delinquent account,,Yes,Web,,,23462,Older American,N/A,2013-11-06,Closed with non-monetary relief,No,587196
+2013-11-01,Ocwen,VA,Mortgage,Other mortgage,Loan modificationcollectionforeclosure,,Yes,Referral,,,20171,,N/A,2013-11-13,Closed,Yes,580780
+2013-10-28,Bank of America,VA,Credit card,,Other,,Yes,Web,,,22033,,N/A,2013-10-28,Closed with explanation,No,574270
+2013-11-19,Wells Fargo & Company,VA,Mortgage,FHA mortgage,Loan modificationcollectionforeclosure,,Yes,Web,,,23059,,N/A,2013-11-19,Closed with explanation,No,604200
+2013-11-13,Capital One,VA,Credit card,,Other,,Yes,Web,,,20171,,N/A,2013-11-13,Closed with explanation,No,596183
+2013-11-25,Navy FCU,VA,Consumer Loan,Vehicle loan,Managing the loan or lease,,Yes,Web,,,22033,,N/A,2013-11-26,Closed,Yes,610972
+2013-10-22,Citibank,VA,Credit card,,Payoff process,,Yes,Web,,,24523,,N/A,2013-10-22,Closed with monetary relief,No,567203
+2013-11-19,The Regional Adjustment Bureau Incorporated,VA,Debt collection,I do not know,Disclosure verification of debt,Not given enough info to verify debt,Yes,Web,,,24151,,N/A,2013-11-19,Closed with non-monetary relief,No,604028
+2013-11-25,Barclays PLC,VA,Debt collection,Credit card,Communication tactics,Frequent or repeated calls,Yes,Web,,,20110,,N/A,2013-11-25,Closed with explanation,No,610502
+2013-10-22,PHH Mortgage,VA,Mortgage,Conventional fixed mortgage,Loan servicing payments escrow account,,Yes,Web,,,23320,,N/A,2013-10-23,Closed with monetary relief,No,567556
+2013-11-13,MoneyGram,VA,Money transfers,International money transfer,Money was not available when promised,,Yes,Phone,,,22312,,N/A,2013-11-15,Closed with explanation,Yes,596016
+2013-10-28,BB&T Financial,VA,Bank account or service,Checking account,Account opening closing or management,,Yes,Referral,,,23701,,N/A,2013-10-28,Closed with monetary relief,Yes,574898
+2013-10-28,Wells Fargo & Company,VA,Credit card,,Other,,Yes,Referral,,,22150,,N/A,2013-10-29,Closed with explanation,Yes,573746
+2013-11-19,USAA Savings,VA,Bank account or service,Savings account,Deposits and withdrawals,,Yes,Web,,,23944,Older American,N/A,2013-11-21,Closed with monetary relief,No,603584
+2013-11-13,Wells Fargo & Company,VA,Mortgage,Conventional fixed mortgage,Loan modificationcollectionforeclosure,,Yes,Web,,,22801,,N/A,2013-11-13,Closed with explanation,No,595819
+2013-11-19,Wells Fargo & Company,VA,Mortgage,Conventional fixed mortgage,Settlement process and costs,,Yes,Web,,,22101,,N/A,2013-11-18,Closed with explanation,Yes,603408
+2014-09-18,Citibank,VA,Credit card,,Other,,Yes,Web,,,24060,,N/A,2014-09-18,Closed with explanation,No,1034111
+2013-10-28,Pulte Mortgage,VA,Mortgage,Other mortgage,Application originator mortgage broker,,Yes,Referral,,,22314,,N/A,2013-10-28,Closed with explanation,Yes,573366
+2013-10-22,Encore Capital Group,VA,Debt collection,Credit card,Cont'd attempts collect debt not owed,Debt is not mine,Yes,Phone,,,22304,,N/A,2013-10-23,Closed with explanation,No,566604
+2013-10-28,Specialized Loan Servicing LLC,VA,Mortgage,Conventional fixed mortgage,Loan modificationcollectionforeclosure,,Yes,Web,,,23323,,N/A,2013-10-28,Closed,No,573066
+2013-10-22,Santander Consumer USA Holdings Inc,VA,Consumer Loan,Vehicle loan,Managing the loan or lease,,Yes,Web,,,23114,,N/A,2013-10-22,Closed with explanation,No,565756
+2013-10-22,Citibank,VA,Credit card,,Billing disputes,,Yes,Web,,,22033,,N/A,2013-10-22,Closed with monetary relief,No,566152
+2013-11-25,Performant Financial Corporation,VA,Debt collection,Other (ie phone health club etc),Disclosure verification of debt,Not given enough info to verify debt,Yes,Web,,,23692,Servicemember,N/A,2013-11-24,Closed with non-monetary relief,No,610344
+2013-10-21,TransUnion Intermediate Holdings Inc,VA,Credit reporting,,Credit reporting company's investigation,No notice of investigation status/result,Yes,Web,,,22041,Servicemember,N/A,2013-10-21,Closed with explanation,No,565564
+2013-11-24,Experian,VA,Credit reporting,,Incorrect information on credit report,Account terms,Yes,Web,,,20188,Older American,N/A,2013-11-24,Closed with non-monetary relief,No,610202
+2013-10-21,Experian,VA,Credit reporting,,Credit reporting company's investigation,No notice of investigation status/result,Yes,Web,,,22041,Servicemember,N/A,2013-10-21,Closed with explanation,No,565563
+2013-10-21,US Bancorp,VA,Mortgage,VA mortgage,Loan modificationcollectionforeclosure,,Yes,Web,,,20155,Servicemember,N/A,2013-10-22,Closed with explanation,No,565038
+2013-11-23,Collection Management Company,VA,Debt collection,Other (ie phone health club etc),Cont'd attempts collect debt not owed,Debt is not mine,Yes,Web,,,22847,,N/A,2013-12-03,Closed with explanation,No,610125
+2013-11-23,JPMorgan Chase & Co,VA,Credit card,,Identity theft / Fraud / Embezzlement,,Yes,Web,,,22033,,N/A,2013-11-26,Closed with explanation,No,609542
+2013-11-23,Synchrony Financial,VA,Credit card,,Late fee,,Yes,Web,,,22508,,N/A,2013-12-03,Closed with monetary relief,No,609527
+2013-11-18,Expert Global Solutions Inc,VA,Debt collection,Other (ie phone health club etc),Cont'd attempts collect debt not owed,Debt is not mine,Yes,Phone,,,23462,,N/A,2013-11-21,Closed with explanation,No,602659
+2013-11-13,PNC Bank NA,VA,Mortgage,Other mortgage,Loan servicing payments escrow account,,Yes,Web,,,23059,Older American,N/A,2013-11-18,Closed with explanation,No,595748
+2013-10-20,PNC Bank NA,VA,Credit card,,Billing disputes,,Yes,Web,,,22039,,N/A,2013-10-20,Closed with explanation,No,564166
+2013-11-18,Citizens Financial Group Inc,VA,Mortgage,Other mortgage,Loan modificationcollectionforeclosure,,Yes,Referral,,,20176,,N/A,2013-11-21,Closed with explanation,No,602488
+2013-10-19,Bank of America,VA,Bank account or service,Checking account,Account opening closing or management,,Yes,Web,,,22033,,N/A,2013-10-21,Closed with explanation,No,563908
+2013-10-26,Nissan Motor Acceptance Corporation,VA,Debt collection,Auto,Communication tactics,Frequent or repeated calls,Yes,Web,,,24501,,N/A,2013-10-26,Closed with explanation,No,572566
+2013-10-19,Ocwen,VA,Mortgage,Conventional fixed mortgage,Loan servicing payments escrow account,,Yes,Web,,,22304,,N/A,2013-10-21,Closed with explanation,No,563821
+2013-11-18,Encore Capital Group,VA,Debt collection,I do not know,Communication tactics,Frequent or repeated calls,Yes,Phone,,,20132,,N/A,2013-11-20,Closed with non-monetary relief,No,602281
+2013-11-05,Ocwen,VA,Mortgage,Other mortgage,Loan modificationcollectionforeclosure,,Yes,Web,,,23954,,N/A,2013-11-05,Closed with explanation,No,585323
+2013-11-05,Van Ru Credit Corporation,VA,Debt collection,Credit card,Disclosure verification of debt,Not given enough info to verify debt,Yes,Referral,,,24348,,N/A,2013-11-06,Closed with non-monetary relief,No,586678
+2013-11-20,Synchrony Financial,VA,Credit card,,Sale of account,,Yes,Web,,,23451,,N/A,2013-11-20,Closed with explanation,No,605176
+2013-10-18,Ocwen,VA,Mortgage,FHA mortgage,Loan servicing payments escrow account,,Yes,Web,,,22630,,N/A,2013-10-21,Closed with explanation,No,562601
+2013-11-22,Wells Fargo & Company,VA,Mortgage,Other mortgage,Loan modificationcollectionforeclosure,,Yes,Web,,,22314,,N/A,2013-11-22,Closed with explanation,Yes,609857
+2013-11-12,Citibank,VA,Debt collection,I do not know,Cont'd attempts collect debt not owed,Debt is not mine,Yes,Web,,,22201,,N/A,2013-12-02,Closed with explanation,Yes,593296
+2013-10-25,Citibank,VA,Credit card,,Delinquent account,,Yes,Web,,,20121,,N/A,2013-10-28,Closed with explanation,Yes,571777
+2013-11-17,Experian,VA,Credit reporting,,Incorrect information on credit report,Reinserted previously deleted info,Yes,Web,,,22847,,N/A,2013-11-17,Closed with non-monetary relief,No,601139
+2013-10-11,Equifax,VA,Credit reporting,,Credit reporting company's investigation,Problem with statement of dispute,Yes,Web,,,22043,,N/A,2013-10-10,Closed with non-monetary relief,No,557584
+2013-11-17,Encore Capital Group,VA,Debt collection,Other (ie phone health club etc),Communication tactics,Called after sent written cease of comm,Yes,Web,,,22043,,N/A,2013-11-26,Closed with explanation,No,601508
+2013-11-21,Suburban Credit Corporation,VA,Debt collection,Medical,Cont'd attempts collect debt not owed,Debt is not mine,Yes,Web,,,22191,,N/A,2013-12-17,Closed with explanation,No,608152
+2013-10-10,Navy FCU,VA,Credit card,,Customer service / Customer relations,,Yes,Referral,,,23320,,N/A,2013-10-11,Closed with monetary relief,Yes,557269
+2013-11-15,USAA Savings,VA,Mortgage,Home equity loan or line of credit,Settlement process and costs,,Yes,Web,,,22301,Servicemember,N/A,2013-11-15,Closed with non-monetary relief,No,601241
+2013-10-10,Navy FCU,VA,Consumer Loan,Vehicle loan,Problems when you are unable to pay,,Yes,Web,,,22301,,N/A,2013-10-11,Closed with explanation,No,557127
+2013-10-30,CNG Financial Corporation,VA,Consumer Loan,Vehicle loan,Managing the loan or lease,,Yes,Web,,,23224,,N/A,2013-10-31,Closed with explanation,Yes,578441
+2013-10-30,Alorica Inc,VA,Debt collection,Medical,Cont'd attempts collect debt not owed,Debt is not mine,Yes,Phone,,,20175,,N/A,2013-10-31,Closed with explanation,No,578432
+2013-10-25,BNY Mellon,VA,Credit card,,Unsolicited issuance of credit card,,Yes,Web,,,20147,,N/A,2013-10-28,Closed with explanation,No,571396
+2013-10-10,Resurgent Capital Services LP,VA,Mortgage,Other mortgage,Loan modificationcollectionforeclosure,,Yes,Referral,,,22102,,N/A,2013-10-18,Closed with explanation,No,557329
+2013-11-11,EverBank,VA,Mortgage,Conventional fixed mortgage,Loan servicing payments escrow account,,Yes,Web,,,23058,,N/A,2013-11-12,Closed with explanation,No,590740
+2013-10-24,Rushmore Loan Management Services LLC,VA,Mortgage,Conventional adjustable mortgage (ARM),Loan servicing payments escrow account,,Yes,Referral,,,20176,,N/A,2013-10-25,Closed with explanation,No,570450
+2013-10-30,Experian,VA,Credit reporting,,Incorrect information on credit report,Information is not mine,Yes,Referral,,,23011,,N/A,2013-12-03,Closed with explanation,No,578065
+2013-10-09,PNC Bank NA,VA,Bank account or service,Checking account,Account opening closing or management,,Yes,Referral,,,23002,,N/A,2013-10-10,Closed with explanation,No,556397
+2013-11-05,Credit Protection Association LP,VA,Debt collection,Other (ie phone health club etc),Cont'd attempts collect debt not owed,Debt is not mine,Yes,Web,,,22301,,N/A,2013-11-04,Closed with non-monetary relief,No,585469
+2013-11-11,Bank of America,VA,Bank account or service,Other bank product/service,Account opening closing or management,,Yes,Web,,,24084,Older American,N/A,2013-11-11,Closed with explanation,No,592901
+2013-11-11,Navient Solutions Inc,VA,Student loan,Non-federal student loan,Repaying your loan,Repaying your loan,Yes,Web,,,22401,Servicemember,N/A,2013-11-25,Closed with explanation,No,592894
+2013-10-09,Wells Fargo & Company,VA,Mortgage,VA mortgage,Loan servicing payments escrow account,,Yes,Web,,,22407,,N/A,2013-10-09,Closed with explanation,No,555879
+2013-10-09,Ditech Financial LLC,VA,Mortgage,Home equity loan or line of credit,Loan modificationcollectionforeclosure,,Yes,Web,,,22553,,N/A,2013-10-15,Closed with explanation,Yes,555869
+2013-11-09,Navy FCU,VA,Mortgage,Conventional fixed mortgage,Application originator mortgage broker,,Yes,Web,,,20180,,N/A,2013-11-14,Closed with explanation,Yes,592582
+2013-11-09,Credit Protection Association LP,VA,Debt collection,I do not know,Communication tactics,Frequent or repeated calls,Yes,Web,,,22630,,N/A,2013-11-08,Closed with non-monetary relief,No,592573
+2013-10-18,Delbert Services,VA,Debt collection,Other (ie phone health club etc),Cont'd attempts collect debt not owed,Debt is not mine,Yes,Phone,,,23223,Older American,N/A,2013-11-13,Closed with explanation,No,562661
+2013-11-04,Santander Consumer USA Holdings Inc,VA,Consumer Loan,Vehicle loan,Managing the loan or lease,,Yes,Web,,,23231,,N/A,2013-11-04,Closed with explanation,No,583585
+2013-11-04,Fifth Third Financial Corporation,VA,Bank account or service,Other bank product/service,Account opening closing or management,,Yes,Postal mail,,,20155,,N/A,2013-11-04,Closed with explanation,No,583446
+2013-10-17,Ocwen,VA,Mortgage,Home equity loan or line of credit,Loan modificationcollectionforeclosure,,Yes,Referral,,,22124,,N/A,2013-10-21,Closed with explanation,No,561017
+2013-10-24,Wells Fargo & Company,VA,Mortgage,Other mortgage,Loan modificationcollectionforeclosure,,Yes,Fax,,,20190,,N/A,2013-10-25,Closed with explanation,No,570282
+2013-10-30,TCF National Bank,VA,Consumer Loan,Vehicle loan,Problems when you are unable to pay,,Yes,Web,,,23860,,N/A,2013-10-30,Closed with explanation,No,577575
+2013-11-08,SunTrust Banks Inc,VA,Mortgage,Home equity loan or line of credit,Loan servicing payments escrow account,,Yes,Referral,,,23043,,N/A,2013-11-12,Closed with non-monetary relief,No,592035
+2013-10-17,Navy FCU,VA,Consumer Loan,Vehicle loan,Taking out the loan or lease,,Yes,Web,,,23605,Servicemember,N/A,2013-10-18,Closed with explanation,No,561895
+2013-10-30,PHH Mortgage,VA,Mortgage,Conventional fixed mortgage,Loan modificationcollectionforeclosure,,Yes,Web,,,22313,,N/A,2013-10-30,Closed with explanation,Yes,577430
+2013-10-24,Navient Solutions Inc,VA,Student loan,Non-federal student loan,Repaying your loan,Repaying your loan,Yes,Referral,,,22546,,N/A,2013-10-25,Closed with explanation,No,570034
+2013-11-07,Nationstar Mortgage,VA,Mortgage,Conventional adjustable mortgage (ARM),Settlement process and costs,,Yes,Web,,,23692,,N/A,2013-11-07,Closed with explanation,No,590510
+2013-10-29,TransUnion Intermediate Holdings Inc,VA,Credit reporting,,Credit reporting company's investigation,No notice of investigation status/result,Yes,Referral,,,22485,,N/A,2013-10-30,Closed with non-monetary relief,No,576362
+2013-10-17,Equifax,VA,Credit reporting,,Incorrect information on credit report,Information is not mine,Yes,Web,,,20120,,N/A,2013-10-17,Closed with non-monetary relief,No,561499
+2013-10-17,JPMorgan Chase & Co,VA,Consumer Loan,Vehicle loan,Managing the loan or lease,,Yes,Web,,,23224,,N/A,2013-10-18,Closed with explanation,No,561452
+2013-10-24,BB&T Financial,VA,Bank account or service,Checking account,Account opening closing or management,,Yes,Referral,,,23229,,N/A,2013-10-24,Closed with explanation,No,569707
+2013-09-30,Encore Capital Group,VA,Debt collection,I do not know,Communication tactics,Frequent or repeated calls,Yes,Web,,,24015,,N/A,2013-09-30,Closed with explanation,No,547792
+2013-09-24,Bayview Loan Servicing LLC,VA,Mortgage,Conventional fixed mortgage,Loan servicing payments escrow account,,Yes,Web,,,22204,,N/A,2013-09-24,Closed with explanation,Yes,540185
+2013-09-24,SunTrust Banks Inc,VA,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Web,,,23507,,N/A,2013-09-24,Closed with monetary relief,No,540087
+2013-10-17,Experian,VA,Credit reporting,,Credit reporting company's investigation,Problem with statement of dispute,Yes,Web,,,22043,,N/A,2013-10-16,Closed with explanation,Yes,560963
+2013-10-07,Ditech Financial LLC,VA,Mortgage,Second mortgage,Loan modificationcollectionforeclosure,,Yes,Referral,,,20148,,N/A,2013-10-08,Closed with explanation,Yes,554567
+2013-09-24,Bank of America,VA,Bank account or service,Other bank product/service,Account opening closing or management,,Yes,Web,,,22193,,N/A,2013-09-25,Closed with explanation,No,539826
+2013-09-24,BB&T Financial,VA,Bank account or service,(CD) Certificate of deposit,Account opening closing or management,,Yes,Phone,,,23944,,N/A,2013-09-25,Closed with explanation,Yes,539755
+2013-09-29,TransUnion Intermediate Holdings Inc,VA,Credit reporting,,Improper use of my credit report,Report improperly shared by CRC,Yes,Web,,,24503,,N/A,2013-10-28,Closed with explanation,Yes,546826
+2013-09-29,Encore Capital Group,VA,Debt collection,I do not know,False statements or representation,Impersonated an attorney or official,Yes,Web,,,24503,,N/A,2013-09-29,Closed with explanation,Yes,546825
+2013-10-23,Citibank,VA,Credit card,,Billing disputes,,Yes,Web,,,22027,,N/A,2013-10-24,Closed with monetary relief,No,568654
+2013-09-28,M&T Bank Corporation,VA,Bank account or service,Checking account,Using a debit or ATM card,,Yes,Web,,,22207,,N/A,2013-09-30,Closed with explanation,No,546563
+2013-10-23,Cavalry Investments LLC,VA,Debt collection,Other (ie phone health club etc),False statements or representation,Indicated committed crime not paying,Yes,Web,,,24132,Older American,N/A,2013-10-23,Closed with explanation,No,568270
+2013-10-05,Experian,VA,Credit reporting,,Incorrect information on credit report,Account status,Yes,Web,,,23507,,N/A,2013-10-04,Closed with explanation,Yes,553066
+2013-10-23,Equifax,VA,Credit reporting,,Incorrect information on credit report,Information is not mine,Yes,Web,,,24382,,N/A,2013-10-24,Closed with explanation,Yes,569314
+2013-10-04,Bank of America,VA,Mortgage,VA mortgage,Loan modificationcollectionforeclosure,,Yes,Web,,,23231,,N/A,2013-10-07,Closed with explanation,No,552977
+2013-09-23,Citibank,VA,Debt collection,Credit card,Communication tactics,Frequent or repeated calls,Yes,Web,,,23150,,N/A,2013-09-23,Closed with monetary relief,No,538221
+2013-09-27,BNY Mellon,VA,Bank account or service,Checking account,Problems caused by my funds being low,,Yes,Web,,,22182,,N/A,2013-10-01,Closed with monetary relief,No,545414
+2013-09-27,TransUnion Intermediate Holdings Inc,VA,Credit reporting,,Incorrect information on credit report,Account status,Yes,Postal mail,,,23123,,N/A,2013-10-15,Closed with explanation,No,545010
+2013-10-04,National Credit Adjusters LLC,VA,Debt collection,I do not know,False statements or representation,Impersonated an attorney or official,No,Web,,,24503,,N/A,2013-10-04,Closed with explanation,Yes,553358
+2013-09-27,Expert Global Solutions Inc,VA,Debt collection,I do not know,Cont'd attempts collect debt not owed,Debt is not mine,Yes,Web,,,24502,,N/A,2013-09-27,Closed with explanation,Yes,545284
+2013-10-04,Dominion Law Associates PLLC,VA,Debt collection,Credit card,Disclosure verification of debt,Not given enough info to verify debt,Yes,Referral,,,23242,,N/A,2013-11-13,Closed,No,552614
+2013-09-27,Bank of America,VA,Mortgage,Other mortgage,Loan modificationcollectionforeclosure,,Yes,Referral,,,22485,,N/A,2013-09-30,Closed with explanation,No,545643
+2013-09-11,Equifax,VA,Credit reporting,,Incorrect information on credit report,Account status,Yes,Referral,,,24012,,N/A,2013-10-01,Closed with explanation,No,523588
+2013-10-03,Wells Fargo & Company,VA,Credit card,,Payoff process,,Yes,Fax,,,22601,,N/A,2013-10-15,Closed with monetary relief,No,552032
+2013-08-28,Bank of America,VA,Mortgage,Conventional fixed mortgage,Application originator mortgage broker,,Yes,Web,,,20111,,N/A,2013-08-29,Closed with explanation,No,501446
+2013-10-03,Ocwen,VA,Mortgage,Conventional fixed mortgage,Loan modificationcollectionforeclosure,,Yes,Web,,,22408,,N/A,2013-10-04,Closed with explanation,No,551976
+2013-10-03,Bank of America,VA,Credit card,,Delinquent account,,Yes,Phone,,,24018,,N/A,2013-10-04,Closed with explanation,Yes,551821
+2013-10-16,SunTrust Banks Inc,VA,Bank account or service,Checking account,Account opening closing or management,,Yes,Referral,,,23294,,N/A,2013-10-16,Closed with explanation,No,560721
+2013-08-28,Wells Fargo & Company,VA,Debt collection,Mortgage,Improper contact or sharing of info,Talked to a third party about my debt,Yes,Web,,,24112,Older American,N/A,2013-08-29,Closed with explanation,No,507713
+2013-09-26,Quicken Loans,VA,Mortgage,Conventional fixed mortgage,Credit decision / Underwriting,,Yes,Web,,,22003,,N/A,2013-09-27,Closed with explanation,Yes,544093
+2013-09-22,TransUnion Intermediate Holdings Inc,VA,Credit reporting,,Credit reporting company's investigation,Problem with statement of dispute,Yes,Web,,,22043,,N/A,2013-09-22,Closed with non-monetary relief,Yes,537191
+2013-09-22,Equifax,VA,Credit reporting,,Incorrect information on credit report,Account terms,Yes,Web,,,22192,,N/A,2013-09-27,Closed with non-monetary relief,Yes,537313
+2013-09-21,Navy FCU,VA,Credit card,,Other,,Yes,Web,,,22903,,N/A,2013-09-21,Closed with explanation,No,537084
+2013-10-03,Wells Fargo & Company,VA,Bank account or service,Checking account,Account opening closing or management,,Yes,Referral,,,22181,,N/A,2013-10-03,Closed with explanation,No,551722
+2013-10-03,Wells Fargo & Company,VA,Bank account or service,Checking account,Account opening closing or management,,Yes,Referral,,,22210,,N/A,2013-10-03,Closed with monetary relief,No,551478
+2013-09-21,Nationstar Mortgage,VA,Mortgage,Conventional fixed mortgage,Loan servicing payments escrow account,,Yes,Web,,,20181,,N/A,2013-09-23,Closed with explanation,Yes,537011
+2013-10-03,Citibank,VA,Credit reporting,,Incorrect information on credit report,Account terms,Yes,Web,,,22032,Servicemember,N/A,2013-10-03,Closed with explanation,No,551439
+2013-09-26,Bank of America,VA,Mortgage,FHA mortgage,Loan modificationcollectionforeclosure,,Yes,Web,,,22603,,N/A,2013-09-26,Closed with explanation,No,543824
+2013-09-21,JPMorgan Chase & Co,VA,Credit card,,Closing/Cancelling account,,Yes,Web,,,20176,,N/A,2013-09-20,Closed with explanation,No,536946
+2013-09-10,Wells Fargo & Company,VA,Mortgage,Conventional fixed mortgage,Settlement process and costs,,Yes,Web,,,22152,Servicemember,N/A,2013-09-10,Closed with explanation,No,521324
+2013-09-26,Bank of America,VA,Bank account or service,Checking account,Account opening closing or management,,Yes,Phone,,,23452,,N/A,2013-09-26,Closed with explanation,No,543628
+2013-09-17,JPMorgan Chase & Co,VA,Mortgage,FHA mortgage,Loan modificationcollectionforeclosure,,Yes,Web,,,22192,,N/A,2013-09-18,Closed with explanation,No,530251
+2013-10-02,TransUnion Intermediate Holdings Inc,VA,Credit reporting,,Incorrect information on credit report,Account status,Yes,Postal mail,,,23112,,N/A,2013-10-09,Closed with explanation,No,550633
+2013-08-28,Nationstar Mortgage,VA,Mortgage,Other mortgage,Loan servicing payments escrow account,,Yes,Referral,,,23879,,N/A,2013-08-28,Closed with explanation,Yes,506140
+2013-09-17,Performant Financial Corporation,VA,Debt collection,I do not know,Improper contact or sharing of info,Contacted employer after asked not to,Yes,Web,,,23464,,N/A,2013-09-17,Closed with non-monetary relief,No,531799
+2013-09-10,Wells Fargo & Company,VA,Mortgage,Other mortgage,Loan modificationcollectionforeclosure,,Yes,Referral,,,22968,,N/A,2013-09-11,Closed with explanation,No,520973
+2013-08-28,Encore Capital Group,VA,Debt collection,Credit card,Taking/threatening an illegal action,Attempted to/Collected exempt funds,Yes,Postal mail,,,23454,,N/A,2013-08-29,Closed with explanation,No,506132
+2013-09-10,Equifax,VA,Credit reporting,,Unable to get credit report/credit score,Problem getting my free annual report,Yes,Web,,,22314,,N/A,2013-09-14,Closed with non-monetary relief,Yes,521841
+2013-09-05,Bank of America,VA,Debt collection,Mortgage,Cont'd attempts collect debt not owed,Debt was discharged in bankruptcy,Yes,Web,,,22701,Servicemember,N/A,2013-09-05,Closed with explanation,Yes,515074
+2013-09-05,Real Time Resolutions,VA,Debt collection,Mortgage,Cont'd attempts collect debt not owed,Debt was discharged in bankruptcy,Yes,Web,,,22701,Servicemember,N/A,2013-09-05,Closed with explanation,No,515073
+2013-09-16,Wells Fargo & Company,VA,Credit card,,Other,,Yes,Phone,,,23602,,N/A,2013-09-17,Closed with explanation,No,529341
+2013-10-14,Focus Holding Company,VA,Debt collection,I do not know,Cont'd attempts collect debt not owed,Debt is not mine,Yes,Web,,,22201,,N/A,2013-10-14,Closed with explanation,No,558595
+2013-09-26,Bank of America,VA,Credit card,,Late fee,,Yes,Web,,,23238,Older American,N/A,2013-09-26,Closed with explanation,No,543257
+2013-09-26,United Check Recovery LLC,VA,Debt collection,I do not know,Improper contact or sharing of info,Talked to a third party about my debt,Yes,Web,,,24202,,N/A,2013-10-17,Closed with explanation,No,543250
+2013-09-20,Experian,VA,Credit reporting,,Unable to get credit report/credit score,Problem getting my free annual report,Yes,Web,,,22314,,N/A,2013-09-20,Closed with non-monetary relief,No,537713
+2013-10-13,Wells Fargo & Company,VA,Mortgage,Other mortgage,Application originator mortgage broker,,Yes,Web,,,22309,Servicemember,N/A,2013-10-15,Closed with explanation,No,558383
+2013-09-20,Bank of America,VA,Bank account or service,Savings account,Deposits and withdrawals,,Yes,Web,,,23838,,N/A,2013-09-20,Closed with explanation,No,536008
+2013-10-12,Amex,VA,Credit card,,Late fee,,Yes,Web,,,23221,,N/A,2013-10-12,Closed with monetary relief,Yes,558331
+2013-09-20,Hunter Warfield Inc,VA,Debt collection,Other (ie phone health club etc),Disclosure verification of debt,Not given enough info to verify debt,Yes,Referral,,,22116,,N/A,2013-09-20,Closed with explanation,No,535869
+2013-09-20,Experian,VA,Credit reporting,,Incorrect information on credit report,Account status,Yes,Referral,,,22116,,N/A,2013-10-07,Closed with non-monetary relief,No,535832
+2013-09-16,Medical Data Systems Inc,VA,Debt collection,Medical,Communication tactics,Frequent or repeated calls,Yes,Web,,,24482,,N/A,2013-09-17,Closed with explanation,No,528736
+2013-09-04,Fifth Third Financial Corporation,VA,Mortgage,Conventional fixed mortgage,Loan servicing payments escrow account,,Yes,Web,,,23059,,N/A,2013-09-05,Closed with explanation,No,514328
+2013-09-25,ARM Solutions Inc,VA,Debt collection,I do not know,Disclosure verification of debt,Not given enough info to verify debt,Yes,Web,,,22032,,N/A,2013-10-16,Closed with explanation,Yes,542181
+2013-09-16,Equifax,VA,Credit reporting,,Incorrect information on credit report,Information is not mine,Yes,Web,,,22043,,N/A,2013-09-17,Closed with non-monetary relief,No,528535
+2013-09-16,Equifax,VA,Credit reporting,,Incorrect information on credit report,Personal information,Yes,Web,,,22043,,N/A,2013-09-17,Closed with explanation,No,528534
+2013-09-25,Specialized Loan Servicing LLC,VA,Mortgage,Conventional adjustable mortgage (ARM),Loan modificationcollectionforeclosure,,Yes,Web,,,20151,Older American,N/A,2013-09-25,Closed,No,543026
+2013-10-02,Bank of America,VA,Bank account or service,Checking account,Account opening closing or management,,Yes,Referral,,,23875,,N/A,2013-10-03,Closed with explanation,No,551042
+2013-09-25,HSBC North America Holdings Inc,VA,Mortgage,Other mortgage,Loan modificationcollectionforeclosure,,Yes,Referral,,,23434,,N/A,2013-09-26,Closed with explanation,Yes,543189
+2013-10-02,TD Bank US Holding Company,VA,Debt collection,Credit card,Taking/threatening an illegal action,Sued w/o proper notification of suit,Yes,Web,,,24588,Servicemember,N/A,2013-10-03,Closed with explanation,No,551257
+2013-10-01,Select Portfolio Servicing Inc,VA,Mortgage,Home equity loan or line of credit,Loan servicing payments escrow account,,Yes,Postal mail,,,23510,,N/A,2013-10-01,Closed with explanation,No,549177
+2013-09-25,MoneyGram,VA,Money transfers,International money transfer,Other service issues,,Yes,Phone,,,22312,,N/A,2013-09-26,Closed with explanation,No,541704
+2013-09-14,Bank of America,VA,Bank account or service,Checking account,Problems caused by my funds being low,,Yes,Web,,,22554,Servicemember,N/A,2013-09-16,Closed with monetary relief,No,526324
+2013-08-27,TransUnion Intermediate Holdings Inc,VA,Credit reporting,,Unable to get credit report/credit score,Problem getting report or credit score,Yes,Web,,,22152,,N/A,2013-09-06,Closed with explanation,Yes,505460
+2013-09-04,Bank of America,VA,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Web,,,22911,,N/A,2013-09-05,Closed,Yes,513810
+2013-10-01,Wells Fargo & Company,VA,Mortgage,Other mortgage,Other,,Yes,Postal mail,,,22015,,N/A,2013-10-02,Closed with explanation,No,549536
+2013-09-13,Synchrony Financial,VA,Debt collection,Credit card,False statements or representation,Attempted to collect wrong amount,Yes,Referral,,,23885,,N/A,2013-09-17,Closed with monetary relief,No,528181
+2013-09-13,Wells Fargo & Company,VA,Consumer Loan,Vehicle loan,Managing the loan or lease,,Yes,Phone,,,23453,Servicemember,N/A,2013-09-16,Closed with explanation,No,528113
+2013-10-01,Bank of America,VA,Mortgage,FHA mortgage,Loan servicing payments escrow account,,Yes,Web,,,23231,,N/A,2013-10-02,Closed with explanation,No,550167
+2013-09-25,MoneyGram,VA,Money transfers,Domestic (US) money transfer,Fraud or scam,,Yes,Web,,,20147,,N/A,2013-09-25,Closed with explanation,No,541396
+2013-09-24,Citibank,VA,Credit card,,Other fee,,Yes,Web,,,23231,,N/A,2013-09-24,Closed with monetary relief,No,540779
+2013-09-13,Equifax,VA,Credit reporting,,Credit reporting company's investigation,Inadequate help over the phone,Yes,Web,,,23225,,N/A,2013-09-15,Closed with explanation,No,527902
+2013-10-01,BB&T Financial,VA,Bank account or service,Checking account,Problems caused by my funds being low,,Yes,Referral,,,24503,,N/A,2013-10-02,Closed with explanation,No,549490
+2013-10-01,Bayview Loan Servicing LLC,VA,Mortgage,FHA mortgage,Loan modificationcollectionforeclosure,,Yes,Web,,,20187,,N/A,2013-10-02,Closed with explanation,No,549206
+2013-08-27,Wells Fargo & Company,VA,Consumer Loan,Vehicle loan,Problems when you are unable to pay,,Yes,Phone,,,20120,,N/A,2013-08-28,Closed with explanation,No,504941
+2013-09-30,Bank of America,VA,Mortgage,Other mortgage,Loan servicing payments escrow account,,Yes,Referral,,,23701,,N/A,2013-10-01,Closed with explanation,No,548507
+2013-09-13,SunTrust Banks Inc,VA,Bank account or service,Checking account,Account opening closing or management,,Yes,Referral,,,22030,,N/A,2013-09-16,Closed with non-monetary relief,No,527597
+2013-09-30,JPMorgan Chase & Co,VA,Mortgage,Other mortgage,Loan modificationcollectionforeclosure,,Yes,Referral,,,23237,,N/A,2013-10-02,Closed with explanation,No,548410
+2013-08-26,Experian,VA,Credit reporting,,Unable to get credit report/credit score,Problem getting my free annual report,Yes,Web,,,22031,,N/A,2013-08-26,Closed with explanation,Yes,508209
+2013-09-03,Seterus Inc,VA,Mortgage,Other mortgage,Loan servicing payments escrow account,,Yes,Referral,,,23089,,N/A,2013-09-04,Closed with explanation,No,513630
+2013-09-20,United Shore Financial Services LLC,VA,Mortgage,Conventional fixed mortgage,Loan servicing payments escrow account,,Yes,Web,,,22302,,N/A,2013-09-20,Closed with explanation,No,535762
+2013-08-26,BB&T Financial,VA,Bank account or service,Other bank product/service,Account opening closing or management,,Yes,Referral,,,23974,,N/A,2013-08-28,Closed with explanation,No,505100
+2013-09-19,Citibank,VA,Credit card,,Identity theft / Fraud / Embezzlement,,Yes,Web,,,23111,,N/A,2013-09-19,Closed with explanation,No,534531
+2013-08-20,Encore Capital Group,VA,Debt collection,I do not know,Cont'd attempts collect debt not owed,Debt is not mine,Yes,Postal mail,,,23112,,N/A,2013-08-20,Closed with explanation,Yes,496624
+2013-09-19,JPMorgan Chase & Co,VA,Credit card,,Other,,Yes,Web,,,20152,,N/A,2013-09-19,Closed with explanation,Yes,535240
+2013-09-19,Equifax,VA,Credit reporting,,Unable to get credit report/credit score,Problem getting my free annual report,Yes,Referral,,,20176,,N/A,2013-10-07,Closed with non-monetary relief,Yes,534407
+2013-08-20,Williams & Fudge Inc,VA,Debt collection,Other (ie phone health club etc),Disclosure verification of debt,Not disclosed as an attempt to collect,Yes,Web,,,22314,Servicemember,N/A,2013-08-22,Closed with explanation,No,497233
+2013-09-19,Santander Consumer USA Holdings Inc,VA,Consumer Loan,Vehicle loan,Managing the loan or lease,,Yes,Web,,,23005,,N/A,2013-09-19,Closed with explanation,Yes,535201
+2013-08-20,Bank of America,VA,Mortgage,FHA mortgage,Loan servicing payments escrow account,,Yes,Web,,,24088,,N/A,2013-08-20,Closed with explanation,Yes,497147
+2013-08-31,Healthcare Receivables Group Inc,VA,Debt collection,Medical,Cont'd attempts collect debt not owed,Debt resulted from identity theft,Yes,Web,,,24382,,N/A,2013-08-31,Closed with explanation,No,511489
+2013-08-31,HCFS Health Care Financial Services Inc,VA,Debt collection,Medical,Cont'd attempts collect debt not owed,Debt resulted from identity theft,Yes,Web,,,24382,,N/A,2013-08-31,Closed with explanation,Yes,511486
+2013-08-31,Creditors Collection Service,VA,Debt collection,Medical,Cont'd attempts collect debt not owed,Debt resulted from identity theft,Yes,Web,,,24382,,N/A,2013-08-31,Closed with explanation,Yes,511485
+2013-08-31,HSBC North America Holdings Inc,VA,Credit card,,Identity theft / Fraud / Embezzlement,,Yes,Web,,,24382,,N/A,2013-10-16,Closed with explanation,Yes,511478
+2013-08-31,National Credit SystemsInc,VA,Debt collection,Other (ie phone health club etc),Cont'd attempts collect debt not owed,Debt resulted from identity theft,Yes,Web,,,24382,,N/A,2013-08-31,Closed with explanation,No,511477
+2013-08-31,Financial Business and Consumer Solutions,VA,Debt collection,Credit card,Cont'd attempts collect debt not owed,Debt is not mine,Yes,Web,,,23238,,N/A,2013-08-31,Closed with explanation,No,509953
+2013-08-20,Barclays PLC,VA,Credit card,,Transaction issue,,Yes,Postal mail,,,22482,Older American,N/A,2013-08-21,Closed with explanation,No,496694
+2013-09-19,Amex,VA,Credit card,,Late fee,,Yes,Phone,,,20166,,N/A,2013-09-19,Closed with explanation,Yes,533754
+2013-09-19,Equifax,VA,Credit reporting,,Incorrect information on credit report,Account status,Yes,Referral,,,23666,,N/A,2013-10-07,Closed with explanation,No,533885
+2013-09-19,Navy FCU,VA,Credit card,,Credit card protection / Debt protection,,Yes,Web,,,20155,Servicemember,N/A,2013-09-19,Closed with explanation,No,533861
+2013-08-20,Ditech Financial LLC,VA,Mortgage,Conventional fixed mortgage,Loan servicing payments escrow account,,Yes,Web,,,22201,,N/A,2013-08-20,Closed with explanation,No,496792
+2013-09-09,Equifax,VA,Credit reporting,,Incorrect information on credit report,Information is not mine,Yes,Web,,,22906,,N/A,2013-09-09,Closed with non-monetary relief,No,519142
+2013-09-07,Bank of America,VA,Mortgage,Conventional fixed mortgage,Loan servicing payments escrow account,,Yes,Web,,,22193,Older American,N/A,2013-09-09,Closed with explanation,Yes,517192
+2013-09-18,Nationstar Mortgage,VA,Mortgage,Conventional adjustable mortgage (ARM),Application originator mortgage broker,,Yes,Web,,,22546,,N/A,2013-09-19,Closed with explanation,No,532764
+2013-09-12,Wells Fargo & Company,VA,Mortgage,Conventional fixed mortgage,Loan servicing payments escrow account,,Yes,Phone,,,23838,,N/A,2013-09-13,Closed with explanation,No,525771
+2013-09-18,Citibank,VA,Mortgage,Conventional fixed mortgage,Loan servicing payments escrow account,,Yes,Referral,,,24015,,N/A,2013-09-18,Closed with explanation,Yes,532395
+2013-09-12,Ditech Financial LLC,VA,Mortgage,Conventional fixed mortgage,Loan modificationcollectionforeclosure,,Yes,Web,,,24019,,N/A,2013-09-13,Closed with explanation,No,525510
+2013-09-18,Banco Popular de Puerto Rico,VA,Consumer Loan,Vehicle loan,Managing the loan or lease,,Yes,Phone,,,23666,Older American,N/A,2013-11-13,Closed with explanation,No,532080
+2013-09-18,Check Fraud Services,VA,Debt collection,Other (ie phone health club etc),Taking/threatening an illegal action,Threatened to sue on too old debt,No,Web,,,23462,,N/A,2013-09-17,Closed with explanation,,531918
+2013-08-19,Nationstar Mortgage,VA,Mortgage,Conventional adjustable mortgage (ARM),Loan modificationcollectionforeclosure,,Yes,Phone,,,23220,Older American,N/A,2013-08-22,Closed with explanation,No,495014
+2013-09-12,Wells Fargo & Company,VA,Mortgage,Home equity loan or line of credit,Application originator mortgage broker,,Yes,Web,,,23320,Servicemember,N/A,2013-09-12,Closed with non-monetary relief,No,524916
+2013-09-11,Capital One,VA,Credit card,,Privacy,,Yes,Phone,,,23704,,N/A,2013-09-12,Closed with explanation,No,524397
+2013-09-11,SunTrust Banks Inc,VA,Consumer Loan,Vehicle loan,Problems when you are unable to pay,,Yes,Phone,,,20171,,N/A,2013-09-12,Closed with explanation,No,524373
+2013-08-30,Wells Fargo & Company,VA,Mortgage,FHA mortgage,Loan servicing payments escrow account,,Yes,Web,,,23323,,N/A,2013-09-04,Closed with explanation,No,510779
+2013-08-30,Bank of America,VA,Mortgage,Other mortgage,Loan modificationcollectionforeclosure,,Yes,Postal mail,,,22906,,N/A,2013-09-03,Closed with explanation,No,510612
+2013-08-30,Nationstar Mortgage,VA,Mortgage,Conventional fixed mortgage,Loan servicing payments escrow account,,Yes,Web,,,22611,,N/A,2013-09-03,Closed with explanation,Yes,510469
+2013-08-19,Bank of America,VA,Mortgage,Other mortgage,Loan modificationcollectionforeclosure,,Yes,Referral,,,23831,Servicemember,N/A,2013-08-20,Closed,No,496295
+2013-08-19,Generation Mortgage,VA,Mortgage,Reverse mortgage,Settlement process and costs,,Yes,Web,,,20191,,N/A,2013-08-20,Closed with explanation,No,495225
+2013-08-12,Glasser and Glasser PLC,VA,Debt collection,Credit card,False statements or representation,Attempted to collect wrong amount,Yes,Phone,,,20148,,N/A,2013-10-16,Closed with monetary relief,No,488637
+2013-09-17,M&T Bank Corporation,VA,Mortgage,VA mortgage,Loan servicing payments escrow account,,Yes,Web,,,23453,,N/A,2013-09-18,Closed with explanation,No,530671
+2013-09-17,Nationstar Mortgage,VA,Mortgage,Conventional fixed mortgage,Loan modificationcollectionforeclosure,,Yes,Web,,,22485,,N/A,2013-09-18,Closed with explanation,No,531705
+2013-08-18,PNC Bank NA,VA,Mortgage,Home equity loan or line of credit,Loan modificationcollectionforeclosure,,Yes,Web,,,22030,,N/A,2013-08-20,Closed with explanation,No,494671
+2013-08-30,Bank of America,VA,Mortgage,Conventional fixed mortgage,Credit decision / Underwriting,,Yes,Web,,,22182,,N/A,2013-09-03,Closed with explanation,No,510372
+2013-09-06,PNC Bank NA,VA,Bank account or service,Checking account,Making/receiving payments sending money,,Yes,Web,,,23417,,N/A,2013-09-06,Closed with explanation,Yes,517364
+2013-09-05,Wells Fargo & Company,VA,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Phone,,,20124,Older American,N/A,2013-09-06,Closed with monetary relief,No,516701
+2013-08-17,Equifax,VA,Credit reporting,,Incorrect information on credit report,Information is not mine,Yes,Web,,,22312,,N/A,2013-08-17,Closed with non-monetary relief,Yes,494584
+2013-08-25,Citibank,VA,Debt collection,Other (ie phone health club etc),Improper contact or sharing of info,Contacted employer after asked not to,Yes,Web,,,23060,,N/A,2013-08-26,Closed with explanation,No,503642
+2013-08-17,PayPal Holdings Inc,VA,Money transfers,Domestic (US) money transfer,Money was not available when promised,,Yes,Web,,,23322,Older American,N/A,2013-08-17,Closed with monetary relief,No,494451
+2013-08-24,TMX Finance LLC,VA,Consumer Loan,Vehicle loan,Problems when you are unable to pay,,Yes,Web,,,23430,,N/A,2013-09-16,Closed with explanation,No,501876
+2013-08-24,The CBE Group Inc,VA,Debt collection,Other (ie phone health club etc),Cont'd attempts collect debt not owed,Debt was paid,Yes,Web,,,22003,,N/A,2013-08-24,Closed with non-monetary relief,No,503542
+2013-08-24,Expert Global Solutions Inc,VA,Debt collection,I do not know,Communication tactics,Threatened to take legal action,Yes,Referral,,,22546,,N/A,2013-08-26,Closed with explanation,No,503385
+2013-08-06,Synchrony Financial,VA,Debt collection,Credit card,Communication tactics,Frequent or repeated calls,Yes,Phone,,,22311,,N/A,2013-08-12,Closed with explanation,No,481286
+2013-08-06,JPMorgan Chase & Co,VA,Mortgage,Conventional fixed mortgage,Loan modificationcollectionforeclosure,,Yes,Web,,,24651,,N/A,2013-08-08,Closed with explanation,No,481297
+2013-09-05,Allied Interstate LLC,VA,Debt collection,Other (ie phone health club etc),Communication tactics,Frequent or repeated calls,Yes,Phone,,,23238,Older American,N/A,2013-09-09,Closed with non-monetary relief,No,516309
+2013-08-16,Bank of America,VA,Mortgage,Conventional fixed mortgage,Loan modificationcollectionforeclosure,,Yes,Phone,,,24551,Older American,N/A,2013-08-19,Closed with non-monetary relief,No,494075
+2013-08-23,Convergent Resources Inc,VA,Debt collection,Other (ie phone health club etc),Cont'd attempts collect debt not owed,Debt was paid,Yes,Referral,,,22039,Older American,N/A,2013-08-27,Closed with explanation,No,503121
+2013-08-12,JPMorgan Chase & Co,VA,Mortgage,Conventional fixed mortgage,Loan modificationcollectionforeclosure,,Yes,Web,,,24013,,N/A,2013-08-13,Closed with explanation,No,488612
+2013-08-23,Ditech Financial LLC,VA,Mortgage,Conventional fixed mortgage,Loan modificationcollectionforeclosure,,Yes,Web,,,22901,,N/A,2013-08-28,Closed with explanation,No,501406
+2013-08-16,Ocwen,VA,Mortgage,Conventional adjustable mortgage (ARM),Loan servicing payments escrow account,,Yes,Phone,,,22310,Older American,N/A,2013-08-19,Closed with explanation,No,493539
+2013-08-05,Bank of America,VA,Mortgage,Conventional adjustable mortgage (ARM),Loan servicing payments escrow account,,Yes,Web,,,23111,,N/A,2013-08-07,Closed with explanation,No,474710
+2013-08-10,Experian,VA,Credit reporting,,Credit monitoring or identity protection,Account terms and changes,Yes,Web,,,22039,,N/A,2013-08-10,Closed with explanation,No,486472
+2013-08-05,Commercial Recovery Systems,VA,Debt collection,Auto,Improper contact or sharing of info,Contacted employer after asked not to,Yes,Web,,,23801,Servicemember,N/A,2013-08-05,Closed,No,474563
+2013-08-05,Equifax,VA,Credit reporting,,Unable to get credit report/credit score,Problem getting report or credit score,Yes,Web,,,22554,Servicemember,N/A,2013-08-05,Closed with explanation,No,474468
+2013-08-15,JPMorgan Chase & Co,VA,Credit card,,Rewards,,Yes,Web,,,22207,,N/A,2013-08-15,Closed with explanation,No,491115
+2013-08-15,VHDA,VA,Mortgage,FHA mortgage,Loan modificationcollectionforeclosure,,Yes,Web,,,22485,,N/A,2013-08-19,Closed with monetary relief,Yes,490928
+2013-07-29,Navy FCU,VA,Credit card,,APR or interest rate,,Yes,Web,,,22207,,N/A,2013-07-29,Closed with explanation,Yes,480133
+2013-08-22,First Tennessee Bank,VA,Bank account or service,Checking account,Problems caused by my funds being low,,Yes,Referral,,,24201,,N/A,2013-08-26,Closed with monetary relief,No,501091
+2013-07-29,TransUnion Intermediate Holdings Inc,VA,Credit reporting,,Incorrect information on credit report,Information is not mine,Yes,Postal mail,,,22044,,N/A,2013-08-27,Closed with explanation,No,480308
+2013-07-29,SunTrust Banks Inc,VA,Mortgage,Conventional fixed mortgage,Settlement process and costs,,Yes,Web,,,22556,,N/A,2013-07-30,Closed with non-monetary relief,No,468685
+2013-08-23,Navient Solutions Inc,VA,Student loan,Non-federal student loan,Repaying your loan,Repaying your loan,Yes,Web,,,22405,,N/A,2013-08-23,Closed with explanation,No,502329
+2013-08-22,JPMorgan Chase & Co,VA,Mortgage,Conventional adjustable mortgage (ARM),Loan modificationcollectionforeclosure,,Yes,Web,,,22032,,N/A,2013-08-22,Closed with explanation,Yes,500417
+2013-08-23,TD Bank US Holding Company,VA,Bank account or service,Checking account,Using a debit or ATM card,,Yes,Web,,,22302,,N/A,2013-08-23,Closed with explanation,Yes,502178
+2013-08-09,SunTrust Banks Inc,VA,Bank account or service,Checking account,Account opening closing or management,,Yes,Referral,,,23231,,N/A,2013-08-12,Closed with non-monetary relief,No,485707
+2013-08-22,Alorica Inc,VA,Debt collection,I do not know,Cont'd attempts collect debt not owed,Debt is not mine,Yes,Web,,,22193,Servicemember,N/A,2013-08-22,Closed with explanation,No,500411
+2013-08-09,Ocwen,VA,Mortgage,Conventional adjustable mortgage (ARM),Loan servicing payments escrow account,,Yes,Web,,,24019,,N/A,2013-08-12,Closed with explanation,No,485137
+2013-08-08,Navy FCU,VA,Bank account or service,Checking account,Account opening closing or management,,Yes,Phone,,,22044,,N/A,2013-08-12,Closed with explanation,No,484178
+2013-07-26,Equifax,VA,Credit reporting,,Incorrect information on credit report,Information is not mine,Yes,Referral,,,20139,,N/A,2013-08-09,Closed with non-monetary relief,No,468037
+2013-08-22,Wells Fargo & Company,VA,Mortgage,Conventional fixed mortgage,Loan servicing payments escrow account,,Yes,Web,,,22968,,N/A,2013-08-22,Closed with explanation,Yes,499836
+2013-07-26,Synchrony Financial,VA,Debt collection,Other (ie phone health club etc),Cont'd attempts collect debt not owed,Debt was paid,Yes,Web,,,22079,,N/A,2013-07-26,Closed with explanation,Yes,467958
+2013-08-08,Hunter Warfield Inc,VA,Debt collection,Other (ie phone health club etc),False statements or representation,Impersonated an attorney or official,Yes,Web,,,22219,Servicemember,N/A,2013-08-08,Closed with explanation,Yes,483972
+2013-07-26,Bank of America,VA,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Web,,,24128,,N/A,2013-07-29,Closed with explanation,No,467815
+2013-08-14,M&T Bank Corporation,VA,Mortgage,FHA mortgage,Application originator mortgage broker,,Yes,Web,,,20191,,N/A,2013-08-15,Closed with explanation,No,489684
+2013-08-14,PayPal Holdings Inc,VA,Bank account or service,Other bank product/service,Making/receiving payments sending money,,Yes,Web,,,23417,,N/A,2013-08-15,Closed with non-monetary relief,No,489680
+2013-08-01,TransUnion Intermediate Holdings Inc,VA,Credit reporting,,Incorrect information on credit report,Public record,Yes,Web,,,23230,,N/A,2013-08-01,Closed with explanation,Yes,475671
+2013-08-01,SunTrust Banks Inc,VA,Mortgage,Conventional fixed mortgage,Loan servicing payments escrow account,,Yes,Web,,,23116,,N/A,2013-08-06,Closed with explanation,No,472227
+2013-08-14,Citibank,VA,Credit card,,Advertising and marketing,,Yes,Web,,,23221,,N/A,2013-08-14,Closed with non-monetary relief,No,492158
+2013-08-21,Citibank,VA,Credit card,,Billing disputes,,Yes,Web,,,23106,,N/A,2013-09-11,Closed with monetary relief,No,499637
+2013-08-01,SunTrust Banks Inc,VA,Credit card,,Identity theft / Fraud / Embezzlement,,Yes,Referral,,,23320,,N/A,2013-08-05,Closed with explanation,No,473014
+2013-07-26,GC Services Limited Partnership,VA,Debt collection,Federal student loan,Communication tactics,Frequent or repeated calls,Yes,Web,,,22191,,N/A,2013-07-26,Closed with non-monetary relief,No,467187
+2013-07-25,Bank of America,VA,Mortgage,Other mortgage,Loan modificationcollectionforeclosure,,Yes,Referral,,,23116,,N/A,2013-07-26,Closed with non-monetary relief,No,467089
+2013-08-01,Bank of America,VA,Mortgage,Other mortgage,Loan modificationcollectionforeclosure,,Yes,Referral,,,23320,,N/A,2013-08-05,Closed with non-monetary relief,No,471889
+2013-07-25,Wells Fargo & Company,VA,Mortgage,FHA mortgage,Loan modificationcollectionforeclosure,,Yes,Web,,,22901,,N/A,2013-07-26,Closed with explanation,No,466431
+2013-08-13,Bank of America,VA,Mortgage,FHA mortgage,Loan servicing payments escrow account,,Yes,Web,,,23462,,N/A,2013-08-14,Closed with explanation,No,491255
+2013-07-25,BB&T Financial,VA,Bank account or service,Checking account,Problems caused by my funds being low,,Yes,Web,,,22033,,N/A,2013-07-26,Closed with explanation,Yes,466301
+2013-08-01,Wells Fargo & Company,VA,Mortgage,Other mortgage,Loan modificationcollectionforeclosure,,Yes,Postal mail,,,22191,,N/A,2013-08-05,Closed with explanation,Yes,471737
+2013-07-24,Bank of America,VA,Mortgage,Other mortgage,Loan modificationcollectionforeclosure,,Yes,Fax,,,22033,,N/A,2013-07-26,Closed,No,465030
+2013-07-25,Ally Financial Inc,VA,Consumer Loan,Vehicle loan,Managing the loan or lease,,Yes,Referral,,,24402,,N/A,2013-07-26,Closed with explanation,Yes,466910
+2013-07-24,Santander Consumer USA Holdings Inc,VA,Debt collection,Auto,Improper contact or sharing of info,Talked to a third party about my debt,Yes,Web,,,22204,,N/A,2013-07-24,Closed with explanation,Yes,465808
+2013-08-07,Ditech Financial LLC,VA,Mortgage,Conventional fixed mortgage,Loan modificationcollectionforeclosure,,Yes,Web,,,22408,,N/A,2013-08-09,Closed with explanation,No,486603
+2013-08-07,Bank of America,VA,Mortgage,Other mortgage,Loan modificationcollectionforeclosure,,Yes,Phone,,,23236,,N/A,2013-08-09,Closed with explanation,No,484896
+2013-08-12,SunTrust Banks Inc,VA,Mortgage,Other mortgage,Loan modificationcollectionforeclosure,,Yes,Referral,,,23462,,N/A,2013-08-14,Closed with explanation,No,488255
+2013-08-07,Discover,VA,Credit card,,Other,,Yes,Referral,,,23111,,N/A,2013-08-09,Closed with explanation,Yes,482561
+2013-08-07,Amex,VA,Credit card,,Cash advance,,Yes,Web,,,23233,,N/A,2013-08-06,Closed with explanation,No,482835
+2013-08-07,Equifax,VA,Credit reporting,,Incorrect information on credit report,Personal information,Yes,Web,,,23455,,N/A,2013-08-06,Closed with non-monetary relief,No,482494
+2013-08-06,Bank of America,VA,Mortgage,Conventional adjustable mortgage (ARM),Loan modificationcollectionforeclosure,,Yes,Web,,,22182,,N/A,2013-08-07,Closed with non-monetary relief,No,482137
+2013-07-23,Nationstar Mortgage,VA,Mortgage,Conventional fixed mortgage,Loan modificationcollectionforeclosure,,Yes,Web,,,22010,,N/A,2013-07-25,Closed with explanation,No,475789
+2013-07-23,Focused Recovery Solutions Inc,VA,Credit reporting,,Incorrect information on credit report,Account status,Yes,Web,,,23831,,N/A,2013-08-05,Closed with non-monetary relief,No,463818
+2013-07-23,Wells Fargo & Company,VA,Bank account or service,Other bank product/service,Account opening closing or management,,Yes,Postal mail,,,22150,,N/A,2013-08-01,Closed with explanation,No,463723
+2013-08-01,Nationstar Mortgage,VA,Mortgage,Other mortgage,Loan modificationcollectionforeclosure,,Yes,Referral,,,20171,,N/A,2013-08-05,Closed with explanation,No,455881
+2013-07-23,Bank of America,VA,Credit card,,Billing disputes,,Yes,Referral,,,20151,,N/A,2013-07-25,Closed with explanation,Yes,463688
+2013-07-22,Nationstar Mortgage,VA,Mortgage,Conventional adjustable mortgage (ARM),Loan modificationcollectionforeclosure,,Yes,Web,,,20152,,N/A,2013-07-23,Closed with explanation,No,463464
+2013-07-30,JPMorgan Chase & Co,VA,Bank account or service,Checking account,Account opening closing or management,,Yes,Phone,,,23664,Servicemember,N/A,2013-07-31,Closed with explanation,No,480639
+2013-07-31,Ocwen,VA,Mortgage,Conventional adjustable mortgage (ARM),Loan modificationcollectionforeclosure,,Yes,Web,,,22182,,N/A,2013-08-02,Closed with explanation,No,479407
+2013-07-30,Bank of America,VA,Debt collection,Other (ie phone health club etc),Communication tactics,Frequent or repeated calls,Yes,Web,,,23703,,N/A,2013-08-02,Closed with explanation,No,470645
+2013-07-30,JPMorgan Chase & Co,VA,Mortgage,Other mortgage,Loan modificationcollectionforeclosure,,Yes,Postal mail,,,22306,,N/A,2013-07-31,Closed with explanation,No,474937
+2013-07-31,Ditech Financial LLC,VA,Mortgage,Conventional adjustable mortgage (ARM),Loan servicing payments escrow account,,Yes,Fax,,,22203,Older American,N/A,2013-08-02,Closed with explanation,No,471270
+2013-07-30,Ocwen,VA,Mortgage,Conventional adjustable mortgage (ARM),Loan servicing payments escrow account,,Yes,Web,,,20878,,N/A,2013-07-31,Closed with explanation,No,474284
+2013-07-29,Ocwen,VA,Mortgage,Conventional fixed mortgage,Loan servicing payments escrow account,,Yes,Web,,,24112,Older American,N/A,2013-07-30,Closed with explanation,No,469525
+2013-07-29,NRA Group LLC,VA,Debt collection,Other ( phone health club ),Cont'd attempts collect debt not owed,Debt is not mine,Yes,Web,NA,NA,20147,,N/A,2013-08-07,Closed with non-monetary relief,No,467801

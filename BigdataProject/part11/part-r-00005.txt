@@ -1,0 +1,97 @@
+ACE Cash Express Inc	7	7
+ACS Education Services	7	7
+AES/PHEAA	23	23
+AMCOL Systems Inc	1	1
+APEX Asset Management LLC	1	0
+ARM Solutions Inc	1	1
+ARS National Services Inc	4	4
+ATG Credit LLC	4	2
+Aargon Agency Inc	1	1
+Ability Recovery Services LLC	1	1
+Absolute Collections Corp	2	2
+Accelerated Financial Solutions LLC	1	1
+Access Group	1	1
+Accord Creditor Services LLC	1	1
+Account Control Technology Inc	3	3
+Account Discovery Systems LLC	3	3
+Account Resolution Corporation	1	1
+Accounts Management Inc	1	1
+Accurate Financial Partners	1	1
+Action Collection Service	1	1
+Action Professionals Inc	1	0
+Action Revenue Recovery LLC	1	1
+Ad Astra Recovery Services Inc	5	5
+Adler Wallach & Associates Inc	1	1
+Admin Recovery LLC	2	1
+Advance America Cash Advance Centers Inc	4	4
+Advance Bureau of Collections	1	1
+Afni Inc	23	23
+Alco Collections Inc	1	1
+Aldous & Associates PLLC	1	1
+All American Check Cashing Inc	1	1
+Allgate Financial LLC	1	1
+Alliance Collection Agencies Inc	1	1
+AllianceOne Recievables Management	7	7
+Allied Account Services Inc	1	1
+Allied Collection Service Inc (Indiana)	1	1
+Allied Collection Services Inc (Nevada)	2	2
+Allied Fidelity Services LLC	1	1
+Allied International Credit Corporation	3	3
+Allied Interstate LLC	41	41
+Ally Financial Inc	35	35
+Alorica Inc	17	17
+Alpha Recovery Corp	2	2
+Alpine Financial Solutions Inc	1	1
+Alternative Collections LLC	2	1
+American Advisors Group	3	1
+American Coradius International LLC	1	1
+American Credit Acceptance LLC	2	2
+American Equity Mortgage Inc	2	2
+American Financial Resources Inc	1	1
+American Honda Finance Corporation	5	5
+American Internet Mortgage Inc	3	3
+American Southwest Mortgage Corporation	1	1
+Americas Mortgage Professionals LLC	1	1
+Amerisave	2	2
+Amex	106	106
+Amsher Collection Services Inc	1	1
+Anselmo Lindberg Oliver LLC	1	1
+Arbor Residential Mortgage LLC	3	3
+Army and Air Force Exchange Service	2	2
+Arnold Scott Harris PC	1	1
+Arvest Bank	4	3
+Aspire Financial Inc	1	1
+Asset Management Outsourcing Inc	1	1
+Asset Management Professionals LLC	3	2
+Asset Recovery Group Inc	1	1
+Asset Recovery Solutions LLC	4	2
+Associated Bank	4	4
+Associated Credit Services Inc	1	1
+Associated Mortgage Corporation	1	1
+Asta Funding Inc	1	1
+Astoria Bank	8	8
+K Hovnanian American Mortgage LLC	1	1
+Kansas Counselors of Kansas City Inc	2	2
+KelKris Associates Inc	2	2
+Kimball Tirey & St John LLP	1	1
+Kings Credit Services	1	1
+Knight Adjustment Bureau	1	1
+Kondaur Capital Corporation	1	1
+Kramer & Frank PC	1	1
+UBS Bank	2	2
+UMB Bank	3	3
+URS Holding LLC	3	3
+US Bancorp	153	153
+US Collections West Inc	1	1
+USAA Savings	32	32
+USCB INC	1	1
+Union Bank	11	11
+Unique Management Services Inc	2	2
+United Check Recovery LLC	2	1
+United Collection Bureau Inc	6	6
+United Guaranty	1	1
+United PanAm Financial Corp	1	1
+United Portfolio Corp	1	1
+United Shore Financial Services LLC	2	2
+United Student Aid (USA) Funds	1	1
+Universal Fidelity LP	2	2

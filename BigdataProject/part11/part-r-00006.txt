@@ -1,0 +1,59 @@
+BB&T Financial	57	56
+BBVA Compass	20	20
+BC Services Inc	1	1
+BCA Financial Services Inc	1	1
+BMO Harris	19	19
+BMW Financial Services	2	2
+BNY Mellon	5	5
+BOK Financial Corp	1	1
+BYL Collection Services	2	2
+Banco Popular North America	2	2
+Banco Popular de Puerto Rico	6	6
+BancorpSouth Bank	2	2
+Bank of America	1065	1064
+Bank of Hawaii	2	2
+Bank of the West	10	10
+BankUnited	6	6
+Barclays PLC	44	44
+Bayview Loan Servicing LLC	22	20
+Blatt Hasenmiller Leibsker & Moore LLC	1	1
+Bonded Adjustment Company	1	0
+Borenstein & Associates LLC	1	1
+Brazos Higher Education Servicing	1	1
+Brightwater Capital LLC	1	1
+Brown and Joseph Ltd	2	2
+Budget Mortgage Corp	1	1
+Bull City Financial Solutions Inc	1	1
+Business & Professional Collection Service Inc	1	1
+Byrider Franchising LLC	2	2
+LCS Financial Corporation	4	4
+LHR Inc	1	1
+LTD Financial Services LP	3	3
+Land/Home Financial Services	2	1
+Law Office of Joe Pezzuto LLC	1	1
+Law Office of Regent and Associates	2	1
+Law Offices of Ed Overcash LLC	1	1
+Leading Edge Recovery Solutions LLC	2	2
+Legal Recovery Law Offices Inc	3	3
+Lending Solutions Mortgage/ LSI Mortgage	1	1
+LexisNexis	5	5
+Liberty Holdings LLC	5	5
+Liberty Home Equity Solutions Inc	1	1
+Linebarger Goggan Blair & Sampson LLP	5	5
+Loan Care	6	5
+Loan To Learn	1	1
+LoanDepot	6	6
+Lustig Glaser & Wilson PC	1	1
+Lynx Asset Services LLC	1	0
+VHDA	1	1
+VW Credit Inc	2	2
+Valarity LLC	4	1
+Valley National Bank	5	5
+Van Dyk Mortgage Corporation	1	1
+Van Ru Credit Corporation	7	7
+Velocity Portfolio Group	1	1
+Vengroff Williams Inc	1	1
+Viking Client Services Inc	1	1
+Virtuoso Sourcing Group LLC	1	1
+Vision Financial Corp	3	3
+Vital Solutions Inc	3	3

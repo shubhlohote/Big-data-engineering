@@ -1,0 +1,65 @@
+IBERIABANK	1	1
+IC System Inc	17	17
+IQ Data International Inc	6	6
+Illinois Collection Service Inc	1	1
+Immediate Credit Recovery	1	1
+Innovis	2	2
+Integrity Solution Services Inc	7	7
+InterFirst Mortgage Company	3	3
+International City Mortgage Inc	1	1
+International Computer Systems Inc	1	1
+Iowa Student Loan	1	1
+SIMM Associates Inc	4	3
+SKO Brenner American Inc	1	1
+SRA Associates Inc	2	2
+Sallie Mae	14	14
+Santander Bank US	56	56
+Santander Consumer USA Holdings Inc	34	34
+Scherr & McClure	1	1
+Scott Lowery Law Office PC	1	1
+Security Credit Services LLC	2	2
+Security Finance	8	8
+Select Portfolio Servicing Inc	92	89
+Selene Finance	12	12
+Selip & Stylianou LLP	1	1
+Senex Services Corp	2	2
+Sentry Credit Inc	1	1
+Sentry Recovery and Collections Inc	2	2
+Servis One Inc	3	3
+Seterus Inc	28	28
+Sharinn & Lipshie PC	1	1
+Sherloq Group Inc	1	1
+Smith Law Firm PC	1	1
+Source Receivables Management LLC	1	1
+Southern Management Corp	3	3
+Southern Management Systems Inc	1	1
+Southwest Credit Systems LP	8	8
+Southwest Recovery Services Inc	3	2
+Southwest Stage Funding LLC	1	1
+Specialized Loan Servicing LLC	37	37
+Speedy Cash Holdings	2	2
+SquareTwo Financial Corporation	6	6
+Standard Mortgage Corporation	1	1
+State Collection Service Inc	2	2
+State Farm Bank	4	4
+Statebridge Company	2	1
+Stearns Ventures LLC	2	2
+Stellar Recovery Inc	19	19
+Stephens and Michaels Associates Inc	2	2
+Sterling Infosystems Inc	2	2
+Sterling Jewelers Inc	4	4
+Stevens Business Service Inc	1	1
+Stillman Law Office	1	1
+Stonegate Mortgage Corporation	1	1
+Stoneleigh Recovery Associates LLC	2	1
+Student Loan Finance Corporation	1	1
+Suburban Credit Corporation	1	1
+Summit Mortgage Corporation (Minnesota)	1	1
+Sun West Mortgage Company Inc	1	0
+SunTrust Banks Inc	96	96
+SunTrust Banks Inc.	1	1
+Sunrise Credit Services Inc	4	4
+Supreme Lending	1	1
+Suttell Hammer & White PS	1	1
+Synchrony Financial	164	164
+Synovus Bank	7	7

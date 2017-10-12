@@ -1,0 +1,113 @@
+2013-08-29,Experian,CT,Credit reporting,,Incorrect information on credit report,Account terms,Yes,Web,,,6416,,N/A,2013-08-29,Closed with non-monetary relief,No,509551
+2013-08-26,Wells Fargo & Company,CT,Mortgage,Other mortgage,Loan modificationcollectionforeclosure,,Yes,Referral,,,6082,,N/A,2013-08-27,Closed with explanation,No,504261
+2013-10-02,Innovis,CT,Credit reporting,,Improper use of my credit report,Report improperly shared by CRC,Yes,Web,,,6109,,N/A,2013-11-04,Closed with explanation,No,550939
+2013-08-28,Discover,CT,Credit card,,Billing disputes,,Yes,Referral,,,6415,,N/A,2013-08-29,Closed with explanation,No,506820
+2013-11-07,The CBE Group Inc,CT,Debt collection,I do not know,Cont'd attempts collect debt not owed,Debt is not mine,Yes,Web,,,6010,Older American,N/A,2013-11-07,Closed with explanation,No,589659
+2013-10-01,Wells Fargo & Company,CT,Mortgage,Conventional fixed mortgage,Credit decision / Underwriting,,Yes,Web,,,6905,Older American Servicemember,N/A,2013-10-02,Closed with explanation,No,549268
+2013-08-14,People's United Bank,CT,Bank account or service,Checking account,Account opening closing or management,,Yes,Referral,,,6608,,N/A,2013-08-30,Closed with explanation,No,489807
+2013-08-23,Citibank,CT,Mortgage,Conventional fixed mortgage,Application originator mortgage broker,,Yes,Web,,,6820,,N/A,2013-08-26,Closed with explanation,No,503219
+2013-09-18,PNC Bank NA,CT,Mortgage,Other mortgage,Loan modificationcollectionforeclosure,,Yes,Referral,,,6387,,N/A,2013-09-19,Closed with explanation,No,532637
+2013-10-28,Velocity Portfolio Group,CT,Debt collection,Credit card,Cont'd attempts collect debt not owed,Debt is not mine,Yes,Referral,,,6830,,N/A,2013-10-29,Closed with non-monetary relief,No,574513
+2013-08-05,Pleasant Valley Home Mortgage Corporation,CT,Mortgage,Conventional fixed mortgage,Application originator mortgage broker,,No,Web,,,6089,,N/A,2013-08-08,Closed with explanation,,473992
+2013-12-03,Navient Solutions Inc,CT,Student loan,Non-federal student loan,Problems when you are unable to pay,Problems when you are unable to pay,Yes,Web,,,6514,,N/A,2013-12-03,Closed with explanation,No,619405
+2013-11-06,Bank of America,CT,Mortgage,Other mortgage,Settlement process and costs,,Yes,Web,,,6851,,N/A,2013-11-06,Closed with explanation,No,588369
+2013-09-19,Amex,CT,Credit card,,Identity theft / Fraud / Embezzlement,,Yes,Referral,,,6371,,N/A,2013-09-20,Closed with explanation,No,534724
+2013-07-25,Select Portfolio Servicing Inc,CT,Mortgage,Other mortgage,Application originator mortgage broker,,Yes,Referral,,,6903,,N/A,2013-07-29,Closed with explanation,No,466395
+2013-10-21,Equifax,CT,Credit reporting,,Incorrect information on credit report,Public record,Yes,Web,,,6511,,N/A,2013-10-20,Closed with explanation,No,564570
+2013-08-28,Capital One,CT,Credit card,,Other fee,,Yes,Referral,,,6415,,N/A,2013-08-30,Closed with explanation,No,506821
+2013-10-21,Sallie Mae,CT,Student loan,Non-federal student loan,Getting a loan,Getting a loan,Yes,Web,,,6010,,N/A,2013-10-21,Closed with explanation,No,564699
+2013-11-12,NRA Group LLC,CT,Debt collection,Medical,False statements or representation,Attempted to collect wrong amount,Yes,Phone,,,6112,,N/A,2013-11-13,Closed with explanation,No,594547
+2013-10-16,People's United Bank,CT,Mortgage,Other mortgage,Application originator mortgage broker,,Yes,Phone,,,6001,,N/A,2013-10-17,Closed with explanation,No,560479
+2013-10-03,Bank of America,CT,Credit card,,Other fee,,Yes,Web,,,6902,Older American,N/A,2013-10-03,Closed with non-monetary relief,No,552004
+2013-09-17,Santander Bank US,CT,Credit card,,Billing disputes,,Yes,Phone,,,6042,Older American,N/A,2013-09-18,Closed,No,530453
+2013-09-05,Client Services Inc,CT,Debt collection,I do not know,Improper contact or sharing of info,Talked to a third party about my debt,Yes,Web,,,6023,,N/A,2013-09-05,Closed with non-monetary relief,No,516635
+2013-10-21,Afni Inc,CT,Debt collection,Other (ie phone health club etc),Cont'd attempts collect debt not owed,Debt is not mine,Yes,Web,,,6511,Servicemember,N/A,2013-10-20,Closed with explanation,No,564553
+2013-09-04,Experian,CT,Credit reporting,,Improper use of my credit report,Report improperly shared by CRC,Yes,Web,,,6119,,N/A,2013-09-03,Closed with explanation,No,513717
+2013-10-06,American Honda Finance Corporation,CT,Consumer Loan,Vehicle lease,Managing the loan or lease,,Yes,Web,,,6706,,N/A,2013-10-07,Closed with explanation,No,553184
+2013-11-06,People's United Bank,CT,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Phone,,,6605,,N/A,2013-11-07,Closed with explanation,No,587756
+2013-08-02,Citibank,CT,Credit card,,Rewards,,Yes,Web,,,6067,,N/A,2013-08-02,Closed with monetary relief,Yes,472776
+2013-11-19,American Advisors Group,CT,Mortgage,Reverse mortgage,Application originator mortgage broker,,Yes,Referral,,,6759,,N/A,2013-11-20,Closed with explanation,No,604315
+2013-09-25,Ocwen,CT,Mortgage,Conventional fixed mortgage,Loan servicing payments escrow account,,Yes,Web,,,6042,,N/A,2013-09-25,Closed with explanation,No,541466
+2013-11-19,TransUnion Intermediate Holdings Inc,CT,Credit reporting,,Incorrect information on credit report,Information is not mine,Yes,Web,,,6095,,N/A,2013-11-19,Closed with explanation,No,602897
+2013-11-18,Wells Fargo & Company,CT,Mortgage,Conventional fixed mortgage,Loan modificationcollectionforeclosure,,Yes,Web,,,6095,,N/A,2013-11-18,Closed with explanation,No,600751
+2013-10-18,Citibank,CT,Mortgage,Other mortgage,Loan servicing payments escrow account,,Yes,Postal mail,,,6095,,N/A,2013-10-21,Closed with explanation,No,563500
+2013-11-01,Diversified Consultants Inc,CT,Debt collection,I do not know,Cont'd attempts collect debt not owed,Debt is not mine,Yes,Web,,,6840,,N/A,2013-11-26,Closed with explanation,Yes,581613
+2013-11-05,Emory Enterprises LLC,CT,Debt collection,I do not know,Disclosure verification of debt,Not given enough info to verify debt,No,Referral,,,6902,,N/A,2013-11-06,Closed with explanation,No,586705
+2013-09-12,Wells Fargo & Company,CT,Bank account or service,Checking account,Account opening closing or management,,Yes,Fax,,,6119,,N/A,2013-09-12,Closed with explanation,Yes,524913
+2013-10-22,Bank of America,CT,Mortgage,Conventional fixed mortgage,Loan modificationcollectionforeclosure,,Yes,Web,,,6405,,N/A,2013-10-22,Closed with explanation,No,565862
+2013-10-16,Bank of America,CT,Credit card,,Billing disputes,,Yes,Web,,,6897,,N/A,2013-10-16,Closed with explanation,No,560132
+2013-07-31,Experian,CT,Credit reporting,,Incorrect information on credit report,Account status,Yes,Postal mail,,,6016,,N/A,2013-08-12,Closed with non-monetary relief,No,471082
+2013-09-23,Wells Fargo & Company,CT,Bank account or service,Savings account,Account opening closing or management,,Yes,Phone,,,6513,,N/A,2013-09-24,Closed with monetary relief,No,538346
+2013-08-20,Santander Bank US,CT,Bank account or service,Checking account,Making/receiving payments sending money,,Yes,Web,,,6111,,N/A,2013-08-20,Closed with explanation,No,496745
+2013-10-23,Capital One,CT,Credit card,,APR or interest rate,,Yes,Phone,,,6880,,N/A,2013-10-24,Closed with monetary relief,No,568417
+2013-11-07,Ocwen,CT,Mortgage,Conventional fixed mortgage,Loan servicing payments escrow account,,Yes,Phone,,,6739,Older American,N/A,2013-11-08,Closed with explanation,No,588987
+2013-10-04,Equifax,CT,Credit reporting,,Credit reporting company's investigation,No notice of investigation status/result,Yes,Postal mail,,,6082,,N/A,2013-10-17,Closed with non-monetary relief,Yes,553482
+2013-09-13,Wells Fargo & Company,CT,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Phone,,,6906,Older American,N/A,2013-09-18,Closed with non-monetary relief,Yes,527982
+2013-09-22,Bank of America,CT,Bank account or service,Cashing a check without an account,Account opening closing or management,,Yes,Web,,,6610,,N/A,2013-09-23,Closed with explanation,No,537219
+2013-08-19,Synchrony Financial,CT,Credit card,,Billing disputes,,Yes,Web,,,6710,,N/A,2013-08-20,Closed with explanation,Yes,495003
+2013-08-28,JPMorgan Chase & Co,CT,Credit card,,Billing disputes,,Yes,Referral,,,6002,,N/A,2013-08-29,Closed with explanation,No,506114
+2013-08-21,Bank of America,CT,Bank account or service,Savings account,Deposits and withdrawals,,Yes,Referral,,,6027,,N/A,2013-08-22,Closed with explanation,No,499554
+2013-10-08,US Bancorp,CT,Mortgage,Other mortgage,Loan servicing payments escrow account,,Yes,Postal mail,,,6103,,N/A,2013-10-09,Closed with explanation,Yes,555351
+2013-09-01,Bank of America,CT,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Web,,,6357,,N/A,2013-09-03,Closed with non-monetary relief,No,511531
+2013-11-18,M&T Bank Corporation,CT,Mortgage,Conventional fixed mortgage,Loan modificationcollectionforeclosure,,Yes,Web,,,6812,,N/A,2013-11-22,Closed with explanation,No,602735
+2013-11-25,Williams Rush & Associates LLC,CT,Debt collection,Other (ie phone health club etc),False statements or representation,Impersonated an attorney or official,No,Web,,,6605,,N/A,2013-11-26,Closed with explanation,,611778
+2013-11-25,Citibank,CT,Debt collection,Other (ie phone health club etc),False statements or representation,Impersonated an attorney or official,Yes,Web,,,6605,,N/A,2013-11-25,Closed with explanation,Yes,611779
+2013-09-19,Experian,CT,Credit reporting,,Incorrect information on credit report,Information is not mine,Yes,Postal mail,,,6112,,N/A,2013-09-23,Closed with non-monetary relief,No,535145
+2013-08-07,Bank of America,CT,Mortgage,Conventional fixed mortgage,Loan servicing payments escrow account,,Yes,Web,,,6108,,N/A,2013-08-09,Closed with non-monetary relief,No,484907
+2013-09-23,Bayview Loan Servicing LLC,CT,Mortgage,Conventional fixed mortgage,Loan servicing payments escrow account,,Yes,Phone,,,6374,,N/A,2013-09-24,Closed with explanation,No,538583
+2013-10-10,Bank of America,CT,Mortgage,Other mortgage,Loan servicing payments escrow account,,Yes,Referral,,,6811,,N/A,2013-10-15,Closed with explanation,No,557110
+2013-11-07,US Bancorp,CT,Mortgage,FHA mortgage,Loan modificationcollectionforeclosure,,Yes,Web,,,6604,,N/A,2013-11-07,Closed with explanation,Yes,590644
+2013-09-19,Equifax,CT,Credit reporting,,Credit reporting company's investigation,No notice of investigation status/result,Yes,Web,,,6902,,N/A,2013-09-19,Closed with explanation,No,533807
+2013-09-06,Equifax,CT,Credit reporting,,Credit reporting company's investigation,Problem with statement of dispute,Yes,Web,,,6340,,N/A,2013-09-06,Closed with explanation,Yes,517444
+2013-09-30,IC System Inc,CT,Debt collection,Other (ie phone health club etc),Improper contact or sharing of info,Contacted me after I asked not to,Yes,Web,,,6614,,N/A,2013-09-30,Closed with explanation,No,547420
+2013-08-19,Citizens Financial Group Inc,CT,Bank account or service,Checking account,Problems caused by my funds being low,,Yes,Referral,,,6443,,N/A,2013-08-20,Closed with monetary relief,No,496499
+2013-07-23,Discover,CT,Credit card,,Other,,Yes,Web,,,6002,,N/A,2013-07-23,Closed with explanation,No,462132
+2013-11-12,Ocwen,CT,Mortgage,Other mortgage,Loan servicing payments escrow account,,Yes,Web,,,6417,,N/A,2013-11-12,Closed with explanation,No,594327
+2013-09-26,Synchrony Financial,CT,Credit card,,Customer service / Customer relations,,Yes,Web,,,6710,,N/A,2013-09-27,Closed with monetary relief,Yes,543121
+2013-09-05,Statebridge Company,CT,Mortgage,FHA mortgage,Loan modificationcollectionforeclosure,,Yes,Web,,,6106,,N/A,2013-09-06,Closed with explanation,Yes,515095
+2013-07-29,Fidelity National Information Services Inc (FNIS),CT,Credit reporting,,Incorrect information on credit report,Information is not mine,Yes,Referral,,,6514,,N/A,2013-08-21,Closed with explanation,No,469507
+2013-10-22,Bank of America,CT,Bank account or service,Checking account,Account opening closing or management,,Yes,Referral,,,6840,Older American,N/A,2013-10-22,Closed with monetary relief,No,566428
+2013-08-27,Specialized Loan Servicing LLC,CT,Mortgage,Conventional adjustable mortgage (ARM),Loan servicing payments escrow account,,Yes,Web,,,6896,,N/A,2013-08-28,Closed,No,505402
+2013-10-02,Synchrony Financial,CT,Credit card,,Other,,Yes,Web,,,6514,Older American Servicemember,N/A,2013-10-01,Closed with explanation,Yes,550401
+2013-10-09,EverBank,CT,Mortgage,Other mortgage,Loan modificationcollectionforeclosure,,Yes,Referral,,,6415,,N/A,2013-10-10,Closed with explanation,No,556075
+2013-10-17,JPMorgan Chase & Co,CT,Mortgage,Other mortgage,Loan modificationcollectionforeclosure,,Yes,Referral,,,6820,,N/A,2013-10-18,Closed with explanation,No,561484
+2013-08-14,JPMorgan Chase & Co,CT,Mortgage,Other mortgage,Loan modificationcollectionforeclosure,,Yes,Web,,,6903,,N/A,2013-08-15,Closed with explanation,No,489435
+2013-11-15,Ocwen,CT,Mortgage,Conventional adjustable mortgage (ARM),Loan modificationcollectionforeclosure,,Yes,Web,,,6483,,N/A,2013-11-15,Closed with explanation,Yes,601240
+2013-11-04,Webster Bank,CT,Mortgage,Conventional fixed mortgage,Loan servicing payments escrow account,,Yes,Web,,,6492,,N/A,2013-11-04,Closed with explanation,No,583848
+2013-08-09,Carrington Mortgage Holdings LLC,CT,Mortgage,Other mortgage,Loan modificationcollectionforeclosure,,Yes,Referral,,,6606,,N/A,2013-08-12,Closed with explanation,No,484704
+2013-10-15,Ocwen,CT,Mortgage,Other mortgage,Settlement process and costs,,Yes,Referral,,,6812,,N/A,2013-10-16,Closed with explanation,Yes,559454
+2013-09-30,Encore Capital Group,CT,Debt collection,Credit card,Cont'd attempts collect debt not owed,Debt resulted from identity theft,Yes,Web,,,7470,,N/A,2013-10-01,Closed with explanation,No,547221
+2013-07-24,TD Bank US Holding Company,CT,Bank account or service,Checking account,Problems caused by my funds being low,,Yes,Referral,,,6001,,N/A,2013-07-26,Closed with monetary relief,No,465980
+2013-08-19,Synchrony Financial,CT,Credit card,,Billing statement,,Yes,Web,,,6710,,N/A,2013-08-19,Closed with explanation,Yes,495005
+2013-10-11,Bank of America,CT,Bank account or service,Checking account,Using a debit or ATM card,,Yes,Web,,,6010,,N/A,2013-10-11,Closed with explanation,No,557764
+2013-11-12,Equifax,CT,Credit reporting,,Credit monitoring or identity protection,Account terms and changes,Yes,Web,,,6066,Servicemember,N/A,2013-11-12,Closed with explanation,Yes,593832
+2013-08-28,Citibank,CT,Credit card,,Billing disputes,,Yes,Referral,,,6415,,N/A,2013-08-29,Closed with non-monetary relief,No,506822
+2013-10-15,Bank of America,CT,Mortgage,Conventional fixed mortgage,Settlement process and costs,,Yes,Phone,,,6033,,N/A,2013-10-16,Closed with non-monetary relief,No,559492
+2013-08-21,Navient Solutions Inc,CT,Debt collection,Non-federal student loan,Communication tactics,Frequent or repeated calls,Yes,Web,,,6611,,N/A,2013-08-21,Closed with explanation,No,499774
+2013-07-31,Provident Funding,CT,Mortgage,Conventional fixed mortgage,Loan modificationcollectionforeclosure,,Yes,Web,,,6106,,N/A,2013-08-05,Closed with explanation,No,474893
+2013-10-24,Wells Fargo & Company,CT,Bank account or service,Checking account,Problems caused by my funds being low,,Yes,Referral,,,6320,,N/A,2013-10-24,Closed with monetary relief,No,569498
+2013-10-21,Synchrony Financial,CT,Debt collection,Other (ie phone health club etc),Disclosure verification of debt,Right to dispute notice not received,Yes,Web,,,6614,,N/A,2013-10-21,Closed with monetary relief,No,565248
+2013-10-18,Ocwen,CT,Mortgage,Conventional fixed mortgage,Credit decision / Underwriting,,Yes,Phone,,,6512,,N/A,2013-10-18,Closed,Yes,563012
+2013-07-29,People's United Bank,CT,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Referral,,,6514,,N/A,2013-07-31,Closed with explanation,No,469508
+2013-09-16,Bank of America,CT,Mortgage,Other mortgage,Loan modificationcollectionforeclosure,,Yes,Referral,,,6492,,N/A,2013-09-18,Closed with explanation,No,529527
+2013-08-05,Citibank,CT,Student loan,Non-federal student loan,Repaying your loan,Repaying your loan,Yes,Referral,,,6606,,N/A,2013-08-08,Closed with explanation,No,470100
+2013-08-27,Seterus Inc,CT,Mortgage,Other mortgage,Loan modificationcollectionforeclosure,,Yes,Referral,,,6460,,N/A,2013-08-28,Closed with explanation,No,505726
+2013-07-25,Bank of America,CT,Mortgage,Other mortgage,Loan modificationcollectionforeclosure,,Yes,Referral,,,6615,,N/A,2013-07-29,Closed with explanation,No,466414
+2013-10-26,Experian,CT,Credit reporting,,Unable to get credit report/credit score,Problem getting report or credit score,Yes,Web,,,6096,,N/A,2013-10-26,Closed with non-monetary relief,No,572516
+2013-09-18,Navient Solutions Inc,CT,Student loan,Non-federal student loan,Repaying your loan,Repaying your loan,Yes,Web,,,6514,,N/A,2013-09-19,Closed with non-monetary relief,No,533315
+2013-10-09,Wells Fargo & Company,CT,Mortgage,Conventional adjustable mortgage (ARM),Loan modificationcollectionforeclosure,,Yes,Web,,,6770,,N/A,2013-10-09,Closed with non-monetary relief,Yes,555893
+2013-10-24,TD Bank US Holding Company,CT,Consumer Loan,Vehicle loan,Managing the loan or lease,,Yes,Referral,,,6611,,N/A,2013-10-24,Closed with explanation,Yes,569648
+2013-08-09,JPMorgan Chase & Co,CT,Mortgage,Conventional fixed mortgage,Loan modificationcollectionforeclosure,,Yes,Web,,,6783,,N/A,2013-08-13,Closed with explanation,Yes,485929
+2013-11-11,Ditech Financial LLC,CT,Mortgage,FHA mortgage,Credit decision / Underwriting,,Yes,Web,,,6371,,N/A,2013-11-11,Closed with explanation,No,592918
+2013-09-18,TD Bank US Holding Company,CT,Mortgage,Other mortgage,Loan servicing payments escrow account,,Yes,Referral,,,6415,,N/A,2013-09-19,Closed with monetary relief,No,533129
+2013-09-27,Equifax,CT,Credit reporting,,Credit reporting company's investigation,No notice of investigation status/result,Yes,Web,,,6811,,N/A,2013-09-27,Closed with explanation,No,546191
+2013-08-05,Capital One,CT,Credit card,,Other,,Yes,Referral,,,6519,,N/A,2013-09-03,Closed with monetary relief,No,474147
+2013-11-13,Capital One,CT,Credit reporting,,Incorrect information on credit report,Reinserted previously deleted info,Yes,Web,,,6519,,N/A,2013-11-14,Closed with explanation,No,596428
+2014-08-02,Franklin Credit Management,CT,Mortgage,Conventional fixed mortgage,Loan servicing payments escrow account,NA,No,Web,NA,NA,6106,,N/A,2013-07-30,Closed with explanation,No,475823
+2013-11-18,M&T Bank Corporation,CT,Mortgage,Other mortgage,Loan modificationcollectionforeclosure,,Yes,Referral,,,6516,,N/A,2013-11-20,Closed with explanation,No,602690
+2013-10-09,Wells Fargo & Company,CT,Consumer Loan,Vehicle loan,Managing the loan or lease,,Yes,Referral,,,6770,,N/A,2013-10-11,Closed with non-monetary relief,No,556320
+2013-08-15,Bank of America,CT,Mortgage,Conventional adjustable mortgage (ARM),Loan modificationcollectionforeclosure,,Yes,Referral,,,6890,,N/A,2013-08-21,Closed with explanation,No,490270
+2013-08-30,Navient Solutions Inc,CT,Student loan,Non-federal student loan,Repaying your loan,Repaying your loan,Yes,Web,,,6516,,N/A,2013-08-30,Closed with explanation,No,510361
+2013-09-27,JPMorgan Chase & Co,CT,Consumer Loan,Vehicle loan,Problems when you are unable to pay,,Yes,Referral,,,6811,,N/A,2013-10-01,Closed with explanation,Yes,544992
+2013-10-11,Bank of America,CT,Credit card,,Identity theft / Fraud / Embezzlement,,Yes,Referral,,,6461,,N/A,2013-10-11,Closed with explanation,Yes,557814
+2013-08-08,Residential Credit Solutions,CT,Mortgage,Conventional adjustable mortgage (ARM),Loan modificationcollectionforeclosure,,Yes,Phone,,,6905,Older American,N/A,2013-08-13,Closed with explanation,No,482673

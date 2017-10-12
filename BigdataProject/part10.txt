@@ -1,0 +1,662 @@
+"Neighborhood Assistance Corporation of America (""NACA"")"	1	1	1	1	0
+1st Fidelity Loan Servicing	1	1	1	1	0
+21st Mortgage Corporation	4	4	4	4	0
+ACE Cash Express Inc	7	7	7	7	0
+ACS Education Services	7	7	7	7	0
+AES/PHEAA	23	23	23	23	0
+AMCOL Systems Inc	1	1	1	1	0
+APEX Asset Management LLC	1	1	1	1	0
+ARM Solutions Inc	1	1	1	1	0
+ARS National Services Inc	4	4	4	4	0
+ATG Credit LLC	4	4	4	4	0
+Aargon Agency Inc	1	1	1	1	0
+Ability Recovery Services LLC	1	1	1	1	0
+Absolute Collections Corp	2	2	2	2	0
+Accelerated Financial Solutions LLC	1	1	1	1	0
+Access Group	1	1	1	1	0
+Accord Creditor Services LLC	1	1	1	1	0
+Account Control Technology Inc	3	3	3	3	0
+Account Discovery Systems LLC	3	3	3	3	0
+Account Resolution Corporation	1	1	1	1	0
+Accounts Management Inc	1	1	1	1	0
+Accurate Financial Partners	1	1	1	1	0
+Action Collection Service	1	1	1	1	0
+Action Professionals Inc	1	1	1	1	0
+Action Revenue Recovery LLC	1	1	1	1	0
+Ad Astra Recovery Services Inc	5	5	5	5	0
+Adler Wallach & Associates Inc	1	1	1	1	0
+Admin Recovery LLC	2	2	2	2	0
+Advance America Cash Advance Centers Inc	4	4	4	4	0
+Advance Bureau of Collections	1	1	1	1	0
+Afni Inc	23	23	23	23	0
+Alco Collections Inc	1	1	1	1	0
+Aldous & Associates PLLC	1	1	1	1	0
+All American Check Cashing Inc	1	1	1	1	0
+Allgate Financial LLC	1	1	1	1	0
+Alliance Collection Agencies Inc	1	1	1	1	0
+AllianceOne Recievables Management	7	7	7	7	0
+Allied Account Services Inc	1	1	1	1	0
+Allied Collection Service Inc (Indiana)	1	1	1	1	0
+Allied Collection Services Inc (Nevada)	2	2	2	2	0
+Allied Fidelity Services LLC	1	1	1	1	0
+Allied International Credit Corporation	3	3	3	3	0
+Allied Interstate LLC	41	41	41	41	0
+Ally Financial Inc	35	35	35	35	0
+Alorica Inc	17	17	17	17	0
+Alpha Recovery Corp	2	2	2	2	0
+Alpine Financial Solutions Inc	1	1	1	1	0
+Alternative Collections LLC	2	2	2	2	0
+American Advisors Group	3	3	3	3	0
+American Coradius International LLC	1	1	1	1	0
+American Credit Acceptance LLC	2	2	2	2	0
+American Equity Mortgage Inc	2	2	2	2	0
+American Financial Resources Inc	1	1	1	1	0
+American Honda Finance Corporation	5	5	5	5	0
+American Internet Mortgage Inc	3	3	3	3	0
+American Southwest Mortgage Corporation	1	1	1	1	0
+Americas Mortgage Professionals LLC	1	1	1	1	0
+Amerisave	2	2	2	2	0
+Amex	106	106	106	106	0
+Amsher Collection Services Inc	1	1	1	1	0
+Anselmo Lindberg Oliver LLC	1	1	1	1	0
+Arbor Residential Mortgage LLC	3	3	3	3	0
+Army and Air Force Exchange Service	2	2	2	2	0
+Arnold Scott Harris PC	1	1	1	1	0
+Arvest Bank	4	4	4	4	0
+Aspire Financial Inc	1	1	1	1	0
+Asset Management Outsourcing Inc	1	1	1	1	0
+Asset Management Professionals LLC	3	3	2	3	0
+Asset Recovery Group Inc	1	1	1	1	0
+Asset Recovery Solutions LLC	4	4	4	4	0
+Associated Bank	4	4	4	4	0
+Associated Credit Services Inc	1	1	1	1	0
+Associated Mortgage Corporation	1	1	1	1	0
+Asta Funding Inc	1	1	1	1	0
+Astoria Bank	8	8	8	8	0
+BB&T Financial	57	57	57	57	0
+BBVA Compass	20	20	20	20	0
+BC Services Inc	1	1	1	1	0
+BCA Financial Services Inc	1	1	1	1	0
+BMO Harris	19	19	19	19	0
+BMW Financial Services	2	2	2	2	0
+BNY Mellon	5	5	5	5	0
+BOK Financial Corp	1	1	1	1	0
+BYL Collection Services	2	2	2	2	0
+Banco Popular North America	2	2	2	2	0
+Banco Popular de Puerto Rico	6	6	6	6	0
+BancorpSouth Bank	2	2	2	2	0
+Bank of America	1065	1065	1063	1064	0
+Bank of Hawaii	2	2	2	2	0
+Bank of the West	10	10	10	10	0
+BankUnited	6	6	6	6	0
+Barclays PLC	44	44	44	44	0
+Bayview Loan Servicing LLC	22	22	22	22	0
+Blatt Hasenmiller Leibsker & Moore LLC	1	1	1	1	0
+Bonded Adjustment Company	1	1	1	1	0
+Borenstein & Associates LLC	1	1	1	1	0
+Brazos Higher Education Servicing	1	1	1	1	0
+Brightwater Capital LLC	1	1	1	1	0
+Brown and Joseph Ltd	2	2	2	2	0
+Budget Mortgage Corp	1	1	1	1	0
+Bull City Financial Solutions Inc	1	1	1	1	0
+Business & Professional Collection Service Inc	1	1	1	1	0
+Byrider Franchising LLC	2	2	2	2	0
+CCB Credit Serivces Inc	2	2	2	2	0
+CCS Financial Services Inc	11	11	11	11	0
+CIR Law Offices	1	1	1	1	0
+CIT Bank National Association	36	36	36	36	0
+CL Holdings LLC	7	7	7	7	0
+CNG Financial Corporation	10	10	10	10	0
+CORNERSTONE RESOLUTION GROUP INC	1	1	1	1	0
+Caine & Weiner Co Inc	1	1	1	1	0
+Caliber Home Loans Inc	19	19	19	19	0
+California Business Bureau Inc	1	1	1	1	0
+California Recovery Bureau Inc	2	2	2	2	0
+Capio Partners LLC	4	4	4	4	0
+Capital Management Services LP	2	2	2	2	0
+Capital One	280	280	280	280	0
+CarMax Inc	1	1	1	1	0
+Carrington Mortgage Holdings LLC	14	14	14	14	0
+Cascade Capital LLC	1	1	1	1	0
+Cash America International Inc	1	1	1	1	0
+Cash Express LLC	1	1	1	1	0
+Cash-Installment LLC	1	1	1	1	0
+CashCall Inc	10	10	10	10	0
+Cavalry Investments LLC	17	17	17	17	0
+Ceannate	1	1	1	1	0
+Centron Services	1	1	1	1	0
+Certified Recovery Inc	1	1	1	1	0
+Charles Schwab Bank	2	2	2	2	0
+Check Fraud Services	1	1	1	1	0
+Check into Cash Inc	3	3	3	3	0
+Choice Recovery Inc	3	3	3	3	0
+Citibank	514	514	511	514	0
+Citizens Financial Group Inc	53	53	53	53	0
+Clark County Collection Service	1	1	1	1	0
+ClearSpring Loan Services Inc	1	1	1	1	0
+Client Services Inc	3	3	3	3	0
+Coast Professional Inc	1	1	1	1	0
+Cobalt Mortgage	2	2	2	2	0
+Collection Bureau of America Ltd	3	3	3	3	0
+Collection Bureau of the Hudson Valley Inc	1	1	1	1	0
+Collection Management Company	2	2	2	2	0
+Collins & Hilton Asset Group LLC	1	1	1	1	0
+Comerica	11	11	11	11	0
+Commerce Bank	2	2	2	2	0
+Commercial Recovery Systems	12	12	12	12	0
+Commonwealth Financial Systems Inc	6	6	6	6	0
+Community Choice Financial Inc	7	7	7	7	0
+Community Health Investment Company LLC	1	1	1	1	0
+Computer Credit Inc	1	1	1	1	0
+ConServe	3	3	3	3	0
+Concord Servicing Corporation	1	1	1	1	0
+Consumer Adjustment Company Incorporated	2	2	2	2	0
+Consumer Financial Services	1	1	1	1	0
+Continental Central Credit Inc	2	2	2	2	0
+Continental Home Loans Inc	1	1	1	1	0
+Contract Callers Inc	2	2	2	2	0
+Convergent Resources Inc	23	23	23	23	0
+Cornerstone Mortgage Inc	1	1	1	1	0
+CountryPlace Acceptance Corporation	2	2	2	2	0
+Credit Acceptance Corporation	8	8	8	8	0
+Credit Bureau Central Inc (NV)	1	1	1	1	0
+Credit Bureau Collection Services Inc	3	3	3	3	0
+Credit Bureau Data Inc	1	1	1	1	0
+Credit Bureau Services Association	1	1	1	1	0
+Credit Bureau Systems Inc	1	1	1	1	0
+Credit Bureau of Napa	2	2	2	2	0
+Credit Bureau of San Luis Obispo & Santa Barbara Counties	1	1	1	1	0
+Credit Card Receivables Fund Incorporated	2	2	2	2	0
+Credit Consulting Services Inc	1	1	1	1	0
+Credit Corp Solutions Inc	2	2	2	2	0
+Credit Financial Services lnc	1	1	1	1	0
+Credit Protection Association LP	12	12	12	12	0
+Credit Services of Oregon Inc	1	1	1	1	0
+Credit Systems International Inc	3	3	3	3	0
+Credit World Services Inc	1	1	1	1	0
+Creditors Collection Service	1	1	1	1	0
+Crescent Mortgage	1	1	1	1	0
+D&A Services LLC	2	2	2	2	0
+DFC Global Corp	4	4	4	4	0
+DLC LLC	1	1	1	1	0
+DTA GROUP LLC	1	1	1	1	0
+Debt Recovery Solutions LLC	5	5	5	5	0
+Deca Financial Services LLC	3	3	3	3	0
+Delbert Services	7	7	7	7	0
+Delta Management Associates Inc	2	2	2	2	0
+Delta Outsource Group Inc	1	1	1	1	0
+Deutsche Bank	1	1	1	1	0
+Deval LLC	1	1	1	1	0
+Discover	90	90	90	90	0
+Ditech Financial LLC	205	205	205	205	0
+Diversified Adjustment Service Inc	6	6	6	6	0
+Diversified Consultants Inc	17	17	17	17	0
+Dominion Law Associates PLLC	2	2	2	2	0
+Dovenmuehle Mortgage Inc	6	6	6	6	0
+Draper and Kramer Mortgage Corp	1	1	1	1	0
+DriveTime	1	1	1	1	0
+Dynamic Recovery Services Inc	3	3	3	3	0
+Dynamic Recovery Solutions LLC	27	27	27	27	0
+E A Uffman & Associates Inc	1	1	1	1	0
+E*Trade Bank	3	3	3	3	0
+ECMC Group Inc	14	14	14	14	0
+EOS Holdings Inc	18	18	18	18	0
+ERC	22	22	22	22	0
+EZCORP Inc	2	2	2	2	0
+Early Warning Services LLC	1	1	1	1	0
+East West Bank	1	1	1	1	0
+Eastpoint Recovery Group Inc	1	1	1	1	0
+EisenburgWhitman and Associates	2	2	2	2	0
+Eltman Law PC	1	1	1	1	0
+Embrace Home Loans Inc	1	1	1	1	0
+Emory Enterprises LLC	2	2	2	2	0
+Encore Capital Group	184	184	184	184	0
+Enova International Inc	15	15	15	15	0
+Equifax	485	485	485	485	0
+Escallate LLC	1	1	1	1	0
+Estate Information Services LLC	1	1	1	1	0
+Euler Hermes Collections North America Company	1	1	1	1	0
+EverBank	19	19	19	19	0
+Everest Receivable Services Inc	1	1	1	1	0
+Exeter Finance Corp	3	3	3	3	0
+Experian	518	518	518	518	0
+Expert Global Solutions Inc	91	91	91	91	0
+FAIR COLLECTIONS & OUTSOURCING INC	2	2	2	2	0
+FCI Lender Services Inc	3	3	3	3	0
+FINEX Group LLC	2	2	2	2	0
+FMS Inc	1	1	1	1	0
+Factual Data	1	1	1	1	0
+Fairway Capital Recovery LLC	1	1	1	1	0
+Fay Servicing LLC	3	3	3	3	0
+Federated Capital Corporation	2	2	2	2	0
+Fidelity Capital Holdings Inc	1	1	1	1	0
+Fidelity National Financial Inc	1	1	1	1	0
+Fidelity National Information Services Inc (FNIS)	26	26	26	26	0
+Fidelity Properties Inc	1	1	1	1	0
+Fifth Third Financial Corporation	65	65	65	65	0
+Finance of America Reverse LLC	3	3	3	3	0
+Financial Asset Management Systems Inc	2	2	2	2	0
+Financial Asset Resolution LLC	1	1	1	1	0
+Financial Business and Consumer Solutions	3	3	3	3	0
+Financial Credit Network Inc	2	2	2	2	0
+Financial Recovery Services Inc	2	2	2	2	0
+Finkelstein Kern Steinberg & Cunningham PC	1	1	1	1	0
+First Advantage Corporation	2	2	2	2	0
+First American Financial Corporation	3	3	3	3	0
+First American Mitigators PLLC	1	1	1	1	0
+First Associates Loan Servicing LLC	1	1	1	1	0
+First Citizens	1	1	1	1	0
+First Credit Services Inc	2	2	2	2	0
+First Data Corporation	3	3	3	3	0
+First Hawaiian Bank	1	1	1	1	0
+First National Bank of Omaha	11	11	11	11	0
+First National Collection Bureau Inc	1	1	1	1	0
+First Tennessee Bank	9	9	9	9	0
+FirstBank	2	2	2	2	0
+FirstBank of Puerto Rico	3	3	3	3	0
+FirstMerit Bank	6	6	6	6	0
+FirstSource Advantage LLC	3	3	3	3	0
+Five Lakes Agency	3	3	3	3	0
+Flagship Financial Group	1	1	1	1	0
+Flagstar Bank	25	25	25	25	0
+Focus Holding Company	2	2	2	2	0
+Focused Recovery Solutions Inc	1	1	1	1	0
+Ford Motor Credit Company	7	7	7	7	0
+Forster & Garbus LLP	1	1	1	1	0
+Forster Garbus and Garbus	1	1	1	1	0
+Franklin American Mortgage Company	1	1	1	1	0
+Franklin Collection Service Inc	8	8	8	8	0
+Franklin Credit Management	4	4	3	3	0
+Freedom Mortgage	5	5	5	5	0
+Frontline Asset Strategies LLC	3	3	3	3	0
+Frost Bank	2	2	2	2	0
+Frost-Arnett Company	3	3	3	3	0
+Fulton Friedman & Gullace LLP	1	1	1	1	0
+GC Services Limited Partnership	5	5	5	5	0
+GM Financial	9	9	9	9	0
+GMFS LLC	1	1	1	1	0
+GVA Holdings LLC	1	1	1	1	0
+Gatestone & Co International Inc	1	1	1	1	0
+Generation Mortgage	2	2	2	2	0
+Genesis Lending	1	1	1	1	0
+Glass Mountain Capital LLC	2	2	2	2	0
+Glasser and Glasser PLC	1	1	1	1	0
+Global Client Solutions	1	1	1	1	0
+Global Credit & Collection Corporation	2	2	2	2	0
+Global Recovery Group	1	1	1	1	0
+Gordon & Wong Law Group PC	1	1	1	1	0
+Granite State Management & Resources	1	1	1	1	0
+Grant & Weber	10	10	10	10	0
+Grant Mercantile Agency	1	1	1	1	0
+Great Lakes	1	1	1	1	0
+Greystone Alliance LLC	2	2	2	2	0
+Gryphon Corp	6	6	6	6	0
+Gurstel Chargo PA	1	1	1	1	0
+HCFS Health Care Financial Services Inc	3	3	3	3	0
+HOVG LLC	6	6	6	6	0
+HSBC North America Holdings Inc	134	134	134	134	0
+Hameroff Law Group PC	1	1	1	1	0
+Hanna Holdings Inc	1	1	1	1	0
+Harley-Davidson Financial Services Inc	1	1	1	1	0
+Harvard Collections LLC	2	2	2	2	0
+Health Services Asset Management LLC	1	1	1	1	0
+Healthcare Financial Services LLC	1	1	1	1	0
+Healthcare Receivable Professionals LLC	1	1	1	1	0
+Healthcare Receivables Group Inc	1	1	1	1	0
+Heartland Payment Systems	1	1	1	1	0
+Herbert P Sears Co Inc	4	4	4	4	0
+Higher Education Student Assistance Authority (HESAA)	3	3	3	3	0
+Holloway Credit Solutions	2	2	2	2	0
+Home Financing Center	1	1	1	1	0
+Hosto & Buchan PLLC	1	1	1	1	0
+Houston Home Loan Inc	1	1	1	1	0
+Hunt & Henriques	2	2	2	2	0
+Hunter Warfield Inc	9	9	9	9	0
+Hyperion Recovery LLC	1	1	1	1	0
+Hyundai Capital America	6	6	6	6	0
+IBERIABANK	1	1	1	1	0
+IC System Inc	17	17	17	17	0
+IQ Data International Inc	6	6	6	6	0
+Illinois Collection Service Inc	1	1	1	1	0
+Immediate Credit Recovery	1	1	1	1	0
+Innovis	2	2	2	2	0
+Integrity Solution Services Inc	7	7	7	7	0
+InterFirst Mortgage Company	3	3	3	3	0
+International City Mortgage Inc	1	1	1	1	0
+International Computer Systems Inc	1	1	1	1	0
+Iowa Student Loan	1	1	1	1	0
+JH Portfolio Debt Equities LLC	5	5	5	5	0
+JPMorgan Chase & Co	668	668	665	668	0
+James B Nutter & Company	1	1	1	1	0
+Javitch Block & Rathbone LLC	1	1	1	1	0
+Johnson Mark LLC	1	1	1	1	0
+Jon Barry and Associates Inc	2	2	2	2	0
+Jonathan Neil & Associates Inc	1	1	1	1	0
+Justice Finance Company	2	2	2	2	0
+K Hovnanian American Mortgage LLC	1	1	1	1	0
+Kansas Counselors of Kansas City Inc	2	2	2	2	0
+KelKris Associates Inc	2	2	2	2	0
+Kimball Tirey & St John LLP	1	1	1	1	0
+Kings Credit Services	1	1	1	1	0
+Knight Adjustment Bureau	1	1	1	1	0
+Kondaur Capital Corporation	1	1	1	1	0
+Kramer & Frank PC	1	1	1	1	0
+LCS Financial Corporation	4	4	4	4	0
+LHR Inc	1	1	1	1	0
+LTD Financial Services LP	3	3	3	3	0
+Land/Home Financial Services	2	2	2	2	0
+Law Office of Joe Pezzuto LLC	1	1	1	1	0
+Law Office of Regent and Associates	2	2	2	2	0
+Law Offices of Ed Overcash LLC	1	1	1	1	0
+Leading Edge Recovery Solutions LLC	2	2	2	2	0
+Legal Recovery Law Offices Inc	3	3	3	3	0
+Lending Solutions Mortgage/ LSI Mortgage	1	1	1	1	0
+LexisNexis	5	5	5	5	0
+Liberty Holdings LLC	5	5	5	5	0
+Liberty Home Equity Solutions Inc	1	1	1	1	0
+Linebarger Goggan Blair & Sampson LLP	5	5	5	5	0
+Loan Care	6	6	6	6	0
+Loan To Learn	1	1	1	1	0
+LoanDepot	6	6	6	6	0
+Lustig Glaser & Wilson PC	1	1	1	1	0
+Lynx Asset Services LLC	1	1	1	1	0
+M G Credit Inc	1	1	1	1	0
+M&T Bank Corporation	53	53	53	53	0
+MEFA	1	1	1	1	0
+MFP inc	2	2	2	2	0
+MNE Services Inc	13	13	13	13	0
+MOHELA	1	1	1	1	0
+MRS BPO LLC	10	10	10	10	0
+MacDowell & Associates Ltd	1	1	1	1	0
+Mandarich Law Group LLP	1	1	1	1	0
+Mann Mortgage LLC	1	1	1	1	0
+Marauder Corporation	2	2	2	2	0
+McCarthy Burgess & Wolff Inc	3	3	3	3	0
+Meade & Associates Inc	2	2	2	2	0
+MedShield Inc	1	1	1	1	0
+Media Collections Inc	5	5	5	5	0
+Medical Business Bureau	2	2	2	2	0
+Medical Data Systems Inc	4	4	4	4	0
+Medical Society Business Services Inc	1	1	1	1	0
+Mercantile Adjustment Bureau LLC	4	4	4	4	0
+Mercedes-Benz Financial Services	2	2	2	2	0
+Merchants Credit Bureau Inc	1	1	1	1	0
+Merchants' Credit Guide Company	1	1	1	1	0
+Messerli & Kramer PA	2	2	2	2	0
+MicroBilt / PRBC (formerly CL Verify)	1	1	1	1	0
+Mid Continent Credit Services Inc	1	1	1	1	0
+MidAmerica Mortgage Inc	1	1	1	1	0
+Midwest Loan Services Inc	1	1	1	1	0
+Mnet Financial Inc	1	1	1	1	0
+Mobiloans LLC	4	4	4	4	0
+Monarch Recovery Holdings Inc	4	4	4	4	0
+MoneyGram	15	15	15	15	0
+Montgomery County Credit Bureau	1	1	1	1	0
+Morgan & Associates PC	1	1	1	1	0
+Morgan Stanley	5	5	5	5	0
+Mortgage Investors Corporation	1	1	1	1	0
+Mountain Land Collections Inc	2	2	2	2	0
+Mutual Financial Partners	3	3	3	3	0
+NCB Management Services Inc	2	2	2	2	0
+NCC Business Services Inc	1	1	1	1	0
+NCSPLUS INCORPORATED	1	1	1	1	0
+NELSON AND KENNARD	1	1	1	1	0
+NRA Group LLC	7	7	6	7	0
+NVR Inc	4	4	4	4	0
+Nathan & Nathan PC	1	1	1	1	0
+National Check Bureau Inc	1	1	1	1	0
+National Credit Adjusters LLC	8	8	8	8	0
+National Credit SystemsInc	8	8	8	8	0
+National Enterprise Systems Inc	3	3	3	3	0
+National Payment Solutions of New York LLC	1	1	1	1	0
+National Recoveries Inc	2	2	2	2	0
+Nations Recovery Center	1	1	1	1	0
+Nationstar Mortgage	341	341	341	341	0
+Nationwide Advantage Mortgage Company	3	3	3	3	0
+Nationwide Biweekly Administration Inc	1	1	1	1	0
+Nationwide Financial Group	1	1	1	1	0
+Navient Solutions Inc	181	181	181	181	0
+Navy FCU	37	37	37	37	0
+Nelnet	2	2	2	2	0
+Nelson Watson & Associates LLC	1	1	1	1	0
+Network Funding LP	1	1	1	1	0
+Nevada Credico Inc	2	2	2	2	0
+New Century Financial Services Inc	1	1	1	1	0
+New York Community Bank	10	10	10	10	0
+Niagara Credit Solutions Inc	1	1	1	1	0
+Nissan Motor Acceptance Corporation	6	6	6	6	0
+North American Asset Services LLC	2	2	2	2	0
+North Shore Agency LLC	5	5	5	5	0
+NorthStar Technologies	1	1	1	1	0
+Northland Group Inc	10	10	10	10	0
+Northstar Location Services LLC	4	4	4	4	0
+ONLINE Information Services Inc	2	2	2	2	0
+Ocwen	367	367	366	367	0
+Oliphant Financial Corporation	1	1	1	1	0
+Omega RMS LLC	1	1	1	1	0
+One Reverse Mortgage	1	1	1	1	0
+OneMain Financial Holdings LLC	15	15	15	15	0
+Oxford Law LLC	4	4	4	4	0
+P&B Capital Group LLC	2	2	2	2	0
+PHH Mortgage	21	21	21	21	0
+PMAB LLC	1	1	1	1	0
+PNC Bank NA	150	150	150	150	0
+Paramount Residential Mortgage Group Inc	1	1	1	1	0
+Partners Financial Services Inc	1	1	1	1	0
+Partners for Payment Relief	1	1	1	1	0
+Patenaude & Felix APC	1	1	1	1	0
+PayPal Holdings Inc	31	31	31	31	0
+Penn Credit Corporation	2	2	2	2	0
+PennyMac Loan Services LLC	5	5	5	5	0
+Pentagon FCU	11	11	11	11	0
+People's United Bank	5	5	5	5	0
+Peoples Home Equity Inc	1	1	1	1	0
+Performant Financial Corporation	9	9	9	9	0
+Peroutka Miller Klima & Peters PA	1	1	1	1	0
+Peter Roberts & Associates Inc	1	1	1	1	0
+Phillips & Cohen Associates Ltd	4	4	4	4	0
+Pinnacle Credit Services LLC	7	7	7	7	0
+Pinnacle Recovery Inc	1	1	1	1	0
+Pioneer Credit Company	1	1	1	1	0
+Planet Home Lending LLC	3	3	3	3	0
+Platinum Holdings Group LLC	8	8	8	8	0
+Plaza Home Mortgage	2	2	2	2	0
+Pleasant Valley Home Mortgage Corporation	2	2	2	2	0
+Portfolio Recovery Associates Inc	59	59	59	59	0
+Pressler & Pressler LLP	6	6	6	6	0
+Prestige Financial Services Inc	4	4	4	4	0
+Primary Financial Services LLC	2	2	2	2	0
+Primary Residential Mortgage	2	2	2	2	0
+ProCollect Inc	3	3	3	3	0
+Professional Debt Mediation Inc	2	2	2	2	0
+Professional Finance Company Inc	1	1	1	1	0
+Professional Medical Management Inc	1	1	1	1	0
+Proficio Mortgage Ventures LLC	1	1	1	1	0
+Progressive Financial Services Inc	2	2	2	2	0
+Prospect Mortgage	4	4	4	4	0
+Protocol Recovery Service Inc	2	2	2	2	0
+Provident Funding	4	4	4	4	0
+Prudent Law Group	3	3	3	3	0
+Pulte Mortgage	4	4	4	4	0
+QC Holdings Inc	1	1	1	1	0
+Quality Asset Recovery LLC	1	1	1	1	0
+Quicken Loans	23	23	23	23	0
+R&R Professional Recovery Inc	2	2	2	2	0
+RGL Associates Inc	1	1	1	1	0
+RGS Financial Inc	1	1	1	1	0
+RM Galicia Inc	2	2	2	2	0
+RS Clark and Associates Inc	2	2	2	2	0
+Rabobank	1	1	1	1	0
+Radius Global Solutions LLC	4	4	4	4	0
+Rash Curtis and Associates	4	4	4	4	0
+Rausch Sturm Israel Enerson & Hornik LLC	1	1	1	1	0
+Ray Klein Inc	1	1	1	1	0
+Razor Capital LLC	1	1	1	1	0
+Real Time Resolutions	9	9	9	9	0
+Receivables Management Partners LLC	5	5	5	5	0
+Receivables Performance Management LLC	9	9	9	9	0
+Recovery One LLC	1	1	1	1	0
+Regional Management Corp	1	1	1	1	0
+Regional Trustee Services Corporation	1	1	1	1	0
+Regions Financial Corporation	50	50	50	50	0
+Reliant Capital Solutions LLC	3	3	3	3	0
+Remex Inc	1	1	1	1	0
+Rent Recovery Solutions	2	2	2	2	0
+ResidentCollect Inc	1	1	1	1	0
+Residential Credit Solutions	16	16	16	16	0
+Resurgent Capital Services LP	51	51	51	51	0
+Retrieval-Masters Creditors Bureau Inc	10	10	10	10	0
+RevSolve Inc	1	1	1	1	0
+Revenue Assistance Corporation dba Revenue Group	1	1	1	1	0
+Revenue Recovery Corporation	2	2	2	2	0
+Reverse Mortgage Solutions	2	2	2	2	0
+Ria Financial	1	1	1	1	0
+Ridge & Valley Realty Inc	1	1	1	1	0
+Robinson Reagan and Young PLLC	1	1	1	1	0
+Round Point Mortgage	8	8	8	8	0
+Royal United Mortgage LLC	1	1	1	1	0
+Rubin & Rothman LLC	3	3	3	3	0
+Rubin & Yates LLC	1	1	1	1	0
+Rushmore Loan Management Services LLC	3	3	3	3	0
+SIMM Associates Inc	4	4	4	4	0
+SKO Brenner American Inc	1	1	1	1	0
+SRA Associates Inc	2	2	2	2	0
+Sallie Mae	14	14	14	14	0
+Santander Bank US	56	56	55	55	0
+Santander Consumer USA Holdings Inc	34	34	34	34	0
+Scherr & McClure	1	1	1	1	0
+Scott Lowery Law Office PC	1	1	1	1	0
+Security Credit Services LLC	2	2	2	2	0
+Security Finance	8	8	8	8	0
+Select Portfolio Servicing Inc	92	92	92	92	0
+Selene Finance	12	12	12	12	0
+Selip & Stylianou LLP	1	1	1	1	0
+Senex Services Corp	2	2	2	2	0
+Sentry Credit Inc	1	1	1	1	0
+Sentry Recovery and Collections Inc	2	2	2	2	0
+Servis One Inc	3	3	3	3	0
+Seterus Inc	28	28	28	28	0
+Sharinn & Lipshie PC	1	1	1	1	0
+Sherloq Group Inc	1	1	1	1	0
+Smith Law Firm PC	1	1	1	1	0
+Source Receivables Management LLC	1	1	1	1	0
+Southern Management Corp	3	3	3	3	0
+Southern Management Systems Inc	1	1	1	1	0
+Southwest Credit Systems LP	8	8	8	8	0
+Southwest Recovery Services Inc	3	3	3	3	0
+Southwest Stage Funding LLC	1	1	1	1	0
+Specialized Loan Servicing LLC	37	37	37	37	0
+Speedy Cash Holdings	2	2	2	2	0
+SquareTwo Financial Corporation	6	6	6	6	0
+Standard Mortgage Corporation	1	1	1	1	0
+State Collection Service Inc	2	2	2	2	0
+State Farm Bank	4	4	4	4	0
+Statebridge Company	2	2	2	2	0
+Stearns Ventures LLC	2	2	2	2	0
+Stellar Recovery Inc	19	19	19	19	0
+Stephens and Michaels Associates Inc	2	2	2	2	0
+Sterling Infosystems Inc	2	2	2	2	0
+Sterling Jewelers Inc	4	4	4	4	0
+Stevens Business Service Inc	1	1	1	1	0
+Stillman Law Office	1	1	1	1	0
+Stonegate Mortgage Corporation	1	1	1	1	0
+Stoneleigh Recovery Associates LLC	2	2	2	2	0
+Student Loan Finance Corporation	1	1	1	1	0
+Suburban Credit Corporation	1	1	1	1	0
+Summit Mortgage Corporation (Minnesota)	1	1	1	1	0
+Sun West Mortgage Company Inc	1	1	1	1	0
+SunTrust Banks Inc	96	96	96	96	0
+SunTrust Banks Inc.	1	1	0	1	0
+Sunrise Credit Services Inc	4	4	4	4	0
+Supreme Lending	1	1	1	1	0
+Suttell Hammer & White PS	1	1	1	1	0
+Synchrony Financial	164	164	164	164	0
+Synovus Bank	7	7	7	7	0
+TCF National Bank	19	19	19	19	0
+TD Bank US Holding Company	79	79	79	79	0
+TMX Finance LLC	1	1	1	1	0
+TSC Accounts Receivable Solutions	1	1	1	1	0
+TaxServ LLC	1	1	1	1	0
+TekCollect Inc	1	1	1	1	0
+Tenet HealthCare Corporation	2	2	2	2	0
+The Affiliated Group Inc	2	2	2	2	0
+The Bureaus Inc	2	2	2	2	0
+The CBE Group Inc	17	17	17	17	0
+The CMI Group Inc	5	5	5	5	0
+The Huntington National Bank	21	21	21	21	0
+The Law Firm of Allan C Smith	1	1	1	1	0
+The Law Office of Daniel Slane	2	2	2	2	0
+The Law Offices of Mitchell D Bluhm & Associates	1	1	1	1	0
+The Minacs Group (USA) Inc	1	1	1	1	0
+The Moore Law Group	3	3	3	3	0
+The Mortgage Specialists Inc	1	1	1	1	0
+The Phoenix Recovery Group	2	2	2	2	0
+The Receivable Management Services Corporation	3	3	3	3	0
+The Regional Adjustment Bureau Incorporated	4	4	4	4	0
+The Stark Collection Agency Inc	2	2	2	2	0
+The Thomas Agency Inc	1	1	1	1	0
+The Western Union Company	29	29	29	29	0
+Third Federal Savings & Loan	5	5	5	5	0
+Thomas & Williams LLC	1	1	1	1	0
+Tiburon Financial LLC	1	1	1	1	0
+Total Card Inc	1	1	1	1	0
+Total Mortgage Services LLC	1	1	1	1	0
+Total Recovery Solutions	3	3	3	3	0
+Tower Loan	5	5	5	5	0
+Toyota Motor Credit Corporation	16	16	16	16	0
+TransUnion Intermediate Holdings Inc	341	341	341	341	0
+Trident Asset Management LLC	8	8	8	8	0
+Turning Point Solutions LLC	3	3	3	3	0
+UBS Bank	2	2	2	2	0
+UMB Bank	3	3	3	3	0
+URS Holding LLC	3	3	3	3	0
+US Bancorp	153	153	153	153	0
+US Collections West Inc	1	1	1	1	0
+USAA Savings	32	32	32	32	0
+USCB INC	1	1	1	1	0
+Union Bank	11	11	11	11	0
+Unique Management Services Inc	2	2	2	2	0
+United Check Recovery LLC	2	2	2	2	0
+United Collection Bureau Inc	6	6	6	6	0
+United Guaranty	1	1	1	1	0
+United PanAm Financial Corp	1	1	1	1	0
+United Portfolio Corp	1	1	1	1	0
+United Shore Financial Services LLC	2	2	2	2	0
+United Student Aid (USA) Funds	1	1	1	1	0
+Universal Fidelity LP	2	2	2	2	0
+VHDA	1	1	1	1	0
+VW Credit Inc	2	2	2	2	0
+Valarity LLC	4	4	4	4	0
+Valley National Bank	5	5	5	5	0
+Van Dyk Mortgage Corporation	1	1	1	1	0
+Van Ru Credit Corporation	7	7	7	7	0
+Velocity Portfolio Group	1	1	1	1	0
+Vengroff Williams Inc	1	1	1	1	0
+Viking Client Services Inc	1	1	1	1	0
+Virtuoso Sourcing Group LLC	1	1	1	1	0
+Vision Financial Corp	3	3	3	3	0
+Vital Solutions Inc	3	3	3	3	0
+WAKEFIELD & ASSOCIATES INC	2	2	2	2	0
+WCS LENDING LLC	1	1	1	1	0
+WJ Bradley Mortgage	2	2	2	2	0
+Washington Federal	2	2	2	2	0
+We Collect Inc	1	1	1	1	0
+Webcollex LLC	1	1	1	1	0
+Webster Bank	3	3	3	3	0
+Wells Fargo & Company	843	843	837	840	0
+Weltman Weinberg & Reis	5	5	5	5	0
+West Bay Acquisitions LLC	3	3	3	3	0
+Western Control Services Inc	1	1	1	1	0
+Western Portfolio Assets	1	1	1	1	0
+Westlake Services LLC	8	8	8	8	0
+Whitney Bank	1	1	1	1	0
+Williams & Fudge Inc	8	8	8	8	0
+Williams Rush & Associates LLC	1	1	1	1	0
+Windham Professionals	2	2	2	2	0
+Works & Lentz of Tulsa Inc	1	1	1	1	0
+World Acceptance Corporation	1	1	1	1	0
+Worldwide Processing Group LLC	4	4	4	4	0
+Xoom	1	1	1	1	0
+Yale Mortgage Corporation	1	1	1	1	0
+Zions Bancorporation	2	2	2	2	0
+Zwicker & Associates	2	2	2	2	0

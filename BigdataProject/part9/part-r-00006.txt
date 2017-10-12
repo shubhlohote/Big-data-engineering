@@ -1,0 +1,779 @@
+2013-08-02,Bank of America,TX,Mortgage,FHA mortgage,Credit decision / Underwriting,,Yes,Web,,,76135,,N/A,2013-08-06,Closed with explanation,Yes,457935
+2013-10-31,Citibank,TX,Credit card,,Customer service / Customer relations,,Yes,Web,,,77338,,N/A,2013-10-30,Closed with explanation,Yes,579110
+2013-08-02,Capital One,TX,Credit card,,Billing disputes,,Yes,Web,,,75254,,N/A,2013-08-01,Closed with monetary relief,No,461878
+2013-10-10,Wells Fargo & Company,TX,Credit card,,Customer service / Customer relations,,Yes,Referral,,,75042,,N/A,2013-10-11,Closed with explanation,Yes,557265
+2014-08-03,Bank of America,TX,Bank account or service,Checking account,Deposits and withdrawals,NA,No,Web,NA,NA,75025,,N/A,2013-07-30,Closed with explanation,No,468981
+2013-10-31,Amex,TX,Credit card,,Other,,Yes,Web,,,75235,,N/A,2013-10-30,Closed with explanation,No,578919
+2013-11-05,Equifax,TX,Credit reporting,,Unable to get credit report/credit score,Problem getting report or credit score,Yes,Web,,,78613,,N/A,2013-11-05,Closed with non-monetary relief,No,586003
+2013-09-12,Wells Fargo & Company,TX,Credit card,,Bankruptcy,,Yes,Phone,,,77568,,N/A,2013-09-13,Closed with explanation,No,526091
+2013-08-23,JPMorgan Chase & Co,TX,Mortgage,Other mortgage,Application originator mortgage broker,,Yes,Fax,,,78216,,N/A,2013-08-26,Closed with explanation,Yes,501841
+2013-10-29,Experian,TX,Credit reporting,,Incorrect information on credit report,Account status,Yes,Postal mail,,,76116,,N/A,2013-11-27,Closed with explanation,No,575377
+2013-10-29,Equifax,TX,Credit reporting,,Incorrect information on credit report,Account status,Yes,Postal mail,,,76116,,N/A,2013-11-27,Closed with explanation,No,575376
+2013-08-10,Bank of America,TX,Mortgage,Conventional fixed mortgage,Settlement process and costs,,Yes,Web,,,77083,,N/A,2013-08-13,Closed with explanation,No,486282
+2013-09-24,Experian,TX,Credit reporting,,Incorrect information on credit report,Account status,Yes,Postal mail,,,78254,,N/A,2013-10-07,Closed with non-monetary relief,No,539976
+2013-12-02,JPMorgan Chase & Co,TX,Bank account or service,Checking account,Account opening closing or management,,Yes,Web,,,77303,,N/A,2013-12-09,Closed with explanation,No,618180
+2013-11-05,Experian,TX,Credit reporting,,Incorrect information on credit report,Account status,Yes,Postal mail,,,78664,,N/A,2013-11-06,Closed with non-monetary relief,No,585758
+2013-08-14,United Portfolio Corp,TX,Debt collection,I do not know,False statements or representation,Impersonated an attorney or official,Yes,Web,,,78729,,N/A,2013-08-16,Closed with non-monetary relief,No,489695
+2013-10-29,TransUnion Intermediate Holdings Inc,TX,Credit reporting,,Incorrect information on credit report,Account status,Yes,Postal mail,,,76116,,N/A,2013-11-27,Closed with explanation,No,575373
+2013-10-25,Experian,TX,Credit reporting,,Credit reporting company's investigation,Problem with statement of dispute,Yes,Web,,,78251,,N/A,2013-10-25,Closed with explanation,No,572733
+2013-10-25,Experian,TX,Credit reporting,,Incorrect information on credit report,Information is not mine,Yes,Web,,,75070,,N/A,2013-10-25,Closed with explanation,No,571625
+2013-08-29,Resurgent Capital Services LP,TX,Bank account or service,Other bank product/service,Account opening closing or management,,Yes,Postal mail,,,76109,,N/A,2013-08-29,Closed with explanation,No,508573
+2013-07-30,HSBC North America Holdings Inc,TX,Mortgage,Conventional fixed mortgage,Loan modificationcollectionforeclosure,,Yes,Web,,,79339,Older American,N/A,2013-07-31,Closed with explanation,No,470618
+2013-09-30,JPMorgan Chase & Co,TX,Bank account or service,Checking account,Account opening closing or management,,Yes,Web,,,75243,,N/A,2013-10-01,Closed with explanation,Yes,547470
+2013-10-29,Coast Professional Inc,TX,Debt collection,Federal student loan,Cont'd attempts collect debt not owed,Debt was paid,Yes,Web,,,75152,,N/A,2013-10-29,Closed with explanation,No,576051
+2013-07-26,Bank of America,TX,Mortgage,Other mortgage,Other,,Yes,Referral,,,75123,,N/A,2013-07-29,Closed with explanation,No,479585
+2013-10-11,BBVA Compass,TX,Bank account or service,Checking account,Account opening closing or management,,Yes,Web,,,76006,,N/A,2013-10-11,Closed with explanation,Yes,557710
+2013-08-10,Bank of America,TX,Credit card,,Transaction issue,,Yes,Web,,,77258,Older American,N/A,2013-08-27,Closed with monetary relief,No,486364
+2013-10-25,Portfolio Recovery Associates Inc,TX,Debt collection,I do not know,Disclosure verification of debt,Not given enough info to verify debt,Yes,Web,,,76501,,N/A,2013-10-25,Closed with non-monetary relief,No,571153
+2013-09-02,TransUnion Intermediate Holdings Inc,TX,Credit reporting,,Incorrect information on credit report,Account terms,Yes,Web,,,78023,,N/A,2013-09-02,Closed with explanation,No,512581
+2013-07-26,Nationstar Mortgage,TX,Mortgage,Other mortgage,Loan modificationcollectionforeclosure,,Yes,Referral,,,78212,,N/A,2013-08-06,Closed with explanation,No,475240
+2013-08-21,Equifax,TX,Credit reporting,,Credit reporting company's investigation,Problem with statement of dispute,Yes,Web,,,76227,,N/A,2013-08-20,Closed with explanation,No,498273
+2013-10-07,Dynamic Recovery Solutions LLC,TX,Debt collection,I do not know,Communication tactics,Threatened to take legal action,Yes,Web,,,75217,,N/A,2013-10-07,Closed with explanation,Yes,554152
+2013-08-15,Nationstar Mortgage,TX,Mortgage,Other mortgage,Loan modificationcollectionforeclosure,,Yes,Referral,,,75067,,N/A,2013-08-19,Closed with explanation,No,490852
+2013-10-17,Experian,TX,Credit reporting,,Credit reporting company's investigation,Problem with statement of dispute,Yes,Web,,,78240,,N/A,2013-10-17,Closed with explanation,No,561095
+2013-08-10,Capital One,TX,Credit card,,APR or interest rate,,Yes,Postal mail,,,76542,,N/A,2013-09-04,Closed with explanation,No,484610
+2013-10-16,Capital One,TX,Debt collection,I do not know,Cont'd attempts collect debt not owed,Debt was discharged in bankruptcy,Yes,Postal mail,,,76006,,N/A,2013-10-17,Closed with explanation,No,560115
+2013-10-31,TransUnion Intermediate Holdings Inc,TX,Credit reporting,,Incorrect information on credit report,Account status,Yes,Web,,,78230,,N/A,2013-10-31,Closed with explanation,No,579140
+2013-10-31,Experian,TX,Credit reporting,,Incorrect information on credit report,Information is not mine,Yes,Referral,,,77449,,N/A,2013-12-17,Closed with explanation,No,579317
+2013-10-07,National Credit SystemsInc,TX,Debt collection,Other (ie phone health club etc),Cont'd attempts collect debt not owed,Debt is not mine,Yes,Phone,,,79106,,N/A,2013-10-08,Closed with explanation,Yes,554394
+2013-10-29,US Bancorp,TX,Mortgage,Other mortgage,Application originator mortgage broker,,Yes,Postal mail,,,75070,,N/A,2013-10-30,Closed with explanation,Yes,574946
+2013-10-29,Navient Solutions Inc,TX,Debt collection,I do not know,Communication tactics,Called after sent written cease of comm,Yes,Referral,,,77703,,N/A,2013-10-30,Closed with explanation,No,575990
+2013-08-29,PHH Mortgage,TX,Mortgage,Other mortgage,Loan modificationcollectionforeclosure,,Yes,Referral,,,76542,Servicemember,N/A,2013-08-30,Closed with explanation,No,509679
+2013-08-10,Resurgent Capital Services LP,TX,Credit reporting,,Incorrect information on credit report,Information is not mine,Yes,Postal mail,,,78664,,N/A,2013-08-14,Closed with explanation,No,484733
+2013-08-10,JPMorgan Chase & Co,TX,Mortgage,Home equity loan or line of credit,Loan modificationcollectionforeclosure,,Yes,Web,,,77479,,N/A,2013-08-13,Closed with explanation,No,486904
+2013-10-07,Experian,TX,Credit reporting,,Incorrect information on credit report,Account status,Yes,Postal mail,,,76048,,N/A,2013-10-09,Closed with non-monetary relief,No,553834
+2013-10-25,Portfolio Recovery Associates Inc,TX,Debt collection,Credit card,Cont'd attempts collect debt not owed,Debt is not mine,Yes,Web,,,77418,Older American,N/A,2013-10-28,Closed with non-monetary relief,No,571739
+2013-08-14,Fidelity National Information Services Inc (FNIS),TX,Credit reporting,,Unable to get credit report/credit score,Problem getting my free annual report,Yes,Web,,,77077,,N/A,2013-08-14,Closed with explanation,Yes,493342
+2013-10-07,Ocwen,TX,Mortgage,Conventional fixed mortgage,Loan modificationcollectionforeclosure,,Yes,Web,,,77373,,N/A,2013-10-07,Closed with explanation,No,553560
+2013-08-01,Bank of America,TX,Credit card,,Credit card protection / Debt protection,,Yes,Postal mail,,,75946,,N/A,2013-08-05,Closed with non-monetary relief,No,475025
+2013-08-14,Amex,TX,Credit card,,Other,,Yes,Web,,,78729,,N/A,2013-08-14,Closed with non-monetary relief,No,491253
+2013-11-05,Experian,TX,Credit reporting,,Incorrect information on credit report,Information is not mine,Yes,Postal mail,,,78664,,N/A,2013-11-06,Closed with non-monetary relief,No,585713
+2013-08-14,ERC,TX,Debt collection,Other (ie phone health club etc),Cont'd attempts collect debt not owed,Debt was paid,Yes,Phone,,,77584,,N/A,2013-08-15,Closed with non-monetary relief,No,489566
+2013-11-18,TransUnion Intermediate Holdings Inc,TX,Credit reporting,,Incorrect information on credit report,Account status,Yes,Web,,,77304,,N/A,2013-12-11,Closed with explanation,Yes,601611
+2013-09-29,Enova International Inc,TX,Credit reporting,,Incorrect information on credit report,Information is not mine,Yes,Web,,,75062,,N/A,2013-09-30,Closed with explanation,No,546755
+2013-07-26,Synchrony Financial,TX,Debt collection,Other (ie phone health club etc),Disclosure verification of debt,Not given enough info to verify debt,Yes,Web,,,77449,,N/A,2013-07-26,Closed with non-monetary relief,No,467543
+2013-09-24,RS Clark and Associates Inc,TX,Debt collection,Other (ie phone health club etc),Cont'd attempts collect debt not owed,Debt was paid,Yes,Web,,,75429,,N/A,2013-09-24,Closed with non-monetary relief,No,539701
+2013-11-18,Citibank,TX,Credit card,,Unsolicited issuance of credit card,,Yes,Web,,,78225,,N/A,2013-11-19,Closed with explanation,No,601211
+2013-08-10,JPMorgan Chase & Co,TX,Credit card,,Other,,Yes,Postal mail,,,75007,,N/A,2013-08-21,Closed with non-monetary relief,No,486433
+2013-09-29,Equifax,TX,Credit reporting,,Incorrect information on credit report,Account status,Yes,Postal mail,,,76107,,N/A,2013-10-11,Closed with explanation,No,545943
+2013-11-20,BBVA Compass,TX,Bank account or service,Other bank product/service,Account opening closing or management,,Yes,Referral,,,78748,,N/A,2013-11-21,Closed with explanation,No,606235
+2013-08-21,Wells Fargo & Company,TX,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Phone,,,78130,,N/A,2013-08-22,Closed with explanation,No,499673
+2013-09-29,Equifax,TX,Credit reporting,,Incorrect information on credit report,Account status,Yes,Postal mail,,,76107,,N/A,2013-10-11,Closed with explanation,No,545942
+2013-10-07,National Credit SystemsInc,TX,Debt collection,Other (ie phone health club etc),Cont'd attempts collect debt not owed,Debt was paid,Yes,Postal mail,,,75074,,N/A,2013-10-07,Closed with explanation,No,553969
+2013-08-08,Experian,TX,Credit reporting,,Incorrect information on credit report,Account status,Yes,Web,,,77385,,N/A,2013-08-08,Closed with non-monetary relief,No,483692
+2013-08-14,Equifax,TX,Credit reporting,,Credit reporting company's investigation,Problem with statement of dispute,Yes,Web,,,77072,,N/A,2013-08-14,Closed with explanation,No,489346
+2013-10-07,TransUnion Intermediate Holdings Inc,TX,Credit reporting,,Incorrect information on credit report,Account status,Yes,Postal mail,,,76028,,N/A,2013-11-08,Closed with explanation,No,553668
+2013-11-12,Bank of America,TX,Mortgage,FHA mortgage,Loan modificationcollectionforeclosure,,Yes,Web,,,76039,,N/A,2013-11-12,Closed with explanation,No,594223
+2013-08-08,Equifax,TX,Credit reporting,,Incorrect information on credit report,Account terms,Yes,Web,,,77385,,N/A,2013-08-08,Closed with non-monetary relief,Yes,483691
+2013-08-05,Dovenmuehle Mortgage Inc,TX,Mortgage,FHA mortgage,Loan servicing payments escrow account,,Yes,Web,,,78717,,N/A,2013-08-07,Closed with explanation,No,474627
+2013-08-05,Bank of America,TX,Mortgage,Conventional fixed mortgage,Loan modificationcollectionforeclosure,,Yes,Web,,,75169,,N/A,2013-08-07,Closed with non-monetary relief,Yes,475284
+2013-11-20,Bank of America,TX,Mortgage,Conventional fixed mortgage,Loan servicing payments escrow account,,Yes,Web,,,75067,,N/A,2013-11-20,Closed with explanation,No,605467
+2013-08-16,ACE Cash Express Inc,TX,Debt collection,Other (ie phone health club etc),Improper contact or sharing of info,Talked to a third party about my debt,Yes,Web,,,75134,,N/A,2013-08-16,Closed with explanation,Yes,493477
+2013-08-01,JPMorgan Chase & Co,TX,Credit card,,Advertising and marketing,,Yes,Web,,,75002,Older American,N/A,2013-08-01,Closed with explanation,No,472254
+2013-08-16,Resurgent Capital Services LP,TX,Debt collection,Credit card,Disclosure verification of debt,Not given enough info to verify debt,Yes,Web,,,76240,Servicemember,N/A,2013-08-16,Closed with explanation,Yes,493635
+2013-12-11,Encore Capital Group,TX,Debt collection,Other (ie phone health club etc),Cont'd attempts collect debt not owed,Debt is not mine,Yes,Postal mail,,,78041,,N/A,2013-12-13,Closed with non-monetary relief,No,629369
+2013-07-22,American Southwest Mortgage Corporation,TX,Mortgage,FHA mortgage,Loan servicing payments escrow account,,Yes,Web,,,76116,Servicemember,N/A,2013-07-25,Closed,Yes,463274
+2013-11-05,Experian,TX,Credit reporting,,Incorrect information on credit report,Account status,Yes,Postal mail,,,76078,,N/A,2013-11-06,Closed with explanation,No,586217
+2013-08-01,Wells Fargo & Company,TX,Mortgage,Reverse mortgage,Settlement process and costs,,Yes,Web,,,75081,,N/A,2013-08-06,Closed with explanation,No,472247
+2013-09-28,Experian,TX,Credit reporting,,Incorrect information on credit report,Information is not mine,Yes,Web,,,77479,,N/A,2013-09-28,Closed with explanation,No,547164
+2013-09-25,Ditech Financial LLC,TX,Mortgage,Conventional fixed mortgage,Loan servicing payments escrow account,,Yes,Phone,,,77498,,N/A,2013-09-25,Closed with explanation,No,541834
+2013-08-08,Bank of America,TX,Mortgage,Other mortgage,Credit decision / Underwriting,,Yes,Postal mail,,,75044,,N/A,2013-08-09,Closed with explanation,Yes,483658
+2013-09-28,Equifax,TX,Credit reporting,,Incorrect information on credit report,Account status,Yes,Postal mail,,,76107,,N/A,2013-10-11,Closed with explanation,No,545933
+2013-11-05,Navient Solutions Inc,TX,Student loan,Non-federal student loan,Repaying your loan,Repaying your loan,Yes,Web,,,78644,,N/A,2013-11-15,Closed with explanation,No,586250
+2013-11-18,Equifax,TX,Credit reporting,,Unable to get credit report/credit score,Problem getting report or credit score,Yes,Postal mail,,,77391,Older American,N/A,2013-11-19,Closed with non-monetary relief,No,600698
+2013-10-23,Experian,TX,Credit reporting,,Credit reporting company's investigation,Investigation took too long,Yes,Web,,,75050,,N/A,2013-10-23,Closed with non-monetary relief,No,568551
+2013-09-28,Experian,TX,Credit reporting,,Incorrect information on credit report,Account status,Yes,Postal mail,,,76123,,N/A,2013-10-30,Closed with non-monetary relief,No,546487
+2013-11-13,Equifax,TX,Credit reporting,,Credit reporting company's investigation,Problem with statement of dispute,Yes,Web,,,77396,,N/A,2013-11-13,Closed with explanation,No,597041
+2013-09-07,Equifax,TX,Credit reporting,,Incorrect information on credit report,Information is not mine,Yes,Referral,,,79605,,N/A,2013-09-24,Closed with explanation,No,518727
+2013-09-28,Experian,TX,Credit reporting,,Incorrect information on credit report,Account status,Yes,Postal mail,,,76107,,N/A,2013-10-15,Closed with explanation,No,545928
+2013-09-28,Wells Fargo & Company,TX,Debt collection,Other (ie phone health club etc),Disclosure verification of debt,Not given enough info to verify debt,Yes,Postal mail,,,76107,,N/A,2013-10-02,Closed with explanation,No,545927
+2013-09-24,United PanAm Financial Corp,TX,Consumer Loan,Vehicle loan,Taking out the loan or lease,,Yes,Web,,,78832,,N/A,2013-10-31,Closed with explanation,No,539498
+2013-08-14,Expert Global Solutions Inc,TX,Debt collection,I do not know,Disclosure verification of debt,Not given enough info to verify debt,Yes,Web,,,77449,,N/A,2013-08-14,Closed with explanation,No,492292
+2013-11-22,Wells Fargo & Company,TX,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Referral,,,77351,,N/A,2013-11-25,Closed with non-monetary relief,Yes,608463
+2013-11-25,Amex,TX,Credit card,,Delinquent account,,Yes,Web,,,78254,Servicemember,N/A,2013-11-25,Closed with explanation,No,611751
+2013-10-01,TransUnion Intermediate Holdings Inc,TX,Credit reporting,,Credit reporting company's investigation,Problem with statement of dispute,Yes,Web,,,79938,,N/A,2013-10-01,Closed with explanation,No,549816
+2013-09-28,TransUnion Intermediate Holdings Inc,TX,Credit reporting,,Incorrect information on credit report,Account status,Yes,Postal mail,,,76107,,N/A,2013-10-17,Closed with explanation,No,545922
+2013-08-16,Wells Fargo & Company,TX,Bank account or service,Savings account,Account opening closing or management,,Yes,Web,,,77024,,N/A,2013-08-19,Closed with explanation,Yes,493518
+2013-10-18,JPMorgan Chase & Co,TX,Mortgage,FHA mortgage,Application originator mortgage broker,,Yes,Web,,,78505,,N/A,2013-10-21,Closed with explanation,No,563205
+2013-10-16,Experian,TX,Credit reporting,,Incorrect information on credit report,Account status,Yes,Postal mail,,,76006,,N/A,2013-11-13,Closed with non-monetary relief,No,561068
+2013-09-28,TransUnion Intermediate Holdings Inc,TX,Credit reporting,,Incorrect information on credit report,Account status,Yes,Postal mail,,,77471,,N/A,2013-10-09,Closed with explanation,No,546424
+2013-08-11,Citibank,TX,Credit card,,Credit determination,,Yes,Web,,,77068,,N/A,2013-08-11,Closed with explanation,Yes,486517
+2013-08-16,Convergent Resources Inc,TX,Debt collection,Other (ie phone health club etc),Cont'd attempts collect debt not owed,Debt is not mine,Yes,Web,,,75063,,N/A,2013-08-16,Closed with explanation,No,493531
+2013-11-18,Equifax,TX,Credit reporting,,Incorrect information on credit report,Account status,Yes,Postal mail,,,76135,,N/A,2013-11-19,Closed with non-monetary relief,No,601126
+2013-10-29,Experian,TX,Credit reporting,,Incorrect information on credit report,Account status,Yes,Postal mail,,,76116,,N/A,2013-11-27,Closed with non-monetary relief,No,575370
+2013-09-15,Discover,TX,Credit card,,Privacy,,Yes,Web,,,76028,,N/A,2013-09-17,Closed with non-monetary relief,No,526511
+2013-09-28,Equifax,TX,Credit reporting,,Incorrect information on credit report,Account status,Yes,Postal mail,,,77471,,N/A,2013-10-08,Closed with explanation,No,546442
+2013-07-26,JPMorgan Chase & Co,TX,Bank account or service,Checking account,Using a debit or ATM card,,Yes,Web,,,75070,,N/A,2013-07-29,Closed with monetary relief,No,474878
+2013-09-28,Equifax,TX,Credit reporting,,Incorrect information on credit report,Account status,Yes,Postal mail,,,77471,,N/A,2013-10-08,Closed with explanation,No,546438
+2013-10-25,HOVG LLC,TX,Debt collection,I do not know,Cont'd attempts collect debt not owed,Debt is not mine,Yes,Web,,,76052,Older American,N/A,2013-10-25,Closed with explanation,No,571189
+2013-10-01,Security Finance,TX,Debt collection,Other (ie phone health club etc),Cont'd attempts collect debt not owed,Debt is not mine,Yes,Postal mail,,,79109,,N/A,2013-10-02,Closed with explanation,No,550207
+2013-07-29,Houston Home Loan Inc,TX,Mortgage,Conventional fixed mortgage,Settlement process and costs,,Yes,Web,,,77386,,N/A,2013-08-30,Closed with explanation,Yes,469513
+2013-09-28,TransUnion Intermediate Holdings Inc,TX,Credit reporting,,Incorrect information on credit report,Account status,Yes,Postal mail,,,77471,,N/A,2013-10-09,Closed with explanation,No,546423
+2013-08-23,American Coradius International LLC,TX,Debt collection,I do not know,Disclosure verification of debt,Not given enough info to verify debt,Yes,Referral,,,75013,,N/A,2013-08-26,Closed with explanation,No,502986
+2013-07-25,Discover,TX,Debt collection,Credit card,Taking/threatening an illegal action,Sued w/o proper notification of suit,Yes,Web,,,75070,,N/A,2013-07-26,Closed with explanation,No,466787
+2013-09-28,Wells Fargo & Company,TX,Bank account or service,Checking account,Account opening closing or management,,Yes,Postal mail,,,78609,,N/A,2013-09-30,Closed with explanation,Yes,546451
+2013-09-28,Experian,TX,Credit reporting,,Incorrect information on credit report,Account status,Yes,Postal mail,,,77471,,N/A,2013-10-09,Closed with non-monetary relief,No,546435
+2013-09-28,Equifax,TX,Credit reporting,,Incorrect information on credit report,Account status,Yes,Postal mail,,,77471,,N/A,2013-10-10,Closed with explanation,No,546432
+2013-10-31,Experian,TX,Credit reporting,,Unable to get credit report/credit score,Problem getting my free annual report,Yes,Web,,,79602,,N/A,2013-12-11,Closed with non-monetary relief,No,579654
+2013-11-12,Tenet HealthCare Corporation,TX,Debt collection,Medical,Cont'd attempts collect debt not owed,Debt is not mine,Yes,Web,,,77205,,N/A,2013-11-12,Closed with explanation,Yes,593403
+2013-10-11,Cavalry Investments LLC,TX,Debt collection,Other (ie phone health club etc),False statements or representation,Attempted to collect wrong amount,Yes,Web,,,78130,,N/A,2013-10-11,Closed with non-monetary relief,No,558041
+2013-10-07,Portfolio Recovery Associates Inc,TX,Debt collection,Credit card,Cont'd attempts collect debt not owed,Debt is not mine,Yes,Web,,,77905,,N/A,2013-10-07,Closed with non-monetary relief,No,553717
+2013-07-31,Resurgent Capital Services LP,TX,Debt collection,Credit card,Cont'd attempts collect debt not owed,Debt was paid,Yes,Phone,,,79403,Servicemember,N/A,2013-08-06,Closed with explanation,No,480992
+2013-07-25,Synchrony Financial,TX,Credit card,,Billing disputes,,Yes,Web,,,76039,,N/A,2013-07-25,Closed with monetary relief,No,463183
+2013-11-05,JPMorgan Chase & Co,TX,Credit card,,Unsolicited issuance of credit card,,Yes,Web,,,75010,,N/A,2013-11-12,Closed with non-monetary relief,Yes,585324
+2013-10-18,Alpha Recovery Corp,TX,Debt collection,Other (ie phone health club etc),Improper contact or sharing of info,Talked to a third party about my debt,Yes,Web,,,76202,,N/A,2013-10-21,Closed with non-monetary relief,Yes,563384
+2013-08-23,CIT Bank National Association,TX,Mortgage,Reverse mortgage,Loan modificationcollectionforeclosure,,Yes,Web,,,79902,,N/A,2013-09-12,Closed,Yes,501354
+2013-07-25,Citibank,TX,Debt collection,Other (ie phone health club etc),Disclosure verification of debt,Not given enough info to verify debt,Yes,Web,,,78660,,N/A,2013-07-25,Closed with explanation,Yes,466749
+2013-08-14,Bank of America,TX,Bank account or service,(CD) Certificate of deposit,Account opening closing or management,,Yes,Web,,,75082,,N/A,2013-08-16,Closed with monetary relief,No,489023
+2013-10-23,Nationstar Mortgage,TX,Mortgage,Other mortgage,Loan servicing payments escrow account,,Yes,Referral,,,76904,,N/A,2013-10-24,Closed with explanation,No,568391
+2013-10-06,Experian,TX,Credit reporting,,Credit reporting company's investigation,Problem with statement of dispute,Yes,Web,,,78130,,N/A,2013-10-07,Closed with non-monetary relief,No,553339
+2013-10-28,TransUnion Intermediate Holdings Inc,TX,Credit reporting,,Incorrect information on credit report,Account status,Yes,Postal mail,,,77089,,N/A,2013-11-14,Closed with explanation,No,573526
+2013-11-05,Citibank,TX,Mortgage,Other mortgage,Loan modificationcollectionforeclosure,,Yes,Referral,,,77044,,N/A,2013-11-06,Closed with explanation,Yes,586486
+2013-11-05,Bank of America,TX,Bank account or service,Checking account,Account opening closing or management,,Yes,Referral,,,75206,,N/A,2013-11-06,Closed with non-monetary relief,No,586722
+2013-10-05,Barclays PLC,TX,Credit card,,Transaction issue,,Yes,Web,,,75025,Servicemember,N/A,2013-10-05,Closed with explanation,No,553136
+2013-11-19,Equifax,TX,Credit reporting,,Incorrect information on credit report,Information is not mine,Yes,Referral,,,77006,,N/A,2013-12-02,Closed with non-monetary relief,No,604323
+2013-09-19,TransUnion Intermediate Holdings Inc,TX,Credit reporting,,Incorrect information on credit report,Account status,Yes,Postal mail,,,76049,,N/A,2013-10-21,Closed with explanation,No,534010
+2013-08-29,Flagstar Bank,TX,Mortgage,FHA mortgage,Loan modificationcollectionforeclosure,,Yes,Web,,,75023,Older American,N/A,2013-08-30,Closed with explanation,Yes,509171
+2013-08-14,Wells Fargo & Company,TX,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Web,,,77449,,N/A,2013-08-15,Closed with explanation,No,489460
+2013-10-29,Experian,TX,Credit reporting,,Incorrect information on credit report,Account status,Yes,Postal mail,,,76039,,N/A,2013-11-19,Closed with explanation,No,575114
+2013-09-25,PayPal Holdings Inc,TX,Bank account or service,Other bank product/service,Making/receiving payments sending money,,Yes,Web,,,77546,,N/A,2013-09-27,Closed with non-monetary relief,No,541775
+2013-10-05,Discover,TX,Credit card,,Delinquent account,,Yes,Web,,,77379,,N/A,2013-10-05,Closed with explanation,No,553124
+2013-08-21,JPMorgan Chase & Co,TX,Mortgage,FHA mortgage,Loan modificationcollectionforeclosure,,Yes,Web,,,75243,,N/A,2013-08-21,Closed with explanation,No,498284
+2013-08-19,Wells Fargo & Company,TX,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Referral,,,78613,,N/A,2013-08-20,Closed with explanation,No,496494
+2013-11-18,Capital One,TX,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Web,,,75244,,N/A,2013-11-22,Closed with explanation,No,602021
+2013-08-16,Equifax,TX,Credit reporting,,Incorrect information on credit report,Account status,Yes,Postal mail,,,76085,,N/A,2013-09-11,Closed with explanation,No,493247
+2013-09-25,FCI Lender Services Inc,TX,Mortgage,Other mortgage,Loan modificationcollectionforeclosure,,Yes,Referral,,,75115,Older American,N/A,2013-09-26,Closed with explanation,No,542550
+2013-10-01,Experian,TX,Credit reporting,,Incorrect information on credit report,Reinserted previously deleted info,Yes,Web,,,78737,,N/A,2013-10-01,Closed with non-monetary relief,No,549136
+2013-09-08,Community Choice Financial Inc,TX,Bank account or service,Other bank product/service,Account opening closing or management,,Yes,Web,,,75206,,N/A,2013-10-23,Closed with explanation,No,518864
+2013-10-18,TransUnion Intermediate Holdings Inc,TX,Credit reporting,,Credit reporting company's investigation,Problem with statement of dispute,Yes,Web,,,78251,,N/A,2013-10-18,Closed with non-monetary relief,No,564183
+2013-08-23,TransUnion Intermediate Holdings Inc,TX,Credit reporting,,Incorrect information on credit report,Account status,Yes,Fax,,,75025,,N/A,2013-09-04,Closed with non-monetary relief,No,501979
+2013-12-03,Network Funding LP,TX,Mortgage,Conventional fixed mortgage,Application originator mortgage broker,,Yes,Web,,,77056,,N/A,2013-12-03,Closed with explanation,No,619688
+2013-11-22,Delbert Services,TX,Consumer Loan,Personal line of credit,Account terms and changes,,Yes,Web,,,75709,,N/A,2013-12-03,Closed with explanation,No,608788
+2013-11-22,US Bancorp,TX,Mortgage,Other mortgage,Loan modificationcollectionforeclosure,,Yes,Referral,,,78212,,N/A,2014-02-05,Closed with explanation,Yes,609825
+2013-09-27,Amex,TX,Credit card,,Unsolicited issuance of credit card,,Yes,Web,,,75010,,N/A,2013-11-06,Closed with non-monetary relief,Yes,547147
+2013-10-23,JPMorgan Chase & Co,TX,Credit card,,APR or interest rate,,Yes,Web,,,77338,,N/A,2013-10-23,Closed with explanation,No,568152
+2013-10-23,Citibank,TX,Bank account or service,Other bank product/service,Making/receiving payments sending money,,Yes,Web,,,77072,,N/A,2013-10-23,Closed with non-monetary relief,No,568144
+2013-11-12,The CBE Group Inc,TX,Debt collection,Other (ie phone health club etc),Communication tactics,Frequent or repeated calls,Yes,Postal mail,,,77093,,N/A,2013-11-13,Closed with explanation,No,593341
+2013-09-27,Zions Bancorporation,TX,Mortgage,Home equity loan or line of credit,Loan modificationcollectionforeclosure,,Yes,Web,,,77586,,N/A,2013-09-30,Closed with explanation,No,546089
+2013-08-08,21st Mortgage Corporation,TX,Mortgage,Other mortgage,Loan modificationcollectionforeclosure,,Yes,Web,,,78245,,N/A,2013-08-12,Closed with explanation,No,483420
+2013-09-27,SunTrust Banks Inc,TX,Mortgage,Conventional fixed mortgage,Loan modificationcollectionforeclosure,,Yes,Web,,,77586,,N/A,2013-09-30,Closed with explanation,Yes,546088
+2013-08-14,Bank of America,TX,Mortgage,Conventional fixed mortgage,Loan modificationcollectionforeclosure,,Yes,Web,,,76039,,N/A,2013-08-15,Closed with explanation,No,489446
+2013-09-09,Experian,TX,Credit reporting,,Credit reporting company's investigation,Problem with statement of dispute,Yes,Web,,,75123,,N/A,2013-09-13,Closed with non-monetary relief,No,519752
+2013-11-14,Experian,TX,Credit reporting,,Incorrect information on credit report,Account terms,Yes,Web,,,76131,,N/A,2013-11-13,Closed with non-monetary relief,No,598169
+2013-11-12,Equifax,TX,Credit reporting,,Incorrect information on credit report,Information is not mine,Yes,Web,,,76901,,N/A,2013-11-12,Closed with non-monetary relief,No,593418
+2013-09-23,Citibank,TX,Mortgage,Conventional fixed mortgage,Loan servicing payments escrow account,,Yes,Web,,,75081,Older American,N/A,2013-09-24,Closed with explanation,Yes,539018
+2013-10-04,Ocwen,TX,Mortgage,Other mortgage,Loan modificationcollectionforeclosure,,Yes,Postal mail,,,75115,,N/A,2013-10-07,Closed with explanation,No,552957
+2013-08-14,Citibank,TX,Credit card,,Late fee,,Yes,Web,,,75024,,N/A,2013-08-14,Closed with monetary relief,No,492046
+2013-10-01,Experian,TX,Credit reporting,,Incorrect information on credit report,Account status,Yes,Postal mail,,,76049,,N/A,2013-11-21,Closed with non-monetary relief,No,549642
+2013-11-14,Encore Capital Group,TX,Debt collection,Credit card,False statements or representation,Attempted to collect wrong amount,Yes,Web,,,78254,Servicemember,N/A,2013-11-15,Closed with explanation,No,598180
+2013-09-27,TransUnion Intermediate Holdings Inc,TX,Credit reporting,,Incorrect information on credit report,Account status,Yes,Postal mail,,,76114,,N/A,2013-10-15,Closed with explanation,No,547088
+2013-10-25,Discover,TX,Debt collection,Credit card,Communication tactics,Frequent or repeated calls,Yes,Phone,,,77073,Servicemember,N/A,2013-10-28,Closed with explanation,No,572373
+2013-11-14,Encore Capital Group,TX,Debt collection,Credit card,False statements or representation,Attempted to collect wrong amount,Yes,Web,,,78254,,N/A,2013-11-13,Closed with explanation,No,598181
+2013-09-27,Wells Fargo & Company,TX,Mortgage,VA mortgage,Loan modificationcollectionforeclosure,,Yes,Web,,,78660,,N/A,2013-10-01,Closed with explanation,No,546833
+2013-09-14,Experian,TX,Credit reporting,,Incorrect information on credit report,Information is not mine,Yes,Web,,,75149,,N/A,2013-09-16,Closed with non-monetary relief,No,526262
+2013-09-27,Discover,TX,Credit card,,Credit line increase/decrease,,Yes,Web,,,75204,,N/A,2013-09-27,Closed with explanation,No,547146
+2013-07-30,Experian,TX,Credit reporting,,Unable to get credit report/credit score,Problem getting my free annual report,Yes,Web,,,76107,,N/A,2013-08-06,Closed with non-monetary relief,No,470195
+2013-09-27,Equifax,TX,Credit reporting,,Incorrect information on credit report,Information is not mine,Yes,Web,,,78225,,N/A,2013-09-27,Closed with explanation,Yes,546701
+2013-11-25,Equifax,TX,Credit reporting,,Credit reporting company's investigation,Inadequate help over the phone,Yes,Web,,,85023,,N/A,2013-11-25,Closed with explanation,No,611549
+2013-07-25,PHH Mortgage,TX,Mortgage,Other mortgage,Settlement process and costs,,Yes,Web,,,75701,,N/A,2013-07-29,Closed with monetary relief,No,467124
+2013-08-08,Bank of America,TX,Bank account or service,Checking account,Account opening closing or management,,Yes,Web,,,75217,,N/A,2013-08-12,Closed with explanation,No,483361
+2013-09-23,Arbor Residential Mortgage LLC,TX,Mortgage,Conventional fixed mortgage,Loan modificationcollectionforeclosure,,Yes,Web,,,77386,,N/A,2013-09-24,Closed with explanation,No,538461
+2013-09-23,Experian,TX,Credit reporting,,Credit monitoring or identity protection,Account terms and changes,Yes,Referral,,,78216,,N/A,2013-11-19,Closed with non-monetary relief,No,538564
+2013-09-27,M&T Bank Corporation,TX,Mortgage,FHA mortgage,Loan servicing payments escrow account,,Yes,Web,,,77489,,N/A,2013-09-30,Closed with explanation,No,545781
+2013-09-27,JPMorgan Chase & Co,TX,Debt collection,Credit card,Taking/threatening an illegal action,Sued w/o proper notification of suit,Yes,Web,,,75054,,N/A,2013-09-27,Closed with explanation,No,546787
+2013-08-08,Synchrony Financial,TX,Credit card,,Payoff process,,Yes,Web,,,75040,,N/A,2013-08-08,Closed with explanation,No,483342
+2013-08-19,Allied Interstate LLC,TX,Debt collection,I do not know,Communication tactics,Frequent or repeated calls,Yes,Phone,,,78413,,N/A,2013-08-20,Closed with non-monetary relief,No,495027
+2013-09-23,Nationstar Mortgage,TX,Mortgage,Other mortgage,Loan modificationcollectionforeclosure,,Yes,Referral,,,75238,,N/A,2013-09-24,Closed with explanation,No,538245
+2013-11-05,Synchrony Financial,TX,Credit card,,Closing/Cancelling account,,Yes,Web,,,75963,,N/A,2013-11-05,Closed with non-monetary relief,No,586745
+2013-11-07,Navient Solutions Inc,TX,Student loan,Non-federal student loan,Problems when you are unable to pay,Problems when you are unable to pay,Yes,Web,,,77304,,N/A,2013-11-07,Closed with explanation,Yes,589144
+2013-10-18,Ocwen,TX,Mortgage,Other mortgage,Loan servicing payments escrow account,,Yes,Referral,,,76135,,N/A,2013-10-22,Closed with explanation,Yes,563746
+2013-09-27,Equifax,TX,Credit reporting,,Incorrect information on credit report,Reinserted previously deleted info,Yes,Postal mail,,,76148,,N/A,2013-10-24,Closed with explanation,No,545617
+2013-10-04,Equifax,TX,Credit reporting,,Incorrect information on credit report,Account status,Yes,Postal mail,,,77017,,N/A,2013-10-28,Closed with explanation,No,552725
+2013-10-04,Bank of America,TX,Bank account or service,Checking account,Using a debit or ATM card,,Yes,Referral,,,75001,,N/A,2013-10-08,Closed with explanation,No,553474
+2013-10-04,Bank of America,TX,Debt collection,Credit card,Disclosure verification of debt,Not given enough info to verify debt,Yes,Postal mail,,,76028,,N/A,2013-10-07,Closed with explanation,No,552907
+2013-08-12,Equifax,TX,Credit reporting,,Incorrect information on credit report,Account status,Yes,Postal mail,,,78163,,N/A,2013-09-10,Closed with explanation,No,487370
+2013-09-09,Wells Fargo & Company,TX,Mortgage,Conventional adjustable mortgage (ARM),Loan modificationcollectionforeclosure,,Yes,Referral,,,78247,,N/A,2013-09-09,Closed with explanation,No,519535
+2013-10-18,Allied Interstate LLC,TX,Debt collection,Other (ie phone health club etc),Communication tactics,Called after sent written cease of comm,Yes,Phone,,,75081,,N/A,2013-10-21,Closed with non-monetary relief,No,563762
+2013-10-01,International Computer Systems Inc,TX,Debt collection,Other (ie phone health club etc),Disclosure verification of debt,Not given enough info to verify debt,Yes,Web,,,76244,,N/A,2013-10-17,Closed with explanation,No,549529
+2013-09-27,Alorica Inc,TX,Debt collection,Medical,Cont'd attempts collect debt not owed,Debt was paid,Yes,Referral,,,76016,,N/A,2013-09-30,Closed with explanation,No,545461
+2013-10-04,Fifth Third Financial Corporation,TX,Consumer Loan,Vehicle loan,Managing the loan or lease,,Yes,Referral,,,77407,,N/A,2013-10-07,Closed with monetary relief,No,552980
+2013-08-08,Equifax,TX,Credit reporting,,Incorrect information on credit report,Account status,Yes,Postal mail,,,77720,,N/A,2013-08-30,Closed with explanation,No,483309
+2013-08-01,Capital One,TX,Credit card,,Billing disputes,,Yes,Referral,,,76020,,N/A,2013-08-05,Closed with explanation,Yes,455049
+2013-09-23,Experian,TX,Credit reporting,,Credit reporting company's investigation,Problem with statement of dispute,Yes,Web,,,75070,,N/A,2013-09-23,Closed with non-monetary relief,No,538976
+2013-10-04,Experian,TX,Credit reporting,,Incorrect information on credit report,Information is not mine,Yes,Postal mail,,,77017,,N/A,2013-10-04,Closed with explanation,No,552724
+2013-09-27,Frost-Arnett Company,TX,Credit reporting,,Incorrect information on credit report,Account status,Yes,Web,,,77266,Servicemember,N/A,2013-10-23,Closed with explanation,No,545365
+2013-10-04,HSBC North America Holdings Inc,TX,Credit card,,Closing/Cancelling account,,Yes,Web,,,77386,,N/A,2013-10-04,Closed,No,552682
+2013-08-24,Bank of America,TX,Mortgage,FHA mortgage,Loan modificationcollectionforeclosure,,Yes,Web,,,75002,,N/A,2013-08-27,Closed with explanation,No,503265
+2013-10-19,Bank of America,TX,Mortgage,VA mortgage,Loan modificationcollectionforeclosure,,Yes,Web,,,79908,Servicemember,N/A,2013-10-21,Closed with explanation,No,563819
+2013-10-31,Experian,TX,Credit reporting,,Credit monitoring or identity protection,Problem with fraud alerts,Yes,Referral,,,76063,,N/A,2013-11-18,Closed with explanation,No,580171
+2013-11-14,JPMorgan Chase & Co,TX,Bank account or service,Checking account,Account opening closing or management,,Yes,Referral,,,79413,,N/A,2013-11-18,Closed with explanation,No,598313
+2013-09-27,Wells Fargo & Company,TX,Consumer Loan,Vehicle loan,Managing the loan or lease,,Yes,Web,,,78602,,N/A,2013-10-01,Closed with explanation,No,545272
+2013-08-24,InterFirst Mortgage Company,TX,Mortgage,Conventional fixed mortgage,Loan servicing payments escrow account,,Yes,Web,,,75024,,N/A,2013-08-26,Closed with explanation,Yes,503272
+2013-09-09,Exeter Finance Corp,TX,Consumer Loan,Vehicle loan,Managing the loan or lease,,Yes,Postal mail,,,77489,,N/A,2013-09-10,Closed with explanation,No,519437
+2013-07-25,Experian,TX,Credit reporting,,Unable to get credit report/credit score,Problem getting my free annual report,Yes,Web,,,75032,Older American,N/A,2013-08-01,Closed with non-monetary relief,Yes,466974
+2013-08-16,Synchrony Financial,TX,Credit card,,Billing disputes,,Yes,Web,,,75180,,N/A,2013-08-20,Closed with monetary relief,No,494133
+2013-08-21,PHH Mortgage,TX,Mortgage,Conventional fixed mortgage,Settlement process and costs,,Yes,Phone,,,76180,Servicemember,N/A,2013-08-22,Closed with explanation,No,499510
+2013-09-18,Gryphon Corp,TX,Debt collection,Credit card,Disclosure verification of debt,Not given enough info to verify debt,Yes,Web,,,77038,,N/A,2013-09-19,Closed with explanation,No,532952
+2013-09-13,Ocwen,TX,Mortgage,Other mortgage,Loan servicing payments escrow account,,Yes,Web,,,78109,,N/A,2013-09-16,Closed with explanation,Yes,526961
+2013-09-20,TransUnion Intermediate Holdings Inc,TX,Credit reporting,,Incorrect information on credit report,Account status,Yes,Postal mail,,,76049,,N/A,2013-10-21,Closed with explanation,No,535819
+2013-09-20,TransUnion Intermediate Holdings Inc,TX,Credit reporting,,Incorrect information on credit report,Account status,Yes,Postal mail,,,76049,,N/A,2013-10-21,Closed with explanation,No,535820
+2013-10-04,Equifax,TX,Credit reporting,,Unable to get credit report/credit score,Problem getting my free annual report,Yes,Web,,,75844,,N/A,2013-10-03,Closed with non-monetary relief,No,552465
+2013-09-27,Experian,TX,Credit reporting,,Incorrect information on credit report,Public record,Yes,Referral,,,75023,,N/A,2013-10-16,Closed with non-monetary relief,No,545286
+2013-10-03,Citibank,TX,Money transfers,Domestic (US) money transfer,Other transaction issues,,Yes,Web,,,75043,Older American,N/A,2013-10-03,Closed with explanation,Yes,552126
+2013-09-27,Citibank,TX,Mortgage,Conventional fixed mortgage,Loan servicing payments escrow account,,Yes,Web,,,76244,,N/A,2013-09-30,Closed with explanation,Yes,546702
+2013-09-27,Bayview Loan Servicing LLC,TX,Mortgage,Conventional fixed mortgage,Loan servicing payments escrow account,,Yes,Phone,,,77355,,N/A,2013-09-27,Closed with explanation,No,545133
+2013-08-29,Equifax,TX,Credit reporting,,Incorrect information on credit report,Account status,Yes,Postal mail,,,76049,,N/A,2013-09-12,Closed with explanation,No,508552
+2013-10-16,Bank of America,TX,Mortgage,Other mortgage,Loan modificationcollectionforeclosure,,Yes,Referral,,,77489,,N/A,2013-10-17,Closed with explanation,No,560448
+2013-11-22,Bank of America,TX,Mortgage,Conventional fixed mortgage,Loan servicing payments escrow account,,Yes,Web,,,75134,Older American,N/A,2013-11-26,Closed with explanation,No,609860
+2013-11-06,Wells Fargo & Company,TX,Mortgage,Conventional fixed mortgage,Loan servicing payments escrow account,,Yes,Web,,,79936,,N/A,2013-11-05,Closed with explanation,No,587484
+2013-08-16,Synchrony Financial,TX,Credit card,,Billing disputes,,Yes,Web,,,75180,Older American,N/A,2013-08-16,Closed with monetary relief,No,494134
+2013-11-22,IQ Data International Inc,TX,Debt collection,Other (ie phone health club etc),Cont'd attempts collect debt not owed,Debt is not mine,Yes,Web,,,75007,,N/A,2013-11-22,Closed with explanation,Yes,609142
+2013-11-06,Frost-Arnett Company,TX,Debt collection,Medical,Cont'd attempts collect debt not owed,Debt is not mine,Yes,Web,,,77701,,N/A,2013-11-15,Closed with explanation,No,587495
+2013-08-24,Experian,TX,Credit reporting,,Incorrect information on credit report,Account status,Yes,Postal mail,,,76131,,N/A,2013-11-13,Closed with non-monetary relief,No,503356
+2013-08-24,Equifax,TX,Credit reporting,,Incorrect information on credit report,Account status,Yes,Postal mail,,,79760,,N/A,2013-08-26,Closed with non-monetary relief,No,503368
+2013-08-24,TransUnion Intermediate Holdings Inc,TX,Credit reporting,,Incorrect information on credit report,Account status,Yes,Postal mail,,,76131,,N/A,2013-11-13,Closed with explanation,No,503357
+2013-08-01,Equifax,TX,Credit reporting,,Incorrect information on credit report,Reinserted previously deleted info,Yes,Web,,,78070,,N/A,2013-08-01,Closed with non-monetary relief,Yes,471841
+2013-08-08,TransUnion Intermediate Holdings Inc,TX,Credit reporting,,Incorrect information on credit report,Public record,Yes,Web,,,76008,,N/A,2013-08-08,Closed with explanation,Yes,482793
+2013-08-29,Equifax,TX,Credit reporting,,Incorrect information on credit report,Account status,Yes,Postal mail,,,76109,,N/A,2013-09-12,Closed with explanation,No,508566
+2013-08-24,TransUnion Intermediate Holdings Inc,TX,Credit reporting,,Incorrect information on credit report,Account status,Yes,Postal mail,,,79760,,N/A,2013-08-26,Closed with explanation,No,503369
+2013-11-20,Navient Solutions Inc,TX,Debt collection,I do not know,Communication tactics,Frequent or repeated calls,Yes,Phone,,,78253,,N/A,2013-11-21,Closed with non-monetary relief,No,605766
+2013-11-14,Experian,TX,Credit reporting,,Incorrect information on credit report,Account status,Yes,Postal mail,,,75146,,N/A,2013-11-20,Closed with non-monetary relief,No,600505
+2013-08-24,Equifax,TX,Credit reporting,,Incorrect information on credit report,Account status,Yes,Postal mail,,,76115,,N/A,2013-09-11,Closed with non-monetary relief,No,503397
+2013-11-20,Ditech Financial LLC,TX,Mortgage,Other mortgage,Loan modificationcollectionforeclosure,,Yes,Phone,,,75169,,N/A,2013-11-20,Closed with explanation,No,605729
+2013-08-13,Capital One,TX,Credit card,,Billing disputes,,Yes,Web,,,75074,,N/A,2013-08-20,Closed with monetary relief,No,489320
+2013-08-24,Discover,TX,Credit card,,Other,,Yes,Postal mail,,,76131,,N/A,2013-08-26,Closed with explanation,No,503361
+2013-08-20,Ocwen,TX,Mortgage,Second mortgage,Loan servicing payments escrow account,,Yes,Phone,,,78246,Older American,N/A,2013-08-20,Closed with explanation,No,497127
+2013-08-19,Fifth Third Financial Corporation,TX,Consumer Loan,Vehicle loan,Managing the loan or lease,,Yes,Web,,,75757,,N/A,2013-08-20,Closed with explanation,No,496095
+2013-10-03,The CBE Group Inc,TX,Debt collection,Federal student loan,Communication tactics,Frequent or repeated calls,Yes,Web,,,75043,,N/A,2013-10-03,Closed with explanation,No,551957
+2013-08-24,TransUnion Intermediate Holdings Inc,TX,Credit reporting,,Incorrect information on credit report,Account status,Yes,Postal mail,,,76115,,N/A,2013-09-12,Closed with explanation,No,503424
+2013-09-11,Linebarger Goggan Blair & Sampson LLP,TX,Debt collection,Medical,Cont'd attempts collect debt not owed,Debt was paid,Yes,Referral,,,78108,,N/A,2013-10-07,Closed with explanation,No,523377
+2013-08-24,Wells Fargo & Company,TX,Credit reporting,,Incorrect information on credit report,Account status,Yes,Postal mail,,,75052,,N/A,2013-08-26,Closed with non-monetary relief,No,503433
+2013-09-09,Equifax,TX,Credit reporting,,Credit monitoring or identity protection,Problem with fraud alerts,Yes,Postal mail,,,76104,,N/A,2013-10-15,Closed with explanation,No,519618
+2013-10-20,TransUnion Intermediate Holdings Inc,TX,Credit reporting,,Incorrect information on credit report,Information is not mine,Yes,Web,,,75057,,N/A,2013-10-19,Closed with explanation,No,564004
+2013-08-29,JPMorgan Chase & Co,TX,Mortgage,FHA mortgage,Credit decision / Underwriting,,Yes,Web,,,76266,,N/A,2013-08-30,Closed with explanation,No,509562
+2013-07-31,US Bancorp,TX,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Web,,,75025,,N/A,2013-08-02,Closed with explanation,No,471152
+2013-11-22,Ditech Financial LLC,TX,Mortgage,Home equity loan or line of credit,Loan modificationcollectionforeclosure,,Yes,Web,,,77572,,N/A,2013-11-22,Closed with explanation,Yes,609258
+2013-08-01,JPMorgan Chase & Co,TX,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Referral,,,75217,,N/A,2013-08-05,Closed with explanation,No,472576
+2013-07-25,Southwest Credit Systems LP,TX,Debt collection,Other (ie phone health club etc),Communication tactics,Frequent or repeated calls,Yes,Phone,,,76310,,N/A,2013-08-01,Closed with explanation,No,466298
+2013-10-20,Oxford Law LLC,TX,Debt collection,Credit card,False statements or representation,Impersonated an attorney or official,Yes,Web,,,76708,,N/A,2013-10-22,Closed with non-monetary relief,No,564014
+2013-08-07,Bank of America,TX,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Web,,,77068,,N/A,2013-08-09,Closed with monetary relief,No,483067
+2013-08-01,JPMorgan Chase & Co,TX,Mortgage,Other mortgage,Loan modificationcollectionforeclosure,,Yes,Fax,,,77546,,N/A,2013-08-05,Closed with explanation,Yes,471739
+2013-10-20,Citibank,TX,Mortgage,Conventional fixed mortgage,Loan modificationcollectionforeclosure,,Yes,Web,,,76063,Older American,N/A,2013-10-21,Closed with explanation,Yes,564035
+2013-12-03,Navient Solutions Inc,TX,Student loan,Non-federal student loan,Repaying your loan,Repaying your loan,Yes,Web,,,78744,,N/A,2013-12-03,Closed with non-monetary relief,No,618826
+2013-10-27,Sallie Mae,TX,Student loan,Non-federal student loan,Repaying your loan,Repaying your loan,Yes,Web,,,76180,,N/A,2013-10-27,Closed with non-monetary relief,No,572677
+2013-10-16,Nationstar Mortgage,TX,Mortgage,Reverse mortgage,Loan servicing payments escrow account,,Yes,Postal mail,,,75116,,N/A,2013-10-17,Closed with explanation,Yes,559944
+2013-09-26,Discover,TX,Credit card,,Customer service / Customer relations,,Yes,Web,,,78681,Older American,N/A,2013-09-27,Closed with explanation,No,544271
+2013-10-27,Reverse Mortgage Solutions,TX,Mortgage,Reverse mortgage,Loan modificationcollectionforeclosure,,Yes,Web,,,77386,,N/A,2013-10-27,Closed,No,572683
+2013-11-13,Capital One,TX,Credit card,,APR or interest rate,,Yes,Web,,,76227,,N/A,2013-11-14,Closed with explanation,No,595298
+2013-08-28,Resurgent Capital Services LP,TX,Debt collection,I do not know,Disclosure verification of debt,Not given enough info to verify debt,Yes,Referral,,,77083,,N/A,2013-08-29,Closed with explanation,No,507873
+2013-09-05,Justice Finance Company,TX,Consumer Loan,Installment loan,Shopping for a loan or lease,,Yes,Referral,,,75160,,N/A,2013-10-28,Closed with explanation,No,516487
+2013-10-16,Caliber Home Loans Inc,TX,Mortgage,Other mortgage,Loan modificationcollectionforeclosure,,Yes,Referral,,,77489,,N/A,2013-10-22,Closed with explanation,No,560447
+2013-08-19,AllianceOne Recievables Management,TX,Debt collection,Other (ie phone health club etc),Improper contact or sharing of info,Contacted me after I asked not to,Yes,Web,,,38109,,N/A,2013-08-20,Closed with non-monetary relief,Yes,496121
+2013-09-11,Bank of America,TX,Mortgage,FHA mortgage,Loan modificationcollectionforeclosure,,Yes,Web,,,77489,,N/A,2013-09-11,Closed with explanation,Yes,522674
+2013-08-13,Citibank,TX,Bank account or service,Checking account,Making/receiving payments sending money,,Yes,Referral,,,77573,,N/A,2013-08-15,Closed with explanation,No,489470
+2013-09-25,JPMorgan Chase & Co,TX,Mortgage,Other mortgage,Loan modificationcollectionforeclosure,,Yes,Web,,,75709,Servicemember,N/A,2013-09-25,Closed with explanation,No,541476
+2013-08-29,Capital One,TX,Credit card,,Closing/Cancelling account,,Yes,Web,,,77215,,N/A,2013-08-29,Closed with monetary relief,No,509547
+2013-11-06,Encore Capital Group,TX,Debt collection,Credit card,False statements or representation,Attempted to collect wrong amount,Yes,Web,,,77042,,N/A,2013-11-06,Closed with explanation,Yes,587658
+2013-09-26,Citibank,TX,Debt collection,Credit card,Taking/threatening an illegal action,Sued w/o proper notification of suit,Yes,Web,,,78641,,N/A,2013-09-26,Closed with explanation,No,544216
+2013-09-23,Experian,TX,Credit reporting,,Incorrect information on credit report,Account status,Yes,Postal mail,,,78704,,N/A,2013-10-17,Closed with non-monetary relief,No,537796
+2013-09-10,Regions Financial Corporation,TX,Credit card,,Payoff process,,Yes,Web,,,75007,,N/A,2014-10-23,Closed with explanation,No,522640
+2013-10-16,Experian,TX,Credit reporting,,Incorrect information on credit report,Account status,Yes,Postal mail,,,76126,,N/A,2013-11-07,Closed with non-monetary relief,No,559999
+2013-11-07,Diversified Consultants Inc,TX,Debt collection,Other (ie phone health club etc),Cont'd attempts collect debt not owed,Debt is not mine,Yes,Web,,,77065,,N/A,2013-11-07,Closed with explanation,No,590234
+2013-11-25,Cash America International Inc,TX,Debt collection,Payday loan,Communication tactics,Frequent or repeated calls,Yes,Web,,,77066,,N/A,2013-11-25,Closed with explanation,No,611616
+2013-08-27,Equifax,TX,Credit reporting,,Incorrect information on credit report,Account status,Yes,Postal mail,,,76049,,N/A,2013-09-12,Closed with explanation,No,505244
+2013-09-23,JPMorgan Chase & Co,TX,Mortgage,Other mortgage,Loan modificationcollectionforeclosure,,Yes,Referral,,,76210,,N/A,2013-09-23,Closed with explanation,Yes,537930
+2013-10-01,Experian,TX,Credit reporting,,Incorrect information on credit report,Account status,Yes,Postal mail,,,76116,,N/A,2013-11-04,Closed with explanation,No,549170
+2013-09-23,Citibank,TX,Credit card,,Other,,Yes,Referral,,,78741,,N/A,2013-09-23,Closed with explanation,Yes,538041
+2013-08-13,SunTrust Banks Inc,TX,Bank account or service,Checking account,Account opening closing or management,,Yes,Referral,,,78520,,N/A,2013-08-15,Closed with monetary relief,No,489488
+2013-10-03,Equifax,TX,Credit reporting,,Incorrect information on credit report,Information is not mine,Yes,Postal mail,,,75043,,N/A,2013-11-05,Closed with non-monetary relief,No,551336
+2013-10-21,Justice Finance Company,TX,Debt collection,Other (ie phone health club etc),False statements or representation,Attempted to collect wrong amount,Yes,Web,,,75149,Servicemember,N/A,2013-10-28,Closed with non-monetary relief,Yes,564434
+2013-10-21,Capital One,TX,Credit card,,Delinquent account,,Yes,Web,,,75149,,N/A,2013-10-21,Closed with explanation,No,564435
+2013-09-23,Capital One,TX,Credit card,,Credit line increase/decrease,,Yes,Web,,,75204,,N/A,2013-09-22,Closed with explanation,No,539352
+2013-11-23,Ditech Financial LLC,TX,Mortgage,Conventional fixed mortgage,Loan modificationcollectionforeclosure,,Yes,Web,,,77084,,N/A,2013-11-22,Closed with explanation,No,609822
+2013-10-03,Wells Fargo & Company,TX,Mortgage,FHA mortgage,Loan modificationcollectionforeclosure,,Yes,Web,,,77905,,N/A,2013-10-11,Closed with explanation,Yes,551647
+2013-10-16,TransUnion Intermediate Holdings Inc,TX,Credit reporting,,Incorrect information on credit report,Account status,Yes,Postal mail,,,76006,,N/A,2013-11-13,Closed with explanation,No,560083
+2013-10-21,Trident Asset Management LLC,TX,Debt collection,Other (ie phone health club etc),Communication tactics,Threatened to take legal action,Yes,Web,,,76262,,N/A,2013-10-21,Closed with non-monetary relief,No,564643
+2013-10-16,Experian,TX,Credit reporting,,Incorrect information on credit report,Reinserted previously deleted info,Yes,Postal mail,,,76006,,N/A,2013-11-14,Closed with non-monetary relief,No,560079
+2013-08-07,Equifax,TX,Credit reporting,,Unable to get credit report/credit score,Problem getting report or credit score,Yes,Web,,,77008,,N/A,2013-08-07,Closed with non-monetary relief,No,482997
+2013-12-03,MicroBilt / PRBC (formerly CL Verify),TX,Debt collection,I do not know,Communication tactics,Threatened to take legal action,Yes,Phone,,,78734,,N/A,2013-12-04,Closed with explanation,No,619726
+2013-09-30,Navient Solutions Inc,TX,Debt collection,I do not know,Communication tactics,Frequent or repeated calls,Yes,Phone,,,76501,Servicemember,N/A,2013-10-01,Closed with non-monetary relief,No,547929
+2013-09-10,Select Portfolio Servicing Inc,TX,Debt collection,Mortgage,Communication tactics,Frequent or repeated calls,Yes,Phone,,,77021,,N/A,2013-09-11,Closed with explanation,No,522489
+2013-08-13,USAA Savings,TX,Credit card,,Billing disputes,,Yes,Referral,,,75013,,N/A,2013-08-15,Closed with non-monetary relief,No,489458
+2013-10-16,Equifax,TX,Credit reporting,,Incorrect information on credit report,Account terms,Yes,Web,,,78130,,N/A,2013-10-16,Closed with non-monetary relief,No,560718
+2013-09-17,BBVA Compass,TX,Credit card,,Closing/Cancelling account,,Yes,Web,,,75228,,N/A,2013-09-17,Closed with explanation,No,531862
+2013-07-24,Capital One,TX,Credit card,,Billing statement,,Yes,Postal mail,,,76112,,N/A,2013-07-25,Closed with explanation,No,464854
+2013-09-11,Pulte Mortgage,TX,Mortgage,Conventional fixed mortgage,Loan modificationcollectionforeclosure,,Yes,Phone,,,75219,Older American,N/A,2013-09-12,Closed with explanation,Yes,524493
+2013-08-12,Experian,TX,Credit reporting,,Incorrect information on credit report,Information is not mine,Yes,Postal mail,,,75979,,N/A,2013-08-15,Closed with non-monetary relief,No,487003
+2013-08-28,ERC,TX,Debt collection,I do not know,Disclosure verification of debt,Not given enough info to verify debt,Yes,Referral,,,75024,,N/A,2013-08-29,Closed with non-monetary relief,No,501304
+2013-09-22,TransUnion Intermediate Holdings Inc,TX,Credit reporting,,Incorrect information on credit report,Account status,Yes,Web,,,76011,,N/A,2013-09-24,Closed with explanation,No,537161
+2013-08-17,Convergent Resources Inc,TX,Debt collection,Other (ie phone health club etc),Disclosure verification of debt,Not given enough info to verify debt,Yes,Referral,,,75043,,N/A,2013-08-19,Closed with explanation,No,494534
+2013-07-30,Experian,TX,Credit reporting,,Credit reporting company's investigation,No notice of investigation status/result,Yes,Web,,,76706,,N/A,2013-07-30,Closed with explanation,No,470018
+2013-09-22,BBVA Compass,TX,Mortgage,Conventional fixed mortgage,Loan servicing payments escrow account,,Yes,Web,,,77025,,N/A,2013-09-24,Closed with explanation,No,537167
+2013-11-06,Van Ru Credit Corporation,TX,Debt collection,I do not know,Improper contact or sharing of info,Contacted employer after asked not to,Yes,Web,,,78653,,N/A,2013-11-20,Closed with explanation,Yes,587933
+2013-11-06,Equifax,TX,Credit reporting,,Credit reporting company's investigation,Inadequate help over the phone,Yes,Web,,,77022,,N/A,2013-11-06,Closed with explanation,No,587945
+2013-09-26,US Bancorp,TX,Debt collection,Credit card,Improper contact or sharing of info,Contacted employer after asked not to,Yes,Web,,,77339,,N/A,2013-09-26,Closed with explanation,No,543996
+2013-09-26,CarMax Inc,TX,Consumer Loan,Vehicle loan,Managing the loan or lease,,Yes,Web,,,75287,Older American,N/A,2013-09-27,Closed with explanation,No,543978
+2013-11-06,TransUnion Intermediate Holdings Inc,TX,Credit reporting,,Incorrect information on credit report,Account status,Yes,Postal mail,,,76085,,N/A,2013-12-02,Closed with explanation,No,587211
+2013-10-03,Navy FCU,TX,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Email,,,76244,,N/A,2013-10-03,Closed with explanation,No,551688
+2013-11-06,Experian,TX,Credit reporting,,Incorrect information on credit report,Information is not mine,Yes,Postal mail,,,77073,,N/A,2013-11-21,Closed with explanation,No,587953
+2013-09-13,TransUnion Intermediate Holdings Inc,TX,Credit reporting,,Incorrect information on credit report,Account status,Yes,Web,,,77084,Older American,N/A,2013-09-15,Closed with non-monetary relief,No,527977
+2013-11-06,Equifax,TX,Credit reporting,,Incorrect information on credit report,Information is not mine,Yes,Postal mail,,,77073,,N/A,2013-11-21,Closed with explanation,No,587954
+2013-10-03,Amex,TX,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Referral,,,77095,,N/A,2013-10-04,Closed with monetary relief,Yes,551787
+2013-10-01,TransUnion Intermediate Holdings Inc,TX,Credit reporting,,Incorrect information on credit report,Account status,Yes,Postal mail,,,76116,,N/A,2013-11-04,Closed with explanation,No,549165
+2013-09-11,Equifax,TX,Credit reporting,,Incorrect information on credit report,Information is not mine,Yes,Postal mail,,,76119,,N/A,2013-10-01,Closed with explanation,No,523904
+2013-09-06,CNG Financial Corporation,TX,Debt collection,Other (ie phone health club etc),False statements or representation,Impersonated an attorney or official,No,Phone,,,75057,,N/A,2013-09-25,Closed with explanation,,517331
+2013-07-31,Total Recovery Solutions,TX,Debt collection,Other (ie phone health club etc),Improper contact or sharing of info,Contacted me after I asked not to,Yes,Web,,,77551,,N/A,2013-08-16,Closed with explanation,Yes,482436
+2013-10-21,Ocwen,TX,Mortgage,Other mortgage,Settlement process and costs,,Yes,Web,,,77073,,N/A,2013-10-22,Closed with explanation,Yes,564863
+2013-10-21,Experian,TX,Credit reporting,,Incorrect information on credit report,Account status,Yes,Postal mail,,,76051,,N/A,2013-11-25,Closed with explanation,No,564880
+2013-10-01,TransUnion Intermediate Holdings Inc,TX,Credit reporting,,Incorrect information on credit report,Account status,Yes,Postal mail,,,76116,,N/A,2013-11-01,Closed with explanation,No,549164
+2013-09-09,Wells Fargo & Company,TX,Mortgage,Other mortgage,Loan servicing payments escrow account,,Yes,Postal mail,,,75070,,N/A,2013-09-09,Closed with explanation,No,519116
+2013-10-22,Nationstar Mortgage,TX,Mortgage,Conventional fixed mortgage,Loan servicing payments escrow account,,Yes,Web,,,79606,Servicemember,N/A,2013-10-22,Closed with explanation,No,565809
+2013-07-24,JPMorgan Chase & Co,TX,Bank account or service,Checking account,Problems caused by my funds being low,,Yes,Web,,,77065,,N/A,2013-07-24,Closed with explanation,No,464803
+2013-08-28,Wells Fargo & Company,TX,Mortgage,Other mortgage,Loan modificationcollectionforeclosure,,Yes,Web,,,75418,,N/A,2013-08-29,Closed with explanation,Yes,506627
+2013-09-21,Equifax,TX,Credit reporting,,Unable to get credit report/credit score,Problem getting my free annual report,Yes,Web,,,78255,Servicemember,N/A,2013-09-21,Closed with non-monetary relief,No,537001
+2013-09-02,Wells Fargo & Company,TX,Mortgage,Conventional fixed mortgage,Application originator mortgage broker,,Yes,Web,,,78258,,N/A,2013-09-03,Closed with monetary relief,No,512550
+2013-07-24,Credit Systems International Inc,TX,Debt collection,I do not know,Cont'd attempts collect debt not owed,Debt is not mine,Yes,Web,,,79912,,N/A,2013-07-31,Closed with explanation,No,464792
+2013-09-21,AES/PHEAA,TX,Student loan,Non-federal student loan,Repaying your loan,Repaying your loan,Yes,Web,,,78229,,N/A,2013-09-23,Closed with explanation,No,537015
+2013-07-24,TransUnion Intermediate Holdings Inc,TX,Credit reporting,,Credit reporting company's investigation,Problem with statement of dispute,Yes,Web,,,77085,,N/A,2013-07-23,Closed with explanation,No,463555
+2013-10-22,The Phoenix Recovery Group,TX,Debt collection,Other (ie phone health club etc),Disclosure verification of debt,Not given enough info to verify debt,Yes,Web,,,77477,,N/A,2013-11-08,Closed with non-monetary relief,No,565865
+2013-08-07,Capital One,TX,Bank account or service,Checking account,Account opening closing or management,,Yes,Referral,,,78245,,N/A,2013-08-08,Closed with explanation,Yes,483006
+2013-07-30,Citibank,TX,Credit card,,Closing/Cancelling account,,Yes,Web,,,78249,,N/A,2013-07-30,Closed with explanation,Yes,470852
+2013-08-18,The Bureaus Inc,TX,Debt collection,I do not know,Cont'd attempts collect debt not owed,Debt is not mine,Yes,Web,,,78676,Servicemember,N/A,2013-10-03,Closed with explanation,No,494664
+2013-11-07,JPMorgan Chase & Co,TX,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Phone,,,75150,,N/A,2013-11-07,Closed with explanation,No,589782
+2013-08-18,Credit Systems International Inc,TX,Debt collection,Other (ie phone health club etc),Disclosure verification of debt,Not given enough info to verify debt,Yes,Web,,,76008,,N/A,2013-08-20,Closed with explanation,No,494678
+2013-11-14,Experian,TX,Credit reporting,,Incorrect information on credit report,Information is not mine,Yes,Referral,,,76118,,N/A,2013-11-27,Closed with non-monetary relief,No,598337
+2013-10-21,Encore Capital Group,TX,Debt collection,I do not know,Cont'd attempts collect debt not owed,Debt is not mine,Yes,Web,,,77024,,N/A,2013-10-21,Closed with non-monetary relief,No,565256
+2013-08-07,Citibank,TX,Credit card,,Closing/Cancelling account,,Yes,Web,,,75137,Older American,N/A,2013-08-08,Closed with monetary relief,No,484233
+2013-07-23,Southwest Recovery Services Inc,TX,Debt collection,Other (ie phone health club etc),Disclosure verification of debt,Not given enough info to verify debt,Yes,Web,,,75243,,N/A,2013-08-12,Closed with explanation,Yes,475544
+2013-08-30,Bank of America,TX,Mortgage,FHA mortgage,Loan servicing payments escrow account,,Yes,Web,,,76051,,N/A,2013-08-30,Closed with explanation,Yes,510401
+2013-10-15,Herbert P Sears Co Inc,TX,Debt collection,Medical,Cont'd attempts collect debt not owed,Debt is not mine,Yes,Web,,,78254,,N/A,2013-10-15,Closed with explanation,No,558886
+2013-11-14,Equifax,TX,Credit reporting,,Incorrect information on credit report,Information is not mine,Yes,Referral,,,76118,Older American,N/A,2013-11-27,Closed with explanation,Yes,598338
+2013-08-12,Bank of America,TX,Mortgage,Conventional fixed mortgage,Loan modificationcollectionforeclosure,,Yes,Web,,,76002,,N/A,2013-08-13,Closed with explanation,No,487919
+2013-08-28,Resurgent Capital Services LP,TX,Debt collection,I do not know,Cont'd attempts collect debt not owed,Debt is not mine,Yes,Referral,,,77034,,N/A,2013-08-29,Closed with explanation,No,506510
+2013-08-30,Discover,TX,Bank account or service,(CD) Certificate of deposit,Account opening closing or management,,Yes,Referral,,,75080,,N/A,2013-08-30,Closed with explanation,No,510500
+2013-09-20,Frost Bank,TX,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Referral,,,78284,,N/A,2013-09-23,Closed with monetary relief,No,536866
+2013-07-23,JPMorgan Chase & Co,TX,Mortgage,Conventional fixed mortgage,Loan modificationcollectionforeclosure,,Yes,Phone,,,78101,,N/A,2013-07-24,Closed with explanation,No,464468
+2013-09-26,TransUnion Intermediate Holdings Inc,TX,Credit reporting,,Unable to get credit report/credit score,Problem getting my free annual report,Yes,Web,,,78756,,N/A,2013-09-26,Closed with non-monetary relief,Yes,543739
+2013-10-15,Aspire Financial Inc,TX,Mortgage,FHA mortgage,Application originator mortgage broker,,Yes,Web,,,75115,Older American,N/A,2013-11-15,Closed with monetary relief,No,559389
+2013-09-10,Equifax,TX,Credit reporting,,Incorrect information on credit report,Information is not mine,Yes,Web,,,75057,,N/A,2013-09-12,Closed with non-monetary relief,No,521278
+2013-10-22,TransUnion Intermediate Holdings Inc,TX,Credit reporting,,Incorrect information on credit report,Account status,Yes,Postal mail,,,76110,,N/A,2013-10-24,Closed with explanation,No,566287
+2013-10-15,Sallie Mae,TX,Student loan,Non-federal student loan,Repaying your loan,Repaying your loan,Yes,Web,,,75104,,N/A,2013-10-16,Closed with monetary relief,Yes,559359
+2013-07-24,Ditech Financial LLC,TX,Mortgage,Conventional fixed mortgage,Loan modificationcollectionforeclosure,,Yes,Web,,,76053,,N/A,2013-07-25,Closed with explanation,No,465793
+2013-11-19,Barclays PLC,TX,Credit card,,Billing disputes,,Yes,Postal mail,,,76574,,N/A,2013-11-19,Closed with explanation,No,602923
+2013-09-06,Equifax,TX,Credit reporting,,Incorrect information on credit report,Account status,Yes,Web,,,76033,,N/A,2013-09-06,Closed with non-monetary relief,No,517236
+2013-10-22,Oxford Law LLC,TX,Debt collection,Credit card,Cont'd attempts collect debt not owed,Debt is not mine,Yes,Phone,,,75244,Older American Servicemember,N/A,2013-10-23,Closed with non-monetary relief,No,566467
+2013-09-06,Ally Financial Inc,TX,Bank account or service,Checking account,Account opening closing or management,,Yes,Web,,,75247,,N/A,2013-09-09,Closed with explanation,Yes,517479
+2013-09-06,Discover,TX,Credit card,,Other fee,,Yes,Web,,,75204,,N/A,2013-09-09,Closed with monetary relief,No,518965
+2013-09-12,Bank of America,TX,Credit card,,Bankruptcy,,Yes,Phone,,,77568,,N/A,2013-09-13,Closed with explanation,No,526089
+2013-10-28,HSBC North America Holdings Inc,TX,Bank account or service,Other bank product/service,Account opening closing or management,,Yes,Web,,,76643,,N/A,2013-12-02,Closed with explanation,Yes,573077
+2013-08-07,JPMorgan Chase & Co,TX,Mortgage,FHA mortgage,Loan modificationcollectionforeclosure,,Yes,Phone,,,78641,,N/A,2013-08-07,Closed with explanation,Yes,496685
+2013-09-17,ProCollect Inc,TX,Debt collection,Other (ie phone health club etc),Disclosure verification of debt,Right to dispute notice not received,Yes,Web,,,77065,,N/A,2013-09-17,Closed with explanation,No,531864
+2013-10-28,TransUnion Intermediate Holdings Inc,TX,Credit reporting,,Incorrect information on credit report,Account status,Yes,Postal mail,,,76107,,N/A,2013-10-28,Closed with explanation,No,573295
+2013-08-31,PayPal Holdings Inc,TX,Debt collection,Other (ie phone health club etc),Improper contact or sharing of info,Contacted me after I asked not to,Yes,Web,,,76112,,N/A,2013-09-05,Closed with explanation,Yes,511414
+2013-10-31,Nationstar Mortgage,TX,Mortgage,Other mortgage,Loan servicing payments escrow account,,Yes,Phone,,,79407,Older American,N/A,2013-11-04,Closed with explanation,No,580386
+2013-12-03,JPMorgan Chase & Co,TX,Mortgage,Other mortgage,Loan modificationcollectionforeclosure,,Yes,Referral,,,79601,,N/A,2013-12-03,Closed with explanation,No,619090
+2013-10-22,Wells Fargo & Company,TX,Mortgage,FHA mortgage,Loan modificationcollectionforeclosure,,Yes,Web,,,79924,,N/A,2013-10-23,Closed with explanation,No,566668
+2013-08-30,Bank of America,TX,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Phone,,,77459,,N/A,2013-09-03,Closed with non-monetary relief,Yes,510128
+2013-10-31,TransUnion Intermediate Holdings Inc,TX,Credit reporting,,Incorrect information on credit report,Information is not mine,Yes,Referral,,,75287,,N/A,2013-11-13,Closed with non-monetary relief,No,579177
+2013-11-04,Capital One,TX,Credit card,,Late fee,,Yes,Web,,,79110,,N/A,2013-11-03,Closed with explanation,No,583426
+2013-10-22,Nationstar Mortgage,TX,Mortgage,Reverse mortgage,Loan modificationcollectionforeclosure,,Yes,Phone,,,78617,Older American,N/A,2013-10-23,Closed with explanation,No,566683
+2013-08-13,BBVA Compass,TX,Bank account or service,Checking account,Problems caused by my funds being low,,Yes,Web,,,78748,,N/A,2013-08-15,Closed with explanation,Yes,489119
+2013-09-20,Equifax,TX,Credit reporting,,Incorrect information on credit report,Account status,Yes,Postal mail,,,78704,,N/A,2013-10-18,Closed,No,536756
+2013-09-06,Alorica Inc,TX,Debt collection,Medical,Cont'd attempts collect debt not owed,Debt is not mine,Yes,Referral,,,77074,,N/A,2013-09-06,Closed with explanation,No,517520
+2013-10-31,Equifax,TX,Credit reporting,,Incorrect information on credit report,Personal information,Yes,Referral,,,75231,,N/A,2013-11-13,Closed with explanation,No,580473
+2013-07-30,Bank of America,TX,Mortgage,Other mortgage,Loan servicing payments escrow account,,Yes,Fax,,,78239,,N/A,2013-07-31,Closed with explanation,Yes,475278
+2013-08-07,Westlake Services LLC,TX,Consumer Loan,Vehicle loan,Managing the loan or lease,,Yes,Web,,,75070,,N/A,2013-08-08,Closed with explanation,Yes,484782
+2013-11-14,Experian,TX,Credit reporting,,Incorrect information on credit report,Account status,Yes,Postal mail,,,76108,,N/A,2014-01-22,Closed with non-monetary relief,No,598084
+2013-10-02,Capital One,TX,Bank account or service,Checking account,Account opening closing or management,,Yes,Referral,,,77388,,N/A,2013-10-03,Closed with explanation,No,550908
+2013-08-28,TransUnion Intermediate Holdings Inc,TX,Credit reporting,,Incorrect information on credit report,Account status,Yes,Postal mail,,,76123,,N/A,2013-10-01,Closed with explanation,No,506338
+2013-10-15,Capital One,TX,Bank account or service,Other bank product/service,Account opening closing or management,,Yes,Postal mail,,,76126,,N/A,2013-10-16,Closed with explanation,No,559155
+2013-10-02,Experian,TX,Credit reporting,,Incorrect information on credit report,Account status,Yes,Postal mail,,,76031,,N/A,2013-11-04,Closed with non-monetary relief,No,550302
+2013-08-07,Citibank,TX,Credit card,,Billing disputes,,Yes,Referral,,,78155,,N/A,2013-08-08,Closed with explanation,Yes,482904
+2013-09-26,Byrider Franchising LLC,TX,Consumer Loan,Vehicle loan,Problems when you are unable to pay,,Yes,Phone,,,78218,,N/A,2013-09-27,Closed with explanation,No,543641
+2013-09-06,Credit Systems International Inc,TX,Debt collection,Other (ie phone health club etc),Cont'd attempts collect debt not owed,Debt is not mine,Yes,Web,,,75702,,N/A,2013-09-06,Closed with explanation,No,517553
+2013-09-17,Experian,TX,Credit reporting,,Credit reporting company's investigation,Problem with statement of dispute,Yes,Web,,,75098,,N/A,2013-09-17,Closed with explanation,No,531828
+2013-08-19,Bank of America,TX,Mortgage,Conventional fixed mortgage,Loan modificationcollectionforeclosure,,Yes,Web,,,76103,,N/A,2013-08-20,Closed with explanation,Yes,495313
+2013-08-07,Wells Fargo & Company,TX,Bank account or service,Checking account,Account opening closing or management,,Yes,Postal mail,,,78681,,N/A,2013-08-08,Closed with explanation,No,482786
+2013-11-19,TransUnion Intermediate Holdings Inc,TX,Credit reporting,,Incorrect information on credit report,Reinserted previously deleted info,Yes,Web,,,75240,,N/A,2013-11-19,Closed with explanation,No,603243
+2013-11-14,Comerica,TX,Bank account or service,Checking account,Using a debit or ATM card,,Yes,Referral,,,77338,,N/A,2013-12-02,Closed with explanation,No,597327
+2013-11-01,Experian,TX,Credit reporting,,Unable to get credit report/credit score,Problem getting report or credit score,Yes,Web,,,78225,,N/A,2013-11-01,Closed with non-monetary relief,Yes,580929
+2013-09-19,Ocwen,TX,Mortgage,Other mortgage,Loan servicing payments escrow account,,Yes,Fax,,,77045,,N/A,2013-09-20,Closed with explanation,No,534997
+2013-08-28,Equifax,TX,Credit reporting,,Incorrect information on credit report,Account status,Yes,Postal mail,,,76123,,N/A,2013-09-30,Closed with explanation,No,506337
+2013-11-14,Experian,TX,Credit reporting,,Incorrect information on credit report,Account status,Yes,Postal mail,,,76108,,N/A,2014-01-22,Closed with non-monetary relief,No,598088
+2013-09-17,Ocwen,TX,Mortgage,Conventional fixed mortgage,Loan modificationcollectionforeclosure,,Yes,Web,,,77373,,N/A,2013-09-18,Closed with explanation,Yes,530321
+2013-11-07,Worldwide Processing Group LLC,TX,Payday loan,Payday loan,Can't contact lender,Can't contact lender,Yes,Web,,,79705,,N/A,2013-11-08,Closed with non-monetary relief,No,591287
+2013-10-28,TransUnion Intermediate Holdings Inc,TX,Credit reporting,,Incorrect information on credit report,Account status,Yes,Postal mail,,,77089,,N/A,2013-11-14,Closed with explanation,No,573521
+2013-10-28,Equifax,TX,Credit reporting,,Incorrect information on credit report,Account status,Yes,Postal mail,,,77089,,N/A,2013-11-14,Closed with explanation,No,573522
+2013-09-10,Wells Fargo & Company,TX,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Web,,,78332,,N/A,2013-09-11,Closed with explanation,Yes,522060
+2013-10-28,Experian,TX,Credit reporting,,Incorrect information on credit report,Account status,Yes,Postal mail,,,77089,,N/A,2013-11-14,Closed with explanation,No,573523
+2013-11-07,Mutual Financial Partners,TX,Debt collection,Payday loan,Communication tactics,Threatened to take legal action,Yes,Phone,,,78219,,N/A,2013-12-06,Closed,No,589913
+2013-07-24,Bank of America,TX,Bank account or service,Checking account,Account opening closing or management,,Yes,Web,,,78737,Older American,N/A,2013-07-26,Closed with monetary relief,No,465563
+2013-08-07,Commercial Recovery Systems,TX,Debt collection,I do not know,Cont'd attempts collect debt not owed,Debt is not mine,Yes,Web,,,77573,Older American,N/A,2013-08-07,Closed,No,484838
+2013-11-19,JPMorgan Chase & Co,TX,Mortgage,VA mortgage,Loan servicing payments escrow account,,Yes,Web,,,77382,Servicemember,N/A,2013-11-19,Closed with non-monetary relief,No,603635
+2013-11-13,CNG Financial Corporation,TX,Debt collection,Payday loan,Improper contact or sharing of info,Contacted employer after asked not to,Yes,Web,,,75098,,N/A,2013-11-19,Closed with explanation,No,595925
+2013-09-17,Nationstar Mortgage,TX,Mortgage,Conventional fixed mortgage,Loan modificationcollectionforeclosure,,Yes,Phone,,,77381,,N/A,2013-09-18,Closed with explanation,Yes,530097
+2013-10-28,Experian,TX,Credit reporting,,Incorrect information on credit report,Account status,Yes,Postal mail,,,77089,,N/A,2013-11-14,Closed with explanation,No,573528
+2013-11-01,Ocwen,TX,Mortgage,Other mortgage,Loan modificationcollectionforeclosure,,Yes,Referral,,,76034,,N/A,2013-11-05,Closed with explanation,No,582726
+2013-09-06,Capital One,TX,Credit card,,Billing disputes,,Yes,Web,,,76033,,N/A,2013-09-06,Closed with explanation,Yes,517599
+2013-11-19,Experian,TX,Credit reporting,,Incorrect information on credit report,Account status,Yes,Postal mail,,,76093,,N/A,2013-11-20,Closed with explanation,No,602842
+2013-09-19,First National Bank of Omaha,TX,Bank account or service,(CD) Certificate of deposit,Account opening closing or management,,Yes,Referral,,,75670,,N/A,2013-09-23,Closed with explanation,No,535501
+2013-09-17,Equifax,TX,Credit reporting,,Incorrect information on credit report,Account status,Yes,Postal mail,,,78041,,N/A,2013-10-07,Closed with explanation,No,531701
+2013-10-01,Capital One,TX,Credit card,,Other,,Yes,Postal mail,,,77074,,N/A,2013-10-01,Closed with non-monetary relief,No,549189
+2013-08-30,Bank of America,TX,Mortgage,Conventional adjustable mortgage (ARM),Credit decision / Underwriting,,Yes,Web,,,75023,,N/A,2013-09-03,Closed with explanation,No,511090
+2013-08-07,CCS Financial Services Inc,TX,Debt collection,Other (ie phone health club etc),Cont'd attempts collect debt not owed,Debt is not mine,Yes,Referral,,,77040,,N/A,2014-01-08,Closed with non-monetary relief,No,482870
+2013-08-27,Capital One,TX,Credit card,,Overlimit fee,,Yes,Web,,,77304,,N/A,2013-08-26,Closed with explanation,No,504976
+2013-09-20,JPMorgan Chase & Co,TX,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Web,,,75126,Older American Servicemember,N/A,2013-09-20,Closed with monetary relief,No,537728
+2013-10-28,Equifax,TX,Credit reporting,,Incorrect information on credit report,Account status,Yes,Postal mail,,,76164,Older American,N/A,2013-11-08,Closed with explanation,No,573054
+2013-10-15,Equifax,TX,Credit reporting,,Credit reporting company's investigation,No notice of investigation status/result,Yes,Postal mail,,,76126,,N/A,2013-10-28,Closed with explanation,No,559153
+2013-09-11,Capital One,TX,Bank account or service,Checking account,Account opening closing or management,,Yes,Phone,,,77081,Servicemember,N/A,2013-09-13,Closed with explanation,Yes,524231
+2013-10-22,Ocwen,TX,Mortgage,Home equity loan or line of credit,Loan servicing payments escrow account,,Yes,Web,,,77459,,N/A,2013-10-23,Closed with explanation,Yes,566970
+2013-10-15,TransUnion Intermediate Holdings Inc,TX,Credit reporting,,Credit reporting company's investigation,No notice of investigation status/result,Yes,Postal mail,,,76126,,N/A,2013-10-28,Closed with explanation,No,559151
+2013-09-20,Citibank,TX,Debt collection,Credit card,Communication tactics,Frequent or repeated calls,Yes,Web,,,75094,,N/A,2013-09-23,Closed with explanation,Yes,536598
+2013-07-23,Capital One,TX,Debt collection,Credit card,Communication tactics,Frequent or repeated calls,Yes,Phone,,,78639,,N/A,2013-07-31,Closed with explanation,No,464292
+2013-09-26,Frost Bank,TX,Mortgage,Other mortgage,Loan servicing payments escrow account,,Yes,Referral,,,77237,,N/A,2013-09-26,Closed with explanation,Yes,544858
+2013-09-26,BBVA Compass,TX,Mortgage,Other mortgage,Loan servicing payments escrow account,,Yes,Referral,,,77237,,N/A,2013-09-26,Closed with explanation,Yes,544857
+2013-09-10,Capital One,TX,Credit card,,Credit card protection / Debt protection,,Yes,Web,,,75104,,N/A,2013-09-20,Closed with monetary relief,No,520943
+2013-09-06,Equifax,TX,Credit reporting,,Incorrect information on credit report,Account terms,Yes,Web,,,77034,,N/A,2013-09-06,Closed with explanation,No,517651
+2013-10-01,Resurgent Capital Services LP,TX,Credit reporting,,Incorrect information on credit report,Account status,Yes,Postal mail,,,77074,,N/A,2013-10-02,Closed with explanation,No,549186
+2013-09-05,TransUnion Intermediate Holdings Inc,TX,Credit reporting,,Incorrect information on credit report,Account status,Yes,Referral,,,78245,,N/A,2013-09-25,Closed with explanation,No,515686
+2013-10-22,Equifax,TX,Credit reporting,,Incorrect information on credit report,Information is not mine,Yes,Postal mail,,,75006,,N/A,2013-11-06,Closed with explanation,No,567070
+2013-11-13,Navy FCU,TX,Mortgage,Other mortgage,Credit decision / Underwriting,,Yes,Referral,,,78701,Older American,N/A,2013-11-19,Closed with explanation,Yes,595309
+2013-11-25,CountryPlace Acceptance Corporation,TX,Mortgage,FHA mortgage,Settlement process and costs,,Yes,Web,,,78734,,N/A,2013-12-02,Closed,No,610501
+2013-09-09,The CBE Group Inc,TX,Debt collection,Other (ie phone health club etc),Cont'd attempts collect debt not owed,Debt is not mine,Yes,Phone,,,77859,Older American,N/A,2013-09-10,Closed with non-monetary relief,No,520537
+2013-10-28,Wells Fargo & Company,TX,Mortgage,Conventional fixed mortgage,Loan modificationcollectionforeclosure,,Yes,Web,,,77069,,N/A,2013-10-29,Closed with explanation,No,573918
+2013-11-25,Capital One,TX,Bank account or service,Checking account,Problems caused by my funds being low,,Yes,Phone,,,77057,Older American,N/A,2013-11-25,Closed with monetary relief,No,610552
+2013-11-19,Citibank,TX,Credit card,,Application processing delay,,Yes,Web,,,78225,,N/A,2013-11-26,Closed with monetary relief,Yes,602848
+2013-09-17,EOS Holdings Inc,TX,Debt collection,Other (ie phone health club etc),Disclosure verification of debt,Right to dispute notice not received,Yes,Web,,,78664,,N/A,2013-09-17,Closed with explanation,Yes,531812
+2013-09-20,Synchrony Financial,TX,Debt collection,Credit card,Improper contact or sharing of info,Contacted me after I asked not to,Yes,Web,,,77845,,N/A,2013-10-03,Closed with explanation,No,535752
+2013-11-25,Discover,TX,Credit card,,Billing statement,,Yes,Web,,,77077,,N/A,2013-11-25,Closed with explanation,No,610565
+2013-08-20,Gryphon Corp,TX,Credit reporting,,Credit reporting company's investigation,Problem with statement of dispute,Yes,Web,,,77347,,N/A,2013-08-20,Closed with explanation,No,496709
+2013-09-19,Bank of America,TX,Bank account or service,Checking account,Using a debit or ATM card,,Yes,Web,,,78756,,N/A,2013-09-19,Closed with explanation,No,533867
+2013-09-03,The Western Union Company,TX,Bank account or service,Other bank product/service,Making/receiving payments sending money,,Yes,Web,,,76131,,N/A,2013-09-04,Closed with explanation,No,511718
+2013-09-17,TransUnion Intermediate Holdings Inc,TX,Credit reporting,,Credit reporting company's investigation,Inadequate help over the phone,Yes,Web,,,75070,,N/A,2013-09-17,Closed with explanation,No,531867
+2013-10-02,Navient Solutions Inc,TX,Student loan,Non-federal student loan,Repaying your loan,Repaying your loan,Yes,Web,,,78207,,N/A,2013-10-02,Closed with explanation,No,550627
+2013-08-26,Cavalry Investments LLC,TX,Debt collection,Other (ie phone health club etc),False statements or representation,Attempted to collect wrong amount,Yes,Postal mail,,,75052,,N/A,2013-08-28,Closed with non-monetary relief,No,503438
+2013-09-10,Experian,TX,Credit reporting,,Incorrect information on credit report,Information is not mine,Yes,Web,,,76124,,N/A,2013-09-12,Closed with non-monetary relief,No,521913
+2013-08-26,Stellar Recovery Inc,TX,Debt collection,Other (ie phone health club etc),Cont'd attempts collect debt not owed,Debt is not mine,Yes,Web,,,77861,,N/A,2013-08-26,Closed with explanation,Yes,504856
+2013-10-28,JPMorgan Chase & Co,TX,Credit card,,Other,,Yes,Phone,,,76052,Older American,N/A,2013-10-28,Closed with explanation,No,573119
+2013-08-19,ERC,TX,Debt collection,I do not know,Cont'd attempts collect debt not owed,Debt is not mine,Yes,Web,,,77044,,N/A,2013-08-20,Closed with explanation,No,495009
+2013-08-12,Nationstar Mortgage,TX,Mortgage,Conventional fixed mortgage,Loan servicing payments escrow account,,Yes,Referral,,,75401,,N/A,2013-08-15,Closed with explanation,Yes,487743
+2013-10-15,TCF National Bank,TX,Consumer Loan,Vehicle loan,Managing the loan or lease,,Yes,Web,,,77406,,N/A,2013-10-17,Closed with explanation,Yes,559126
+2013-09-17,Prestige Financial Services Inc,TX,Consumer Loan,Vehicle loan,Managing the loan or lease,,Yes,Web,,,76063,,N/A,2013-09-17,Closed with explanation,No,530131
+2013-12-03,Northland Group Inc,TX,Credit card,,Closing/Cancelling account,,Yes,Web,,,79423,,N/A,2013-12-05,Closed with explanation,No,619209
+2013-09-06,Platinum Holdings Group LLC,TX,Debt collection,Credit card,Disclosure verification of debt,Not given enough info to verify debt,No,Referral,,,76135,,N/A,2013-09-06,Closed with explanation,,517767
+2013-09-26,The Western Union Company,TX,Money transfers,International money transfer,Other transaction issues,,Yes,Phone,,,75652,Older American Servicemember,N/A,2013-09-27,Closed with explanation,No,543411
+2013-09-09,Equifax,TX,Credit reporting,,Incorrect information on credit report,Account status,Yes,Postal mail,,,76244,,N/A,2013-11-07,Closed with explanation,No,520483
+2013-09-20,JPMorgan Chase & Co,TX,Mortgage,Conventional fixed mortgage,Loan servicing payments escrow account,,Yes,Web,,,78253,,N/A,2013-09-23,Closed with explanation,No,536448
+2013-09-11,Southwest Credit Systems LP,TX,Debt collection,Other (ie phone health club etc),Cont'd attempts collect debt not owed,Debt resulted from identity theft,Yes,Web,,,79927,,N/A,2013-09-14,Closed with explanation,No,524375
+2013-08-28,Experian,TX,Credit reporting,,Incorrect information on credit report,Account status,Yes,Postal mail,,,76109,,N/A,2013-09-10,Closed with non-monetary relief,No,506094
+2013-11-01,Nationstar Mortgage,TX,Mortgage,Conventional fixed mortgage,Loan servicing payments escrow account,,Yes,Web,,,78759,,N/A,2013-11-01,Closed with explanation,No,581709
+2013-10-15,Wells Fargo & Company,TX,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Phone,,,75149,,N/A,2013-10-16,Closed with explanation,No,559054
+2013-09-20,TransUnion Intermediate Holdings Inc,TX,Credit reporting,,Incorrect information on credit report,Account status,Yes,Postal mail,,,76123,,N/A,2013-10-07,Closed with explanation,No,536365
+2013-08-28,TransUnion Intermediate Holdings Inc,TX,Credit reporting,,Incorrect information on credit report,Information is not mine,Yes,Web,,,76008,,N/A,2013-08-29,Closed with explanation,No,501563
+2013-10-28,TransUnion Intermediate Holdings Inc,TX,Credit reporting,,Incorrect information on credit report,Account status,Yes,Postal mail,,,76039,,N/A,2013-11-18,Closed with explanation,No,574298
+2013-08-28,Equifax,TX,Credit reporting,,Incorrect information on credit report,Account status,Yes,Postal mail,,,76109,,N/A,2013-09-12,Closed with explanation,No,506048
+2013-11-26,Bank of America,TX,Mortgage,Other mortgage,Loan modificationcollectionforeclosure,,Yes,Referral,,,78244,,N/A,2013-12-02,Closed with explanation,No,612637
+2013-09-06,Bank of America,TX,Mortgage,Conventional adjustable mortgage (ARM),Loan modificationcollectionforeclosure,,Yes,Web,,,75034,,N/A,2013-10-30,Closed with non-monetary relief,Yes,516785
+2013-09-20,Bank of America,TX,Debt collection,Credit card,Communication tactics,Called after sent written cease of comm,Yes,Phone,,,77630,,N/A,2013-09-23,Closed with explanation,No,536384
+2013-10-28,Equifax,TX,Credit reporting,,Incorrect information on credit report,Account status,Yes,Postal mail,,,76039,,N/A,2013-11-19,Closed with explanation,No,574299
+2013-09-20,Equifax,TX,Credit reporting,,Incorrect information on credit report,Public record,Yes,Web,,,76110,,N/A,2013-09-20,Closed with explanation,Yes,536361
+2013-09-05,Mnet Financial Inc,TX,Debt collection,Medical,Disclosure verification of debt,Not given enough info to verify debt,Yes,Web,,,77375,,N/A,2013-09-05,Closed,Yes,515106
+2013-11-01,Residential Credit Solutions,TX,Mortgage,VA mortgage,Loan modificationcollectionforeclosure,,No,Web,,,75007,Servicemember,N/A,2013-11-01,Closed with explanation,Yes,581501
+2013-10-28,Experian,TX,Credit reporting,,Incorrect information on credit report,Account status,Yes,Postal mail,,,76039,,N/A,2013-11-19,Closed with non-monetary relief,No,574300
+2013-09-24,Expert Global Solutions Inc,TX,Debt collection,Medical,Cont'd attempts collect debt not owed,Debt was paid,Yes,Web,,,78240,,N/A,2013-09-24,Closed with explanation,No,540407
+2013-11-19,Nationstar Mortgage,TX,Mortgage,Conventional fixed mortgage,Loan modificationcollectionforeclosure,,Yes,Phone,,,77026,Older American,N/A,2013-11-20,Closed with explanation,No,602837
+2013-08-26,TransUnion Intermediate Holdings Inc,TX,Credit reporting,,Credit reporting company's investigation,Problem with statement of dispute,Yes,Web,,,75070,,N/A,2013-08-26,Closed with non-monetary relief,No,501505
+2013-09-10,TransUnion Intermediate Holdings Inc,TX,Credit reporting,,Improper use of my credit report,Received marketing offer after opted out,Yes,Web,,,78232,,N/A,2013-09-14,Closed with explanation,No,521662
+2013-11-13,Selene Finance,TX,Mortgage,Conventional fixed mortgage,Loan modificationcollectionforeclosure,,Yes,Web,,,75007,,N/A,2013-11-13,Closed with explanation,No,596506
+2013-09-06,ProCollect Inc,TX,Credit reporting,,Credit reporting company's investigation,Problem with statement of dispute,Yes,Web,,,77627,,N/A,2013-09-09,Closed with explanation,Yes,516811
+2013-09-16,Allied Interstate LLC,TX,Debt collection,I do not know,Improper contact or sharing of info,Talked to a third party about my debt,Yes,Web,,,78351,,N/A,2013-09-17,Closed with non-monetary relief,No,529320
+2013-08-26,TransUnion Intermediate Holdings Inc,TX,Credit reporting,,Incorrect information on credit report,Account status,Yes,Web,,,78023,,N/A,2013-08-26,Closed with non-monetary relief,No,503880
+2013-09-05,Wells Fargo & Company,TX,Mortgage,VA mortgage,Settlement process and costs,,Yes,Referral,,,77477,Servicemember,N/A,2013-09-05,Closed with explanation,No,515673
+2013-08-30,M&T Bank Corporation,TX,Mortgage,VA mortgage,Loan servicing payments escrow account,,Yes,Web,,,78260,,N/A,2013-09-03,Closed with explanation,No,510954
+2013-11-13,Credit Protection Association LP,TX,Debt collection,Other (ie phone health club etc),Cont'd attempts collect debt not owed,Debt is not mine,Yes,Phone,,,75212,Older American Servicemember,N/A,2013-11-19,Closed with non-monetary relief,No,596536
+2013-09-16,Ocwen,TX,Mortgage,Conventional fixed mortgage,Loan servicing payments escrow account,,Yes,Web,,,76087,,N/A,2013-09-17,Closed with explanation,No,529284
+2013-09-05,JPMorgan Chase & Co,TX,Debt collection,Credit card,False statements or representation,Attempted to collect wrong amount,Yes,Web,,,75189,,N/A,2013-09-04,Closed with explanation,No,515492
+2013-09-20,Equifax,TX,Credit reporting,,Incorrect information on credit report,Account status,Yes,Postal mail,,,76049,,N/A,2013-10-22,Closed with explanation,No,535672
+2013-08-07,Wells Fargo & Company,TX,Mortgage,FHA mortgage,Loan modificationcollectionforeclosure,,Yes,Web,,,75115,,N/A,2013-08-07,Closed with explanation,No,499212
+2013-09-26,Santander Consumer USA Holdings Inc,TX,Consumer Loan,Vehicle loan,Managing the loan or lease,,Yes,Web,,,78732,,N/A,2013-09-26,Closed with explanation,No,543259
+2013-09-05,Legal Recovery Law Offices Inc,TX,Debt collection,Other (ie phone health club etc),Cont'd attempts collect debt not owed,Debt was discharged in bankruptcy,Yes,Web,,,75068,Servicemember,N/A,2013-09-04,Closed with explanation,No,515475
+2013-11-19,Expert Global Solutions Inc,TX,Debt collection,Medical,Cont'd attempts collect debt not owed,Debt was paid,Yes,Referral,,,77056,,N/A,2013-11-20,Closed with explanation,No,604380
+2013-09-12,Capital One,TX,Credit reporting,,Incorrect information on credit report,Account terms,Yes,Web,,,78156,,N/A,2013-09-12,Closed with explanation,Yes,525001
+2013-12-02,Franklin Collection Service Inc,TX,Debt collection,Other (ie phone health club etc),Communication tactics,Threatened to take legal action,Yes,Web,,,75033,,N/A,2013-12-03,Closed with explanation,Yes,617647
+2013-11-19,BBVA Compass,TX,Mortgage,Home equity loan or line of credit,Loan servicing payments escrow account,,Yes,Referral,,,75044,,N/A,2013-11-20,Closed with monetary relief,No,604694
+2013-09-10,Ad Astra Recovery Services Inc,TX,Debt collection,Other (ie phone health club etc),Disclosure verification of debt,Not given enough info to verify debt,Yes,Postal mail,,,75002,,N/A,2013-09-10,Closed with explanation,No,521631
+2013-10-28,TransUnion Intermediate Holdings Inc,TX,Credit reporting,,Incorrect information on credit report,Account status,Yes,Postal mail,,,76039,,N/A,2013-10-29,Closed with explanation,No,574388
+2013-08-20,JPMorgan Chase & Co,TX,Mortgage,Other mortgage,Loan servicing payments escrow account,,Yes,Referral,,,77488,,N/A,2013-08-21,Closed with explanation,Yes,497124
+2013-08-19,Wells Fargo & Company,TX,Mortgage,Conventional fixed mortgage,Settlement process and costs,,Yes,Web,,,75056,,N/A,2013-08-21,Closed with non-monetary relief,No,495830
+2013-09-04,Ally Financial Inc,TX,Consumer Loan,Vehicle loan,Taking out the loan or lease,,Yes,Web,,,79925,,N/A,2013-09-05,Closed with explanation,No,514765
+2013-11-13,Wells Fargo & Company,TX,Mortgage,Conventional fixed mortgage,Loan modificationcollectionforeclosure,,Yes,Web,,,77377,,N/A,2013-11-13,Closed with non-monetary relief,No,596571
+2013-11-19,USAA Savings,TX,Credit card,,Other,,Yes,Phone,,,77089,,N/A,2013-11-21,Closed with monetary relief,No,604423
+2013-09-10,Ocwen,TX,Mortgage,Other mortgage,Loan servicing payments escrow account,,Yes,Postal mail,,,78724,,N/A,2013-09-10,Closed with explanation,No,521605
+2013-10-14,Supreme Lending,TX,Mortgage,FHA mortgage,Application originator mortgage broker,,Yes,Web,,,76039,,N/A,2013-10-15,Closed,No,558498
+2013-09-12,TransUnion Intermediate Holdings Inc,TX,Credit reporting,,Incorrect information on credit report,Account status,Yes,Postal mail,,,76115,,N/A,2013-10-21,Closed with explanation,No,525068
+2013-11-06,Harley-Davidson Financial Services Inc,TX,Debt collection,Other (ie phone health club etc),Cont'd attempts collect debt not owed,Debt was paid,No,Postal mail,,,76085,,N/A,2013-11-07,Closed with explanation,No,587219
+2013-09-20,Equifax,TX,Credit reporting,,Incorrect information on credit report,Account status,Yes,Postal mail,,,76049,,N/A,2013-10-22,Closed with explanation,No,535668
+2013-09-06,Westlake Services LLC,TX,Debt collection,Auto,Improper contact or sharing of info,Contacted employer after asked not to,Yes,Phone,,,76207,,N/A,2013-09-09,Closed with explanation,No,518048
+2013-09-13,Convergent Resources Inc,TX,Debt collection,Other (ie phone health club etc),Cont'd attempts collect debt not owed,Debt is not mine,Yes,Phone,,,77023,Older American,N/A,2013-09-16,Closed with explanation,No,527437
+2013-11-01,TransUnion Intermediate Holdings Inc,TX,Credit reporting,,Incorrect information on credit report,Account status,Yes,Postal mail,,,76066,,N/A,2013-11-18,Closed with explanation,No,581842
+2013-08-26,Ocwen,TX,Mortgage,Conventional fixed mortgage,Loan servicing payments escrow account,,Yes,Web,,,77388,,N/A,2013-08-28,Closed,Yes,501718
+2013-09-04,JPMorgan Chase & Co,TX,Mortgage,Conventional fixed mortgage,Application originator mortgage broker,,Yes,Web,,,78642,,N/A,2013-09-05,Closed with monetary relief,No,514736
+2013-08-27,Wells Fargo & Company,TX,Mortgage,Other mortgage,Loan modificationcollectionforeclosure,,Yes,Postal mail,,,75287,,N/A,2013-08-28,Closed with explanation,Yes,501824
+2013-09-06,Citibank,TX,Credit card,,Customer service / Customer relations,,Yes,Web,,,78108,,N/A,2013-09-09,Closed with monetary relief,No,518055
+2013-11-06,Experian,TX,Credit reporting,,Incorrect information on credit report,Account status,Yes,Postal mail,,,76085,,N/A,2013-11-07,Closed with explanation,No,587221
+2013-09-06,West Bay Acquisitions LLC,TX,Debt collection,Other (ie phone health club etc),Disclosure verification of debt,Not given enough info to verify debt,Yes,Phone,,,77013,,N/A,2013-09-09,Closed,Yes,516939
+2013-11-01,JPMorgan Chase & Co,TX,Bank account or service,Checking account,Account opening closing or management,,Yes,Referral,,,77016,,N/A,2013-11-05,Closed with explanation,No,581040
+2013-11-19,Portfolio Recovery Associates Inc,TX,Debt collection,Credit card,Communication tactics,Frequent or repeated calls,Yes,Referral,,,77033,Older American,N/A,2013-11-21,Closed with non-monetary relief,No,604452
+2013-09-18,Synchrony Financial,TX,Debt collection,Credit card,Disclosure verification of debt,Right to dispute notice not received,Yes,Web,,,75068,,N/A,2013-09-19,Closed with explanation,,533628
+2013-08-26,State Farm Bank,TX,Bank account or service,Other bank product/service,Account opening closing or management,,Yes,Postal mail,,,76115,,N/A,2013-08-28,Closed with explanation,No,503425
+2013-09-10,JPMorgan Chase & Co,TX,Mortgage,Other mortgage,Loan servicing payments escrow account,,Yes,Referral,,,77488,,N/A,2013-09-10,Closed with explanation,No,520964
+2013-09-12,Ditech Financial LLC,TX,Mortgage,Other mortgage,Loan modificationcollectionforeclosure,,Yes,Referral,,,78641,,N/A,2013-10-28,Closed with explanation,Yes,524856
+2013-10-13,Synchrony Financial,TX,Debt collection,Credit card,Communication tactics,Frequent or repeated calls,Yes,Web,,,78726,,N/A,2013-10-13,Closed with explanation,Yes,558399
+2013-09-25,Bank of America,TX,Mortgage,FHA mortgage,Loan modificationcollectionforeclosure,,Yes,Web,,,77357,,N/A,2013-09-26,Closed with non-monetary relief,Yes,542739
+2013-09-09,McCarthy Burgess & Wolff Inc,TX,Debt collection,Other (ie phone health club etc),Cont'd attempts collect debt not owed,Debt is not mine,Yes,Phone,,,76031,,N/A,2013-09-10,Closed with explanation,No,519469
+2013-09-10,Amex,TX,Credit card,,Credit line increase/decrease,,Yes,Web,,,75240,,N/A,2013-09-20,Closed with explanation,No,521492
+2013-08-31,Wells Fargo & Company,TX,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Web,,,77063,Servicemember,N/A,2013-09-03,Closed with explanation,No,509985
+2013-08-27,Equifax,TX,Credit reporting,,Credit reporting company's investigation,Investigation took too long,Yes,Web,,,77375,,N/A,2013-08-28,Closed with explanation,No,505734
+2013-09-06,Turning Point Solutions LLC,TX,Debt collection,I do not know,Cont'd attempts collect debt not owed,Debt is not mine,Yes,Web,,,76010,Older American,N/A,2013-09-06,Closed with non-monetary relief,No,518191
+2013-10-13,Ford Motor Credit Company,TX,Consumer Loan,Vehicle loan,Managing the loan or lease,,Yes,Web,,,78613,,N/A,2013-10-15,Closed with non-monetary relief,No,558386
+2013-09-18,Citibank,TX,Mortgage,Other mortgage,Loan modificationcollectionforeclosure,,Yes,Referral,,,76051,,N/A,2013-09-19,Closed with explanation,No,532170
+2013-09-01,Jon Barry and Associates Inc,TX,Debt collection,Other (ie phone health club etc),Cont'd attempts collect debt not owed,Debt is not mine,Yes,Web,,,75115,,N/A,2013-09-01,Closed with explanation,No,511555
+2013-12-02,Ditech Financial LLC,TX,Mortgage,Conventional fixed mortgage,Loan servicing payments escrow account,,Yes,Web,,,78250,,N/A,2013-12-02,Closed with explanation,No,617793
+2013-09-12,Wells Fargo & Company,TX,Mortgage,Conventional fixed mortgage,Loan modificationcollectionforeclosure,,Yes,Phone,,,75002,,N/A,2013-09-12,Closed with explanation,No,525273
+2013-11-06,Wells Fargo & Company,TX,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Phone,,,78537,,N/A,2013-11-07,Closed with explanation,No,588486
+2013-11-25,Bank of America,TX,Mortgage,FHA mortgage,Loan modificationcollectionforeclosure,,Yes,Web,,,76036,,N/A,2013-11-25,Closed with explanation,No,611125
+2013-09-16,Wells Fargo & Company,TX,Credit card,,Credit determination,,Yes,Phone,,,75115,Older American,N/A,2013-09-17,Closed with explanation,Yes,529002
+2013-11-19,Experian,TX,Credit reporting,,Incorrect information on credit report,Public record,Yes,Web,,,77701,,N/A,2013-11-26,Closed with explanation,No,602985
+2013-10-29,Experian,TX,Credit reporting,,Incorrect information on credit report,Account status,Yes,Web,,,75043,Older American,N/A,2013-10-28,Closed with non-monetary relief,No,575159
+2013-08-27,Bank of America,TX,Bank account or service,Checking account,Making/receiving payments sending money,,Yes,Referral,,,77071,,N/A,2013-08-28,Closed with explanation,No,505827
+2013-08-06,Experian,TX,Credit reporting,,Incorrect information on credit report,Account status,Yes,Postal mail,,,77065,,N/A,2013-09-05,Closed with non-monetary relief,No,482150
+2013-11-07,Account Discovery Systems LLC,TX,Debt collection,I do not know,Cont'd attempts collect debt not owed,Debt is not mine,Yes,Web,,,78230,,N/A,2013-11-12,Closed with explanation,No,589978
+2013-12-02,Experian,TX,Credit reporting,,Incorrect information on credit report,Account terms,Yes,Web,,,76017,,N/A,2013-12-02,Closed with explanation,No,617775
+2013-08-27,Wells Fargo & Company,TX,Bank account or service,Checking account,Account opening closing or management,,Yes,Phone,,,78702,Servicemember,N/A,2013-08-28,Closed with explanation,No,505613
+2013-12-03,Commonwealth Financial Systems Inc,TX,Debt collection,I do not know,Communication tactics,Frequent or repeated calls,Yes,Phone,,,75969,Older American,N/A,2013-12-05,Closed with explanation,No,619877
+2013-09-09,Experian,TX,Credit reporting,,Incorrect information on credit report,Account status,Yes,Postal mail,,,76244,,N/A,2013-11-13,Closed with explanation,No,520494
+2013-09-04,Resurgent Capital Services LP,TX,Debt collection,Other (ie phone health club etc),Disclosure verification of debt,Not given enough info to verify debt,Yes,Postal mail,,,76036,,N/A,2013-09-09,Closed with explanation,No,514192
+2013-09-23,Citibank,TX,Credit card,,Credit line increase/decrease,,Yes,Web,,,75204,,N/A,2013-09-23,Closed with non-monetary relief,No,539353
+2013-09-20,Ditech Financial LLC,TX,Mortgage,Conventional fixed mortgage,Credit decision / Underwriting,,Yes,Web,,,77095,Older American,N/A,2013-09-20,Closed with explanation,Yes,535882
+2013-09-09,Equifax,TX,Credit reporting,,Incorrect information on credit report,Account status,Yes,Postal mail,,,76244,,N/A,2013-11-13,Closed with explanation,No,520495
+2013-08-27,Nationstar Mortgage,TX,Mortgage,FHA mortgage,Loan modificationcollectionforeclosure,,Yes,Web,,,78224,,N/A,2013-08-28,Closed with explanation,No,505556
+2013-11-25,JPMorgan Chase & Co,TX,Debt collection,Credit card,False statements or representation,Impersonated an attorney or official,Yes,Web,,,76227,,N/A,2013-11-27,Closed with explanation,No,611193
+2013-07-23,JPMorgan Chase & Co,TX,Mortgage,Other mortgage,Loan modificationcollectionforeclosure,,Yes,Referral,,,76308,,N/A,2013-07-24,Closed with explanation,No,463716
+2013-09-02,Encore Capital Group,TX,Debt collection,I do not know,Cont'd attempts collect debt not owed,Debt is not mine,Yes,Web,,,77532,,N/A,2013-09-02,Closed with explanation,No,511804
+2013-09-02,JPMorgan Chase & Co,TX,Mortgage,Home equity loan or line of credit,Loan servicing payments escrow account,,Yes,Web,,,75006,Older American,N/A,2013-09-03,Closed with monetary relief,No,511668
+2013-10-29,Equifax,TX,Credit reporting,,Incorrect information on credit report,Account status,Yes,Postal mail,,,76039,,N/A,2013-11-18,Closed with explanation,No,575117
+2013-08-27,Experian,TX,Credit reporting,,Incorrect information on credit report,Account status,Yes,Postal mail,,,76106,,N/A,2013-10-11,Closed with non-monetary relief,No,505552
+2013-10-29,JPMorgan Chase & Co,TX,Bank account or service,Checking account,Account opening closing or management,,Yes,Referral,,,77035,,N/A,2013-10-29,Closed with explanation,No,575251
+2013-09-16,Bank of America,TX,Mortgage,Other mortgage,Loan modificationcollectionforeclosure,,Yes,Referral,,,77406,Older American,N/A,2013-09-18,Closed with explanation,No,529533
+2013-09-20,TransUnion Intermediate Holdings Inc,TX,Credit reporting,,Incorrect information on credit report,Account status,Yes,Postal mail,,,76049,,N/A,2013-10-21,Closed with explanation,No,535666
+2013-09-09,Resurgent Capital Services LP,TX,Debt collection,Credit card,Disclosure verification of debt,Not given enough info to verify debt,Yes,Web,,,77429,,N/A,2013-09-14,Closed with explanation,No,520715
+2013-08-05,Experian,TX,Credit reporting,,Incorrect information on credit report,Account status,Yes,Web,,,77401,Older American,N/A,2013-08-05,Closed with explanation,Yes,473782
+2013-07-27,Bank of America,TX,Mortgage,Other mortgage,Loan modificationcollectionforeclosure,,Yes,Web,,,75035,,N/A,2013-07-30,Closed with explanation,No,475887
+2013-11-04,Navy FCU,TX,Bank account or service,Checking account,Account opening closing or management,,Yes,Phone,,,77373,Servicemember,N/A,2013-11-07,Closed with explanation,No,584035
+2013-11-04,Synchrony Financial,TX,Credit card,,Forbearance / Workout plans,,Yes,Web,,,77009,,N/A,2013-11-04,Closed with monetary relief,No,585120
+2013-10-08,Wells Fargo & Company,TX,Mortgage,Other mortgage,Loan servicing payments escrow account,,Yes,Postal mail,,,76550,Older American,N/A,2013-10-09,Closed with explanation,No,555365
+2013-11-04,Nationstar Mortgage,TX,Mortgage,Other mortgage,Loan servicing payments escrow account,,Yes,Postal mail,,,75702,Older American,N/A,2013-11-06,Closed with explanation,Yes,583259
+2013-11-09,Discover,TX,Credit card,,Other,,Yes,Web,,,75235,,N/A,2013-11-08,Closed with explanation,No,590743
+2013-11-04,Dynamic Recovery Solutions LLC,TX,Debt collection,I do not know,Improper contact or sharing of info,Talked to a third party about my debt,Yes,Web,,,77339,,N/A,2013-12-17,Closed with explanation,No,584439
+2013-11-04,Mercedes-Benz Financial Services,TX,Consumer Loan,Vehicle loan,Problems when you are unable to pay,,Yes,Web,,,75206,,N/A,2013-11-04,Closed with explanation,Yes,585137
+2013-09-04,Equifax,TX,Credit reporting,,Incorrect information on credit report,Account status,Yes,Postal mail,,,75217,,N/A,2013-10-25,Closed with explanation,No,514107
+2013-12-02,Estate Information Services LLC,TX,Student loan,Non-federal student loan,Problems when you are unable to pay,Problems when you are unable to pay,Yes,Web,,,75216,,N/A,2013-12-03,Closed with non-monetary relief,Yes,617928
+2013-11-04,TransUnion Intermediate Holdings Inc,TX,Credit reporting,,Incorrect information on credit report,Account status,Yes,Postal mail,,,77301,,N/A,2013-12-19,Closed with explanation,No,583523
+2013-09-02,Bank of America,TX,Mortgage,Conventional fixed mortgage,Application originator mortgage broker,,Yes,Web,,,77530,,N/A,2013-09-03,Closed with explanation,No,512626
+2013-11-08,Experian,TX,Credit reporting,,Incorrect information on credit report,Information is not mine,Yes,Web,,,75075,,N/A,2013-11-08,Closed with non-monetary relief,No,592042
+2013-09-30,CL Holdings LLC,TX,Debt collection,Credit card,Disclosure verification of debt,Not given enough info to verify debt,Yes,Postal mail,,,76116,,N/A,2013-10-01,Closed with monetary relief,No,548161
+2013-11-04,Synchrony Financial,TX,Credit card,,Closing/Cancelling account,,Yes,Web,,,75159,,N/A,2013-11-04,Closed with monetary relief,No,584481
+2013-11-13,Enova International Inc,TX,Debt collection,Payday loan,Cont'd attempts collect debt not owed,Debt is not mine,Yes,Phone,,,77642,,N/A,2013-11-19,Closed with explanation,No,596810
+2013-08-05,Bank of America,TX,Mortgage,Other mortgage,Loan modificationcollectionforeclosure,,Yes,Referral,,,77493,,N/A,2013-08-06,Closed with non-monetary relief,Yes,473800
+2013-08-09,The Western Union Company,TX,Money transfers,Domestic (US) money transfer,Other service issues,,Yes,Fax,,,76051,,N/A,2013-08-19,Closed with explanation,No,485207
+2013-07-27,Southwest Recovery Services Inc,TX,Debt collection,Other (ie phone health club etc),Disclosure verification of debt,Not given enough info to verify debt,No,Web,,,77338,,N/A,2013-08-01,Closed with non-monetary relief,No,468389
+2013-11-09,Equifax,TX,Credit reporting,,Unable to get credit report/credit score,Problem getting my free annual report,Yes,Web,,,77864,,N/A,2013-11-09,Closed with explanation,No,592661
+2013-11-04,Expert Global Solutions Inc,TX,Debt collection,Federal student loan,False statements or representation,Attempted to collect wrong amount,Yes,Postal mail,,,76012,,N/A,2013-11-04,Closed with explanation,No,583835
+2013-07-27,HSBC North America Holdings Inc,TX,Mortgage,Conventional fixed mortgage,Loan modificationcollectionforeclosure,,Yes,Web,,,77346,,N/A,2013-07-30,Closed with explanation,Yes,468391
+2013-08-27,Equifax,TX,Credit reporting,,Incorrect information on credit report,Account status,Yes,Postal mail,,,76106,,N/A,2013-09-16,Closed with non-monetary relief,No,505551
+2013-08-15,Bank of America,TX,Credit card,,Forbearance / Workout plans,,Yes,Web,,,75044,,N/A,2013-08-15,Closed with explanation,No,490030
+2013-10-29,TransUnion Intermediate Holdings Inc,TX,Credit reporting,,Incorrect information on credit report,Account status,Yes,Postal mail,,,76039,,N/A,2013-10-29,Closed with explanation,No,575121
+2013-11-13,TransUnion Intermediate Holdings Inc,TX,Credit reporting,,Incorrect information on credit report,Account terms,Yes,Web,,,77532,,N/A,2013-11-13,Closed with explanation,Yes,595170
+2013-10-18,Encore Capital Group,TX,Debt collection,Other (ie phone health club etc),Disclosure verification of debt,Not disclosed as an attempt to collect,Yes,Web,,,77381,,N/A,2013-10-18,Closed with explanation,No,562965
+2013-12-02,Encore Capital Group,TX,Debt collection,I do not know,Cont'd attempts collect debt not owed,Debt is not mine,Yes,Web,,,78240,,N/A,2013-12-04,Closed with explanation,No,617955
+2013-11-09,GM Financial,TX,Consumer Loan,Vehicle loan,Problems when you are unable to pay,,Yes,Web,,,75007,Servicemember,N/A,2013-11-09,Closed with explanation,Yes,590999
+2013-11-04,Experian,TX,Credit reporting,,Incorrect information on credit report,Account status,Yes,Postal mail,,,78752,,N/A,2013-11-21,Closed with non-monetary relief,No,583606
+2013-11-04,TransUnion Intermediate Holdings Inc,TX,Credit reporting,,Incorrect information on credit report,Account status,Yes,Postal mail,,,78752,,N/A,2013-11-21,Closed with explanation,No,583605
+2013-11-04,Equifax,TX,Credit reporting,,Unable to get credit report/credit score,Problem getting my free annual report,Yes,Web,,,78737,Older American,N/A,2013-11-04,Closed with non-monetary relief,Yes,583703
+2013-10-18,Credit Bureau Services Association,TX,Debt collection,Medical,Cont'd attempts collect debt not owed,Debt is not mine,Yes,Web,,,78212,,N/A,2013-12-03,Closed with non-monetary relief,No,562886
+2013-11-10,JPMorgan Chase & Co,TX,Credit card,,APR or interest rate,,Yes,Web,,,77479,,N/A,2013-11-09,Closed with explanation,Yes,592749
+2013-09-04,Ford Motor Credit Company,TX,Consumer Loan,Vehicle loan,Problems when you are unable to pay,,Yes,Postal mail,,,75217,,N/A,2013-09-05,Closed with explanation,No,514443
+2013-09-03,Ally Financial Inc,TX,Bank account or service,Savings account,Account opening closing or management,,Yes,Referral,,,77598,,N/A,2013-09-06,Closed with explanation,Yes,513063
+2013-08-09,Bayview Loan Servicing LLC,TX,Mortgage,Other mortgage,Loan modificationcollectionforeclosure,,Yes,Referral,,,77082,,N/A,2013-08-12,Closed with explanation,No,485310
+2013-10-11,Experian,TX,Credit reporting,,Incorrect information on credit report,Account status,Yes,Web,,,76010,,N/A,2013-10-21,Closed with non-monetary relief,No,558096
+2013-11-13,PennyMac Loan Services LLC,TX,Mortgage,Conventional fixed mortgage,Loan modificationcollectionforeclosure,,Yes,Web,,,77503,,N/A,2013-11-13,Closed with explanation,No,598050
+2013-09-04,Encore Capital Group,TX,Debt collection,Other (ie phone health club etc),Disclosure verification of debt,Not given enough info to verify debt,Yes,Postal mail,,,76036,,N/A,2013-09-04,Closed with explanation,No,514189
+2013-11-08,Wells Fargo & Company,TX,Payday loan,Payday loan,Can't contact lender,Can't contact lender,Yes,Phone,,,75249,Older American Servicemember,N/A,2013-11-27,Closed with explanation,Yes,591851
+2013-10-09,TransUnion Intermediate Holdings Inc,TX,Credit reporting,,Incorrect information on credit report,Account status,Yes,Postal mail,,,75080,Servicemember,N/A,2013-11-05,Closed with explanation,No,555759
+2013-08-20,Southwest Recovery Services Inc,TX,Debt collection,I do not know,Disclosure verification of debt,Not given enough info to verify debt,Yes,Postal mail,,,75051,,N/A,2013-08-21,Closed with explanation,No,496875
+2013-12-02,Law Office of Regent and Associates,TX,Student loan,Non-federal student loan,Problems when you are unable to pay,Problems when you are unable to pay,No,Web,,,78240,,N/A,2013-12-04,Closed with explanation,No,617960
+2013-10-09,Experian,TX,Credit reporting,,Incorrect information on credit report,Account status,Yes,Postal mail,,,75080,Servicemember,N/A,2013-11-05,Closed with explanation,No,555758
+2013-11-04,TransUnion Intermediate Holdings Inc,TX,Credit reporting,,Incorrect information on credit report,Account status,Yes,Postal mail,,,77301,,N/A,2013-12-19,Closed with explanation,No,583504
+2013-07-22,Bank of America,TX,Bank account or service,Checking account,Account opening closing or management,,Yes,Phone,,,76036,Servicemember,N/A,2013-07-24,Closed with explanation,No,463588
+2013-11-10,Capital One,TX,Credit card,,Cash advance fee,,Yes,Web,,,77498,,N/A,2013-11-10,Closed with monetary relief,No,592817
+2013-08-21,Planet Home Lending LLC,TX,Mortgage,VA mortgage,Loan modificationcollectionforeclosure,,Yes,Web,,,79928,,N/A,2013-08-21,Closed with explanation,No,498277
+2013-11-10,Encore Capital Group,TX,Debt collection,Credit card,Communication tactics,Frequent or repeated calls,Yes,Web,,,76209,,N/A,2013-11-18,Closed with explanation,No,590916
+2013-08-05,BBVA Compass,TX,Mortgage,Second mortgage,Loan servicing payments escrow account,,Yes,Postal mail,,,76054,,N/A,2013-08-08,Closed with non-monetary relief,Yes,475828
+2013-08-15,Encore Capital Group,TX,Debt collection,Other (ie phone health club etc),Cont'd attempts collect debt not owed,Debt is not mine,Yes,Web,,,76248,,N/A,2013-08-15,Closed with explanation,Yes,490208
+2013-10-30,Encore Capital Group,TX,Debt collection,Other (ie phone health club etc),Cont'd attempts collect debt not owed,Debt is not mine,Yes,Web,,,76114,,N/A,2013-10-30,Closed with explanation,No,577767
+2013-10-29,Equifax,TX,Credit reporting,,Incorrect information on credit report,Account status,Yes,Postal mail,,,76039,,N/A,2013-11-19,Closed with explanation,No,575131
+2013-11-13,Experian,TX,Credit reporting,,Incorrect information on credit report,Personal information,Yes,Web,,,77077,,N/A,2013-11-13,Closed with explanation,Yes,597053
+2013-11-04,JPMorgan Chase & Co,TX,Bank account or service,Checking account,Problems caused by my funds being low,,Yes,Referral,,,75081,,N/A,2013-11-05,Closed with explanation,No,583246
+2013-11-04,Webster Bank,TX,Bank account or service,Other bank product/service,Using a debit or ATM card,,Yes,Web,,,75024,,N/A,2013-11-04,Closed with explanation,No,584687
+2013-11-04,Equifax,TX,Credit reporting,,Incorrect information on credit report,Account status,Yes,Postal mail,,,77301,,N/A,2013-12-19,Closed with non-monetary relief,No,583501
+2013-09-04,IC System Inc,TX,Debt collection,Other (ie phone health club etc),Disclosure verification of debt,Not given enough info to verify debt,Yes,Postal mail,,,76036,,N/A,2013-09-05,Closed with explanation,Yes,514185
+2013-08-09,Platinum Holdings Group LLC,TX,Debt collection,Credit card,Communication tactics,Used obscene/profane/abusive language,No,Phone,,,78413,,N/A,2013-10-23,Closed with explanation,,485393
+2013-11-20,Expert Global Solutions Inc,TX,Debt collection,I do not know,Cont'd attempts collect debt not owed,Debt is not mine,Yes,Web,,,75965,,N/A,2013-11-19,Closed with explanation,Yes,605370
+2013-07-28,Equifax,TX,Credit reporting,,Incorrect information on credit report,Reinserted previously deleted info,Yes,Web,,,75068,,N/A,2013-08-02,Closed with non-monetary relief,No,475754
+2013-08-09,Experian,TX,Credit reporting,,Incorrect information on credit report,Public record,Yes,Web,,,76210,Older American,N/A,2013-08-20,Closed with explanation,No,485164
+2013-11-04,Ocwen,TX,Mortgage,Other mortgage,Loan modificationcollectionforeclosure,,Yes,Referral,,,76227,Older American,N/A,2013-11-08,Closed,No,584852
+2013-11-04,TransUnion Intermediate Holdings Inc,TX,Credit reporting,,Incorrect information on credit report,Account status,Yes,Postal mail,,,76028,,N/A,2013-11-05,Closed with non-monetary relief,No,584715
+2013-07-28,Dynamic Recovery Solutions LLC,TX,Debt collection,Credit card,Cont'd attempts collect debt not owed,Debt resulted from identity theft,Yes,Web,,,78225,,N/A,2013-08-23,Closed with explanation,Yes,468497
+2013-08-04,Ocwen,TX,Mortgage,Conventional fixed mortgage,Loan servicing payments escrow account,,Yes,Web,,,78028,,N/A,2013-08-07,Closed with explanation,No,473671
+2013-07-28,Amex,TX,Debt collection,Credit card,Cont'd attempts collect debt not owed,Debt resulted from identity theft,Yes,Web,,,78225,,N/A,2013-07-28,Closed with explanation,Yes,468498
+2013-09-18,Specialized Loan Servicing LLC,TX,Mortgage,Home equity loan or line of credit,Loan modificationcollectionforeclosure,,Yes,Web,,,76549,,N/A,2013-09-19,Closed,No,531820
+2013-07-28,TransUnion Intermediate Holdings Inc,TX,Credit reporting,,Incorrect information on credit report,Information is not mine,Yes,Web,,,78225,,N/A,2013-07-28,Closed with non-monetary relief,No,468499
+2013-08-15,CNG Financial Corporation,TX,Debt collection,I do not know,Cont'd attempts collect debt not owed,Debt is not mine,No,Web,,,79109,,N/A,2013-09-20,Closed,,489921
+2013-07-26,Bank of America,TX,Credit card,,Identity theft / Fraud / Embezzlement,,Yes,Phone,,,77084,,N/A,2013-07-29,Closed with explanation,No,468193
+2013-10-24,Alorica Inc,TX,Debt collection,I do not know,Improper contact or sharing of info,Contacted employer after asked not to,Yes,Web,,,75150,,N/A,2013-10-24,Closed with explanation,No,570269
+2013-08-15,Wells Fargo & Company,TX,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Referral,,,75024,,N/A,2013-08-19,Closed with monetary relief,No,490255
+2013-08-15,Bank of America,TX,Mortgage,Other mortgage,Loan servicing payments escrow account,,Yes,Web,,,75034,,N/A,2013-08-16,Closed with explanation,No,490267
+2013-10-09,Afni Inc,TX,Debt collection,Other (ie phone health club etc),Disclosure verification of debt,Not given enough info to verify debt,Yes,Postal mail,,,77375,,N/A,2013-10-09,Closed with explanation,No,556425
+2013-09-04,IQ Data International Inc,TX,Debt collection,Other (ie phone health club etc),Disclosure verification of debt,Not given enough info to verify debt,Yes,Postal mail,,,76036,,N/A,2013-09-11,Closed with explanation,No,514177
+2013-10-17,Navient Solutions Inc,TX,Student loan,Non-federal student loan,Repaying your loan,Repaying your loan,Yes,Web,,,77429,,N/A,2013-10-18,Closed with explanation,No,561994
+2013-08-09,Wells Fargo & Company,TX,Bank account or service,Checking account,Account opening closing or management,,Yes,Web,,,77449,Servicemember,N/A,2013-08-12,Closed with explanation,No,485135
+2013-10-09,Encore Capital Group,TX,Debt collection,Credit card,Disclosure verification of debt,Not given enough info to verify debt,Yes,Web,,,77070,,N/A,2013-10-09,Closed with explanation,No,556243
+2013-09-18,Citibank,TX,Consumer Loan,Vehicle loan,Managing the loan or lease,,Yes,Referral,,,75007,,N/A,2013-09-19,Closed with explanation,No,533020
+2013-08-22,Bank of America,TX,Bank account or service,Checking account,Account opening closing or management,,Yes,Phone,,,77081,Servicemember,N/A,2013-08-22,Closed with explanation,Yes,499960
+2013-10-09,US Bancorp,TX,Credit card,,Billing disputes,,Yes,Phone,,,76112,,N/A,2013-10-10,Closed with explanation,No,556275
+2013-10-09,First Tennessee Bank,TX,Mortgage,Other mortgage,Loan servicing payments escrow account,,Yes,Referral,,,78358,,N/A,2013-10-10,Closed with explanation,No,556304
+2013-08-03,Equifax,TX,Credit reporting,,Improper use of my credit report,Report improperly shared by CRC,Yes,Web,,,76119,,N/A,2013-08-03,Closed with explanation,No,473413
+2013-11-02,Encore Capital Group,TX,Debt collection,Credit card,Communication tactics,Frequent or repeated calls,Yes,Web,,,78748,Servicemember,N/A,2013-11-02,Closed with non-monetary relief,No,582584
+2013-10-24,Equifax,TX,Credit reporting,,Incorrect information on credit report,Account status,Yes,Postal mail,,,78747,,N/A,2014-01-03,Closed with explanation,No,570330
+2013-11-05,Wells Fargo & Company,TX,Mortgage,FHA mortgage,Loan modificationcollectionforeclosure,,Yes,Web,,,75077,,N/A,2013-11-04,Closed with explanation,No,585536
+2013-11-08,Wells Fargo & Company,TX,Consumer Loan,Vehicle loan,Managing the loan or lease,,Yes,Web,,,75215,,N/A,2013-11-08,Closed with explanation,No,591459
+2013-11-02,Encore Capital Group,TX,Debt collection,I do not know,Cont'd attempts collect debt not owed,Debt is not mine,Yes,Web,,,77530,Older American Servicemember,N/A,2013-11-02,Closed with non-monetary relief,No,582585
+2013-08-02,Experian,TX,Credit reporting,,Incorrect information on credit report,Public record,Yes,Web,,,75074,,N/A,2013-08-02,Closed with explanation,No,472790
+2013-11-08,Credit Protection Association LP,TX,Debt collection,Other (ie phone health club etc),Communication tactics,Called after sent written cease of comm,Yes,Web,,,77069,Servicemember,N/A,2013-11-07,Closed with explanation,No,591422
+2013-11-05,Contract Callers Inc,TX,Debt collection,Other (ie phone health club etc),Cont'd attempts collect debt not owed,Debt was paid,Yes,Web,,,79908,Servicemember,N/A,2013-11-07,Closed with explanation,Yes,585580
+2013-08-05,Sallie Mae,TX,Student loan,Non-federal student loan,Problems when you are unable to pay,Problems when you are unable to pay,Yes,Phone,,,78704,,N/A,2013-08-07,Closed with monetary relief,No,474036
+2013-08-23,Franklin Credit Management,TX,Mortgage,Second mortgage,Credit decision / Underwriting,,Yes,Web,,,79118,,N/A,2013-09-04,Closed with explanation,No,501175
+2013-08-06,Encore Capital Group,TX,Debt collection,Credit card,Disclosure verification of debt,Not given enough info to verify debt,Yes,Web,,,75098,,N/A,2013-08-09,Closed with explanation,No,481628
+2013-11-05,Merchants Credit Bureau Inc,TX,Debt collection,Medical,Cont'd attempts collect debt not owed,Debt is not mine,No,Web,,,79908,Servicemember,N/A,2013-11-12,Closed with explanation,,585581
+2013-11-05,Experian,TX,Credit reporting,,Incorrect information on credit report,Information is not mine,Yes,Web,,,79908,Servicemember,N/A,2013-11-06,Closed with non-monetary relief,No,585584
+2013-11-05,Experian,TX,Credit reporting,,Credit reporting company's investigation,No notice of investigation status/result,Yes,Postal mail,,,76009,,N/A,2013-11-27,Closed with non-monetary relief,No,585425
+2013-11-05,Experian,TX,Credit reporting,,Incorrect information on credit report,Account status,Yes,Postal mail,,,76009,,N/A,2013-11-27,Closed with non-monetary relief,No,585427
+2013-11-05,ACE Cash Express Inc,TX,Consumer Loan,Installment loan,Taking out the loan or lease,,Yes,Web,,,77385,,N/A,2013-11-18,Closed with monetary relief,No,585622
+2013-08-20,Equifax,TX,Credit reporting,,Incorrect information on credit report,Account status,Yes,Postal mail,,,75051,,N/A,2013-10-01,Closed with explanation,No,496876
+2013-11-01,TransUnion Intermediate Holdings Inc,TX,Credit reporting,,Incorrect information on credit report,Information is not mine,Yes,Postal mail,,,77547,,N/A,2013-11-04,Closed with explanation,No,581061
+2013-08-23,United Check Recovery LLC,TX,Debt collection,Other (ie phone health club etc),Taking/threatening an illegal action,Threatened arrest/jail if do not pay,No,Web,,,76691,,N/A,2013-10-17,Untimely response,,502271
+2013-10-27,State Collection Service Inc,TX,Debt collection,Medical,Cont'd attempts collect debt not owed,Debt was paid,Yes,Web,,,77479,,N/A,2013-10-27,Closed with explanation,No,572700
+2013-08-09,Equifax,TX,Credit reporting,,Incorrect information on credit report,Account status,Yes,Postal mail,,,76114,,N/A,2013-08-13,Closed with non-monetary relief,No,486857
+2013-11-08,Citibank,TX,Credit card,,Identity theft / Fraud / Embezzlement,,Yes,Referral,,,75201,Older American,N/A,2013-11-13,Closed with explanation,No,591344
+2013-11-25,Wells Fargo & Company,TX,Bank account or service,Other bank product/service,Making/receiving payments sending money,,Yes,Phone,,,77070,Servicemember,N/A,2013-11-29,Closed with explanation,No,611326
+2013-09-04,Navient Solutions Inc,TX,Student loan,Non-federal student loan,Repaying your loan,Repaying your loan,Yes,Web,,,75013,,N/A,2013-09-04,Closed with monetary relief,No,513706
+2013-09-30,Experian,TX,Credit reporting,,Incorrect information on credit report,Account status,Yes,Postal mail,,,76116,,N/A,2013-11-04,Closed with non-monetary relief,No,548159
+2013-10-08,Experian,TX,Credit reporting,,Incorrect information on credit report,Account status,Yes,Postal mail,,,76105,,N/A,2013-10-22,Closed with explanation,No,554909
+2013-08-09,USAA Savings,TX,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Referral,,,77388,,N/A,2013-08-14,Closed with monetary relief,No,486322
+2013-08-15,Experian,TX,Credit reporting,,Improper use of my credit report,Report improperly shared by CRC,Yes,Web,,,76063,Servicemember,N/A,2013-08-15,Closed with explanation,No,489853
+2013-11-07,Portfolio Recovery Associates Inc,TX,Debt collection,Credit card,Improper contact or sharing of info,Contacted employer after asked not to,Yes,Web,,,78613,,N/A,2013-11-07,Closed with non-monetary relief,No,590590
+2013-08-09,Wells Fargo & Company,TX,Consumer Loan,Vehicle loan,Managing the loan or lease,,Yes,Referral,,,78617,,N/A,2013-08-12,Closed with explanation,No,486373
+2013-10-08,Ditech Financial LLC,TX,Mortgage,Other mortgage,Loan modificationcollectionforeclosure,,Yes,Referral,,,78501,,N/A,2013-10-15,Closed with explanation,No,555404
+2013-09-18,Ocwen,TX,Mortgage,Conventional adjustable mortgage (ARM),Loan modificationcollectionforeclosure,,Yes,Web,,,76053,,N/A,2013-09-19,Closed with explanation,Yes,532662
+2013-10-29,Wells Fargo & Company,TX,Bank account or service,Checking account,Using a debit or ATM card,,Yes,Web,,,78542,,N/A,2013-10-29,Closed with non-monetary relief,Yes,575141
+2013-11-11,Wells Fargo & Company,TX,Bank account or service,Checking account,Making/receiving payments sending money,,Yes,Web,,,77090,,N/A,2013-11-11,Closed with non-monetary relief,No,590878
+2013-10-02,Experian,TX,Credit reporting,,Incorrect information on credit report,Account status,Yes,Postal mail,,,76031,,N/A,2013-11-04,Closed with non-monetary relief,No,550296
+2013-11-07,Synchrony Financial,TX,Debt collection,Credit card,Improper contact or sharing of info,Contacted me after I asked not to,Yes,Web,,,78620,,N/A,2013-11-15,Closed with explanation,No,590568
+2013-09-04,Experian,TX,Credit reporting,,Incorrect information on credit report,Account status,Yes,Postal mail,,,76036,,N/A,2013-09-18,Closed with non-monetary relief,No,514175
+2013-10-10,Nationstar Mortgage,TX,Mortgage,Other mortgage,Loan servicing payments escrow account,,Yes,Fax,,,77084,,N/A,2013-10-11,Closed with explanation,No,557526
+2013-10-10,HSBC North America Holdings Inc,TX,Mortgage,Conventional fixed mortgage,Loan servicing payments escrow account,,Yes,Web,,,78662,Older American,N/A,2013-10-11,Closed with explanation,No,556938
+2013-09-13,Wells Fargo & Company,TX,Bank account or service,Checking account,Problems caused by my funds being low,,Yes,Web,,,75050,,N/A,2013-09-17,Closed with explanation,No,527361
+2013-11-26,Equifax,TX,Credit reporting,,Incorrect information on credit report,Account status,Yes,Postal mail,,,76020,,N/A,2013-12-11,Closed with explanation,No,612682
+2013-11-07,Montgomery County Credit Bureau,TX,Debt collection,Medical,Improper contact or sharing of info,Talked to a third party about my debt,Yes,Web,,,77305,,N/A,2013-12-18,Closed with explanation,No,590423
+2013-10-08,Equifax,TX,Credit reporting,,Incorrect information on credit report,Account status,Yes,Postal mail,,,75019,,N/A,2013-10-29,Closed with explanation,No,555089
+2013-10-08,TransUnion Intermediate Holdings Inc,TX,Credit reporting,,Incorrect information on credit report,Account status,Yes,Postal mail,,,75019,,N/A,2013-10-29,Closed with explanation,No,555088
+2013-10-02,Experian,TX,Credit reporting,,Incorrect information on credit report,Account status,Yes,Postal mail,,,76106,,N/A,2013-11-21,Closed with explanation,No,550517
+2013-08-08,US Bancorp,TX,Credit card,,Balance transfer,,Yes,Web,,,75062,,N/A,2013-08-08,Closed with monetary relief,No,484120
+2013-08-02,Citibank,TX,Mortgage,FHA mortgage,Loan modificationcollectionforeclosure,,Yes,Referral,,,75241,,N/A,2013-08-06,Closed with explanation,Yes,473550
+2013-11-07,Wells Fargo & Company,TX,Debt collection,Auto,Communication tactics,Frequent or repeated calls,Yes,Web,,,78660,,N/A,2013-11-08,Closed with explanation,No,590526
+2013-10-24,Dynamic Recovery Solutions LLC,TX,Debt collection,Other (ie phone health club etc),Cont'd attempts collect debt not owed,Debt is not mine,Yes,Web,,,77082,,N/A,2013-10-25,Closed with explanation,No,569954
+2013-09-18,JPMorgan Chase & Co,TX,Bank account or service,(CD) Certificate of deposit,Account opening closing or management,,Yes,Phone,,,77044,Older American,N/A,2013-09-19,Closed with monetary relief,No,532735
+2013-10-24,MoneyGram,TX,Money transfers,International money transfer,Other transaction issues,,Yes,Web,,,75751,,N/A,2013-10-24,Closed with explanation,No,569909
+2013-08-23,Experian,TX,Credit reporting,,Incorrect information on credit report,Account terms,Yes,Web,,,75025,,N/A,2013-09-10,Closed with explanation,Yes,501517
+2013-10-10,JPMorgan Chase & Co,TX,Bank account or service,Checking account,Account opening closing or management,,Yes,Phone,,,78229,,N/A,2013-10-11,Closed with explanation,No,557020
+2013-08-03,IQ Data International Inc,TX,Debt collection,I do not know,Disclosure verification of debt,Not given enough info to verify debt,Yes,Referral,,,75062,,N/A,2013-08-29,Closed with explanation,No,473504
+2013-10-30,Bank of America,TX,Credit card,,Other,,Yes,Referral,,,75035,,N/A,2013-11-01,Closed with monetary relief,No,577219
+2013-10-29,The Receivable Management Services Corporation,TX,Debt collection,I do not know,Disclosure verification of debt,Not given enough info to verify debt,Yes,Referral,,,75251,,N/A,2013-10-31,Closed with non-monetary relief,No,576579
+2013-11-05,Equifax,TX,Credit reporting,,Incorrect information on credit report,Account status,Yes,Postal mail,,,78664,,N/A,2013-11-05,Closed with non-monetary relief,No,585700
+2013-11-12,Enova International Inc,TX,Debt collection,I do not know,Cont'd attempts collect debt not owed,Debt is not mine,Yes,Web,,,75040,Older American,N/A,2013-11-11,Closed with explanation,Yes,593710
+2013-08-23,Experian,TX,Credit reporting,,Incorrect information on credit report,Information is not mine,Yes,Web,,,75025,,N/A,2013-08-29,Closed with explanation,Yes,501518
+2013-09-04,Equifax,TX,Credit reporting,,Incorrect information on credit report,Account status,Yes,Postal mail,,,75217,,N/A,2013-10-25,Closed with explanation,No,514103
+2013-10-25,Bank of America,TX,Mortgage,Conventional fixed mortgage,Settlement process and costs,,Yes,Web,,,75056,,N/A,2013-10-24,Closed with explanation,No,571226
+2013-12-02,JPMorgan Chase & Co,TX,Debt collection,Credit card,Cont'd attempts collect debt not owed,Debt resulted from identity theft,Yes,Web,,,78586,,N/A,2013-12-02,Closed with explanation,No,618038
+2013-10-29,Wells Fargo & Company,TX,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Phone,,,75051,,N/A,2013-10-30,Closed with explanation,No,576523
+2013-10-08,Wells Fargo & Company,TX,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Referral,,,77084,,N/A,2013-10-08,Closed with explanation,No,555112
+2013-09-03,Allied Interstate LLC,TX,Debt collection,Other (ie phone health club etc),Disclosure verification of debt,Right to dispute notice not received,Yes,Phone,,,78753,,N/A,2013-09-04,Closed with non-monetary relief,No,513672
+2013-10-25,Check into Cash Inc,TX,Consumer Loan,Vehicle loan,Problems when you are unable to pay,,Yes,Web,,,77069,Servicemember,N/A,2013-10-25,Closed with monetary relief,Yes,572948
+2013-07-29,Wells Fargo & Company,TX,Bank account or service,(CD) Certificate of deposit,Account opening closing or management,,Yes,Postal mail,,,77381,,N/A,2013-07-30,Closed with explanation,No,469309
+2013-11-26,Equifax,TX,Credit reporting,,Incorrect information on credit report,Account status,Yes,Postal mail,,,76108,,N/A,2013-12-11,Closed with explanation,No,612645
+2013-08-22,Discover,TX,Credit card,,Credit line increase/decrease,,Yes,Web,,,75204,,N/A,2013-08-21,Closed with explanation,No,501134
+2013-10-08,Ocwen,TX,Mortgage,FHA mortgage,Loan servicing payments escrow account,,Yes,Web,,,77045,,N/A,2013-10-08,Closed with explanation,Yes,555035
+2013-11-20,Wells Fargo & Company,TX,Debt collection,Credit card,Taking/threatening an illegal action,Attempted to/Collected exempt funds,Yes,Web,,,77546,,N/A,2013-11-21,Closed with explanation,No,605934
+2013-10-25,Resurgent Capital Services LP,TX,Debt collection,Credit card,Disclosure verification of debt,Not given enough info to verify debt,Yes,Web,,,75211,,N/A,2013-10-25,Closed with explanation,No,571384
+2013-09-18,Wells Fargo & Company,TX,Bank account or service,Checking account,Account opening closing or management,,Yes,Web,,,75035,,N/A,2013-09-19,Closed with monetary relief,No,532818
+2013-11-20,Citibank,TX,Bank account or service,Checking account,Account opening closing or management,,Yes,Postal mail,,,78223,Older American,N/A,2013-11-21,Closed with explanation,Yes,604814
+2013-10-29,Bank of America,TX,Credit card,,Billing disputes,,Yes,Referral,,,76065,,N/A,2013-12-30,Closed with explanation,No,574950
+2013-11-05,Experian,TX,Credit reporting,,Incorrect information on credit report,Account status,Yes,Postal mail,,,78758,Older American,N/A,2013-11-19,Closed with explanation,No,585400
+2013-08-14,Experian,TX,Credit reporting,,Incorrect information on credit report,Account terms,Yes,Web,,,77072,,N/A,2013-08-14,Closed with non-monetary relief,No,492525
+2013-10-25,Synchrony Financial,TX,Credit card,,Closing/Cancelling account,,Yes,Web,,,77050,,N/A,2013-10-28,Closed with non-monetary relief,No,571410
+2013-10-08,Experian,TX,Credit reporting,,Incorrect information on credit report,Account status,Yes,Postal mail,,,76105,,N/A,2013-10-24,Closed with explanation,No,554900
+2013-11-05,Capital One,TX,Debt collection,Credit card,Cont'd attempts collect debt not owed,Debt is not mine,Yes,Postal mail,,,78758,Older American,N/A,2013-11-06,Closed with explanation,No,585402
+2013-10-30,Fidelity National Information Services Inc (FNIS),TX,Credit reporting,,Incorrect information on credit report,Public record,Yes,Web,,,77058,,N/A,2013-10-30,Closed with explanation,No,578456
+2013-11-13,Afni Inc,TX,Debt collection,Other (ie phone health club etc),Cont'd attempts collect debt not owed,Debt was paid,Yes,Web,,,75034,,N/A,2013-11-13,Closed with explanation,No,595141
+2013-07-22,Synchrony Financial,TX,Credit card,,Other,,Yes,Web,,,75212,,N/A,2013-07-22,Closed with explanation,No,455673
+2013-10-17,ERC,TX,Debt collection,Other (ie phone health club etc),Communication tactics,Frequent or repeated calls,Yes,Web,,,78660,,N/A,2013-10-21,Closed with non-monetary relief,No,561525
+2013-10-29,SquareTwo Financial Corporation,TX,Debt collection,Other (ie phone health club etc),Disclosure verification of debt,Not given enough info to verify debt,Yes,Referral,,,78251,,N/A,2013-11-05,Closed with explanation,Yes,576424
+2013-11-20,Bank of America,TX,Credit card,,Billing statement,,Yes,Web,,,78749,,N/A,2013-11-20,Closed with explanation,No,606019
+2013-09-16,Experian,TX,Credit reporting,,Incorrect information on credit report,Account status,Yes,Postal mail,,,76059,,N/A,2013-10-03,Closed with explanation,No,528345
+2013-11-06,Bank of America,TX,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Phone,,,78660,,N/A,2013-11-07,Closed with non-monetary relief,No,588723
+2013-10-29,Franklin Collection Service Inc,TX,Debt collection,Other (ie phone health club etc),Taking/threatening an illegal action,Seized/Attempted to seize property,Yes,Web,,,76092,,N/A,2013-10-29,Closed with monetary relief,No,576420
+2013-08-08,Law Office of Regent and Associates,TX,Debt collection,Non-federal student loan,Improper contact or sharing of info,Contacted me after I asked not to,Yes,Web,,,75287,,N/A,2013-11-07,Closed with explanation,No,483950
+2013-10-08,Experian,TX,Credit reporting,,Incorrect information on credit report,Account status,Yes,Postal mail,,,76105,,N/A,2013-10-24,Closed with explanation,No,554897
+2013-10-25,TransUnion Intermediate Holdings Inc,TX,Credit reporting,,Incorrect information on credit report,Account status,Yes,Postal mail,,,76114,,N/A,2013-11-12,Closed with explanation,No,571452
+2013-07-29,Alorica Inc,TX,Debt collection,I do not know,Communication tactics,Threatened to take legal action,Yes,Web,,,75230,,N/A,2013-10-01,Closed with explanation,No,468747
+2013-10-29,The CBE Group Inc,TX,Debt collection,Other (ie phone health club etc),Improper contact or sharing of info,Talked to a third party about my debt,Yes,Web,,,77545,,N/A,2013-10-29,Closed with explanation,Yes,576356
+2013-10-29,Experian,TX,Credit reporting,,Incorrect information on credit report,Account status,Yes,Postal mail,,,76039,,N/A,2013-11-19,Closed with non-monetary relief,No,575126
+2013-10-08,Equifax,TX,Credit reporting,,Improper use of my credit report,Report improperly shared by CRC,Yes,Web,,,75240,,N/A,2013-10-08,Closed with explanation,No,554859
+2013-09-30,Ocwen,TX,Mortgage,Conventional fixed mortgage,Loan modificationcollectionforeclosure,,Yes,Web,,,79902,,N/A,2013-10-01,Closed with explanation,No,547254
+2013-08-05,Experian,TX,Credit reporting,,Incorrect information on credit report,Account status,Yes,Web,,,78729,,N/A,2013-08-05,Closed with non-monetary relief,No,454908
+2013-11-16,Security Finance,TX,Debt collection,Other (ie phone health club etc),Improper contact or sharing of info,Talked to a third party about my debt,Yes,Web,,,79316,Older American,N/A,2013-11-18,Closed with non-monetary relief,No,601259
+2013-07-29,Amex,TX,Credit card,NA,Delinquent account,,Yes,Web,,,78232,,N/A,2013-07-29,Closed with monetary relief,No,479990
+2013-08-03,Convergent Resources Inc,TX,Debt collection,Other (ie phone health club etc),Disclosure verification of debt,Not given enough info to verify debt,Yes,Web,,,77373,,N/A,2013-08-07,Closed with explanation,No,457072
+2013-08-02,M&T Bank Corporation,TX,Mortgage,Other mortgage,Loan servicing payments escrow account,,Yes,Referral,,,78245,,N/A,2013-08-06,Closed with explanation,No,473571
+2013-08-09,Seterus Inc,TX,Credit reporting,,Incorrect information on credit report,Information is not mine,Yes,Postal mail,,,75104,,N/A,2013-08-21,Closed,No,486073
+2013-08-23,BBVA Compass,TX,Mortgage,Home equity loan or line of credit,Loan servicing payments escrow account,,Yes,Phone,,,74851,,N/A,2013-08-23,Closed with explanation,No,502487
+2013-11-05,TransUnion Intermediate Holdings Inc,TX,Credit reporting,,Incorrect information on credit report,Account status,Yes,Postal mail,,,76009,,N/A,2013-11-27,Closed with explanation,No,585430
+2013-09-30,Bank of America,TX,Debt collection,Mortgage,Disclosure verification of debt,Not given enough info to verify debt,Yes,Web,,,77503,,N/A,2013-10-01,Closed with explanation,Yes,547713
+2013-09-04,TransUnion Intermediate Holdings Inc,TX,Credit reporting,,Incorrect information on credit report,Account status,Yes,Postal mail,,,75217,,N/A,2013-10-25,Closed with explanation,No,514053
+2013-09-30,Encore Capital Group,TX,Debt collection,Credit card,Disclosure verification of debt,Not given enough info to verify debt,Yes,Web,,,75098,,N/A,2013-09-30,Closed with explanation,No,548580
+2013-11-05,TransUnion Intermediate Holdings Inc,TX,Credit reporting,,Incorrect information on credit report,Account status,Yes,Postal mail,,,76108,,N/A,2013-12-20,Closed with explanation,No,585933
+2013-09-30,BBVA Compass,TX,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Referral,,,76226,,N/A,2013-10-01,Closed with explanation,No,548263
+2013-10-29,The Phoenix Recovery Group,TX,Debt collection,Other (ie phone health club etc),Cont'd attempts collect debt not owed,Debt is not mine,Yes,Phone,,,78230,,N/A,2013-10-29,Closed with non-monetary relief,No,575418
+2013-10-29,Capital One,TX,Credit card,,Overlimit fee,,Yes,Web,,,78727,Older American,N/A,2013-10-29,Closed with explanation,No,574934
+2013-10-07,Ocwen,TX,Mortgage,Conventional fixed mortgage,Loan servicing payments escrow account,,Yes,Web,,,75080,Older American,N/A,2013-10-08,Closed with explanation,No,554391
+2013-09-24,Wells Fargo & Company,TX,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Phone,,,78502,,N/A,2013-09-25,Closed with explanation,No,540100
+2013-08-02,Equifax,TX,Credit reporting,,Incorrect information on credit report,Account terms,Yes,Web,,,75205,,N/A,2013-08-02,Closed with non-monetary relief,No,472492
+2013-10-23,Equifax,TX,Credit reporting,,Incorrect information on credit report,Account status,Yes,Web,,,77014,,N/A,2013-10-23,Closed with explanation,No,569064
+2013-11-05,TransUnion Intermediate Holdings Inc,TX,Credit reporting,,Incorrect information on credit report,Account status,Yes,Postal mail,,,78758,Older American,N/A,2013-11-18,Closed with explanation,No,585405
+2013-09-30,Nationstar Mortgage,TX,Mortgage,Conventional fixed mortgage,Loan servicing payments escrow account,,Yes,Web,,,76120,,N/A,2013-10-01,Closed with explanation,No,547609
+2013-08-09,Citibank,TX,Credit card,,Transaction issue,,Yes,Web,,,77554,Servicemember,N/A,2013-08-09,Closed with explanation,No,486204
+2013-11-05,Synchrony Financial,TX,Debt collection,Credit card,Cont'd attempts collect debt not owed,Debt is not mine,Yes,Postal mail,,,78758,Older American,N/A,2013-11-05,Closed with explanation,No,585406
+2013-08-15,Discover,TX,Credit card,,APR or interest rate,,Yes,Web,,,77083,,N/A,2013-08-19,Closed with non-monetary relief,No,490700
+2013-09-06,Experian,TX,Credit reporting,,Incorrect information on credit report,Personal information,Yes,Web,,,77083,,N/A,2013-09-09,Closed with non-monetary relief,No,518546
+2013-11-12,JPMorgan Chase & Co,TX,Credit card,,Billing disputes,,Yes,Postal mail,,,78045,,N/A,2013-11-13,Closed with explanation,No,593951
+2013-10-25,Wells Fargo & Company,TX,Bank account or service,Checking account,Account opening closing or management,,Yes,Web,,,75093,,N/A,2013-10-25,Closed with explanation,Yes,571578

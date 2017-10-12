@@ -1,0 +1,23 @@
+GC Services Limited Partnership	5	5
+GM Financial	9	9
+GMFS LLC	1	1
+GVA Holdings LLC	1	1
+Gatestone & Co International Inc	1	1
+Generation Mortgage	2	2
+Genesis Lending	1	1
+Glass Mountain Capital LLC	2	1
+Glasser and Glasser PLC	1	1
+Global Client Solutions	1	1
+Global Credit & Collection Corporation	2	2
+Global Recovery Group	1	1
+Gordon & Wong Law Group PC	1	1
+Granite State Management & Resources	1	1
+Grant & Weber	10	10
+Grant Mercantile Agency	1	1
+Great Lakes	1	0
+Greystone Alliance LLC	2	2
+Gryphon Corp	6	6
+Gurstel Chargo PA	1	1
+QC Holdings Inc	1	1
+Quality Asset Recovery LLC	1	0
+Quicken Loans	23	23

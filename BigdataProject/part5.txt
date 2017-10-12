@@ -1,0 +1,351 @@
+2013-08-01,Wells Fargo & Company,GA,Bank account or service,Checking account,Deposits and withdrawals,NA,Yes,Web,NA,NA,30084,,N/A,2013-07-30,Closed with explanation,No,468949
+2014-08-03,Bank of America,TX,Bank account or service,Checking account,Deposits and withdrawals,NA,No,Web,NA,NA,75025,,N/A,2013-07-30,Closed with explanation,No,468981
+2013-07-29,Wells Fargo & Company,CA,Bank account or service,Other bank product/service,Deposits and withdrawals,,Yes,Web,,,96088,,N/A,2013-08-01,Closed with explanation,No,469185
+2013-07-29,JPMorgan Chase & Co,NJ,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Postal mail,,,8530,,N/A,2013-07-30,Closed with monetary relief,No,475273
+2013-07-29,Wells Fargo & Company,CA,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Web,,,92277,,N/A,2013-08-05,Closed with explanation,No,469446
+2013-07-29,People's United Bank,CT,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Referral,,,6514,,N/A,2013-07-31,Closed with explanation,No,469508
+2013-07-29,TD Bank US Holding Company,NJ,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Postal mail,,,7656,,N/A,2013-07-31,Closed with monetary relief,No,480463
+2013-07-29,Wells Fargo & Company,FL,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Web,,,33326,,N/A,2013-07-31,Closed with explanation,No,469641
+2013-07-30,JPMorgan Chase & Co,NY,Bank account or service,Savings account,Deposits and withdrawals,,Yes,Web,,,10469,,N/A,2013-08-01,Closed with explanation,No,470665
+2013-07-31,Santander Bank US,NJ,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Web,,,7106,,N/A,2013-08-01,Closed with explanation,No,470903
+2013-07-30,TD Bank US Holding Company,NJ,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Phone,,,7869,,N/A,2013-07-31,Closed with explanation,No,463412
+2013-07-31,US Bancorp,TX,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Web,,,75025,,N/A,2013-08-02,Closed with explanation,No,471152
+2013-07-31,Bank of America,MI,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Phone,,,48240,,N/A,2013-08-02,Closed with explanation,No,471160
+2013-07-30,Wells Fargo & Company,NJ,Bank account or service,Savings account,Deposits and withdrawals,,Yes,Phone,,,8618,,N/A,2013-07-31,Closed with explanation,No,470332
+2013-07-30,TCF National Bank,IL,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Referral,,,60620,Older American,N/A,2013-08-07,Closed with monetary relief,No,470392
+2013-07-22,Citibank,CA,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Phone,,,93277,Older American Servicemember,N/A,2013-07-23,Closed with monetary relief,No,463325
+2013-07-31,JPMorgan Chase & Co,CA,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Web,,,93510,,N/A,2013-08-02,Closed with explanation,No,471349
+2013-08-06,Santander Bank US,NJ,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Postal mail,,,8753,,N/A,2013-08-07,Closed with explanation,No,480843
+2013-08-01,Wells Fargo & Company,CA,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Web,,,95348,,N/A,2013-08-02,Closed with monetary relief,No,471471
+2013-07-23,JPMorgan Chase & Co,CA,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Referral,,,95437,,N/A,2013-07-24,Closed with explanation,Yes,463693
+2013-08-06,US Bancorp,CO,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Web,,,80026,,N/A,2013-08-07,Closed with explanation,No,481957
+2013-07-24,Citizens Financial Group Inc,PA,Bank account or service,(CD) Certificate of deposit,Deposits and withdrawals,,Yes,Referral,,,19055,Older American,N/A,2013-07-26,Closed with explanation,No,465189
+2013-07-23,M&T Bank Corporation,DE,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Web,,,19803,,N/A,2013-07-24,Closed,No,464204
+2013-08-07,JPMorgan Chase & Co,NY,Bank account or service,Savings account,Deposits and withdrawals,,Yes,Phone,,,11226,,N/A,2013-08-08,Closed with explanation,Yes,482852
+2013-08-07,PNC Bank NA,MD,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Phone,,,21842,Older American,N/A,2013-08-08,Closed with explanation,Yes,482857
+2013-07-23,JPMorgan Chase & Co,CA,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Referral,,,94534,,N/A,2013-07-25,Closed with explanation,Yes,464858
+2013-08-13,Wells Fargo & Company,CA,Bank account or service,Other bank product/service,Deposits and withdrawals,,Yes,Fax,,,94704,,N/A,2013-08-15,Closed with explanation,No,489061
+2013-08-07,BB&T Financial,GA,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Phone,,,30009,,N/A,2013-08-08,Closed with explanation,Yes,482892
+2013-07-23,Citibank,AZ,Bank account or service,(CD) Certificate of deposit,Deposits and withdrawals,,Yes,Phone,,,85226,,N/A,2013-07-24,Closed with explanation,Yes,463240
+2013-08-07,JPMorgan Chase & Co,AZ,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Referral,,,85607,,N/A,2013-08-08,Closed with explanation,Yes,482902
+2013-08-13,PNC Bank NA,PA,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Phone,,,19460,Servicemember,N/A,2013-08-15,Closed with explanation,No,489099
+2013-07-24,Bank of America,MO,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Web,,,63130,,N/A,2013-07-26,Closed with monetary relief,No,465746
+2013-08-13,Bank of America,FL,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Phone,,,34992,Older American Servicemember,N/A,2013-08-13,Closed with non-monetary relief,Yes,491553
+2013-08-07,Fifth Third Financial Corporation,IL,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Referral,,,60655,,N/A,2013-08-08,Closed with monetary relief,No,482986
+2013-07-25,Bank of America,MA,Bank account or service,(CD) Certificate of deposit,Deposits and withdrawals,,Yes,Web,,,2472,,N/A,2013-07-26,Closed with explanation,No,465962
+2013-08-07,Bank of America,NC,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Referral,,,27106,,N/A,2013-08-09,Closed with monetary relief,No,483044
+2013-08-13,Wells Fargo & Company,PA,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Phone,,,19103,,N/A,2013-08-14,Closed with explanation,No,491670
+2013-08-07,US Bancorp,OH,Bank account or service,Savings account,Deposits and withdrawals,,Yes,Phone,,,43081,Older American Servicemember,N/A,2013-08-08,Closed with explanation,Yes,482979
+2013-08-07,Bank of America,TX,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Web,,,77068,,N/A,2013-08-09,Closed with monetary relief,No,483067
+2013-08-01,JPMorgan Chase & Co,TX,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Referral,,,75217,,N/A,2013-08-05,Closed with explanation,No,472576
+2013-07-25,US Bancorp,OH,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Referral,,,45240,,N/A,2013-07-26,Closed with monetary relief,Yes,466381
+2013-07-25,Capital One,NY,Bank account or service,Savings account,Deposits and withdrawals,,Yes,Web,,,11020,Older American,N/A,2013-07-26,Closed with explanation,Yes,480777
+2013-08-21,Bank of America,CT,Bank account or service,Savings account,Deposits and withdrawals,,Yes,Referral,,,6027,,N/A,2013-08-22,Closed with explanation,No,499554
+2013-08-01,JPMorgan Chase & Co,FL,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Referral,,,33334,,N/A,2013-08-06,Closed with explanation,No,472031
+2013-08-14,Wells Fargo & Company,NE,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Referral,,,68516,,N/A,2013-08-15,Closed with monetary relief,No,489515
+2013-08-01,Bank of America,CA,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Referral,,,92833,,N/A,2013-08-05,Closed with explanation,No,473086
+2013-08-14,Wells Fargo & Company,TX,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Web,,,77449,,N/A,2013-08-15,Closed with explanation,No,489460
+2013-08-21,Ally Financial Inc,CA,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Web,,,94002,,N/A,2013-08-22,Closed with explanation,Yes,499598
+2013-08-21,Bank of America,FL,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Web,,,33196,Older American,N/A,2013-08-22,Closed with explanation,Yes,499603
+2013-08-01,JPMorgan Chase & Co,CA,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Web,,,92129,,N/A,2013-08-05,Closed with explanation,No,454526
+2013-08-08,BB&T Financial,NC,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Web,,,27344,,N/A,2013-08-12,Closed with explanation,Yes,483735
+2013-08-21,Wells Fargo & Company,TX,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Phone,,,78130,,N/A,2013-08-22,Closed with explanation,No,499673
+2013-08-21,Citibank,CA,Bank account or service,Savings account,Deposits and withdrawals,,Yes,Referral,,,93401,,N/A,2013-08-22,Closed with non-monetary relief,No,500439
+2013-08-08,JPMorgan Chase & Co,CA,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Referral,,,95403,,N/A,2013-08-12,Closed with explanation,No,484481
+2013-08-21,Bank of America,FL,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Web,,,32809,,N/A,2013-08-22,Closed with explanation,No,499732
+2013-08-02,Capital One,LA,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Web,,,70004,,N/A,2013-08-05,Closed with explanation,No,472482
+2013-08-21,JPMorgan Chase & Co,WI,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Referral,,,53719,,N/A,2013-08-22,Closed with explanation,No,499749
+2013-07-26,Bank of America,VA,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Web,,,24128,,N/A,2013-07-29,Closed with explanation,No,467815
+2013-07-26,Comerica,MI,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Referral,,,48227,,N/A,2013-07-29,Closed with explanation,No,459509
+2013-08-03,Bank of America,MD,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Web,,,21201,Older American,N/A,2013-08-07,Closed with monetary relief,Yes,473523
+2013-08-03,BMO Harris,MO,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Fax,,,63130,,N/A,2013-08-07,Closed with explanation,Yes,473539
+2013-08-02,Citibank,NY,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Referral,,,11566,,N/A,2013-08-05,Closed with explanation,Yes,472861
+2013-08-09,Citibank,IL,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Referral,,,60643,,N/A,2013-08-12,Closed with explanation,No,485184
+2013-08-15,Bank of America,MI,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Postal mail,,,48205,,N/A,2013-08-21,Closed with explanation,No,489969
+2013-08-22,Wells Fargo & Company,FL,Bank account or service,Savings account,Deposits and withdrawals,,Yes,Web,,,33164,,N/A,2013-08-26,Closed with explanation,No,500726
+2013-08-15,Citibank,NY,Bank account or service,(CD) Certificate of deposit,Deposits and withdrawals,,Yes,Web,,,10465,,N/A,2013-08-19,Closed with explanation,No,488808
+2013-08-22,Wells Fargo & Company,NC,Bank account or service,Savings account,Deposits and withdrawals,,Yes,Phone,,,27705,,N/A,2013-08-23,Closed with explanation,No,500220
+2013-08-02,Wells Fargo & Company,SC,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Referral,,,29681,,N/A,2013-08-07,Closed with explanation,Yes,473567
+2013-08-15,Wells Fargo & Company,TX,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Referral,,,75024,,N/A,2013-08-19,Closed with monetary relief,No,490255
+2013-08-23,JPMorgan Chase & Co,MI,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Phone,,,48066,Older American,N/A,2013-08-26,Closed with explanation,Yes,501405
+2013-08-22,Citizens Financial Group Inc,PA,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Web,,,17011,,N/A,2013-08-23,Closed with monetary relief,No,500330
+2013-08-09,USAA Savings,TX,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Referral,,,77388,,N/A,2013-08-14,Closed with monetary relief,No,486322
+2013-07-29,Bank of America,MA,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Referral,,,1223,,N/A,2013-07-30,Closed with explanation,No,468994
+2013-08-09,SunTrust Banks Inc,GA,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Phone,,,30752,Servicemember,N/A,2013-08-14,Closed with explanation,Yes,485975
+2013-08-15,Bank of America,FL,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Phone,,,33351,,N/A,2013-08-16,Closed with monetary relief,No,490608
+2013-08-23,Regions Financial Corporation,FL,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Referral,,,32465,,N/A,2013-08-26,Closed,No,503766
+2013-08-15,Wells Fargo & Company,AZ,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Web,,,85711,Older American,N/A,2013-08-19,Closed with explanation,No,490671
+2013-08-15,US Bancorp,CA,Bank account or service,Other bank product/service,Deposits and withdrawals,,Yes,Web,,,92262,,N/A,2013-08-19,Closed with explanation,No,490709
+2013-08-16,M&T Bank Corporation,DE,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Phone,,,19713,Older American Servicemember,N/A,2013-08-19,Closed with explanation,No,493666
+2013-08-16,Citibank,IL,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Referral,,,60515,,N/A,2013-08-19,Closed with explanation,No,493520
+2013-08-12,Wells Fargo & Company,CA,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Web,,,91331,,N/A,2013-08-14,Closed with explanation,Yes,487109
+2013-09-05,The Huntington National Bank,OH,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Referral,,,43119,,N/A,2013-09-06,Closed with explanation,No,515372
+2013-08-23,Quicken Loans,NJ,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Referral,,,8069,,N/A,2013-10-17,Closed with explanation,No,508246
+2013-08-29,Bank of America,NV,Bank account or service,Other bank product/service,Deposits and withdrawals,,Yes,Referral,,,89032,,N/A,2013-08-30,Closed with non-monetary relief,No,509211
+2013-08-06,Bank of America,MD,Bank account or service,Savings account,Deposits and withdrawals,,Yes,Postal mail,,,21703,,N/A,2013-08-07,Closed with monetary relief,No,481186
+2013-09-05,Bank of America,NC,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Phone,,,28328,,N/A,2013-09-18,Closed with explanation,No,515125
+2013-09-05,Wells Fargo & Company,CA,Bank account or service,Cashing a check without an account,Deposits and withdrawals,,Yes,Postal mail,,,95319,,N/A,2013-09-06,Closed with explanation,Yes,516312
+2013-08-16,PNC Bank NA,PA,Bank account or service,Cashing a check without an account,Deposits and withdrawals,,Yes,Phone,,,15139,Older American,N/A,2013-08-19,Closed with explanation,No,494171
+2013-08-24,TD Bank US Holding Company,SC,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Web,,,29662,,N/A,2013-08-26,Closed with explanation,No,503304
+2013-08-24,Santander Bank US,NJ,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Web,,,8722,,N/A,2013-08-26,Closed,No,503307
+2013-08-06,PNC Bank NA,NJ,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Phone,,,8107,Older American Servicemember,N/A,2013-08-12,Closed with non-monetary relief,Yes,481430
+2013-08-29,Fifth Third Financial Corporation,IL,Bank account or service,Savings account,Deposits and withdrawals,,Yes,Referral,,,60402,,N/A,2013-08-30,Closed with explanation,No,509736
+2013-08-12,Wells Fargo & Company,PA,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Phone,,,19134,,N/A,2013-08-13,Closed with non-monetary relief,No,487607
+2013-09-05,Wells Fargo & Company,VA,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Phone,,,20124,Older American,N/A,2013-09-06,Closed with monetary relief,No,516701
+2013-08-12,Citizens Financial Group Inc,MI,Bank account or service,Savings account,Deposits and withdrawals,,Yes,Web,,,48316,,N/A,2013-08-13,Closed with explanation,No,487872
+2013-08-30,Bank of America,FL,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Web,,,33433,,N/A,2013-08-30,Closed with monetary relief,Yes,511651
+2013-09-11,Wells Fargo & Company,WY,Bank account or service,Other bank product/service,Deposits and withdrawals,,Yes,Web,,,82433,,N/A,2013-09-19,Closed with explanation,No,524075
+2013-08-30,Bank of America,TX,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Phone,,,77459,,N/A,2013-09-03,Closed with non-monetary relief,Yes,510128
+2013-09-06,SunTrust Banks Inc,MA,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Referral,,,4240,,N/A,2013-09-06,Closed with monetary relief,No,516827
+2013-09-06,Wells Fargo & Company,GA,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Phone,,,30318,Older American Servicemember,N/A,2013-09-06,Closed with explanation,No,517678
+2013-09-11,Morgan Stanley,CA,Bank account or service,Other bank product/service,Deposits and withdrawals,,Yes,Phone,,,91106,Older American Servicemember,N/A,2013-09-13,Closed with explanation,No,524325
+2013-09-17,PNC Bank NA,NC,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Web,,,28226,,N/A,2013-09-18,Closed with explanation,No,531015
+2013-09-06,Wells Fargo & Company,CA,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Web,,,91786,,N/A,2013-09-06,Closed with explanation,Yes,517900
+2013-09-12,TD Bank US Holding Company,PA,Bank account or service,Other bank product/service,Deposits and withdrawals,,Yes,Web,,,19083,,N/A,2013-09-13,Closed with explanation,No,525524
+2013-09-12,Citizens Financial Group Inc,NH,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Phone,,,3784,Older American,N/A,2013-09-17,Closed with monetary relief,No,525618
+2013-09-18,JPMorgan Chase & Co,MI,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Postal mail,,,48104,Servicemember,N/A,2013-09-19,Closed with explanation,No,533614
+2013-09-07,Bank of America,CA,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Web,,,95838,,N/A,2013-09-09,Closed with monetary relief,No,518643
+2013-08-19,Wells Fargo & Company,TX,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Referral,,,78613,,N/A,2013-08-20,Closed with explanation,No,496494
+2013-09-09,JPMorgan Chase & Co,LA,Bank account or service,Savings account,Deposits and withdrawals,,Yes,Phone,,,70602,Older American,N/A,2013-09-18,Closed with explanation,No,519161
+2013-08-19,JPMorgan Chase & Co,IL,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Web,,,60616,,N/A,2013-08-20,Closed with explanation,Yes,495899
+2013-08-30,Bank of America,GA,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Referral,,,30016,,N/A,2013-09-04,Closed with explanation,No,511091
+2013-08-30,Wells Fargo & Company,NC,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Web,,,28129,Older American,N/A,2013-09-04,Closed with explanation,No,511196
+2013-08-31,Wells Fargo & Company,TX,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Web,,,77063,Servicemember,N/A,2013-09-03,Closed with explanation,No,509985
+2013-08-20,Bank of America,NY,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Web,,,10026,,N/A,2013-08-20,Closed with explanation,No,497075
+2013-09-01,Bank of America,CT,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Web,,,6357,,N/A,2013-09-03,Closed with non-monetary relief,No,511531
+2013-09-01,Citibank,OH,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Web,,,43214,,N/A,2013-09-03,Closed with explanation,Yes,511546
+2013-09-09,Wells Fargo & Company,FL,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Referral,,,34473,,N/A,2013-09-10,Closed with explanation,No,520301
+2013-09-02,E*Trade Bank,AL,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Web,,,35950,,N/A,2013-09-03,Closed with explanation,No,512567
+2013-09-02,Bank of America,FL,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Web,,,34653,,N/A,2013-09-03,Closed with explanation,No,512597
+2013-09-19,SunTrust Banks Inc,MD,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Web,,,21228,,N/A,2013-09-20,Closed with monetary relief,No,534322
+2013-08-20,Citizens Financial Group Inc,MA,Bank account or service,Savings account,Deposits and withdrawals,,Yes,Phone,,,2130,Older American,N/A,2013-08-22,Closed with explanation,No,497412
+2013-09-03,PayPal Holdings Inc,NY,Bank account or service,Other bank product/service,Deposits and withdrawals,,Yes,Web,,,10306,,N/A,2013-10-07,Closed with explanation,No,512861
+2013-09-09,TD Bank US Holding Company,NC,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Phone,,,28562,,N/A,2013-09-10,Closed with explanation,No,520606
+2013-08-26,JPMorgan Chase & Co,MI,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Web,,,48015,Older American,N/A,2013-08-27,Closed with explanation,Yes,504002
+2013-08-26,Santander Bank US,MA,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Phone,,,2451,Older American Servicemember,N/A,2013-09-05,Closed with explanation,No,504035
+2013-08-20,Bank of America,PA,Bank account or service,Other bank product/service,Deposits and withdrawals,,Yes,Web,,,19086,,N/A,2013-08-21,Closed with monetary relief,No,497570
+2013-09-03,Fifth Third Financial Corporation,NC,Bank account or service,(CD) Certificate of deposit,Deposits and withdrawals,,Yes,Phone,,,28115,Older American,N/A,2013-09-05,Closed with explanation,No,513326
+2013-09-12,Regions Financial Corporation,FL,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Referral,,,33330,,N/A,2013-09-16,Closed with monetary relief,No,526166
+2013-08-21,JPMorgan Chase & Co,CA,Bank account or service,Savings account,Deposits and withdrawals,,Yes,Web,,,91406,,N/A,2013-08-21,Closed with explanation,No,498288
+2013-09-12,Capital One,NY,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Phone,,,11379,Servicemember,N/A,2013-09-13,Closed with explanation,No,524602
+2013-08-21,PNC Bank NA,PA,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Referral,,,15136,,N/A,2013-08-22,Closed with monetary relief,No,499458
+2013-09-13,Bank of America,CA,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Web,,,90028,,N/A,2013-09-13,Closed with explanation,Yes,527150
+2013-09-03,Bank of America,MA,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Phone,,,1501,Older American,N/A,2013-09-04,Closed with explanation,No,513470
+2013-09-13,Wells Fargo & Company,FL,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Web,,,33063,,N/A,2013-09-16,Closed with explanation,No,527637
+2013-09-30,Wells Fargo & Company,PA,Bank account or service,Other bank product/service,Deposits and withdrawals,,Yes,Referral,,,15068,,N/A,2013-10-01,Closed with explanation,No,548425
+2013-09-30,TD Bank US Holding Company,NJ,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Referral,,,8865,,N/A,2013-10-02,Closed with explanation,No,548510
+2013-08-27,Wells Fargo & Company,NC,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Phone,,,28328,,N/A,2013-08-28,Closed with explanation,No,505148
+2013-09-13,Wells Fargo & Company,CT,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Phone,,,6906,Older American,N/A,2013-09-18,Closed with non-monetary relief,Yes,527982
+2013-10-01,Capital One,NY,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Web,,,11233,,N/A,2013-10-04,Closed with monetary relief,No,549394
+2013-10-01,Bank of America,MD,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Web,,,21231,,N/A,2013-10-02,Closed with monetary relief,Yes,549449
+2013-08-27,US Bancorp,MI,Bank account or service,Savings account,Deposits and withdrawals,,Yes,Phone,,,64724,Older American Servicemember,N/A,2013-09-04,Closed with explanation,Yes,505327
+2013-09-25,New York Community Bank,,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Phone,,,,Older American Servicemember,N/A,2013-09-25,Closed with explanation,No,541527
+2013-09-04,Bank of America,CA,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Postal mail,,,94941,,N/A,2013-09-05,Closed with explanation,No,513787
+2013-09-04,Bank of America,VA,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Web,,,22911,,N/A,2013-09-05,Closed,Yes,513810
+2013-09-14,Wells Fargo & Company,CA,Bank account or service,Savings account,Deposits and withdrawals,,Yes,Web,,,94804,Older American,N/A,2013-09-16,Closed,No,526379
+2013-09-04,Bank of America,NJ,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Web,,,8083,,N/A,2013-09-06,Closed with monetary relief,No,513892
+2013-09-25,Bank of America,MA,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Web,,,2465,,N/A,2013-09-26,Closed with explanation,No,541856
+2013-09-16,PayPal Holdings Inc,GA,Bank account or service,Other bank product/service,Deposits and withdrawals,,Yes,Web,,,30102,Older American,N/A,2013-09-17,Closed with monetary relief,No,528295
+2013-09-25,Wells Fargo & Company,FL,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Phone,,,33417,,N/A,2013-09-26,Closed with monetary relief,No,541879
+2013-09-25,JPMorgan Chase & Co,FL,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Referral,,,33462,,N/A,2013-09-26,Closed with explanation,Yes,543037
+2013-09-16,TD Bank US Holding Company,ME,Bank account or service,Other bank product/service,Deposits and withdrawals,,Yes,Web,,,4937,,N/A,2013-09-17,Closed with monetary relief,No,528503
+2013-10-11,Santander Bank US,MA,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Postal mail,,,2215,,N/A,2013-10-15,Closed,No,558091
+2013-09-16,Bank of America,CA,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Referral,,,92656,,N/A,2013-09-18,Closed with monetary relief,No,529945
+2013-09-20,Bank of America,VA,Bank account or service,Savings account,Deposits and withdrawals,,Yes,Web,,,23838,,N/A,2013-09-20,Closed with explanation,No,536008
+2013-09-25,TCF National Bank,MN,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Web,,,55005,Older American,N/A,2013-09-26,Closed with explanation,No,542506
+2013-09-20,Fifth Third Financial Corporation,NC,Bank account or service,Cashing a check without an account,Deposits and withdrawals,,Yes,Web,,,28104,,N/A,2013-09-20,Closed with explanation,No,536029
+2013-10-12,M&T Bank Corporation,NY,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Web,,,14220,,N/A,2013-10-15,Closed with explanation,No,558360
+2013-10-13,TD Bank US Holding Company,NJ,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Web,,,7201,,N/A,2013-10-15,Closed with non-monetary relief,No,558387
+2013-09-10,Bank of America,TN,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Referral,,,37217,,N/A,2013-09-10,Closed with monetary relief,No,521753
+2013-09-20,Wells Fargo & Company,CO,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Web,,,80211,,N/A,2013-09-23,Closed with monetary relief,Yes,536138
+2013-09-16,Capital One,NY,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Web,,,10002,,N/A,2013-09-17,Closed with explanation,Yes,529153
+2013-10-14,BMO Harris,IL,Bank account or service,Savings account,Deposits and withdrawals,,Yes,Web,,,60544,Older American,N/A,2013-10-15,Closed with monetary relief,No,557631
+2013-09-10,Wells Fargo & Company,CA,Bank account or service,Savings account,Deposits and withdrawals,,Yes,Postal mail,,,90815,,N/A,2013-09-10,Closed with explanation,No,521719
+2013-08-27,Citizens Financial Group Inc,IL,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Phone,,,60076,,N/A,2013-10-11,Closed with monetary relief,No,505989
+2013-09-05,Wells Fargo & Company,OR,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Referral,,,97524,,N/A,2013-09-05,Closed with explanation,No,515563
+2013-09-05,Wells Fargo & Company,PA,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Postal mail,,,19148,Older American Servicemember,N/A,2013-09-05,Closed with explanation,Yes,515036
+2013-09-26,BMO Harris,WI,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Referral,,,53207,,N/A,2013-10-03,Closed with explanation,Yes,544873
+2013-09-10,Regions Financial Corporation,SC,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Referral,,,29210,,N/A,2013-09-10,Closed with monetary relief,No,521850
+2013-10-15,Wells Fargo & Company,TX,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Phone,,,75149,,N/A,2013-10-16,Closed with explanation,No,559054
+2013-08-28,USAA Savings,OH,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Referral,,,43223,,N/A,2013-08-29,Closed with monetary relief,No,506490
+2013-09-17,Wells Fargo & Company,MT,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Web,,,59870,,N/A,2013-09-18,Closed with monetary relief,No,530211
+2013-09-20,JPMorgan Chase & Co,TX,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Web,,,75126,Older American Servicemember,N/A,2013-09-20,Closed with monetary relief,No,537728
+2013-09-20,JPMorgan Chase & Co,NY,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Phone,,,10455,,N/A,2013-09-23,Closed with explanation,No,536718
+2013-09-10,Wells Fargo & Company,TX,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Web,,,78332,,N/A,2013-09-11,Closed with explanation,Yes,522060
+2013-09-05,Capital One,CA,Bank account or service,Savings account,Deposits and withdrawals,,Yes,Web,,,95003,,N/A,2013-09-06,Closed with explanation,Yes,515920
+2013-10-02,HSBC North America Holdings Inc,WA,Bank account or service,Savings account,Deposits and withdrawals,,Yes,Referral,,,98102,,N/A,2013-11-04,Closed,No,550891
+2013-08-28,JPMorgan Chase & Co,OR,Bank account or service,Savings account,Deposits and withdrawals,,Yes,Referral,,,97006,,N/A,2013-08-29,Closed with explanation,Yes,507827
+2013-09-05,US Bancorp,CA,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Referral,,,92411,,N/A,2013-09-06,Closed with monetary relief,No,516713
+2013-09-20,Frost Bank,TX,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Referral,,,78284,,N/A,2013-09-23,Closed with monetary relief,No,536866
+2013-09-10,US Bancorp,OH,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Referral,,,43004,,N/A,2013-09-11,Closed with monetary relief,No,521240
+2013-10-03,Union Bank,CA,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Web,,,90221,,N/A,2013-10-03,Closed with monetary relief,No,551450
+2013-10-15,Bank of America,TN,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Postal mail,,,37621,Servicemember,N/A,2013-10-16,Closed with monetary relief,No,558899
+2013-10-03,Amex,TX,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Referral,,,77095,,N/A,2013-10-04,Closed with monetary relief,Yes,551787
+2013-10-03,Navy FCU,TX,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Email,,,76244,,N/A,2013-10-03,Closed with explanation,No,551688
+2013-10-03,UMB Bank,MO,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Web,,,63122,,N/A,2013-10-04,Closed with explanation,No,551548
+2013-10-15,Wells Fargo & Company,FL,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Referral,,,34114,,N/A,2013-10-16,Closed with explanation,No,559589
+2013-08-28,TD Bank US Holding Company,NJ,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Phone,,,7026,,N/A,2013-09-03,Closed with explanation,Yes,506603
+2013-10-16,Wells Fargo & Company,FL,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Postal mail,,,32257,,N/A,2013-10-16,Closed,No,559918
+2013-09-10,JPMorgan Chase & Co,WI,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Referral,,,53538,,N/A,2013-09-11,Closed with explanation,No,522591
+2013-09-26,PNC Bank NA,IL,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Web,,,60156,,N/A,2013-09-27,Closed,Yes,544168
+2013-10-03,Ally Financial Inc,CA,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Web,,,91423,,N/A,2013-10-03,Closed with explanation,Yes,551826
+2013-10-03,USAA Savings,FL,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Referral,,,33570,,N/A,2013-10-04,Closed with explanation,No,551863
+2013-10-16,Bank of America,MO,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Postal mail,,,21239,,N/A,2013-10-16,Closed with explanation,No,560353
+2013-09-11,Bank of America,NJ,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Phone,,,8502,,N/A,2013-09-11,Closed with monetary relief,Yes,523521
+2013-09-11,Wells Fargo & Company,ID,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Postal mail,,,83634,,N/A,2013-09-12,Closed with explanation,No,523634
+2013-10-04,The Huntington National Bank,MI,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Web,,,49010,,N/A,2013-10-04,Closed with explanation,No,552623
+2013-09-23,M&T Bank Corporation,NJ,Bank account or service,Savings account,Deposits and withdrawals,,Yes,Postal mail,,,7928,,N/A,2013-09-23,Closed with explanation,No,539318
+2013-10-04,SunTrust Banks Inc,SC,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Web,,,29302,,N/A,2013-10-15,Closed with explanation,No,552702
+2013-09-27,Associated Bank,WI,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Referral,,,54303,,N/A,2013-09-30,Closed with explanation,Yes,545753
+2013-10-04,PNC Bank NA,,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Phone,,,,,N/A,2013-10-07,Closed with monetary relief,No,552946
+2013-10-04,Wells Fargo & Company,FL,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Web,,,33511,,N/A,2013-10-07,Closed with explanation,No,552999
+2013-10-05,JPMorgan Chase & Co,IL,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Web,,,60120,,N/A,2013-10-07,Closed with monetary relief,No,553127
+2013-09-27,JPMorgan Chase & Co,AZ,Bank account or service,Other bank product/service,Deposits and withdrawals,,Yes,Phone,,,85009,,N/A,2013-09-30,Closed with explanation,No,546291
+2013-09-24,TCF National Bank,FL,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Referral,,,33612,,N/A,2013-09-25,Closed with explanation,No,539436
+2013-09-24,Wells Fargo & Company,FL,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Referral,,,34949,,N/A,2013-09-24,Closed with explanation,No,539636
+2013-10-29,USAA Savings,AZ,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Postal mail,,,85132,,N/A,2013-10-29,Closed with explanation,No,575785
+2013-10-23,JPMorgan Chase & Co,CA,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Referral,,,91321,,N/A,2013-10-24,Closed with explanation,No,568850
+2013-10-07,Wells Fargo & Company,FL,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Referral,,,34461,,N/A,2013-10-08,Closed with monetary relief,No,553995
+2013-09-30,Amex,NJ,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Web,,,7070,,N/A,2013-10-01,Closed with monetary relief,No,547362
+2013-10-07,TCF National Bank,FL,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Referral,,,33308,,N/A,2013-10-08,Closed with explanation,No,554237
+2013-09-30,TCF National Bank,IL,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Referral,,,60429,,N/A,2013-10-01,Closed with explanation,No,547730
+2013-10-29,Santander Bank US,NJ,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Web,,,8527,,N/A,2013-10-30,Closed,No,576012
+2013-10-07,Bank of America,MD,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Postal mail,,,21215,Older American,N/A,2013-10-08,Closed with monetary relief,No,553607
+2013-10-17,Fifth Third Financial Corporation,IL,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Referral,,,60090,,N/A,2013-10-17,Closed with monetary relief,No,561197
+2013-10-17,TD Bank US Holding Company,NY,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Web,,,11233,,N/A,2013-10-17,Closed with explanation,No,561178
+2013-09-30,Wells Fargo & Company,AZ,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Phone,,,85718,,N/A,2013-10-01,Closed with explanation,No,547524
+2013-09-24,PNC Bank NA,PA,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Web,,,15221,,N/A,2013-09-25,Closed with explanation,No,540031
+2013-09-24,BB&T Financial,FL,Bank account or service,Other bank product/service,Deposits and withdrawals,,Yes,Web,,,33408,,N/A,2013-09-25,Closed with monetary relief,No,540059
+2013-09-24,Wells Fargo & Company,TX,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Phone,,,78502,,N/A,2013-09-25,Closed with explanation,No,540100
+2013-09-30,M&T Bank Corporation,DE,Bank account or service,(CD) Certificate of deposit,Deposits and withdrawals,,Yes,Web,,,19934,,N/A,2013-10-01,Closed with explanation,No,547677
+2013-10-24,Navy FCU,NC,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Web,,,28540,Servicemember,N/A,2013-10-23,Closed with explanation,Yes,569522
+2013-09-30,BBVA Compass,TX,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Referral,,,76226,,N/A,2013-10-01,Closed with explanation,No,548263
+2013-09-24,Union Bank,CA,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Web,,,92022,Older American,N/A,2013-09-24,Closed with explanation,Yes,540156
+2013-09-24,SunTrust Banks Inc,VA,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Web,,,23507,,N/A,2013-09-24,Closed with monetary relief,No,540087
+2013-09-30,The Western Union Company,FL,Bank account or service,Other bank product/service,Deposits and withdrawals,,Yes,Web,,,32073,,N/A,2013-10-02,Closed with explanation,No,547757
+2013-10-24,Bank of America,CA,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Referral,,,94590,,N/A,2013-10-25,Closed with explanation,No,570583
+2013-10-17,JPMorgan Chase & Co,NJ,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Referral,,,7762,,N/A,2013-10-17,Closed with explanation,No,561486
+2013-10-08,Wells Fargo & Company,TX,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Referral,,,77084,,N/A,2013-10-08,Closed with explanation,No,555112
+2013-10-29,Wells Fargo & Company,TX,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Phone,,,75051,,N/A,2013-10-30,Closed with explanation,No,576523
+2013-10-29,US Bancorp,CO,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Web,,,80249,,N/A,2013-10-30,Closed with explanation,No,574996
+2013-10-08,Citibank,NY,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Phone,,,10705,,N/A,2013-10-08,Closed with explanation,No,554736
+2013-10-08,PNC Bank NA,OH,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Referral,,,44126,,N/A,2013-10-09,Closed with monetary relief,Yes,555385
+2013-10-08,BB&T Financial,SC,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Web,,,29720,,N/A,2013-10-09,Closed with explanation,Yes,554712
+2013-10-24,Regions Financial Corporation,GA,Bank account or service,(CD) Certificate of deposit,Deposits and withdrawals,,Yes,Web,,,30088,,N/A,2013-10-24,Closed,Yes,569470
+2013-10-08,Regions Financial Corporation,FL,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Web,,,32814,,N/A,2013-10-09,Closed,Yes,555505
+2013-10-17,Santander Bank US,RI,Bank account or service,Savings account,Deposits and withdrawals,,Yes,Phone,,,2910,,N/A,2013-10-21,Closed,Yes,561810
+2013-11-07,Wells Fargo & Company,CA,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Web,,,93729,,N/A,2013-11-07,Closed with explanation,No,590592
+2013-11-08,Wells Fargo & Company,CA,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Referral,,,90270,,N/A,2013-11-13,Closed with explanation,No,591346
+2013-11-08,JPMorgan Chase & Co,CA,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Referral,,,90745,,N/A,2013-11-13,Closed with explanation,No,591353
+2013-10-24,JPMorgan Chase & Co,NY,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Phone,,,10001,,N/A,2013-10-24,Closed with explanation,No,570192
+2013-11-08,US Bancorp,CA,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Fax,,,90232,,N/A,2013-11-12,Closed with explanation,No,591299
+2013-11-08,JPMorgan Chase & Co,NY,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Referral,,,10001,,N/A,2013-11-13,Closed with explanation,Yes,592019
+2013-11-03,TD Bank US Holding Company,NY,Bank account or service,Other bank product/service,Deposits and withdrawals,,Yes,Web,,,10038,,N/A,2013-11-03,Closed with monetary relief,No,581019
+2013-10-24,Bank of America,MI,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Web,,,48072,,N/A,2013-10-24,Closed with explanation,No,570293
+2013-10-24,Bank of America,MD,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Referral,,,20774,,N/A,2013-10-25,Closed with explanation,No,570389
+2013-10-24,Capital One,NY,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Referral,,,11235,,N/A,2013-10-25,Closed with explanation,No,570356
+2013-10-18,PNC Bank NA,DE,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Phone,,,19973,Older American Servicemember,N/A,2013-10-18,Closed with monetary relief,No,562908
+2013-11-04,Citibank,NV,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Fax,,,89183,,N/A,2013-11-07,Closed with explanation,No,585135
+2013-11-04,JPMorgan Chase & Co,OH,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Referral,,,44024,,N/A,2013-11-06,Closed with explanation,No,583967
+2013-11-04,Bank of America,NY,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Referral,,,10310,,N/A,2013-11-06,Closed with monetary relief,No,584646
+2013-11-08,Fifth Third Financial Corporation,IL,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Web,,,60148,,N/A,2013-11-13,Closed with explanation,No,592404
+2013-11-04,Bank of America,CA,Bank account or service,Other bank product/service,Deposits and withdrawals,,Yes,Web,,,95348,,N/A,2013-11-04,Closed,No,584425
+2013-10-09,JPMorgan Chase & Co,MI,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Phone,,,48076,,N/A,2013-10-09,Closed with explanation,No,555858
+2013-11-10,TD Bank US Holding Company,NY,Bank account or service,Savings account,Deposits and withdrawals,,Yes,Web,,,11228,,N/A,2013-11-10,Closed with monetary relief,Yes,592772
+2013-11-04,SunTrust Banks Inc,TN,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Referral,,,37806,,N/A,2013-11-06,Closed with explanation,No,584754
+2013-10-09,Wells Fargo & Company,DE,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Phone,,,19720,,N/A,2013-10-10,Closed with non-monetary relief,No,556170
+2013-10-09,Wells Fargo & Company,NV,Bank account or service,(CD) Certificate of deposit,Deposits and withdrawals,,Yes,Phone,,,89031,Older American,N/A,2013-10-10,Closed with explanation,No,556210
+2013-11-04,PNC Bank NA,MI,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Web,,,48021,,N/A,2013-11-04,Closed with monetary relief,No,585363
+2013-10-09,Citizens Financial Group Inc,NY,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Web,,,12189,,N/A,2013-10-11,Closed with monetary relief,No,556380
+2013-10-30,US Bancorp,MO,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Web,,,65802,,N/A,2013-10-30,Closed with explanation,Yes,578265
+2013-10-24,Citizens Financial Group Inc,MA,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Web,,,2184,Older American,N/A,2013-10-25,Closed with explanation,No,570777
+2013-10-25,Santander Bank US,PA,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Web,,,19061,Older American,N/A,2013-10-24,Closed with explanation,Yes,572723
+2013-10-10,Bank of America,WA,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Referral,,,98373,,N/A,2013-10-11,Closed with explanation,No,557477
+2013-10-30,Wells Fargo & Company,DE,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Referral,,,19807,,N/A,2013-11-01,Closed with explanation,No,577265
+2013-10-30,Citizens Financial Group Inc,NY,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Referral,,,13421,,N/A,2013-10-31,Closed with monetary relief,No,577266
+2013-10-25,Third Federal Savings & Loan,FL,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Referral,,,33019,,N/A,2013-10-29,Closed with explanation,No,572931
+2013-10-25,Citizens Financial Group Inc,NH,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Phone,,,3077,,N/A,2013-10-28,Closed with explanation,No,571444
+2013-11-12,JPMorgan Chase & Co,IL,Bank account or service,Savings account,Deposits and withdrawals,,Yes,Postal mail,,,61109,Older American,N/A,2013-11-13,Closed with explanation,No,593231
+2013-11-16,PNC Bank NA,NC,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Web,,,27529,,N/A,2013-11-25,Closed with non-monetary relief,Yes,601323
+2013-11-16,BB&T Financial,GA,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Web,,,30040,,N/A,2013-12-02,Closed with explanation,No,601425
+2013-10-11,US Bancorp,CA,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Web,,,92117,,N/A,2013-10-15,Closed with explanation,No,557706
+2013-10-11,PayPal Holdings Inc,MT,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Web,,,59718,,N/A,2013-10-11,Closed with monetary relief,No,557708
+2013-11-22,Bank of America,SC,Bank account or service,Savings account,Deposits and withdrawals,,Yes,Web,,,29229,,N/A,2013-11-29,Closed with non-monetary relief,No,608314
+2013-11-18,Wells Fargo & Company,NJ,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Phone,,,7107,Older American,N/A,2013-11-19,Closed with explanation,No,601648
+2013-11-22,Bank of America,NC,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Web,,,28092,,N/A,2013-11-27,Closed with monetary relief,Yes,608367
+2013-11-05,Wells Fargo & Company,PA,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Phone,,,19082,,N/A,2013-11-06,Closed with explanation,Yes,586252
+2013-10-18,Santander Bank US,MA,Bank account or service,Savings account,Deposits and withdrawals,,Yes,Web,,,2453,Older American,N/A,2013-10-21,Closed,No,563171
+2013-11-22,Wells Fargo & Company,TX,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Referral,,,77351,,N/A,2013-11-25,Closed with non-monetary relief,Yes,608463
+2013-10-11,USAA Savings,CA,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Referral,,,92123,,N/A,2013-10-15,Closed with explanation,No,557969
+2013-10-31,PNC Bank NA,IN,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Web,,,46226,,N/A,2013-10-31,Closed with explanation,Yes,579121
+2013-11-05,JPMorgan Chase & Co,CA,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Referral,,,95148,,N/A,2013-11-07,Closed with explanation,No,587736
+2013-10-31,Wells Fargo & Company,NV,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Referral,,,89121,,N/A,2013-11-05,Closed with non-monetary relief,No,579671
+2013-10-31,Bank of America,NJ,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Referral,,,7005,,N/A,2013-11-04,Closed with explanation,No,579683
+2013-11-18,Bank of America,NC,Bank account or service,Savings account,Deposits and withdrawals,,Yes,Phone,,,28216,,N/A,2013-11-20,Closed with monetary relief,No,601943
+2013-10-31,Bank of America,FL,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Web,,,33067,,N/A,2013-10-31,Closed with monetary relief,No,579601
+2013-11-18,Capital One,TX,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Web,,,75244,,N/A,2013-11-22,Closed with explanation,No,602021
+2013-10-31,Navy FCU,AL,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Referral,,,35234,,N/A,2013-11-04,Closed with explanation,Yes,579087
+2013-11-22,Citibank,NY,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Referral,,,11220,,N/A,2013-11-25,Closed with explanation,No,608663
+2013-10-18,JPMorgan Chase & Co,NY,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Phone,,,11102,Older American,N/A,2013-10-21,Closed with explanation,No,563588
+2013-10-18,Bank of America,CA,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Referral,,,94605,,N/A,2013-10-21,Closed with monetary relief,No,563737
+2013-10-19,US Bancorp,OH,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Web,,,43081,,N/A,2013-10-21,Closed with monetary relief,No,564351
+2013-11-13,Bank of America,CA,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Web,,,91107,,N/A,2013-11-12,Closed with non-monetary relief,No,595642
+2013-10-20,Wells Fargo & Company,PA,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Web,,,18929,,N/A,2013-10-21,Closed with explanation,No,563996
+2013-11-18,Synchrony Financial,ME,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Referral,,,4042,,N/A,2013-11-19,Closed with explanation,No,602559
+2013-10-27,Wells Fargo & Company,WA,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Web,,,98201,,N/A,2013-10-27,Closed with explanation,Yes,572679
+2013-11-18,JPMorgan Chase & Co,FL,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Referral,,,33176,,N/A,2013-11-19,Closed with explanation,No,602606
+2013-11-06,People's United Bank,CT,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Phone,,,6605,,N/A,2013-11-07,Closed with explanation,No,587756
+2013-10-21,Wells Fargo & Company,AL,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Web,,,35205,,N/A,2013-10-21,Closed with monetary relief,No,564674
+2013-10-21,Bank of America,NJ,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Referral,,,7109,,N/A,2013-10-22,Closed with explanation,No,564708
+2013-10-21,Bank of America,CA,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Web,,,90094,,N/A,2013-10-21,Closed with explanation,No,564775
+2013-10-21,Wells Fargo & Company,IA,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Web,,,50023,,N/A,2013-10-22,Closed with non-monetary relief,Yes,564893
+2013-10-22,US Bancorp,CA,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Web,,,91791,,N/A,2013-10-22,Closed with explanation,No,565847
+2013-10-21,The Huntington National Bank,OH,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Phone,,,45505,Older American Servicemember,N/A,2013-10-22,Closed with explanation,No,565197
+2013-10-22,Wells Fargo & Company,NC,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Web,,,27285,,N/A,2013-10-22,Closed with monetary relief,No,565900
+2013-10-21,PNC Bank NA,PA,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Postal mail,,,15217,Older American,N/A,2013-10-23,Closed with explanation,Yes,565406
+2013-10-21,Bank of America,GA,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Referral,,,30904,,N/A,2013-10-23,Closed with explanation,Yes,565298
+2013-10-31,Wells Fargo & Company,CA,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Phone,,,92008,,N/A,2013-11-04,Closed with explanation,No,580448
+2013-11-19,Wells Fargo & Company,IL,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Referral,,,60636,,N/A,2013-11-21,Closed with explanation,No,603553
+2013-11-19,USAA Savings,VA,Bank account or service,Savings account,Deposits and withdrawals,,Yes,Web,,,23944,Older American,N/A,2013-11-21,Closed with monetary relief,No,603584
+2013-10-28,Santander Bank US,NY,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Referral,,,11004,,N/A,2014-01-08,Closed with explanation,No,573769
+2013-11-19,Pentagon FCU,OH,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Referral,,,44124,,N/A,2013-11-21,Closed with monetary relief,No,604556
+2013-11-25,Capital One,NY,Bank account or service,(CD) Certificate of deposit,Deposits and withdrawals,,Yes,Phone,,,11552,Older American,N/A,2013-11-25,Closed with monetary relief,No,610556
+2013-11-13,Bank of America,CA,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Phone,,,91366,Older American,N/A,2013-11-14,Closed with explanation,No,596216
+2013-11-25,Amex,FL,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Referral,,,34209,,N/A,2013-11-26,Closed with monetary relief,No,611065
+2013-10-23,Bank of America,,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Fax,,,,,N/A,2013-11-05,Closed with explanation,Yes,567779
+2013-11-25,JPMorgan Chase & Co,CA,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Phone,,,92591,,N/A,2013-11-25,Closed with explanation,No,610871
+2013-10-23,Bank of America,GA,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Referral,,,31603,Servicemember,N/A,2013-10-23,Closed with explanation,No,567715
+2013-11-13,Synchrony Financial,CA,Bank account or service,Other bank product/service,Deposits and withdrawals,,Yes,Referral,,,90009,,N/A,2013-11-25,Closed with explanation,No,596985
+2013-10-23,Citibank,NY,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Referral,,,11023,,N/A,2013-10-24,Closed with explanation,Yes,568123
+2013-12-02,Bank of America,NJ,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Phone,,,8205,Older American,N/A,2013-12-03,Closed with explanation,No,618540
+2013-10-23,SunTrust Banks Inc,NC,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Referral,,,28787,,N/A,2013-10-24,Closed with monetary relief,No,568265
+2013-11-06,TD Bank US Holding Company,FL,Bank account or service,Savings account,Deposits and withdrawals,,Yes,Web,,,33056,,N/A,2013-11-06,Closed with explanation,No,588355
+2013-10-28,JPMorgan Chase & Co,FL,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Web,,,33160,,N/A,2013-10-28,Closed with explanation,Yes,574427
+2013-11-01,Navy FCU,FL,Bank account or service,Savings account,Deposits and withdrawals,,Yes,Referral,,,32137,,N/A,2013-11-06,Closed with explanation,No,582927
+2013-11-06,Wells Fargo & Company,IA,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Referral,,,52501,,N/A,2013-11-07,Closed with monetary relief,Yes,588555
+2013-11-01,Bank of America,NJ,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Referral,,,8854,,N/A,2013-11-06,Closed with monetary relief,No,581036
+2013-10-28,JPMorgan Chase & Co,IL,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Web,,,60613,,N/A,2013-10-29,Closed with explanation,Yes,574466
+2013-11-01,JPMorgan Chase & Co,AZ,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Phone,,,85283,,N/A,2013-11-01,Closed with monetary relief,No,581899
+2013-11-06,Wells Fargo & Company,TX,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Phone,,,78537,,N/A,2013-11-07,Closed with explanation,No,588486
+2013-11-13,USAA Savings,CA,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Web,,,92020,,N/A,2013-11-13,Closed with explanation,No,596754
+2013-12-02,Santander Bank US,NJ,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Web,,,7206,,N/A,2013-12-02,Closed with monetary relief,No,617926
+2013-12-02,JPMorgan Chase & Co,NY,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Web,,,11763,,N/A,2013-12-02,Closed with explanation,Yes,617976
+2013-11-25,Bank of America,OK,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Referral,,,73103,,N/A,2013-11-26,Closed with explanation,Yes,611545
+2013-10-29,PNC Bank NA,MI,Bank account or service,Other bank product/service,Deposits and withdrawals,,Yes,Referral,,,48203,,N/A,2013-10-29,Closed with explanation,No,575405
+2013-11-20,TD Bank US Holding Company,SC,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Referral,,,29615,,N/A,2013-11-20,Closed with monetary relief,No,605761
+2013-11-06,Bank of America,TX,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Phone,,,78660,,N/A,2013-11-07,Closed with non-monetary relief,No,588723
+2013-11-20,M&T Bank Corporation,MD,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Referral,,,20879,,N/A,2013-11-20,Closed with explanation,No,605809
+2013-11-20,Wells Fargo & Company,CA,Bank account or service,Savings account,Deposits and withdrawals,,Yes,Referral,,,92672,,N/A,2013-11-20,Closed,No,606171
+2013-10-29,Wells Fargo & Company,GA,Bank account or service,Savings account,Deposits and withdrawals,,Yes,Postal mail,,,30032,Servicemember,N/A,2013-10-29,Closed with explanation,Yes,574989
+2013-10-29,SunTrust Banks Inc,FL,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Fax,,,33317,,N/A,2013-10-29,Closed with monetary relief,No,575073
+2013-11-20,Citibank,NY,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Phone,,,10013,,N/A,2013-11-21,Closed with explanation,Yes,604812
+2013-11-14,Wells Fargo & Company,GA,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Referral,,,31904,,N/A,2013-11-18,Closed with monetary relief,No,598345
+2013-11-14,JPMorgan Chase & Co,NV,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Referral,,,89145,,N/A,2013-11-19,Closed with explanation,Yes,597082
+2013-11-14,JPMorgan Chase & Co,NV,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Referral,,,89145,,N/A,2013-11-19,Closed with explanation,Yes,598250
+2013-11-25,Charles Schwab Bank,NJ,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Web,,,8034,,N/A,2013-11-25,Closed with explanation,No,611606
+2013-11-02,BB&T Financial,SC,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Web,,,29511,,N/A,2013-11-06,Closed with explanation,No,582454
+2013-11-26,JPMorgan Chase & Co,IL,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Referral,,,60475,,N/A,2013-11-26,Closed with explanation,No,612283
+2013-11-07,JPMorgan Chase & Co,TX,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Phone,,,75150,,N/A,2013-11-07,Closed with explanation,No,589782
+2013-12-03,Wells Fargo & Company,DC,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Web,,,20009,,N/A,2013-12-03,Closed with explanation,Yes,619095
+2013-12-03,JPMorgan Chase & Co,NY,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Web,,,11213,,N/A,2013-12-03,Closed with explanation,No,619312
+2013-12-03,M&T Bank Corporation,NY,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Web,,,14103,,N/A,2013-12-03,Closed with explanation,No,619601

@@ -1,0 +1,132 @@
+CCB Credit Serivces Inc	2	2
+CCS Financial Services Inc	11	10
+CIR Law Offices	1	1
+CIT Bank National Association	36	35
+CL Holdings LLC	7	7
+CNG Financial Corporation	10	5
+CORNERSTONE RESOLUTION GROUP INC	1	1
+Caine & Weiner Co Inc	1	1
+Caliber Home Loans Inc	19	19
+California Business Bureau Inc	1	1
+California Recovery Bureau Inc	2	2
+Capio Partners LLC	4	4
+Capital Management Services LP	2	2
+Capital One	280	279
+CarMax Inc	1	1
+Carrington Mortgage Holdings LLC	14	14
+Cascade Capital LLC	1	1
+Cash America International Inc	1	1
+Cash Express LLC	1	1
+Cash-Installment LLC	1	1
+CashCall Inc	10	10
+Cavalry Investments LLC	17	17
+Ceannate	1	1
+Centron Services	1	1
+Certified Recovery Inc	1	1
+Charles Schwab Bank	2	2
+Check Fraud Services	1	0
+Check into Cash Inc	3	3
+Choice Recovery Inc	3	3
+Citibank	514	514
+Citizens Financial Group Inc	53	53
+Clark County Collection Service	1	1
+ClearSpring Loan Services Inc	1	1
+Client Services Inc	3	3
+Coast Professional Inc	1	1
+Cobalt Mortgage	2	2
+Collection Bureau of America Ltd	3	3
+Collection Bureau of the Hudson Valley Inc	1	1
+Collection Management Company	2	2
+Collins & Hilton Asset Group LLC	1	0
+Comerica	11	11
+Commerce Bank	2	2
+Commercial Recovery Systems	12	10
+Commonwealth Financial Systems Inc	6	4
+Community Choice Financial Inc	7	7
+Community Health Investment Company LLC	1	1
+Computer Credit Inc	1	1
+ConServe	3	3
+Concord Servicing Corporation	1	1
+Consumer Adjustment Company Incorporated	2	2
+Consumer Financial Services	1	0
+Continental Central Credit Inc	2	2
+Continental Home Loans Inc	1	1
+Contract Callers Inc	2	2
+Convergent Resources Inc	23	22
+Cornerstone Mortgage Inc	1	1
+CountryPlace Acceptance Corporation	2	2
+Credit Acceptance Corporation	8	8
+Credit Bureau Central Inc (NV)	1	0
+Credit Bureau Collection Services Inc	3	3
+Credit Bureau Data Inc	1	1
+Credit Bureau Services Association	1	1
+Credit Bureau Systems Inc	1	1
+Credit Bureau of Napa	2	2
+Credit Bureau of San Luis Obispo & Santa Barbara Counties	1	1
+Credit Card Receivables Fund Incorporated	2	1
+Credit Consulting Services Inc	1	1
+Credit Corp Solutions Inc	2	2
+Credit Financial Services lnc	1	1
+Credit Protection Association LP	12	12
+Credit Services of Oregon Inc	1	1
+Credit Systems International Inc	3	3
+Credit World Services Inc	1	1
+Creditors Collection Service	1	1
+Crescent Mortgage	1	1
+M G Credit Inc	1	1
+M&T Bank Corporation	53	53
+MEFA	1	1
+MFP inc	2	2
+MNE Services Inc	13	13
+MOHELA	1	1
+MRS BPO LLC	10	10
+MacDowell & Associates Ltd	1	1
+Mandarich Law Group LLP	1	1
+Mann Mortgage LLC	1	1
+Marauder Corporation	2	2
+McCarthy Burgess & Wolff Inc	3	3
+Meade & Associates Inc	2	2
+MedShield Inc	1	1
+Media Collections Inc	5	5
+Medical Business Bureau	2	1
+Medical Data Systems Inc	4	4
+Medical Society Business Services Inc	1	1
+Mercantile Adjustment Bureau LLC	4	4
+Mercedes-Benz Financial Services	2	2
+Merchants Credit Bureau Inc	1	0
+Merchants' Credit Guide Company	1	1
+Messerli & Kramer PA	2	2
+MicroBilt / PRBC (formerly CL Verify)	1	1
+Mid Continent Credit Services Inc	1	1
+MidAmerica Mortgage Inc	1	1
+Midwest Loan Services Inc	1	1
+Mnet Financial Inc	1	1
+Mobiloans LLC	4	0
+Monarch Recovery Holdings Inc	4	2
+MoneyGram	15	15
+Montgomery County Credit Bureau	1	1
+Morgan & Associates PC	1	1
+Morgan Stanley	5	5
+Mortgage Investors Corporation	1	1
+Mountain Land Collections Inc	2	2
+Mutual Financial Partners	3	3
+WAKEFIELD & ASSOCIATES INC	2	2
+WCS LENDING LLC	1	0
+WJ Bradley Mortgage	2	2
+Washington Federal	2	2
+We Collect Inc	1	1
+Webcollex LLC	1	1
+Webster Bank	3	3
+Wells Fargo & Company	843	838
+Weltman Weinberg & Reis	5	5
+West Bay Acquisitions LLC	3	3
+Western Control Services Inc	1	1
+Western Portfolio Assets	1	0
+Westlake Services LLC	8	8
+Whitney Bank	1	1
+Williams & Fudge Inc	8	8
+Williams Rush & Associates LLC	1	0
+Windham Professionals	2	2
+Works & Lentz of Tulsa Inc	1	1
+World Acceptance Corporation	1	1
+Worldwide Processing Group LLC	4	4

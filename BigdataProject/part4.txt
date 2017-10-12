@@ -1,0 +1,960 @@
+"Neighborhood Assistance Corporation of America (""NACA"")"	Mortgage	Tue Jan 01 00:00:00 UTC 2013	1
+1st Fidelity Loan Servicing	Mortgage	Tue Jan 01 00:00:00 UTC 2013	1
+21st Mortgage Corporation	Mortgage	Tue Jan 01 00:00:00 UTC 2013	4
+ACE Cash Express Inc	Consumer Loan	Tue Jan 01 00:00:00 UTC 2013	1
+ACE Cash Express Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	5
+ACE Cash Express Inc	Payday loan	Tue Jan 01 00:00:00 UTC 2013	1
+ACS Education Services	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+ACS Education Services	Student loan	Tue Jan 01 00:00:00 UTC 2013	6
+AES/PHEAA	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+AES/PHEAA	Student loan	Tue Jan 01 00:00:00 UTC 2013	22
+AMCOL Systems Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+APEX Asset Management LLC	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+ARM Solutions Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+ARS National Services Inc	Credit reporting	Tue Jan 01 00:00:00 UTC 2013	1
+ARS National Services Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	3
+ATG Credit LLC	Debt collection	Tue Jan 01 00:00:00 UTC 2013	4
+Aargon Agency Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Ability Recovery Services LLC	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Absolute Collections Corp	Debt collection	Tue Jan 01 00:00:00 UTC 2013	2
+Accelerated Financial Solutions LLC	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Access Group	Student loan	Tue Jan 01 00:00:00 UTC 2013	1
+Accord Creditor Services LLC	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Account Control Technology Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	3
+Account Discovery Systems LLC	Debt collection	Tue Jan 01 00:00:00 UTC 2013	3
+Account Resolution Corporation	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Accounts Management Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Accurate Financial Partners	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Action Collection Service	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Action Professionals Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Action Revenue Recovery LLC	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Ad Astra Recovery Services Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	5
+Adler Wallach & Associates Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Admin Recovery LLC	Debt collection	Tue Jan 01 00:00:00 UTC 2013	2
+Advance America Cash Advance Centers Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	4
+Advance Bureau of Collections	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Afni Inc	Credit reporting	Tue Jan 01 00:00:00 UTC 2013	1
+Afni Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	22
+Alco Collections Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Aldous & Associates PLLC	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+All American Check Cashing Inc	Payday loan	Tue Jan 01 00:00:00 UTC 2013	1
+Allgate Financial LLC	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Alliance Collection Agencies Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+AllianceOne Recievables Management	Debt collection	Tue Jan 01 00:00:00 UTC 2013	7
+Allied Account Services Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Allied Collection Service Inc (Indiana)	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Allied Collection Services Inc (Nevada)	Debt collection	Tue Jan 01 00:00:00 UTC 2013	2
+Allied Fidelity Services LLC	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Allied International Credit Corporation	Debt collection	Tue Jan 01 00:00:00 UTC 2013	3
+Allied Interstate LLC	Debt collection	Tue Jan 01 00:00:00 UTC 2013	40
+Allied Interstate LLC	Student loan	Tue Jan 01 00:00:00 UTC 2013	1
+Ally Financial Inc	Bank account or service	Tue Jan 01 00:00:00 UTC 2013	13
+Ally Financial Inc	Consumer Loan	Tue Jan 01 00:00:00 UTC 2013	18
+Ally Financial Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	4
+Alorica Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	17
+Alpha Recovery Corp	Debt collection	Tue Jan 01 00:00:00 UTC 2013	2
+Alpine Financial Solutions Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Alternative Collections LLC	Debt collection	Tue Jan 01 00:00:00 UTC 2013	2
+American Advisors Group	Mortgage	Tue Jan 01 00:00:00 UTC 2013	3
+American Coradius International LLC	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+American Credit Acceptance LLC	Consumer Loan	Tue Jan 01 00:00:00 UTC 2013	1
+American Credit Acceptance LLC	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+American Equity Mortgage Inc	Mortgage	Tue Jan 01 00:00:00 UTC 2013	2
+American Financial Resources Inc	Mortgage	Tue Jan 01 00:00:00 UTC 2013	1
+American Honda Finance Corporation	Consumer Loan	Tue Jan 01 00:00:00 UTC 2013	4
+American Honda Finance Corporation	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+American Internet Mortgage Inc	Mortgage	Tue Jan 01 00:00:00 UTC 2013	3
+American Southwest Mortgage Corporation	Mortgage	Tue Jan 01 00:00:00 UTC 2013	1
+Americas Mortgage Professionals LLC	Mortgage	Tue Jan 01 00:00:00 UTC 2013	1
+Amerisave	Mortgage	Tue Jan 01 00:00:00 UTC 2013	2
+Amex	Bank account or service	Tue Jan 01 00:00:00 UTC 2013	5
+Amex	Credit card	Tue Jan 01 00:00:00 UTC 2013	98
+Amex	Debt collection	Tue Jan 01 00:00:00 UTC 2013	3
+Amsher Collection Services Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Anselmo Lindberg Oliver LLC	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Arbor Residential Mortgage LLC	Mortgage	Tue Jan 01 00:00:00 UTC 2013	3
+Army and Air Force Exchange Service	Credit card	Tue Jan 01 00:00:00 UTC 2013	1
+Army and Air Force Exchange Service	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Arnold Scott Harris PC	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Arvest Bank	Mortgage	Tue Jan 01 00:00:00 UTC 2013	4
+Aspire Financial Inc	Mortgage	Tue Jan 01 00:00:00 UTC 2013	1
+Asset Management Outsourcing Inc	Consumer Loan	Tue Jan 01 00:00:00 UTC 2013	1
+Asset Management Professionals LLC	Debt collection	Tue Jan 01 00:00:00 UTC 2013	3
+Asset Recovery Group Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Asset Recovery Solutions LLC	Debt collection	Tue Jan 01 00:00:00 UTC 2013	4
+Associated Bank	Bank account or service	Tue Jan 01 00:00:00 UTC 2013	2
+Associated Bank	Credit card	Tue Jan 01 00:00:00 UTC 2013	1
+Associated Bank	Mortgage	Tue Jan 01 00:00:00 UTC 2013	1
+Associated Credit Services Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Associated Mortgage Corporation	Mortgage	Tue Jan 01 00:00:00 UTC 2013	1
+Asta Funding Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Astoria Bank	Bank account or service	Tue Jan 01 00:00:00 UTC 2013	4
+Astoria Bank	Mortgage	Tue Jan 01 00:00:00 UTC 2013	4
+BB&T Financial	Bank account or service	Tue Jan 01 00:00:00 UTC 2013	31
+BB&T Financial	Consumer Loan	Tue Jan 01 00:00:00 UTC 2013	3
+BB&T Financial	Credit card	Tue Jan 01 00:00:00 UTC 2013	1
+BB&T Financial	Debt collection	Tue Jan 01 00:00:00 UTC 2013	2
+BB&T Financial	Mortgage	Tue Jan 01 00:00:00 UTC 2013	20
+BBVA Compass	Bank account or service	Tue Jan 01 00:00:00 UTC 2013	9
+BBVA Compass	Credit card	Tue Jan 01 00:00:00 UTC 2013	4
+BBVA Compass	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+BBVA Compass	Mortgage	Tue Jan 01 00:00:00 UTC 2013	6
+BC Services Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+BCA Financial Services Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+BMO Harris	Bank account or service	Tue Jan 01 00:00:00 UTC 2013	8
+BMO Harris	Credit card	Tue Jan 01 00:00:00 UTC 2013	1
+BMO Harris	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+BMO Harris	Mortgage	Tue Jan 01 00:00:00 UTC 2013	9
+BMW Financial Services	Consumer Loan	Tue Jan 01 00:00:00 UTC 2013	2
+BNY Mellon	Bank account or service	Tue Jan 01 00:00:00 UTC 2013	4
+BNY Mellon	Credit card	Tue Jan 01 00:00:00 UTC 2013	1
+BOK Financial Corp	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+BYL Collection Services	Debt collection	Tue Jan 01 00:00:00 UTC 2013	2
+Banco Popular North America	Mortgage	Tue Jan 01 00:00:00 UTC 2013	2
+Banco Popular de Puerto Rico	Bank account or service	Tue Jan 01 00:00:00 UTC 2013	1
+Banco Popular de Puerto Rico	Consumer Loan	Tue Jan 01 00:00:00 UTC 2013	1
+Banco Popular de Puerto Rico	Credit reporting	Tue Jan 01 00:00:00 UTC 2013	1
+Banco Popular de Puerto Rico	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Banco Popular de Puerto Rico	Mortgage	Tue Jan 01 00:00:00 UTC 2013	2
+BancorpSouth Bank	Consumer Loan	Tue Jan 01 00:00:00 UTC 2013	1
+BancorpSouth Bank	Mortgage	Tue Jan 01 00:00:00 UTC 2013	1
+Bank of America	Bank account or service	Tue Jan 01 00:00:00 UTC 2013	210
+Bank of America	Consumer Loan	Tue Jan 01 00:00:00 UTC 2013	9
+Bank of America	Credit card	Tue Jan 01 00:00:00 UTC 2013	121
+Bank of America	Debt collection	Tue Jan 01 00:00:00 UTC 2013	30
+Bank of America	Money transfers	Tue Jan 01 00:00:00 UTC 2013	3
+Bank of America	Mortgage	Tue Jan 01 00:00:00 UTC 2013	690
+Bank of America	Student loan	Tue Jan 01 00:00:00 UTC 2013	2
+Bank of Hawaii	Bank account or service	Tue Jan 01 00:00:00 UTC 2013	1
+Bank of Hawaii	Mortgage	Tue Jan 01 00:00:00 UTC 2013	1
+Bank of the West	Bank account or service	Tue Jan 01 00:00:00 UTC 2013	7
+Bank of the West	Consumer Loan	Tue Jan 01 00:00:00 UTC 2013	1
+Bank of the West	Mortgage	Tue Jan 01 00:00:00 UTC 2013	2
+BankUnited	Bank account or service	Tue Jan 01 00:00:00 UTC 2013	1
+BankUnited	Mortgage	Tue Jan 01 00:00:00 UTC 2013	5
+Barclays PLC	Bank account or service	Tue Jan 01 00:00:00 UTC 2013	1
+Barclays PLC	Credit card	Tue Jan 01 00:00:00 UTC 2013	41
+Barclays PLC	Debt collection	Tue Jan 01 00:00:00 UTC 2013	2
+Bayview Loan Servicing LLC	Mortgage	Tue Jan 01 00:00:00 UTC 2013	22
+Blatt Hasenmiller Leibsker & Moore LLC	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Bonded Adjustment Company	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Borenstein & Associates LLC	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Brazos Higher Education Servicing	Student loan	Tue Jan 01 00:00:00 UTC 2013	1
+Brightwater Capital LLC	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Brown and Joseph Ltd	Debt collection	Tue Jan 01 00:00:00 UTC 2013	2
+Budget Mortgage Corp	Mortgage	Tue Jan 01 00:00:00 UTC 2013	1
+Bull City Financial Solutions Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Business & Professional Collection Service Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Byrider Franchising LLC	Consumer Loan	Tue Jan 01 00:00:00 UTC 2013	2
+CCB Credit Serivces Inc	Credit reporting	Tue Jan 01 00:00:00 UTC 2013	1
+CCB Credit Serivces Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+CCS Financial Services Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	11
+CIR Law Offices	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+CIT Bank National Association	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+CIT Bank National Association	Mortgage	Tue Jan 01 00:00:00 UTC 2013	35
+CL Holdings LLC	Debt collection	Tue Jan 01 00:00:00 UTC 2013	7
+CNG Financial Corporation	Consumer Loan	Tue Jan 01 00:00:00 UTC 2013	1
+CNG Financial Corporation	Debt collection	Tue Jan 01 00:00:00 UTC 2013	9
+CORNERSTONE RESOLUTION GROUP INC	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Caine & Weiner Co Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Caliber Home Loans Inc	Mortgage	Tue Jan 01 00:00:00 UTC 2013	19
+California Business Bureau Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+California Recovery Bureau Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	2
+Capio Partners LLC	Debt collection	Tue Jan 01 00:00:00 UTC 2013	4
+Capital Management Services LP	Debt collection	Tue Jan 01 00:00:00 UTC 2013	2
+Capital One	Bank account or service	Tue Jan 01 00:00:00 UTC 2013	28
+Capital One	Consumer Loan	Tue Jan 01 00:00:00 UTC 2013	10
+Capital One	Credit card	Tue Jan 01 00:00:00 UTC 2013	184
+Capital One	Credit reporting	Tue Jan 01 00:00:00 UTC 2013	13
+Capital One	Debt collection	Tue Jan 01 00:00:00 UTC 2013	29
+Capital One	Mortgage	Tue Jan 01 00:00:00 UTC 2013	16
+CarMax Inc	Consumer Loan	Tue Jan 01 00:00:00 UTC 2013	1
+Carrington Mortgage Holdings LLC	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Carrington Mortgage Holdings LLC	Mortgage	Tue Jan 01 00:00:00 UTC 2013	13
+Cascade Capital LLC	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Cash America International Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Cash Express LLC	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Cash-Installment LLC	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+CashCall Inc	Consumer Loan	Tue Jan 01 00:00:00 UTC 2013	3
+CashCall Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	5
+CashCall Inc	Mortgage	Tue Jan 01 00:00:00 UTC 2013	1
+CashCall Inc	Payday loan	Tue Jan 01 00:00:00 UTC 2013	1
+Cavalry Investments LLC	Debt collection	Tue Jan 01 00:00:00 UTC 2013	17
+Ceannate	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Centron Services	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Certified Recovery Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Charles Schwab Bank	Bank account or service	Tue Jan 01 00:00:00 UTC 2013	1
+Charles Schwab Bank	Money transfers	Tue Jan 01 00:00:00 UTC 2013	1
+Check Fraud Services	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Check into Cash Inc	Consumer Loan	Tue Jan 01 00:00:00 UTC 2013	1
+Check into Cash Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	2
+Choice Recovery Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	3
+Citibank	Bank account or service	Tue Jan 01 00:00:00 UTC 2013	42
+Citibank	Consumer Loan	Tue Jan 01 00:00:00 UTC 2013	6
+Citibank	Credit card	Tue Jan 01 00:00:00 UTC 2013	222
+Citibank	Credit reporting	Tue Jan 01 00:00:00 UTC 2013	6
+Citibank	Debt collection	Tue Jan 01 00:00:00 UTC 2013	58
+Citibank	Money transfers	Tue Jan 01 00:00:00 UTC 2013	3
+Citibank	Mortgage	Tue Jan 01 00:00:00 UTC 2013	168
+Citibank	Student loan	Tue Jan 01 00:00:00 UTC 2013	9
+Citizens Financial Group Inc	Bank account or service	Tue Jan 01 00:00:00 UTC 2013	24
+Citizens Financial Group Inc	Consumer Loan	Tue Jan 01 00:00:00 UTC 2013	1
+Citizens Financial Group Inc	Credit card	Tue Jan 01 00:00:00 UTC 2013	4
+Citizens Financial Group Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Citizens Financial Group Inc	Mortgage	Tue Jan 01 00:00:00 UTC 2013	23
+Clark County Collection Service	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+ClearSpring Loan Services Inc	Mortgage	Tue Jan 01 00:00:00 UTC 2013	1
+Client Services Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	3
+Coast Professional Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Cobalt Mortgage	Mortgage	Tue Jan 01 00:00:00 UTC 2013	2
+Collection Bureau of America Ltd	Credit reporting	Tue Jan 01 00:00:00 UTC 2013	1
+Collection Bureau of America Ltd	Debt collection	Tue Jan 01 00:00:00 UTC 2013	2
+Collection Bureau of the Hudson Valley Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Collection Management Company	Debt collection	Tue Jan 01 00:00:00 UTC 2013	2
+Collins & Hilton Asset Group LLC	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Comerica	Bank account or service	Tue Jan 01 00:00:00 UTC 2013	9
+Comerica	Credit card	Tue Jan 01 00:00:00 UTC 2013	1
+Comerica	Mortgage	Tue Jan 01 00:00:00 UTC 2013	1
+Commerce Bank	Bank account or service	Tue Jan 01 00:00:00 UTC 2013	1
+Commerce Bank	Credit card	Tue Jan 01 00:00:00 UTC 2013	1
+Commercial Recovery Systems	Debt collection	Tue Jan 01 00:00:00 UTC 2013	12
+Commonwealth Financial Systems Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	6
+Community Choice Financial Inc	Bank account or service	Tue Jan 01 00:00:00 UTC 2013	1
+Community Choice Financial Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	5
+Community Choice Financial Inc	Payday loan	Tue Jan 01 00:00:00 UTC 2013	1
+Community Health Investment Company LLC	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Computer Credit Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+ConServe	Debt collection	Tue Jan 01 00:00:00 UTC 2013	3
+Concord Servicing Corporation	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Consumer Adjustment Company Incorporated	Debt collection	Tue Jan 01 00:00:00 UTC 2013	2
+Consumer Financial Services	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Continental Central Credit Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	2
+Continental Home Loans Inc	Mortgage	Tue Jan 01 00:00:00 UTC 2013	1
+Contract Callers Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	2
+Convergent Resources Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	23
+Cornerstone Mortgage Inc	Mortgage	Tue Jan 01 00:00:00 UTC 2013	1
+CountryPlace Acceptance Corporation	Mortgage	Tue Jan 01 00:00:00 UTC 2013	2
+Credit Acceptance Corporation	Consumer Loan	Tue Jan 01 00:00:00 UTC 2013	7
+Credit Acceptance Corporation	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Credit Bureau Central Inc (NV)	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Credit Bureau Collection Services Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	3
+Credit Bureau Data Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Credit Bureau Services Association	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Credit Bureau Systems Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Credit Bureau of Napa	Debt collection	Tue Jan 01 00:00:00 UTC 2013	2
+Credit Bureau of San Luis Obispo & Santa Barbara Counties	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Credit Card Receivables Fund Incorporated	Credit card	Tue Jan 01 00:00:00 UTC 2013	1
+Credit Card Receivables Fund Incorporated	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Credit Consulting Services Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Credit Corp Solutions Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	2
+Credit Financial Services lnc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Credit Protection Association LP	Consumer Loan	Tue Jan 01 00:00:00 UTC 2013	1
+Credit Protection Association LP	Debt collection	Tue Jan 01 00:00:00 UTC 2013	11
+Credit Services of Oregon Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Credit Systems International Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	3
+Credit World Services Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Creditors Collection Service	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Crescent Mortgage	Mortgage	Tue Jan 01 00:00:00 UTC 2013	1
+D&A Services LLC	Debt collection	Tue Jan 01 00:00:00 UTC 2013	2
+DFC Global Corp	Bank account or service	Tue Jan 01 00:00:00 UTC 2013	1
+DFC Global Corp	Debt collection	Tue Jan 01 00:00:00 UTC 2013	3
+DLC LLC	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+DTA GROUP LLC	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Debt Recovery Solutions LLC	Debt collection	Tue Jan 01 00:00:00 UTC 2013	5
+Deca Financial Services LLC	Debt collection	Tue Jan 01 00:00:00 UTC 2013	3
+Delbert Services	Consumer Loan	Tue Jan 01 00:00:00 UTC 2013	4
+Delbert Services	Debt collection	Tue Jan 01 00:00:00 UTC 2013	3
+Delta Management Associates Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	2
+Delta Outsource Group Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Deutsche Bank	Bank account or service	Tue Jan 01 00:00:00 UTC 2013	1
+Deval LLC	Mortgage	Tue Jan 01 00:00:00 UTC 2013	1
+Discover	Bank account or service	Tue Jan 01 00:00:00 UTC 2013	3
+Discover	Credit card	Tue Jan 01 00:00:00 UTC 2013	65
+Discover	Credit reporting	Tue Jan 01 00:00:00 UTC 2013	1
+Discover	Debt collection	Tue Jan 01 00:00:00 UTC 2013	10
+Discover	Student loan	Tue Jan 01 00:00:00 UTC 2013	11
+Ditech Financial LLC	Bank account or service	Tue Jan 01 00:00:00 UTC 2013	1
+Ditech Financial LLC	Consumer Loan	Tue Jan 01 00:00:00 UTC 2013	1
+Ditech Financial LLC	Debt collection	Tue Jan 01 00:00:00 UTC 2013	12
+Ditech Financial LLC	Mortgage	Tue Jan 01 00:00:00 UTC 2013	191
+Diversified Adjustment Service Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	6
+Diversified Consultants Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	17
+Dominion Law Associates PLLC	Debt collection	Tue Jan 01 00:00:00 UTC 2013	2
+Dovenmuehle Mortgage Inc	Mortgage	Tue Jan 01 00:00:00 UTC 2013	6
+Draper and Kramer Mortgage Corp	Mortgage	Tue Jan 01 00:00:00 UTC 2013	1
+DriveTime	Consumer Loan	Tue Jan 01 00:00:00 UTC 2013	1
+Dynamic Recovery Services Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	3
+Dynamic Recovery Solutions LLC	Debt collection	Tue Jan 01 00:00:00 UTC 2013	27
+E A Uffman & Associates Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+E*Trade Bank	Bank account or service	Tue Jan 01 00:00:00 UTC 2013	1
+E*Trade Bank	Mortgage	Tue Jan 01 00:00:00 UTC 2013	2
+ECMC Group Inc	Credit reporting	Tue Jan 01 00:00:00 UTC 2013	1
+ECMC Group Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	12
+ECMC Group Inc	Student loan	Tue Jan 01 00:00:00 UTC 2013	1
+EOS Holdings Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	18
+ERC	Debt collection	Tue Jan 01 00:00:00 UTC 2013	22
+EZCORP Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+EZCORP Inc	Money transfers	Tue Jan 01 00:00:00 UTC 2013	1
+Early Warning Services LLC	Credit reporting	Tue Jan 01 00:00:00 UTC 2013	1
+East West Bank	Bank account or service	Tue Jan 01 00:00:00 UTC 2013	1
+Eastpoint Recovery Group Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+EisenburgWhitman and Associates	Debt collection	Tue Jan 01 00:00:00 UTC 2013	2
+Eltman Law PC	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Embrace Home Loans Inc	Mortgage	Tue Jan 01 00:00:00 UTC 2013	1
+Emory Enterprises LLC	Debt collection	Tue Jan 01 00:00:00 UTC 2013	2
+Encore Capital Group	Bank account or service	Tue Jan 01 00:00:00 UTC 2013	2
+Encore Capital Group	Consumer Loan	Tue Jan 01 00:00:00 UTC 2013	1
+Encore Capital Group	Credit card	Tue Jan 01 00:00:00 UTC 2013	1
+Encore Capital Group	Credit reporting	Tue Jan 01 00:00:00 UTC 2013	1
+Encore Capital Group	Debt collection	Tue Jan 01 00:00:00 UTC 2013	178
+Encore Capital Group	Mortgage	Tue Jan 01 00:00:00 UTC 2013	1
+Enova International Inc	Consumer Loan	Tue Jan 01 00:00:00 UTC 2013	5
+Enova International Inc	Credit reporting	Tue Jan 01 00:00:00 UTC 2013	1
+Enova International Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	6
+Enova International Inc	Payday loan	Tue Jan 01 00:00:00 UTC 2013	3
+Equifax	Credit reporting	Tue Jan 01 00:00:00 UTC 2013	485
+Escallate LLC	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Estate Information Services LLC	Student loan	Tue Jan 01 00:00:00 UTC 2013	1
+Euler Hermes Collections North America Company	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+EverBank	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+EverBank	Mortgage	Tue Jan 01 00:00:00 UTC 2013	18
+Everest Receivable Services Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Exeter Finance Corp	Consumer Loan	Tue Jan 01 00:00:00 UTC 2013	3
+Experian	Credit reporting	Tue Jan 01 00:00:00 UTC 2013	517
+Experian	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Expert Global Solutions Inc	Bank account or service	Tue Jan 01 00:00:00 UTC 2013	1
+Expert Global Solutions Inc	Consumer Loan	Tue Jan 01 00:00:00 UTC 2013	1
+Expert Global Solutions Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	84
+Expert Global Solutions Inc	Student loan	Tue Jan 01 00:00:00 UTC 2013	5
+FAIR COLLECTIONS & OUTSOURCING INC	Debt collection	Tue Jan 01 00:00:00 UTC 2013	2
+FCI Lender Services Inc	Mortgage	Tue Jan 01 00:00:00 UTC 2013	3
+FINEX Group LLC	Debt collection	Tue Jan 01 00:00:00 UTC 2013	2
+FMS Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Factual Data	Credit reporting	Tue Jan 01 00:00:00 UTC 2013	1
+Fairway Capital Recovery LLC	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Fay Servicing LLC	Mortgage	Tue Jan 01 00:00:00 UTC 2013	3
+Federated Capital Corporation	Credit card	Tue Jan 01 00:00:00 UTC 2013	1
+Federated Capital Corporation	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Fidelity Capital Holdings Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Fidelity National Financial Inc	Mortgage	Tue Jan 01 00:00:00 UTC 2013	1
+Fidelity National Information Services Inc (FNIS)	Bank account or service	Tue Jan 01 00:00:00 UTC 2013	5
+Fidelity National Information Services Inc (FNIS)	Credit reporting	Tue Jan 01 00:00:00 UTC 2013	18
+Fidelity National Information Services Inc (FNIS)	Debt collection	Tue Jan 01 00:00:00 UTC 2013	3
+Fidelity Properties Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Fifth Third Financial Corporation	Bank account or service	Tue Jan 01 00:00:00 UTC 2013	30
+Fifth Third Financial Corporation	Consumer Loan	Tue Jan 01 00:00:00 UTC 2013	5
+Fifth Third Financial Corporation	Credit card	Tue Jan 01 00:00:00 UTC 2013	13
+Fifth Third Financial Corporation	Credit reporting	Tue Jan 01 00:00:00 UTC 2013	1
+Fifth Third Financial Corporation	Debt collection	Tue Jan 01 00:00:00 UTC 2013	3
+Fifth Third Financial Corporation	Mortgage	Tue Jan 01 00:00:00 UTC 2013	13
+Finance of America Reverse LLC	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Finance of America Reverse LLC	Mortgage	Tue Jan 01 00:00:00 UTC 2013	2
+Financial Asset Management Systems Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	2
+Financial Asset Resolution LLC	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Financial Business and Consumer Solutions	Debt collection	Tue Jan 01 00:00:00 UTC 2013	3
+Financial Credit Network Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	2
+Financial Recovery Services Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	2
+Finkelstein Kern Steinberg & Cunningham PC	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+First Advantage Corporation	Credit reporting	Tue Jan 01 00:00:00 UTC 2013	2
+First American Financial Corporation	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+First American Financial Corporation	Mortgage	Tue Jan 01 00:00:00 UTC 2013	2
+First American Mitigators PLLC	Bank account or service	Tue Jan 01 00:00:00 UTC 2013	1
+First Associates Loan Servicing LLC	Student loan	Tue Jan 01 00:00:00 UTC 2013	1
+First Citizens	Bank account or service	Tue Jan 01 00:00:00 UTC 2013	1
+First Credit Services Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	2
+First Data Corporation	Credit reporting	Tue Jan 01 00:00:00 UTC 2013	1
+First Data Corporation	Debt collection	Tue Jan 01 00:00:00 UTC 2013	2
+First Hawaiian Bank	Bank account or service	Tue Jan 01 00:00:00 UTC 2013	1
+First National Bank of Omaha	Bank account or service	Tue Jan 01 00:00:00 UTC 2013	2
+First National Bank of Omaha	Credit card	Tue Jan 01 00:00:00 UTC 2013	7
+First National Bank of Omaha	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+First National Bank of Omaha	Mortgage	Tue Jan 01 00:00:00 UTC 2013	1
+First National Collection Bureau Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+First Tennessee Bank	Bank account or service	Tue Jan 01 00:00:00 UTC 2013	4
+First Tennessee Bank	Consumer Loan	Tue Jan 01 00:00:00 UTC 2013	1
+First Tennessee Bank	Mortgage	Tue Jan 01 00:00:00 UTC 2013	4
+FirstBank	Bank account or service	Tue Jan 01 00:00:00 UTC 2013	1
+FirstBank	Credit card	Tue Jan 01 00:00:00 UTC 2013	1
+FirstBank of Puerto Rico	Credit card	Tue Jan 01 00:00:00 UTC 2013	1
+FirstBank of Puerto Rico	Mortgage	Tue Jan 01 00:00:00 UTC 2013	2
+FirstMerit Bank	Bank account or service	Tue Jan 01 00:00:00 UTC 2013	6
+FirstSource Advantage LLC	Debt collection	Tue Jan 01 00:00:00 UTC 2013	3
+Five Lakes Agency	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Five Lakes Agency	Mortgage	Tue Jan 01 00:00:00 UTC 2013	2
+Flagship Financial Group	Mortgage	Tue Jan 01 00:00:00 UTC 2013	1
+Flagstar Bank	Bank account or service	Tue Jan 01 00:00:00 UTC 2013	4
+Flagstar Bank	Mortgage	Tue Jan 01 00:00:00 UTC 2013	21
+Focus Holding Company	Debt collection	Tue Jan 01 00:00:00 UTC 2013	2
+Focused Recovery Solutions Inc	Credit reporting	Tue Jan 01 00:00:00 UTC 2013	1
+Ford Motor Credit Company	Bank account or service	Tue Jan 01 00:00:00 UTC 2013	1
+Ford Motor Credit Company	Consumer Loan	Tue Jan 01 00:00:00 UTC 2013	3
+Ford Motor Credit Company	Debt collection	Tue Jan 01 00:00:00 UTC 2013	3
+Forster & Garbus LLP	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Forster Garbus and Garbus	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Franklin American Mortgage Company	Mortgage	Tue Jan 01 00:00:00 UTC 2013	1
+Franklin Collection Service Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	8
+Franklin Credit Management	Mortgage	Wed Jan 01 00:00:00 UTC 2014	4
+Freedom Mortgage	Mortgage	Tue Jan 01 00:00:00 UTC 2013	5
+Frontline Asset Strategies LLC	Debt collection	Tue Jan 01 00:00:00 UTC 2013	3
+Frost Bank	Bank account or service	Tue Jan 01 00:00:00 UTC 2013	1
+Frost Bank	Mortgage	Tue Jan 01 00:00:00 UTC 2013	1
+Frost-Arnett Company	Credit reporting	Tue Jan 01 00:00:00 UTC 2013	1
+Frost-Arnett Company	Debt collection	Tue Jan 01 00:00:00 UTC 2013	2
+Fulton Friedman & Gullace LLP	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+GC Services Limited Partnership	Bank account or service	Tue Jan 01 00:00:00 UTC 2013	1
+GC Services Limited Partnership	Debt collection	Tue Jan 01 00:00:00 UTC 2013	4
+GM Financial	Consumer Loan	Tue Jan 01 00:00:00 UTC 2013	9
+GMFS LLC	Mortgage	Tue Jan 01 00:00:00 UTC 2013	1
+GVA Holdings LLC	Payday loan	Tue Jan 01 00:00:00 UTC 2013	1
+Gatestone & Co International Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Generation Mortgage	Mortgage	Tue Jan 01 00:00:00 UTC 2013	2
+Genesis Lending	Credit reporting	Tue Jan 01 00:00:00 UTC 2013	1
+Glass Mountain Capital LLC	Debt collection	Tue Jan 01 00:00:00 UTC 2013	2
+Glasser and Glasser PLC	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Global Client Solutions	Credit card	Tue Jan 01 00:00:00 UTC 2013	1
+Global Credit & Collection Corporation	Debt collection	Tue Jan 01 00:00:00 UTC 2013	2
+Global Recovery Group	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Gordon & Wong Law Group PC	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Granite State Management & Resources	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Grant & Weber	Credit reporting	Tue Jan 01 00:00:00 UTC 2013	1
+Grant & Weber	Debt collection	Tue Jan 01 00:00:00 UTC 2013	9
+Grant Mercantile Agency	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Great Lakes	Student loan	Tue Jan 01 00:00:00 UTC 2013	1
+Greystone Alliance LLC	Debt collection	Tue Jan 01 00:00:00 UTC 2013	2
+Gryphon Corp	Credit card	Tue Jan 01 00:00:00 UTC 2013	1
+Gryphon Corp	Credit reporting	Tue Jan 01 00:00:00 UTC 2013	1
+Gryphon Corp	Debt collection	Tue Jan 01 00:00:00 UTC 2013	4
+Gurstel Chargo PA	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+HCFS Health Care Financial Services Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	3
+HOVG LLC	Debt collection	Tue Jan 01 00:00:00 UTC 2013	6
+HSBC North America Holdings Inc	Bank account or service	Tue Jan 01 00:00:00 UTC 2013	14
+HSBC North America Holdings Inc	Consumer Loan	Tue Jan 01 00:00:00 UTC 2013	4
+HSBC North America Holdings Inc	Credit card	Tue Jan 01 00:00:00 UTC 2013	15
+HSBC North America Holdings Inc	Credit reporting	Tue Jan 01 00:00:00 UTC 2013	2
+HSBC North America Holdings Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	11
+HSBC North America Holdings Inc	Money transfers	Tue Jan 01 00:00:00 UTC 2013	1
+HSBC North America Holdings Inc	Mortgage	Tue Jan 01 00:00:00 UTC 2013	87
+Hameroff Law Group PC	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Hanna Holdings Inc	Mortgage	Tue Jan 01 00:00:00 UTC 2013	1
+Harley-Davidson Financial Services Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Harvard Collections LLC	Debt collection	Tue Jan 01 00:00:00 UTC 2013	2
+Health Services Asset Management LLC	Credit reporting	Tue Jan 01 00:00:00 UTC 2013	1
+Healthcare Financial Services LLC	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Healthcare Receivable Professionals LLC	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Healthcare Receivables Group Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Heartland Payment Systems	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Herbert P Sears Co Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	4
+Higher Education Student Assistance Authority (HESAA)	Student loan	Tue Jan 01 00:00:00 UTC 2013	3
+Holloway Credit Solutions	Credit reporting	Tue Jan 01 00:00:00 UTC 2013	1
+Holloway Credit Solutions	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Home Financing Center	Mortgage	Tue Jan 01 00:00:00 UTC 2013	1
+Hosto & Buchan PLLC	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Houston Home Loan Inc	Mortgage	Tue Jan 01 00:00:00 UTC 2013	1
+Hunt & Henriques	Debt collection	Tue Jan 01 00:00:00 UTC 2013	2
+Hunter Warfield Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	9
+Hyperion Recovery LLC	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Hyundai Capital America	Consumer Loan	Tue Jan 01 00:00:00 UTC 2013	6
+IBERIABANK	Mortgage	Tue Jan 01 00:00:00 UTC 2013	1
+IC System Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	17
+IQ Data International Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	6
+Illinois Collection Service Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Immediate Credit Recovery	Bank account or service	Tue Jan 01 00:00:00 UTC 2013	1
+Innovis	Credit reporting	Tue Jan 01 00:00:00 UTC 2013	2
+Integrity Solution Services Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	7
+InterFirst Mortgage Company	Mortgage	Tue Jan 01 00:00:00 UTC 2013	3
+International City Mortgage Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+International Computer Systems Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Iowa Student Loan	Student loan	Tue Jan 01 00:00:00 UTC 2013	1
+JH Portfolio Debt Equities LLC	Debt collection	Tue Jan 01 00:00:00 UTC 2013	5
+JPMorgan Chase & Co	Bank account or service	Tue Jan 01 00:00:00 UTC 2013	123
+JPMorgan Chase & Co	Consumer Loan	Tue Jan 01 00:00:00 UTC 2013	17
+JPMorgan Chase & Co	Credit card	Tue Jan 01 00:00:00 UTC 2013	129
+JPMorgan Chase & Co	Debt collection	Tue Jan 01 00:00:00 UTC 2013	32
+JPMorgan Chase & Co	Money transfers	Tue Jan 01 00:00:00 UTC 2013	4
+JPMorgan Chase & Co	Mortgage	Tue Jan 01 00:00:00 UTC 2013	348
+JPMorgan Chase & Co	Student loan	Tue Jan 01 00:00:00 UTC 2013	15
+James B Nutter & Company	Mortgage	Tue Jan 01 00:00:00 UTC 2013	1
+Javitch Block & Rathbone LLC	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Johnson Mark LLC	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Jon Barry and Associates Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	2
+Jonathan Neil & Associates Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Justice Finance Company	Consumer Loan	Tue Jan 01 00:00:00 UTC 2013	1
+Justice Finance Company	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+K Hovnanian American Mortgage LLC	Mortgage	Tue Jan 01 00:00:00 UTC 2013	1
+Kansas Counselors of Kansas City Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	2
+KelKris Associates Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	2
+Kimball Tirey & St John LLP	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Kings Credit Services	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Knight Adjustment Bureau	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Kondaur Capital Corporation	Mortgage	Tue Jan 01 00:00:00 UTC 2013	1
+Kramer & Frank PC	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+LCS Financial Corporation	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+LCS Financial Corporation	Mortgage	Tue Jan 01 00:00:00 UTC 2013	3
+LHR Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+LTD Financial Services LP	Debt collection	Tue Jan 01 00:00:00 UTC 2013	3
+Land/Home Financial Services	Mortgage	Tue Jan 01 00:00:00 UTC 2013	2
+Law Office of Joe Pezzuto LLC	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Law Office of Regent and Associates	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Law Office of Regent and Associates	Student loan	Tue Jan 01 00:00:00 UTC 2013	1
+Law Offices of Ed Overcash LLC	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Leading Edge Recovery Solutions LLC	Debt collection	Tue Jan 01 00:00:00 UTC 2013	2
+Legal Recovery Law Offices Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	3
+Lending Solutions Mortgage/ LSI Mortgage	Mortgage	Tue Jan 01 00:00:00 UTC 2013	1
+LexisNexis	Credit reporting	Tue Jan 01 00:00:00 UTC 2013	4
+LexisNexis	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Liberty Holdings LLC	Credit card	Tue Jan 01 00:00:00 UTC 2013	1
+Liberty Holdings LLC	Debt collection	Tue Jan 01 00:00:00 UTC 2013	4
+Liberty Home Equity Solutions Inc	Mortgage	Tue Jan 01 00:00:00 UTC 2013	1
+Linebarger Goggan Blair & Sampson LLP	Debt collection	Tue Jan 01 00:00:00 UTC 2013	5
+Loan Care	Mortgage	Tue Jan 01 00:00:00 UTC 2013	6
+Loan To Learn	Student loan	Tue Jan 01 00:00:00 UTC 2013	1
+LoanDepot	Mortgage	Tue Jan 01 00:00:00 UTC 2013	6
+Lustig Glaser & Wilson PC	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Lynx Asset Services LLC	Mortgage	Tue Jan 01 00:00:00 UTC 2013	1
+M G Credit Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+M&T Bank Corporation	Bank account or service	Tue Jan 01 00:00:00 UTC 2013	12
+M&T Bank Corporation	Consumer Loan	Tue Jan 01 00:00:00 UTC 2013	2
+M&T Bank Corporation	Credit card	Tue Jan 01 00:00:00 UTC 2013	1
+M&T Bank Corporation	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+M&T Bank Corporation	Mortgage	Tue Jan 01 00:00:00 UTC 2013	37
+MEFA	Student loan	Tue Jan 01 00:00:00 UTC 2013	1
+MFP inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	2
+MNE Services Inc	Consumer Loan	Tue Jan 01 00:00:00 UTC 2013	1
+MNE Services Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	10
+MNE Services Inc	Payday loan	Tue Jan 01 00:00:00 UTC 2013	2
+MOHELA	Student loan	Tue Jan 01 00:00:00 UTC 2013	1
+MRS BPO LLC	Debt collection	Tue Jan 01 00:00:00 UTC 2013	9
+MRS BPO LLC	Student loan	Tue Jan 01 00:00:00 UTC 2013	1
+MacDowell & Associates Ltd	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Mandarich Law Group LLP	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Mann Mortgage LLC	Mortgage	Tue Jan 01 00:00:00 UTC 2013	1
+Marauder Corporation	Debt collection	Tue Jan 01 00:00:00 UTC 2013	2
+McCarthy Burgess & Wolff Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	3
+Meade & Associates Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	2
+MedShield Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Media Collections Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	5
+Medical Business Bureau	Debt collection	Tue Jan 01 00:00:00 UTC 2013	2
+Medical Data Systems Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	4
+Medical Society Business Services Inc	Bank account or service	Tue Jan 01 00:00:00 UTC 2013	1
+Mercantile Adjustment Bureau LLC	Debt collection	Tue Jan 01 00:00:00 UTC 2013	4
+Mercedes-Benz Financial Services	Consumer Loan	Tue Jan 01 00:00:00 UTC 2013	1
+Mercedes-Benz Financial Services	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Merchants Credit Bureau Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Merchants' Credit Guide Company	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Messerli & Kramer PA	Debt collection	Tue Jan 01 00:00:00 UTC 2013	2
+MicroBilt / PRBC (formerly CL Verify)	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Mid Continent Credit Services Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+MidAmerica Mortgage Inc	Mortgage	Tue Jan 01 00:00:00 UTC 2013	1
+Midwest Loan Services Inc	Mortgage	Tue Jan 01 00:00:00 UTC 2013	1
+Mnet Financial Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Mobiloans LLC	Payday loan	Tue Jan 01 00:00:00 UTC 2013	4
+Monarch Recovery Holdings Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	4
+MoneyGram	Money transfers	Tue Jan 01 00:00:00 UTC 2013	15
+Montgomery County Credit Bureau	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Morgan & Associates PC	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Morgan Stanley	Bank account or service	Tue Jan 01 00:00:00 UTC 2013	2
+Morgan Stanley	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Morgan Stanley	Mortgage	Tue Jan 01 00:00:00 UTC 2013	2
+Mortgage Investors Corporation	Mortgage	Tue Jan 01 00:00:00 UTC 2013	1
+Mountain Land Collections Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	2
+Mutual Financial Partners	Debt collection	Tue Jan 01 00:00:00 UTC 2013	3
+NCB Management Services Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	2
+NCC Business Services Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+NCSPLUS INCORPORATED	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+NELSON AND KENNARD	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+NRA Group LLC	Debt collection	Tue Jan 01 00:00:00 UTC 2013	7
+NVR Inc	Mortgage	Tue Jan 01 00:00:00 UTC 2013	4
+Nathan & Nathan PC	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+National Check Bureau Inc	Credit card	Tue Jan 01 00:00:00 UTC 2013	1
+National Credit Adjusters LLC	Debt collection	Tue Jan 01 00:00:00 UTC 2013	8
+National Credit SystemsInc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	8
+National Enterprise Systems Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	2
+National Enterprise Systems Inc	Student loan	Tue Jan 01 00:00:00 UTC 2013	1
+National Payment Solutions of New York LLC	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+National Recoveries Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	2
+Nations Recovery Center	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Nationstar Mortgage	Bank account or service	Tue Jan 01 00:00:00 UTC 2013	1
+Nationstar Mortgage	Debt collection	Tue Jan 01 00:00:00 UTC 2013	9
+Nationstar Mortgage	Mortgage	Tue Jan 01 00:00:00 UTC 2013	331
+Nationwide Advantage Mortgage Company	Mortgage	Tue Jan 01 00:00:00 UTC 2013	3
+Nationwide Biweekly Administration Inc	Mortgage	Tue Jan 01 00:00:00 UTC 2013	1
+Nationwide Financial Group	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Navient Solutions Inc	Credit reporting	Tue Jan 01 00:00:00 UTC 2013	1
+Navient Solutions Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	36
+Navient Solutions Inc	Student loan	Tue Jan 01 00:00:00 UTC 2013	144
+Navy FCU	Bank account or service	Tue Jan 01 00:00:00 UTC 2013	12
+Navy FCU	Consumer Loan	Tue Jan 01 00:00:00 UTC 2013	6
+Navy FCU	Credit card	Tue Jan 01 00:00:00 UTC 2013	7
+Navy FCU	Credit reporting	Tue Jan 01 00:00:00 UTC 2013	1
+Navy FCU	Debt collection	Tue Jan 01 00:00:00 UTC 2013	3
+Navy FCU	Mortgage	Tue Jan 01 00:00:00 UTC 2013	8
+Nelnet	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Nelnet	Student loan	Tue Jan 01 00:00:00 UTC 2013	1
+Nelson Watson & Associates LLC	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Network Funding LP	Mortgage	Tue Jan 01 00:00:00 UTC 2013	1
+Nevada Credico Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	2
+New Century Financial Services Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+New York Community Bank	Bank account or service	Tue Jan 01 00:00:00 UTC 2013	2
+New York Community Bank	Mortgage	Tue Jan 01 00:00:00 UTC 2013	8
+Niagara Credit Solutions Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Nissan Motor Acceptance Corporation	Consumer Loan	Tue Jan 01 00:00:00 UTC 2013	5
+Nissan Motor Acceptance Corporation	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+North American Asset Services LLC	Debt collection	Tue Jan 01 00:00:00 UTC 2013	2
+North Shore Agency LLC	Debt collection	Tue Jan 01 00:00:00 UTC 2013	5
+NorthStar Technologies	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Northland Group Inc	Credit card	Tue Jan 01 00:00:00 UTC 2013	1
+Northland Group Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	8
+Northland Group Inc	Mortgage	Tue Jan 01 00:00:00 UTC 2013	1
+Northstar Location Services LLC	Debt collection	Tue Jan 01 00:00:00 UTC 2013	4
+ONLINE Information Services Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	2
+Ocwen	Bank account or service	Tue Jan 01 00:00:00 UTC 2013	1
+Ocwen	Credit reporting	Tue Jan 01 00:00:00 UTC 2013	6
+Ocwen	Debt collection	Tue Jan 01 00:00:00 UTC 2013	11
+Ocwen	Mortgage	Tue Jan 01 00:00:00 UTC 2013	349
+Oliphant Financial Corporation	Credit card	Tue Jan 01 00:00:00 UTC 2013	1
+Omega RMS LLC	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+One Reverse Mortgage	Mortgage	Tue Jan 01 00:00:00 UTC 2013	1
+OneMain Financial Holdings LLC	Bank account or service	Tue Jan 01 00:00:00 UTC 2013	1
+OneMain Financial Holdings LLC	Consumer Loan	Tue Jan 01 00:00:00 UTC 2013	7
+OneMain Financial Holdings LLC	Debt collection	Tue Jan 01 00:00:00 UTC 2013	4
+OneMain Financial Holdings LLC	Mortgage	Tue Jan 01 00:00:00 UTC 2013	3
+Oxford Law LLC	Debt collection	Tue Jan 01 00:00:00 UTC 2013	4
+P&B Capital Group LLC	Debt collection	Tue Jan 01 00:00:00 UTC 2013	2
+PHH Mortgage	Mortgage	Tue Jan 01 00:00:00 UTC 2013	21
+PMAB LLC	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+PNC Bank NA	Bank account or service	Tue Jan 01 00:00:00 UTC 2013	53
+PNC Bank NA	Consumer Loan	Tue Jan 01 00:00:00 UTC 2013	6
+PNC Bank NA	Credit card	Tue Jan 01 00:00:00 UTC 2013	8
+PNC Bank NA	Debt collection	Tue Jan 01 00:00:00 UTC 2013	3
+PNC Bank NA	Money transfers	Tue Jan 01 00:00:00 UTC 2013	2
+PNC Bank NA	Mortgage	Tue Jan 01 00:00:00 UTC 2013	76
+PNC Bank NA	Student loan	Tue Jan 01 00:00:00 UTC 2013	2
+Paramount Residential Mortgage Group Inc	Mortgage	Tue Jan 01 00:00:00 UTC 2013	1
+Partners Financial Services Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Partners for Payment Relief	Mortgage	Tue Jan 01 00:00:00 UTC 2013	1
+Patenaude & Felix APC	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+PayPal Holdings Inc	Bank account or service	Tue Jan 01 00:00:00 UTC 2013	12
+PayPal Holdings Inc	Credit card	Tue Jan 01 00:00:00 UTC 2013	6
+PayPal Holdings Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	9
+PayPal Holdings Inc	Money transfers	Tue Jan 01 00:00:00 UTC 2013	4
+Penn Credit Corporation	Debt collection	Tue Jan 01 00:00:00 UTC 2013	2
+PennyMac Loan Services LLC	Bank account or service	Tue Jan 01 00:00:00 UTC 2013	1
+PennyMac Loan Services LLC	Mortgage	Tue Jan 01 00:00:00 UTC 2013	4
+Pentagon FCU	Bank account or service	Tue Jan 01 00:00:00 UTC 2013	3
+Pentagon FCU	Consumer Loan	Tue Jan 01 00:00:00 UTC 2013	2
+Pentagon FCU	Credit card	Tue Jan 01 00:00:00 UTC 2013	2
+Pentagon FCU	Mortgage	Tue Jan 01 00:00:00 UTC 2013	4
+People's United Bank	Bank account or service	Tue Jan 01 00:00:00 UTC 2013	4
+People's United Bank	Mortgage	Tue Jan 01 00:00:00 UTC 2013	1
+Peoples Home Equity Inc	Mortgage	Tue Jan 01 00:00:00 UTC 2013	1
+Performant Financial Corporation	Debt collection	Tue Jan 01 00:00:00 UTC 2013	9
+Peroutka Miller Klima & Peters PA	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Peter Roberts & Associates Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Phillips & Cohen Associates Ltd	Debt collection	Tue Jan 01 00:00:00 UTC 2013	4
+Pinnacle Credit Services LLC	Debt collection	Tue Jan 01 00:00:00 UTC 2013	7
+Pinnacle Recovery Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Pioneer Credit Company	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Planet Home Lending LLC	Mortgage	Tue Jan 01 00:00:00 UTC 2013	3
+Platinum Holdings Group LLC	Debt collection	Tue Jan 01 00:00:00 UTC 2013	8
+Plaza Home Mortgage	Mortgage	Tue Jan 01 00:00:00 UTC 2013	2
+Pleasant Valley Home Mortgage Corporation	Mortgage	Tue Jan 01 00:00:00 UTC 2013	2
+Portfolio Recovery Associates Inc	Credit card	Tue Jan 01 00:00:00 UTC 2013	3
+Portfolio Recovery Associates Inc	Credit reporting	Tue Jan 01 00:00:00 UTC 2013	1
+Portfolio Recovery Associates Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	54
+Portfolio Recovery Associates Inc	Mortgage	Tue Jan 01 00:00:00 UTC 2013	1
+Pressler & Pressler LLP	Debt collection	Tue Jan 01 00:00:00 UTC 2013	6
+Prestige Financial Services Inc	Consumer Loan	Tue Jan 01 00:00:00 UTC 2013	3
+Prestige Financial Services Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Primary Financial Services LLC	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Primary Financial Services LLC	Student loan	Tue Jan 01 00:00:00 UTC 2013	1
+Primary Residential Mortgage	Mortgage	Tue Jan 01 00:00:00 UTC 2013	2
+ProCollect Inc	Credit reporting	Tue Jan 01 00:00:00 UTC 2013	1
+ProCollect Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	2
+Professional Debt Mediation Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	2
+Professional Finance Company Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Professional Medical Management Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Proficio Mortgage Ventures LLC	Mortgage	Tue Jan 01 00:00:00 UTC 2013	1
+Progressive Financial Services Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Progressive Financial Services Inc	Student loan	Tue Jan 01 00:00:00 UTC 2013	1
+Prospect Mortgage	Mortgage	Tue Jan 01 00:00:00 UTC 2013	4
+Protocol Recovery Service Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	2
+Provident Funding	Consumer Loan	Tue Jan 01 00:00:00 UTC 2013	1
+Provident Funding	Mortgage	Tue Jan 01 00:00:00 UTC 2013	3
+Prudent Law Group	Mortgage	Tue Jan 01 00:00:00 UTC 2013	3
+Pulte Mortgage	Mortgage	Tue Jan 01 00:00:00 UTC 2013	4
+QC Holdings Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Quality Asset Recovery LLC	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Quicken Loans	Bank account or service	Tue Jan 01 00:00:00 UTC 2013	1
+Quicken Loans	Consumer Loan	Tue Jan 01 00:00:00 UTC 2013	1
+Quicken Loans	Credit card	Tue Jan 01 00:00:00 UTC 2013	1
+Quicken Loans	Credit reporting	Tue Jan 01 00:00:00 UTC 2013	1
+Quicken Loans	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Quicken Loans	Mortgage	Tue Jan 01 00:00:00 UTC 2013	18
+R&R Professional Recovery Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	2
+RGL Associates Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+RGS Financial Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+RM Galicia Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	2
+RS Clark and Associates Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	2
+Rabobank	Credit card	Tue Jan 01 00:00:00 UTC 2013	1
+Radius Global Solutions LLC	Debt collection	Tue Jan 01 00:00:00 UTC 2013	4
+Rash Curtis and Associates	Debt collection	Tue Jan 01 00:00:00 UTC 2013	4
+Rausch Sturm Israel Enerson & Hornik LLC	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Ray Klein Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Razor Capital LLC	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Real Time Resolutions	Debt collection	Tue Jan 01 00:00:00 UTC 2013	5
+Real Time Resolutions	Mortgage	Tue Jan 01 00:00:00 UTC 2013	4
+Receivables Management Partners LLC	Debt collection	Tue Jan 01 00:00:00 UTC 2013	5
+Receivables Performance Management LLC	Bank account or service	Tue Jan 01 00:00:00 UTC 2013	2
+Receivables Performance Management LLC	Debt collection	Tue Jan 01 00:00:00 UTC 2013	7
+Recovery One LLC	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Regional Management Corp	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Regional Trustee Services Corporation	Mortgage	Tue Jan 01 00:00:00 UTC 2013	1
+Regions Financial Corporation	Bank account or service	Tue Jan 01 00:00:00 UTC 2013	32
+Regions Financial Corporation	Consumer Loan	Tue Jan 01 00:00:00 UTC 2013	2
+Regions Financial Corporation	Credit card	Tue Jan 01 00:00:00 UTC 2013	5
+Regions Financial Corporation	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Regions Financial Corporation	Money transfers	Tue Jan 01 00:00:00 UTC 2013	1
+Regions Financial Corporation	Mortgage	Tue Jan 01 00:00:00 UTC 2013	9
+Reliant Capital Solutions LLC	Debt collection	Tue Jan 01 00:00:00 UTC 2013	3
+Remex Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Rent Recovery Solutions	Debt collection	Tue Jan 01 00:00:00 UTC 2013	2
+ResidentCollect Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Residential Credit Solutions	Debt collection	Tue Jan 01 00:00:00 UTC 2013	2
+Residential Credit Solutions	Mortgage	Tue Jan 01 00:00:00 UTC 2013	14
+Resurgent Capital Services LP	Bank account or service	Tue Jan 01 00:00:00 UTC 2013	1
+Resurgent Capital Services LP	Credit reporting	Tue Jan 01 00:00:00 UTC 2013	9
+Resurgent Capital Services LP	Debt collection	Tue Jan 01 00:00:00 UTC 2013	33
+Resurgent Capital Services LP	Mortgage	Tue Jan 01 00:00:00 UTC 2013	8
+Retrieval-Masters Creditors Bureau Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	10
+RevSolve Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Revenue Assistance Corporation dba Revenue Group	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Revenue Recovery Corporation	Bank account or service	Tue Jan 01 00:00:00 UTC 2013	1
+Revenue Recovery Corporation	Credit reporting	Tue Jan 01 00:00:00 UTC 2013	1
+Reverse Mortgage Solutions	Mortgage	Tue Jan 01 00:00:00 UTC 2013	2
+Ria Financial	Money transfers	Tue Jan 01 00:00:00 UTC 2013	1
+Ridge & Valley Realty Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Robinson Reagan and Young PLLC	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Round Point Mortgage	Mortgage	Tue Jan 01 00:00:00 UTC 2013	8
+Royal United Mortgage LLC	Mortgage	Tue Jan 01 00:00:00 UTC 2013	1
+Rubin & Rothman LLC	Debt collection	Tue Jan 01 00:00:00 UTC 2013	3
+Rubin & Yates LLC	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Rushmore Loan Management Services LLC	Mortgage	Tue Jan 01 00:00:00 UTC 2013	3
+SIMM Associates Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	2
+SIMM Associates Inc	Student loan	Tue Jan 01 00:00:00 UTC 2013	2
+SKO Brenner American Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+SRA Associates Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	2
+Sallie Mae	Consumer Loan	Tue Jan 01 00:00:00 UTC 2013	1
+Sallie Mae	Credit reporting	Tue Jan 01 00:00:00 UTC 2013	1
+Sallie Mae	Student loan	Tue Jan 01 00:00:00 UTC 2013	12
+Santander Bank US	Bank account or service	Tue Jan 01 00:00:00 UTC 2013	38
+Santander Bank US	Consumer Loan	Tue Jan 01 00:00:00 UTC 2013	1
+Santander Bank US	Credit card	Tue Jan 01 00:00:00 UTC 2013	4
+Santander Bank US	Money transfers	Tue Jan 01 00:00:00 UTC 2013	1
+Santander Bank US	Mortgage	Tue Jan 01 00:00:00 UTC 2013	12
+Santander Consumer USA Holdings Inc	Consumer Loan	Tue Jan 01 00:00:00 UTC 2013	28
+Santander Consumer USA Holdings Inc	Credit reporting	Tue Jan 01 00:00:00 UTC 2013	1
+Santander Consumer USA Holdings Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	5
+Scherr & McClure	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Scott Lowery Law Office PC	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Security Credit Services LLC	Debt collection	Tue Jan 01 00:00:00 UTC 2013	2
+Security Finance	Credit reporting	Tue Jan 01 00:00:00 UTC 2013	1
+Security Finance	Debt collection	Tue Jan 01 00:00:00 UTC 2013	7
+Select Portfolio Servicing Inc	Bank account or service	Tue Jan 01 00:00:00 UTC 2013	1
+Select Portfolio Servicing Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	5
+Select Portfolio Servicing Inc	Mortgage	Tue Jan 01 00:00:00 UTC 2013	86
+Selene Finance	Mortgage	Tue Jan 01 00:00:00 UTC 2013	12
+Selip & Stylianou LLP	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Senex Services Corp	Debt collection	Tue Jan 01 00:00:00 UTC 2013	2
+Sentry Credit Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Sentry Recovery and Collections Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	2
+Servis One Inc	Mortgage	Tue Jan 01 00:00:00 UTC 2013	3
+Seterus Inc	Credit reporting	Tue Jan 01 00:00:00 UTC 2013	1
+Seterus Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Seterus Inc	Money transfers	Tue Jan 01 00:00:00 UTC 2013	1
+Seterus Inc	Mortgage	Tue Jan 01 00:00:00 UTC 2013	25
+Sharinn & Lipshie PC	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Sherloq Group Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Smith Law Firm PC	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Source Receivables Management LLC	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Southern Management Corp	Consumer Loan	Tue Jan 01 00:00:00 UTC 2013	1
+Southern Management Corp	Debt collection	Tue Jan 01 00:00:00 UTC 2013	2
+Southern Management Systems Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Southwest Credit Systems LP	Debt collection	Tue Jan 01 00:00:00 UTC 2013	8
+Southwest Recovery Services Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	3
+Southwest Stage Funding LLC	Credit reporting	Tue Jan 01 00:00:00 UTC 2013	1
+Specialized Loan Servicing LLC	Mortgage	Tue Jan 01 00:00:00 UTC 2013	37
+Speedy Cash Holdings	Payday loan	Tue Jan 01 00:00:00 UTC 2013	2
+SquareTwo Financial Corporation	Debt collection	Tue Jan 01 00:00:00 UTC 2013	6
+Standard Mortgage Corporation	Mortgage	Tue Jan 01 00:00:00 UTC 2013	1
+State Collection Service Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	2
+State Farm Bank	Bank account or service	Tue Jan 01 00:00:00 UTC 2013	1
+State Farm Bank	Consumer Loan	Tue Jan 01 00:00:00 UTC 2013	1
+State Farm Bank	Credit card	Tue Jan 01 00:00:00 UTC 2013	2
+Statebridge Company	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Statebridge Company	Mortgage	Tue Jan 01 00:00:00 UTC 2013	1
+Stearns Ventures LLC	Mortgage	Tue Jan 01 00:00:00 UTC 2013	2
+Stellar Recovery Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	19
+Stephens and Michaels Associates Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	2
+Sterling Infosystems Inc	Credit reporting	Tue Jan 01 00:00:00 UTC 2013	2
+Sterling Jewelers Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	4
+Stevens Business Service Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Stillman Law Office	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Stonegate Mortgage Corporation	Mortgage	Tue Jan 01 00:00:00 UTC 2013	1
+Stoneleigh Recovery Associates LLC	Debt collection	Tue Jan 01 00:00:00 UTC 2013	2
+Student Loan Finance Corporation	Student loan	Tue Jan 01 00:00:00 UTC 2013	1
+Suburban Credit Corporation	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Summit Mortgage Corporation (Minnesota)	Mortgage	Tue Jan 01 00:00:00 UTC 2013	1
+Sun West Mortgage Company Inc	Mortgage	Tue Jan 01 00:00:00 UTC 2013	1
+SunTrust Banks Inc	Bank account or service	Tue Jan 01 00:00:00 UTC 2013	33
+SunTrust Banks Inc	Consumer Loan	Tue Jan 01 00:00:00 UTC 2013	5
+SunTrust Banks Inc	Credit card	Tue Jan 01 00:00:00 UTC 2013	1
+SunTrust Banks Inc	Mortgage	Tue Jan 01 00:00:00 UTC 2013	57
+SunTrust Banks Inc.	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Sunrise Credit Services Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	4
+Supreme Lending	Mortgage	Tue Jan 01 00:00:00 UTC 2013	1
+Suttell Hammer & White PS	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Synchrony Financial	Bank account or service	Tue Jan 01 00:00:00 UTC 2013	12
+Synchrony Financial	Consumer Loan	Tue Jan 01 00:00:00 UTC 2013	2
+Synchrony Financial	Credit card	Tue Jan 01 00:00:00 UTC 2013	104
+Synchrony Financial	Credit reporting	Tue Jan 01 00:00:00 UTC 2013	5
+Synchrony Financial	Debt collection	Tue Jan 01 00:00:00 UTC 2013	40
+Synchrony Financial	Payday loan	Tue Jan 01 00:00:00 UTC 2013	1
+Synovus Bank	Credit card	Tue Jan 01 00:00:00 UTC 2013	4
+Synovus Bank	Mortgage	Tue Jan 01 00:00:00 UTC 2013	3
+TCF National Bank	Bank account or service	Tue Jan 01 00:00:00 UTC 2013	12
+TCF National Bank	Consumer Loan	Tue Jan 01 00:00:00 UTC 2013	2
+TCF National Bank	Credit card	Tue Jan 01 00:00:00 UTC 2013	1
+TCF National Bank	Mortgage	Tue Jan 01 00:00:00 UTC 2013	3
+TCF National Bank	Student loan	Tue Jan 01 00:00:00 UTC 2013	1
+TD Bank US Holding Company	Bank account or service	Tue Jan 01 00:00:00 UTC 2013	44
+TD Bank US Holding Company	Consumer Loan	Tue Jan 01 00:00:00 UTC 2013	4
+TD Bank US Holding Company	Credit card	Tue Jan 01 00:00:00 UTC 2013	9
+TD Bank US Holding Company	Credit reporting	Tue Jan 01 00:00:00 UTC 2013	1
+TD Bank US Holding Company	Debt collection	Tue Jan 01 00:00:00 UTC 2013	8
+TD Bank US Holding Company	Money transfers	Tue Jan 01 00:00:00 UTC 2013	2
+TD Bank US Holding Company	Mortgage	Tue Jan 01 00:00:00 UTC 2013	11
+TMX Finance LLC	Consumer Loan	Tue Jan 01 00:00:00 UTC 2013	1
+TSC Accounts Receivable Solutions	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+TaxServ LLC	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+TekCollect Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Tenet HealthCare Corporation	Debt collection	Tue Jan 01 00:00:00 UTC 2013	2
+The Affiliated Group Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	2
+The Bureaus Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	2
+The CBE Group Inc	Credit reporting	Tue Jan 01 00:00:00 UTC 2013	1
+The CBE Group Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	16
+The CMI Group Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	5
+The Huntington National Bank	Bank account or service	Tue Jan 01 00:00:00 UTC 2013	12
+The Huntington National Bank	Consumer Loan	Tue Jan 01 00:00:00 UTC 2013	3
+The Huntington National Bank	Credit card	Tue Jan 01 00:00:00 UTC 2013	1
+The Huntington National Bank	Mortgage	Tue Jan 01 00:00:00 UTC 2013	5
+The Law Firm of Allan C Smith	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+The Law Office of Daniel Slane	Debt collection	Tue Jan 01 00:00:00 UTC 2013	2
+The Law Offices of Mitchell D Bluhm & Associates	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+The Minacs Group (USA) Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+The Moore Law Group	Debt collection	Tue Jan 01 00:00:00 UTC 2013	3
+The Mortgage Specialists Inc	Mortgage	Tue Jan 01 00:00:00 UTC 2013	1
+The Phoenix Recovery Group	Debt collection	Tue Jan 01 00:00:00 UTC 2013	2
+The Receivable Management Services Corporation	Debt collection	Tue Jan 01 00:00:00 UTC 2013	3
+The Regional Adjustment Bureau Incorporated	Debt collection	Tue Jan 01 00:00:00 UTC 2013	4
+The Stark Collection Agency Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	2
+The Thomas Agency Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+The Western Union Company	Bank account or service	Tue Jan 01 00:00:00 UTC 2013	2
+The Western Union Company	Credit card	Tue Jan 01 00:00:00 UTC 2013	1
+The Western Union Company	Money transfers	Tue Jan 01 00:00:00 UTC 2013	26
+Third Federal Savings & Loan	Bank account or service	Tue Jan 01 00:00:00 UTC 2013	1
+Third Federal Savings & Loan	Mortgage	Tue Jan 01 00:00:00 UTC 2013	4
+Thomas & Williams LLC	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Tiburon Financial LLC	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Total Card Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Total Mortgage Services LLC	Mortgage	Tue Jan 01 00:00:00 UTC 2013	1
+Total Recovery Solutions	Debt collection	Tue Jan 01 00:00:00 UTC 2013	3
+Tower Loan	Debt collection	Tue Jan 01 00:00:00 UTC 2013	5
+Toyota Motor Credit Corporation	Consumer Loan	Tue Jan 01 00:00:00 UTC 2013	13
+Toyota Motor Credit Corporation	Credit reporting	Tue Jan 01 00:00:00 UTC 2013	1
+Toyota Motor Credit Corporation	Debt collection	Tue Jan 01 00:00:00 UTC 2013	2
+TransUnion Intermediate Holdings Inc	Credit reporting	Tue Jan 01 00:00:00 UTC 2013	341
+Trident Asset Management LLC	Credit reporting	Tue Jan 01 00:00:00 UTC 2013	2
+Trident Asset Management LLC	Debt collection	Tue Jan 01 00:00:00 UTC 2013	6
+Turning Point Solutions LLC	Debt collection	Tue Jan 01 00:00:00 UTC 2013	3
+UBS Bank	Bank account or service	Tue Jan 01 00:00:00 UTC 2013	1
+UBS Bank	Money transfers	Tue Jan 01 00:00:00 UTC 2013	1
+UMB Bank	Bank account or service	Tue Jan 01 00:00:00 UTC 2013	2
+UMB Bank	Mortgage	Tue Jan 01 00:00:00 UTC 2013	1
+URS Holding LLC	Debt collection	Tue Jan 01 00:00:00 UTC 2013	3
+US Bancorp	Bank account or service	Tue Jan 01 00:00:00 UTC 2013	42
+US Bancorp	Consumer Loan	Tue Jan 01 00:00:00 UTC 2013	10
+US Bancorp	Credit card	Tue Jan 01 00:00:00 UTC 2013	23
+US Bancorp	Debt collection	Tue Jan 01 00:00:00 UTC 2013	13
+US Bancorp	Money transfers	Tue Jan 01 00:00:00 UTC 2013	1
+US Bancorp	Mortgage	Tue Jan 01 00:00:00 UTC 2013	64
+US Collections West Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+USAA Savings	Bank account or service	Tue Jan 01 00:00:00 UTC 2013	13
+USAA Savings	Consumer Loan	Tue Jan 01 00:00:00 UTC 2013	1
+USAA Savings	Credit card	Tue Jan 01 00:00:00 UTC 2013	9
+USAA Savings	Debt collection	Tue Jan 01 00:00:00 UTC 2013	2
+USAA Savings	Mortgage	Tue Jan 01 00:00:00 UTC 2013	7
+USCB INC	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Union Bank	Bank account or service	Tue Jan 01 00:00:00 UTC 2013	7
+Union Bank	Credit card	Tue Jan 01 00:00:00 UTC 2013	1
+Union Bank	Mortgage	Tue Jan 01 00:00:00 UTC 2013	3
+Unique Management Services Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	2
+United Check Recovery LLC	Debt collection	Tue Jan 01 00:00:00 UTC 2013	2
+United Collection Bureau Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	6
+United Guaranty	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+United PanAm Financial Corp	Consumer Loan	Tue Jan 01 00:00:00 UTC 2013	1
+United Portfolio Corp	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+United Shore Financial Services LLC	Mortgage	Tue Jan 01 00:00:00 UTC 2013	2
+United Student Aid (USA) Funds	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Universal Fidelity LP	Debt collection	Tue Jan 01 00:00:00 UTC 2013	2
+VHDA	Mortgage	Tue Jan 01 00:00:00 UTC 2013	1
+VW Credit Inc	Consumer Loan	Tue Jan 01 00:00:00 UTC 2013	2
+Valarity LLC	Debt collection	Tue Jan 01 00:00:00 UTC 2013	4
+Valley National Bank	Bank account or service	Tue Jan 01 00:00:00 UTC 2013	4
+Valley National Bank	Mortgage	Tue Jan 01 00:00:00 UTC 2013	1
+Van Dyk Mortgage Corporation	Mortgage	Tue Jan 01 00:00:00 UTC 2013	1
+Van Ru Credit Corporation	Debt collection	Tue Jan 01 00:00:00 UTC 2013	7
+Velocity Portfolio Group	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Vengroff Williams Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Viking Client Services Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Virtuoso Sourcing Group LLC	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Vision Financial Corp	Debt collection	Tue Jan 01 00:00:00 UTC 2013	3
+Vital Solutions Inc	Bank account or service	Tue Jan 01 00:00:00 UTC 2013	1
+Vital Solutions Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	2
+WAKEFIELD & ASSOCIATES INC	Debt collection	Tue Jan 01 00:00:00 UTC 2013	2
+WCS LENDING LLC	Mortgage	Tue Jan 01 00:00:00 UTC 2013	1
+WJ Bradley Mortgage	Mortgage	Tue Jan 01 00:00:00 UTC 2013	2
+Washington Federal	Bank account or service	Tue Jan 01 00:00:00 UTC 2013	1
+Washington Federal	Mortgage	Tue Jan 01 00:00:00 UTC 2013	1
+We Collect Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Webcollex LLC	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Webster Bank	Bank account or service	Tue Jan 01 00:00:00 UTC 2013	1
+Webster Bank	Mortgage	Tue Jan 01 00:00:00 UTC 2013	2
+Wells Fargo & Company	Bank account or service	Tue Jan 01 00:00:00 UTC 2013	221
+Wells Fargo & Company	Consumer Loan	Tue Jan 01 00:00:00 UTC 2013	32
+Wells Fargo & Company	Credit card	Tue Jan 01 00:00:00 UTC 2013	49
+Wells Fargo & Company	Credit reporting	Tue Jan 01 00:00:00 UTC 2013	8
+Wells Fargo & Company	Debt collection	Tue Jan 01 00:00:00 UTC 2013	16
+Wells Fargo & Company	Money transfers	Tue Jan 01 00:00:00 UTC 2013	3
+Wells Fargo & Company	Mortgage	Tue Jan 01 00:00:00 UTC 2013	502
+Wells Fargo & Company	Payday loan	Tue Jan 01 00:00:00 UTC 2013	1
+Wells Fargo & Company	Student loan	Tue Jan 01 00:00:00 UTC 2013	11
+Weltman Weinberg & Reis	Debt collection	Tue Jan 01 00:00:00 UTC 2013	3
+Weltman Weinberg & Reis	Student loan	Tue Jan 01 00:00:00 UTC 2013	2
+West Bay Acquisitions LLC	Credit reporting	Tue Jan 01 00:00:00 UTC 2013	1
+West Bay Acquisitions LLC	Debt collection	Tue Jan 01 00:00:00 UTC 2013	2
+Western Control Services Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Western Portfolio Assets	Bank account or service	Tue Jan 01 00:00:00 UTC 2013	1
+Westlake Services LLC	Consumer Loan	Tue Jan 01 00:00:00 UTC 2013	5
+Westlake Services LLC	Debt collection	Tue Jan 01 00:00:00 UTC 2013	3
+Whitney Bank	Bank account or service	Tue Jan 01 00:00:00 UTC 2013	1
+Williams & Fudge Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	8
+Williams Rush & Associates LLC	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Windham Professionals	Debt collection	Tue Jan 01 00:00:00 UTC 2013	2
+Works & Lentz of Tulsa Inc	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+World Acceptance Corporation	Debt collection	Tue Jan 01 00:00:00 UTC 2013	1
+Worldwide Processing Group LLC	Debt collection	Tue Jan 01 00:00:00 UTC 2013	3
+Worldwide Processing Group LLC	Payday loan	Tue Jan 01 00:00:00 UTC 2013	1
+Xoom	Money transfers	Tue Jan 01 00:00:00 UTC 2013	1
+Yale Mortgage Corporation	Mortgage	Tue Jan 01 00:00:00 UTC 2013	1
+Zions Bancorporation	Mortgage	Tue Jan 01 00:00:00 UTC 2013	2
+Zwicker & Associates	Debt collection	Tue Jan 01 00:00:00 UTC 2013	2

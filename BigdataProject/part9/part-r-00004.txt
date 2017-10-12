@@ -1,0 +1,397 @@
+2013-08-23,Bank of America,GA,Mortgage,Conventional adjustable mortgage (ARM),Loan servicing payments escrow account,,Yes,Web,,,30248,,N/A,2013-08-23,Closed with explanation,Yes,501368
+2013-10-18,Bank of America,GA,Mortgage,Other mortgage,Loan modificationcollectionforeclosure,,Yes,Referral,,,30114,,N/A,2013-10-18,Closed with explanation,No,562837
+2013-11-14,Wells Fargo & Company,GA,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Referral,,,31904,,N/A,2013-11-18,Closed with monetary relief,No,598345
+2013-09-13,Wells Fargo & Company,GA,Bank account or service,Checking account,Account opening closing or management,,Yes,Web,,,30309,,N/A,2013-09-17,Closed with explanation,Yes,526602
+2013-10-18,BB&T Financial,GA,Mortgage,Other mortgage,Loan servicing payments escrow account,,Yes,Referral,,,31221,,N/A,2013-10-18,Closed with explanation,No,562809
+2013-09-20,Platinum Holdings Group LLC,GA,Debt collection,I do not know,Cont'd attempts collect debt not owed,Debt is not mine,No,Web,,,30180,,N/A,2013-10-10,Closed,,536824
+2013-08-15,Bank of America,GA,Bank account or service,Checking account,Problems caused by my funds being low,,Yes,Fax,,,30038,,N/A,2013-08-19,Closed with explanation,Yes,490204
+2013-08-01,Wells Fargo & Company,GA,Mortgage,Other mortgage,Loan modificationcollectionforeclosure,,Yes,Referral,,,30341,,N/A,2013-08-05,Closed with explanation,No,471884
+2013-10-26,Experian,GA,Credit reporting,,Incorrect information on credit report,Information is not mine,Yes,Web,,,30312,,N/A,2013-10-26,Closed with non-monetary relief,No,572500
+2013-10-26,Bank of America,GA,Mortgage,Conventional fixed mortgage,Loan modificationcollectionforeclosure,,Yes,Web,,,30621,,N/A,2013-10-26,Closed with explanation,Yes,571143
+2013-07-26,Concord Servicing Corporation,GA,Debt collection,I do not know,Cont'd attempts collect debt not owed,Debt is not mine,Yes,Web,,,30075,,N/A,2013-08-22,Closed with explanation,No,467589
+2013-09-20,Bank of America,GA,Mortgage,Other mortgage,Loan modificationcollectionforeclosure,,Yes,Fax,,,30238,,N/A,2013-09-23,Closed with explanation,No,536763
+2013-08-22,American Advisors Group,GA,Mortgage,Reverse mortgage,Loan servicing payments escrow account,,No,Referral,,,30315,,N/A,2013-08-22,Closed with explanation,No,500001
+2013-09-16,PayPal Holdings Inc,GA,Bank account or service,Other bank product/service,Deposits and withdrawals,,Yes,Web,,,30102,Older American,N/A,2013-09-17,Closed with monetary relief,No,528295
+2013-08-22,Capital Management Services LP,GA,Debt collection,Credit card,Cont'd attempts collect debt not owed,Debt was discharged in bankruptcy,Yes,Web,,,30294,,N/A,2013-08-22,Closed,No,500227
+2013-08-05,Navient Solutions Inc,GA,Student loan,Non-federal student loan,Repaying your loan,Repaying your loan,Yes,Web,,,30022,,N/A,2013-08-07,Closed with monetary relief,No,473925
+2013-08-21,US Bancorp,GA,Consumer Loan,Vehicle loan,Managing the loan or lease,,Yes,Web,,,30549,Older American,N/A,2013-08-22,Closed with explanation,No,499419
+2013-10-22,Encore Capital Group,GA,Debt collection,Credit card,Disclosure verification of debt,Not given enough info to verify debt,Yes,Web,,,30040,,N/A,2013-10-22,Closed with explanation,Yes,566552
+2013-10-09,Bank of America,GA,Bank account or service,Checking account,Account opening closing or management,,Yes,Referral,,,31525,,N/A,2013-10-10,Closed with explanation,No,555815
+2013-11-14,Five Lakes Agency,GA,Mortgage,Other mortgage,Loan modificationcollectionforeclosure,,Yes,Referral,,,30039,,N/A,2013-11-18,Closed with explanation,No,598522
+2013-08-02,Bank of America,GA,Mortgage,Other mortgage,Loan modificationcollectionforeclosure,,Yes,Referral,,,30025,,N/A,2013-08-08,Closed with non-monetary relief,No,465435
+2013-11-03,Nationstar Mortgage,GA,Mortgage,Other mortgage,Credit decision / Underwriting,,Yes,Web,,,31503,,N/A,2013-11-03,Closed with explanation,No,582699
+2013-08-15,USAA Savings,GA,Debt collection,Credit card,Communication tactics,Frequent or repeated calls,Yes,Web,,,30087,Servicemember,N/A,2013-08-15,Closed with explanation,Yes,489949
+2013-09-27,SunTrust Banks Inc,GA,Mortgage,Conventional adjustable mortgage (ARM),Loan servicing payments escrow account,,Yes,Web,,,30328,,N/A,2013-09-30,Closed with explanation,Yes,546228
+2013-08-28,Experian,GA,Credit reporting,,Incorrect information on credit report,Account status,Yes,Referral,,,30327,,N/A,2013-09-16,Closed with explanation,No,506403
+2013-08-04,American Equity Mortgage Inc,GA,Mortgage,Home equity loan or line of credit,Application originator mortgage broker,,Yes,Web,,,30141,,N/A,2013-08-07,Closed with explanation,No,473682
+2013-09-27,Portfolio Recovery Associates Inc,GA,Debt collection,Auto,Cont'd attempts collect debt not owed,Debt was paid,Yes,Referral,,,30052,,N/A,2013-10-01,Closed with non-monetary relief,No,545255
+2013-09-04,Nationstar Mortgage,GA,Mortgage,FHA mortgage,Loan servicing payments escrow account,,Yes,Web,,,30044,,N/A,2013-09-05,Closed with explanation,No,514345
+2013-09-27,Wells Fargo & Company,GA,Mortgage,Other mortgage,Loan modificationcollectionforeclosure,,Yes,Referral,,,30180,,N/A,2013-09-30,Closed with explanation,No,545707
+2013-10-28,Experian,GA,Credit reporting,,Incorrect information on credit report,Public record,Yes,Web,,,30350,,N/A,2013-10-28,Closed with explanation,No,573030
+2013-08-08,Specialized Loan Servicing LLC,GA,Mortgage,Other mortgage,Loan servicing payments escrow account,,Yes,Web,,,30052,Servicemember,N/A,2013-08-09,Closed,Yes,484469
+2013-07-30,Ditech Financial LLC,GA,Consumer Loan,Installment loan,Problems when you are unable to pay,,Yes,Phone,,,31805,,N/A,2013-07-31,Closed with explanation,No,470471
+2013-08-06,The Western Union Company,GA,Money transfers,Domestic (US) money transfer,Other service issues,,Yes,Phone,,,30310,,N/A,2013-08-09,Closed with monetary relief,No,481314
+2013-11-11,Regions Financial Corporation,GA,Bank account or service,Checking account,Problems caused by my funds being low,,Yes,Web,,,30087,,N/A,2013-11-11,Closed with explanation,No,592909
+2013-08-22,JPMorgan Chase & Co,GA,Mortgage,VA mortgage,Loan modificationcollectionforeclosure,,Yes,Phone,,,30066,Older American Servicemember,N/A,2013-08-22,Closed with explanation,No,499973
+2013-10-29,TransUnion Intermediate Holdings Inc,GA,Credit reporting,,Incorrect information on credit report,Account status,Yes,Web,,,30043,,N/A,2013-10-29,Closed with non-monetary relief,No,575103
+2013-10-18,SunTrust Banks Inc,GA,Bank account or service,Checking account,Problems caused by my funds being low,,Yes,Phone,,,31404,,N/A,2013-10-21,Closed with monetary relief,Yes,563456
+2013-10-17,Williams & Fudge Inc,GA,Debt collection,Non-federal student loan,Disclosure verification of debt,Not given enough info to verify debt,Yes,Web,,,30223,,N/A,2013-11-08,Closed with explanation,Yes,561118
+2013-11-03,Credit Card Receivables Fund Incorporated,GA,Debt collection,Credit card,False statements or representation,Indicated shouldn't respond to lawsuit,No,Web,,,30238,,N/A,2013-11-02,Closed with explanation,,581171
+2013-12-03,Citibank,GA,Credit card,,Credit determination,,Yes,Postal mail,,,30157,,N/A,2013-12-04,Closed with explanation,No,619663
+2013-11-04,Encore Capital Group,GA,Debt collection,Credit card,Taking/threatening an illegal action,Seized/Attempted to seize property,Yes,Web,,,30549,,N/A,2013-11-06,Closed with explanation,Yes,584816
+2013-08-22,Expert Global Solutions Inc,GA,Debt collection,I do not know,Cont'd attempts collect debt not owed,Debt is not mine,Yes,Phone,,,30311,,N/A,2013-10-01,Closed with explanation,No,500287
+2013-07-26,Bank of America,GA,Mortgage,FHA mortgage,Application originator mortgage broker,,Yes,Web,,,30248,Older American,N/A,2013-07-29,Closed with explanation,No,467211
+2013-08-09,Experian,GA,Credit reporting,,Credit reporting company's investigation,Investigation took too long,Yes,Web,,,30043,,N/A,2013-08-13,Closed with non-monetary relief,No,484642
+2013-09-18,SunTrust Banks Inc,GA,Mortgage,Conventional fixed mortgage,Credit decision / Underwriting,,Yes,Web,,,30342,,N/A,2013-09-19,Closed with explanation,No,532600
+2013-07-31,Nationstar Mortgage,GA,Mortgage,Other mortgage,Loan modificationcollectionforeclosure,,Yes,Referral,,,30121,,N/A,2013-09-19,Closed with explanation,No,535169
+2013-10-09,Ditech Financial LLC,GA,Mortgage,Conventional fixed mortgage,Loan servicing payments escrow account,,Yes,Web,,,30019,,N/A,2013-10-10,Closed with explanation,No,556247
+2013-09-25,Expert Global Solutions Inc,GA,Debt collection,Credit card,Communication tactics,Frequent or repeated calls,Yes,Web,,,30144,Servicemember,N/A,2013-09-25,Closed with explanation,No,541755
+2013-10-07,Select Portfolio Servicing Inc,GA,Mortgage,Other mortgage,Loan modificationcollectionforeclosure,,Yes,Web,,,30058,,N/A,2013-10-17,Closed with explanation,No,554419
+2013-08-12,Ditech Financial LLC,GA,Mortgage,Conventional fixed mortgage,Loan servicing payments escrow account,,Yes,Phone,,,30038,,N/A,2013-08-13,Closed with explanation,No,488642
+2013-10-29,Equifax,GA,Credit reporting,,Incorrect information on credit report,Account status,Yes,Web,,,30043,,N/A,2013-10-29,Closed with non-monetary relief,No,575104
+2013-08-09,Wells Fargo & Company,GA,Mortgage,FHA mortgage,Loan modificationcollectionforeclosure,,Yes,Web,,,30016,Older American,N/A,2013-08-13,Closed with explanation,No,485790
+2013-08-05,Ditech Financial LLC,GA,Mortgage,Conventional fixed mortgage,Loan modificationcollectionforeclosure,,Yes,Phone,,,30252,,N/A,2013-08-07,Closed with explanation,No,474010
+2013-09-19,HSBC North America Holdings Inc,GA,Mortgage,Other mortgage,Loan modificationcollectionforeclosure,,Yes,Referral,,,31206,,N/A,2013-09-20,Closed with explanation,No,535088
+2013-08-03,Wells Fargo & Company,GA,Mortgage,Conventional fixed mortgage,Application originator mortgage broker,,Yes,Web,,,30316,,N/A,2013-08-06,Closed with explanation,No,481090
+2013-10-29,Afni Inc,GA,Debt collection,Other (ie phone health club etc),Cont'd attempts collect debt not owed,Debt is not mine,Yes,Referral,,,30253,,N/A,2013-10-29,Closed with explanation,No,575766
+2013-12-03,Action Revenue Recovery LLC,GA,Debt collection,I do not know,Communication tactics,Frequent or repeated calls,Yes,Web,,,30092,,N/A,2013-12-09,Closed with explanation,No,619604
+2013-08-19,Pentagon FCU,GA,Mortgage,Conventional fixed mortgage,Application originator mortgage broker,,Yes,Web,,,30076,,N/A,2013-08-20,Closed with non-monetary relief,No,495270
+2013-08-07,Bank of America,GA,Mortgage,Other mortgage,Loan modificationcollectionforeclosure,,Yes,Referral,,,30041,,N/A,2013-08-09,Closed with explanation,Yes,482909
+2013-07-31,JPMorgan Chase & Co,GA,Debt collection,Mortgage,Improper contact or sharing of info,Contacted me after I asked not to,Yes,Phone,,,30296,,N/A,2013-08-06,Closed with explanation,No,482190
+2013-11-18,Law Office of Joe Pezzuto LLC,GA,Debt collection,Other (ie phone health club etc),Improper contact or sharing of info,Talked to a third party about my debt,Yes,Phone,,,30094,,N/A,2013-12-31,Closed with explanation,No,602429
+2013-08-07,BB&T Financial,GA,Bank account or service,Checking account,Problems caused by my funds being low,,Yes,Referral,,,30736,,N/A,2013-08-08,Closed with explanation,Yes,482906
+2013-07-30,HSBC North America Holdings Inc,GA,Mortgage,Other mortgage,Loan modificationcollectionforeclosure,,Yes,Referral,,,31904,,N/A,2013-07-31,Closed with explanation,No,470596
+2013-09-30,Bank of America,GA,Bank account or service,Checking account,Making/receiving payments sending money,,Yes,Phone,,,31757,Older American Servicemember,N/A,2013-10-01,Closed with explanation,No,548176
+2013-11-12,Bank of America,GA,Credit card,,Identity theft / Fraud / Embezzlement,,Yes,Phone,,,30331,Servicemember,N/A,2013-11-13,Closed with explanation,Yes,593265
+2013-08-03,Bank of America,GA,Mortgage,FHA mortgage,Loan modificationcollectionforeclosure,,Yes,Web,,,31721,,N/A,2013-08-06,Closed with explanation,No,481084
+2013-10-22,Wells Fargo & Company,GA,Bank account or service,Checking account,Account opening closing or management,,Yes,Referral,,,30067,,N/A,2013-10-23,Closed with monetary relief,No,566976
+2013-07-31,Bank of America,GA,Mortgage,Other mortgage,Loan modificationcollectionforeclosure,,Yes,Referral,,,30663,,N/A,2013-08-05,Closed with explanation,Yes,471409
+2013-11-08,Experian,GA,Credit reporting,,Incorrect information on credit report,Account status,Yes,Web,,,30004,,N/A,2013-11-07,Closed with non-monetary relief,No,591382
+2013-10-17,Ocwen,GA,Mortgage,Conventional adjustable mortgage (ARM),Loan modificationcollectionforeclosure,,Yes,Web,,,30906,,N/A,2013-10-18,Closed with explanation,Yes,561908
+2013-07-31,Wells Fargo & Company,GA,Mortgage,Other mortgage,Loan modificationcollectionforeclosure,,Yes,Referral,,,30260,,N/A,2013-08-05,Closed with explanation,No,475541
+2013-08-30,Bank of America,GA,Bank account or service,Checking account,Account opening closing or management,,Yes,Phone,,,30088,,N/A,2013-09-03,Closed with explanation,No,510020
+2013-11-13,Select Portfolio Servicing Inc,GA,Mortgage,Other mortgage,Loan modificationcollectionforeclosure,,No,Referral,,,30317,,N/A,2013-11-21,Closed with explanation,Yes,596176
+2013-10-24,Ocwen,GA,Mortgage,Conventional fixed mortgage,Loan servicing payments escrow account,,Yes,Web,,,30043,,N/A,2013-10-25,Closed,No,570098
+2013-10-30,Ally Financial Inc,GA,Consumer Loan,Vehicle loan,Problems when you are unable to pay,,Yes,Web,,,30236,Servicemember,N/A,2013-10-30,Closed with explanation,No,577435
+2013-07-29,Healthcare Receivable Professionals LLC,GA,Debt collection,Medical,Cont'd attempts collect debt not owed,Debt was paid,Yes,Web,,,30067,,N/A,2013-08-08,Closed with explanation,Yes,471211
+2013-10-07,BB&T Financial,GA,Bank account or service,Checking account,Account opening closing or management,,Yes,Referral,,,31309,,N/A,2013-10-08,Closed,No,553987
+2013-09-16,Resurgent Capital Services LP,GA,Credit reporting,,Incorrect information on credit report,Public record,Yes,Web,,,30236,,N/A,2013-09-17,Closed with explanation,No,528280
+2013-11-08,Wells Fargo & Company,GA,Mortgage,Other mortgage,Loan servicing payments escrow account,,Yes,Referral,,,30316,,N/A,2013-11-13,Closed with explanation,No,591356
+2013-09-23,EverBank,GA,Mortgage,FHA mortgage,Loan modificationcollectionforeclosure,,Yes,Phone,,,31419,,N/A,2013-09-24,Closed with explanation,No,538745
+2013-11-06,Flagstar Bank,GA,Bank account or service,Checking account,Problems caused by my funds being low,,Yes,Referral,,,30052,,N/A,2013-11-08,Closed with explanation,Yes,590670
+2013-09-16,Franklin Collection Service Inc,GA,Debt collection,Other (ie phone health club etc),Cont'd attempts collect debt not owed,Debt is not mine,Yes,Web,,,30002,,N/A,2013-09-17,Closed with explanation,Yes,528579
+2013-10-17,Bank of America,GA,Mortgage,Other mortgage,Loan modificationcollectionforeclosure,,Yes,Postal mail,,,30830,Servicemember,N/A,2013-10-17,Closed with explanation,Yes,560949
+2013-08-30,Bank of America,GA,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Referral,,,30016,,N/A,2013-09-04,Closed with explanation,No,511091
+2013-08-07,Bank of America,GA,Mortgage,Conventional fixed mortgage,Loan modificationcollectionforeclosure,,Yes,Phone,,,30039,,N/A,2013-08-26,Closed with explanation,No,501167
+2013-10-30,Nationstar Mortgage,GA,Mortgage,Other mortgage,Loan modificationcollectionforeclosure,,Yes,Referral,,,31217,,N/A,2013-10-31,Closed with explanation,No,578071
+2013-09-28,Nationstar Mortgage,GA,Mortgage,Conventional adjustable mortgage (ARM),Loan modificationcollectionforeclosure,,Yes,Web,,,30024,,N/A,2013-09-30,Closed with explanation,No,546505
+2013-11-20,Bank of America,GA,Mortgage,Other mortgage,Loan servicing payments escrow account,,Yes,Web,,,30349,,N/A,2013-11-19,Closed with explanation,No,605402
+2013-08-15,Primary Residential Mortgage,GA,Mortgage,FHA mortgage,Settlement process and costs,,Yes,Web,,,31047,,N/A,2013-08-20,Closed with explanation,Yes,489651
+2013-07-23,Equifax,GA,Credit reporting,,Incorrect information on credit report,Account status,Yes,Web,,,30349,,N/A,2013-07-23,Closed with non-monetary relief,Yes,464453
+2013-08-15,Resurgent Capital Services LP,GA,Debt collection,Credit card,Improper contact or sharing of info,Contacted me after I asked not to,Yes,Web,,,30350,,N/A,2013-08-14,Closed with non-monetary relief,No,488925
+2013-10-22,Amex,GA,Credit card,,Other,,Yes,Web,,,30068,,N/A,2013-10-28,Closed with explanation,Yes,566786
+2013-08-07,Bank of America,GA,Mortgage,FHA mortgage,Loan servicing payments escrow account,,Yes,Web,,,30337,,N/A,2013-08-09,Closed with explanation,No,484902
+2013-10-28,Capital One,GA,Credit card,,Other,,Yes,Phone,,,31763,,N/A,2013-10-28,Closed with monetary relief,No,573601
+2013-11-06,Bank of America,GA,Credit card,,Payoff process,,Yes,Web,,,30273,,N/A,2013-11-06,Closed with explanation,No,587518
+2013-11-17,Citibank,GA,Credit card,,Other,,Yes,Web,,,30058,,N/A,2013-11-20,Closed with explanation,Yes,601100
+2013-08-07,BB&T Financial,GA,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Phone,,,30009,,N/A,2013-08-08,Closed with explanation,Yes,482892
+2013-09-24,Wells Fargo & Company,GA,Mortgage,Conventional fixed mortgage,Loan modificationcollectionforeclosure,,Yes,Web,,,30339,,N/A,2013-09-25,Closed with explanation,No,539389
+2013-10-26,Citibank,GA,Student loan,Non-federal student loan,Repaying your loan,Repaying your loan,Yes,Web,,,30324,,N/A,2013-10-26,Closed with non-monetary relief,No,572590
+2013-09-10,Portfolio Recovery Associates Inc,GA,Mortgage,Other mortgage,Loan modificationcollectionforeclosure,,Yes,Referral,,,30213,,N/A,2013-09-11,Closed with non-monetary relief,No,521994
+2013-09-11,Select Portfolio Servicing Inc,GA,Mortgage,Conventional adjustable mortgage (ARM),Loan modificationcollectionforeclosure,,Yes,Web,,,30513,,N/A,2013-09-12,Closed,Yes,523394
+2013-07-29,Citibank,GA,Mortgage,FHA mortgage,Loan modificationcollectionforeclosure,,Yes,Web,,,30135,,N/A,2013-07-30,Closed with explanation,No,469423
+2013-08-14,Rent Recovery Solutions,GA,Debt collection,Other (ie phone health club etc),False statements or representation,Attempted to collect wrong amount,Yes,Web,,,30043,Servicemember,N/A,2013-08-22,Closed with explanation,No,491193
+2013-12-03,Wells Fargo & Company,GA,Bank account or service,Checking account,Using a debit or ATM card,,Yes,Web,,,30344,,N/A,2013-12-02,Closed with monetary relief,No,618741
+2013-09-07,JPMorgan Chase & Co,GA,Consumer Loan,Vehicle loan,Managing the loan or lease,,Yes,Web,,,30120,,N/A,2013-09-09,Closed with explanation,Yes,516868
+2013-11-11,Toyota Motor Credit Corporation,GA,Consumer Loan,Vehicle lease,Taking out the loan or lease,,Yes,Web,,,30677,,N/A,2013-11-14,Closed with explanation,No,592996
+2013-10-10,Citibank,GA,Debt collection,Credit card,Cont'd attempts collect debt not owed,Debt was paid,Yes,Fax,,,30350,,N/A,2013-10-11,Closed with explanation,Yes,557305
+2013-07-31,PNC Bank NA,GA,Mortgage,Conventional fixed mortgage,Application originator mortgage broker,,Yes,Web,,,30035,,N/A,2013-09-09,Closed with non-monetary relief,No,471203
+2013-09-05,Experian,GA,Credit reporting,,Credit reporting company's investigation,Problem with statement of dispute,Yes,Web,,,31313,Servicemember,N/A,2013-09-05,Closed with non-monetary relief,No,515887
+2013-09-25,Bank of America,GA,Mortgage,Home equity loan or line of credit,Loan servicing payments escrow account,,Yes,Web,,,30342,,N/A,2013-09-25,Closed with explanation,No,541683
+2013-11-26,Commercial Recovery Systems,GA,Debt collection,Credit card,Cont'd attempts collect debt not owed,Debt was discharged in bankruptcy,Yes,Web,,,31093,Servicemember,N/A,2013-11-26,Closed,Yes,612432
+2013-08-02,Ocwen,GA,Mortgage,Other mortgage,Loan modificationcollectionforeclosure,,Yes,Referral,,,31021,Older American,N/A,2013-08-06,Closed with explanation,No,473559
+2013-08-13,Ocwen,GA,Mortgage,Conventional adjustable mortgage (ARM),Loan servicing payments escrow account,,Yes,Web,,,30075,,N/A,2013-08-14,Closed with explanation,No,491914
+2013-10-24,Regions Financial Corporation,GA,Bank account or service,(CD) Certificate of deposit,Deposits and withdrawals,,Yes,Web,,,30088,,N/A,2013-10-24,Closed,Yes,569470
+2013-08-06,Wells Fargo & Company,GA,Mortgage,Conventional fixed mortgage,Loan servicing payments escrow account,,Yes,Web,,,31525,,N/A,2013-08-07,Closed with explanation,No,481142
+2013-10-30,IC System Inc,GA,Debt collection,Other (ie phone health club etc),Cont'd attempts collect debt not owed,Debt was paid,Yes,Web,,,30088,,N/A,2013-10-31,Closed with explanation,No,577156
+2013-10-11,JPMorgan Chase & Co,GA,Bank account or service,Checking account,Account opening closing or management,,Yes,Referral,,,30121,,N/A,2013-10-15,Closed with explanation,No,557971
+2013-10-25,Wells Fargo & Company,GA,Bank account or service,(CD) Certificate of deposit,Account opening closing or management,,Yes,Web,,,30076,,N/A,2013-10-28,Closed with explanation,Yes,571919
+2013-11-07,JPMorgan Chase & Co,GA,Mortgage,Conventional adjustable mortgage (ARM),Loan modificationcollectionforeclosure,,Yes,Web,,,30038,,N/A,2013-11-07,Closed,No,589824
+2013-11-22,Fifth Third Financial Corporation,GA,Bank account or service,Checking account,Account opening closing or management,,Yes,Web,,,30082,,N/A,2013-11-25,Closed with monetary relief,No,609217
+2013-08-06,JPMorgan Chase & Co,GA,Mortgage,Other mortgage,Loan servicing payments escrow account,,Yes,Referral,,,30233,,N/A,2013-08-07,Closed with explanation,No,481969
+2013-10-02,Bank of America,GA,Mortgage,Conventional adjustable mortgage (ARM),Loan modificationcollectionforeclosure,,Yes,Referral,,,30066,,N/A,2013-10-03,Closed with explanation,Yes,550742
+2013-08-26,Wells Fargo & Company,GA,Mortgage,Other mortgage,Loan servicing payments escrow account,,Yes,Referral,,,30062,,N/A,2013-08-27,Closed with explanation,Yes,505066
+2013-09-18,Gryphon Corp,GA,Debt collection,I do not know,Communication tactics,Threatened to take legal action,Yes,Referral,,,30341,,N/A,2013-09-19,Closed with explanation,No,532806
+2013-09-03,JPMorgan Chase & Co,GA,Bank account or service,Checking account,Problems caused by my funds being low,,Yes,Phone,,,31404,,N/A,2013-09-05,Closed with explanation,No,512755
+2013-11-13,Bank of America,GA,Mortgage,FHA mortgage,Loan modificationcollectionforeclosure,,Yes,Web,,,39845,,N/A,2013-11-20,Closed with explanation,No,595999
+2013-08-28,Citibank,GA,Credit card,,Delinquent account,,Yes,Web,,,30311,Older American,N/A,2013-08-28,Closed with non-monetary relief,No,507961
+2013-08-23,TransUnion Intermediate Holdings Inc,GA,Credit reporting,,Incorrect information on credit report,Information is not mine,Yes,Referral,,,31419,,N/A,2013-09-12,Closed with explanation,No,502342
+2013-09-11,Nationstar Mortgage,GA,Mortgage,FHA mortgage,Loan modificationcollectionforeclosure,,Yes,Postal mail,,,30252,,N/A,2013-09-12,Closed with explanation,Yes,523102
+2013-10-27,Nationstar Mortgage,GA,Mortgage,FHA mortgage,Loan servicing payments escrow account,,Yes,Web,,,30349,,N/A,2013-10-28,Closed with explanation,No,572629
+2013-10-27,Capital One,GA,Credit card,,Identity theft / Fraud / Embezzlement,,Yes,Web,,,30577,,N/A,2013-10-27,Closed with explanation,No,572633
+2013-08-09,SunTrust Banks Inc,GA,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Phone,,,30752,Servicemember,N/A,2013-08-14,Closed with explanation,Yes,485975
+2013-08-05,Seterus Inc,GA,Mortgage,Other mortgage,Loan modificationcollectionforeclosure,,Yes,Referral,,,30548,,N/A,2013-08-07,Closed with explanation,No,474161
+2013-08-07,Northland Group Inc,GA,Debt collection,Other (ie phone health club etc),Cont'd attempts collect debt not owed,Debt was paid,Yes,Phone,,,30642,Older American Servicemember,N/A,2013-08-09,Closed with explanation,No,484869
+2013-09-26,Nationstar Mortgage,GA,Mortgage,Conventional fixed mortgage,Loan servicing payments escrow account,,Yes,Web,,,30318,Older American,N/A,2013-09-27,Closed with explanation,No,544333
+2013-08-22,Select Portfolio Servicing Inc,GA,Mortgage,Conventional adjustable mortgage (ARM),Loan servicing payments escrow account,,Yes,Web,,,30319,,N/A,2013-08-22,Closed with explanation,No,499260
+2013-08-30,Ditech Financial LLC,GA,Mortgage,Conventional fixed mortgage,Loan servicing payments escrow account,,Yes,Phone,,,30344,,N/A,2013-09-03,Closed with explanation,No,510617
+2013-10-23,JPMorgan Chase & Co,GA,Debt collection,Credit card,Taking/threatening an illegal action,Threatened to sue on too old debt,Yes,Web,,,30044,,N/A,2013-10-23,Closed with explanation,No,568176
+2013-09-24,Bank of America,GA,Bank account or service,Checking account,Account opening closing or management,,Yes,Referral,,,30040,,N/A,2013-09-24,Closed with explanation,No,539691
+2013-08-23,Experian,GA,Credit reporting,,Incorrect information on credit report,Public record,Yes,Web,,,30213,,N/A,2013-08-23,Closed with explanation,Yes,502762
+2013-12-03,Navient Solutions Inc,GA,Student loan,Non-federal student loan,Repaying your loan,Repaying your loan,Yes,Web,,,30339,,N/A,2013-12-03,Closed with explanation,No,619504
+2013-08-01,Experian,GA,Credit reporting,,Incorrect information on credit report,Information is not mine,Yes,Web,,,30126,,N/A,2013-08-01,Closed with explanation,No,476021
+2013-10-17,Ocwen,GA,Mortgage,Other mortgage,Application originator mortgage broker,,Yes,Postal mail,,,30830,Servicemember,N/A,2013-10-17,Closed with explanation,Yes,560948
+2013-10-29,Wells Fargo & Company,GA,Bank account or service,Savings account,Deposits and withdrawals,,Yes,Postal mail,,,30032,Servicemember,N/A,2013-10-29,Closed with explanation,Yes,574989
+2013-07-31,Bayview Loan Servicing LLC,GA,Mortgage,Conventional fixed mortgage,Loan modificationcollectionforeclosure,,Yes,Web,,,30566,,N/A,2013-08-01,Closed with explanation,Yes,471143
+2013-08-19,Nationstar Mortgage,GA,Mortgage,Other mortgage,Loan servicing payments escrow account,,Yes,Postal mail,,,30094,,N/A,2013-08-21,Closed with explanation,No,495464
+2013-10-29,Weltman Weinberg & Reis,GA,Debt collection,Other (ie phone health club etc),Improper contact or sharing of info,Contacted me after I asked not to,Yes,Web,,,30252,,N/A,2013-10-29,Closed with explanation,No,575407
+2013-10-25,Bank of America,GA,Mortgage,Other mortgage,Other,,Yes,Referral,,,30340,,N/A,2013-10-28,Closed with explanation,No,572259
+2013-10-03,Experian,GA,Credit reporting,,Incorrect information on credit report,Information is not mine,Yes,Referral,,,30331,,N/A,2013-10-28,Closed with explanation,Yes,551914
+2013-10-08,SunTrust Banks Inc,GA,Mortgage,Conventional fixed mortgage,Loan modificationcollectionforeclosure,,Yes,Web,,,31217,,N/A,2013-10-08,Closed with explanation,Yes,555034
+2013-08-14,Nationstar Mortgage,GA,Mortgage,Conventional adjustable mortgage (ARM),Loan modificationcollectionforeclosure,,Yes,Web,,,30228,,N/A,2013-08-15,Closed with explanation,No,491158
+2013-09-23,Bank of America,GA,Credit card,,Other,,Yes,Web,,,30093,Older American,N/A,2013-09-23,Closed with explanation,No,537765
+2013-08-08,Ocwen,GA,Mortgage,FHA mortgage,Settlement process and costs,,Yes,Web,,,30680,,N/A,2013-08-09,Closed with explanation,No,483141
+2013-10-28,Citibank,GA,Mortgage,FHA mortgage,Loan modificationcollectionforeclosure,,Yes,Web,,,30041,,N/A,2013-11-06,Closed with explanation,No,574600
+2013-09-11,Experian,GA,Credit reporting,,Credit monitoring or identity protection,Billing dispute,Yes,Web,,,30188,,N/A,2013-09-14,Closed with monetary relief,No,523367
+2013-10-25,Regions Financial Corporation,GA,Mortgage,Other mortgage,Loan modificationcollectionforeclosure,,Yes,Referral,,,30507,,N/A,2013-10-25,Closed with non-monetary relief,No,571418
+2013-09-11,Bank of America,GA,Mortgage,FHA mortgage,Loan modificationcollectionforeclosure,,Yes,Postal mail,,,30252,,N/A,2013-09-12,Closed with explanation,Yes,523103
+2013-07-31,SunTrust Banks Inc,GA,Mortgage,FHA mortgage,Credit decision / Underwriting,,Yes,Referral,,,30312,,N/A,2013-08-02,Closed with explanation,No,471552
+2013-10-20,Ocwen,GA,Mortgage,Conventional fixed mortgage,Loan servicing payments escrow account,,Yes,Web,,,30906,,N/A,2013-10-21,Closed with explanation,No,564023
+2013-08-20,Wells Fargo & Company,GA,Bank account or service,Checking account,Account opening closing or management,,Yes,Phone,,,30515,Servicemember,N/A,2013-08-21,Closed with explanation,No,497399
+2013-08-08,Citibank,GA,Mortgage,Home equity loan or line of credit,Settlement process and costs,,Yes,Web,,,30328,,N/A,2013-08-13,Closed with explanation,No,483417
+2013-09-06,Wells Fargo & Company,GA,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Phone,,,30318,Older American Servicemember,N/A,2013-09-06,Closed with explanation,No,517678
+2013-08-27,Wells Fargo & Company,GA,Mortgage,Conventional fixed mortgage,Loan servicing payments escrow account,,Yes,Web,,,30024,,N/A,2013-08-28,Closed with explanation,Yes,504959
+2013-10-08,PNC Bank NA,GA,Mortgage,Conventional fixed mortgage,Loan modificationcollectionforeclosure,,Yes,Web,,,31419,,N/A,2013-10-08,Closed with explanation,No,554947
+2013-10-28,Bank of America,GA,Mortgage,FHA mortgage,Loan modificationcollectionforeclosure,,Yes,Web,,,30135,,N/A,2013-10-28,Closed with explanation,Yes,573940
+2013-11-26,Wells Fargo & Company,GA,Credit card,,Rewards,,Yes,Fax,,,30062,Older American,N/A,2013-12-04,Closed with explanation,No,612261
+2013-11-13,Caliber Home Loans Inc,GA,Mortgage,Other mortgage,Loan modificationcollectionforeclosure,,Yes,Postal mail,,,30087,,N/A,2013-11-21,Closed with explanation,No,596181
+2013-10-01,Santander Consumer USA Holdings Inc,GA,Consumer Loan,Vehicle loan,Managing the loan or lease,,Yes,Referral,,,30008,Older American,N/A,2013-11-08,Closed with explanation,Yes,549903
+2013-08-28,Nationstar Mortgage,GA,Mortgage,Conventional fixed mortgage,Loan modificationcollectionforeclosure,,Yes,Phone,,,39817,,N/A,2013-09-05,Closed with explanation,No,507882
+2013-07-31,Experian,GA,Credit reporting,,Incorrect information on credit report,Account status,Yes,Web,,,31024,,N/A,2013-07-31,Closed with explanation,No,471132
+2013-08-01,Bank of America,GA,Bank account or service,Checking account,Problems caused by my funds being low,,Yes,Web,,,30305,,N/A,2013-08-05,Closed with monetary relief,No,472350
+2013-08-19,Experian,GA,Credit reporting,,Credit reporting company's investigation,Problem with statement of dispute,Yes,Web,,,30043,,N/A,2013-08-19,Closed with explanation,No,495951
+2013-09-28,Navy FCU,GA,Consumer Loan,Vehicle loan,Managing the loan or lease,,Yes,Postal mail,,,30067,,N/A,2013-09-30,Closed with explanation,No,546476
+2013-10-17,JPMorgan Chase & Co,GA,Mortgage,Conventional adjustable mortgage (ARM),Loan servicing payments escrow account,,Yes,Web,,,30273,,N/A,2013-10-17,Closed with explanation,No,561393
+2013-07-29,Nationstar Mortgage,GA,Mortgage,FHA mortgage,Loan modificationcollectionforeclosure,,Yes,Web,,,30041,,N/A,2013-07-30,Closed with explanation,No,469293
+2013-07-31,Capital One,GA,Credit reporting,,Incorrect information on credit report,Account terms,Yes,Web,,,30126,,N/A,2013-08-02,Closed with explanation,No,470928
+2013-10-30,Select Portfolio Servicing Inc,GA,Mortgage,Other mortgage,Other,,Yes,Referral,,,30350,,N/A,2013-11-01,Closed with explanation,Yes,577074
+2013-10-03,Wells Fargo & Company,GA,Mortgage,FHA mortgage,Loan modificationcollectionforeclosure,,Yes,Web,,,31204,,N/A,2013-10-03,Closed with explanation,No,551830
+2013-10-24,Bank of America,GA,Mortgage,Other mortgage,Loan servicing payments escrow account,,Yes,Referral,,,30045,,N/A,2013-10-24,Closed with explanation,No,569647
+2013-11-05,Regions Financial Corporation,GA,Money transfers,Domestic (US) money transfer,Other transaction issues,,Yes,Referral,,,30046,,N/A,2013-11-07,Closed with non-monetary relief,No,587053
+2013-08-09,Specialized Loan Servicing LLC,GA,Mortgage,Conventional adjustable mortgage (ARM),Loan modificationcollectionforeclosure,,Yes,Web,,,30263,,N/A,2013-08-13,Closed,Yes,486080
+2013-08-12,Regions Financial Corporation,GA,Mortgage,Other mortgage,Loan modificationcollectionforeclosure,,Yes,Referral,,,30114,,N/A,2013-08-14,Closed,No,488615
+2013-08-15,American Credit Acceptance LLC,GA,Consumer Loan,Vehicle loan,Managing the loan or lease,,Yes,Postal mail,,,31706,Older American Servicemember,N/A,2013-10-18,Closed with explanation,Yes,488785
+2013-08-19,Carrington Mortgage Holdings LLC,GA,Debt collection,Mortgage,Disclosure verification of debt,Not given enough info to verify debt,Yes,Referral,,,30094,,N/A,2013-08-20,Closed,No,495463
+2013-11-01,SunTrust Banks Inc,GA,Mortgage,VA mortgage,Loan modificationcollectionforeclosure,,Yes,Web,,,30326,,N/A,2013-11-01,Closed with explanation,No,581128
+2013-11-14,Citibank,GA,Credit card,,Billing disputes,,Yes,Postal mail,,,30215,Servicemember,N/A,2013-11-21,Closed with explanation,Yes,598487
+2013-10-24,Bank of America,GA,Bank account or service,Checking account,Making/receiving payments sending money,,Yes,Web,,,30097,,N/A,2013-10-29,Closed with explanation,No,569596
+2013-10-07,Nationstar Mortgage,GA,Mortgage,Conventional fixed mortgage,Settlement process and costs,,Yes,Web,,,30044,,N/A,2013-10-07,Closed with explanation,No,554559
+2013-10-30,Citibank,GA,Credit card,,Billing disputes,,Yes,Referral,,,30014,Older American,N/A,2013-11-04,Closed with monetary relief,No,578575
+2013-11-01,Amex,GA,Credit card,,Transaction issue,,Yes,Web,,,30004,,N/A,2013-11-05,Closed with explanation,No,581592
+2013-09-26,Ocwen,GA,Mortgage,Other mortgage,Loan modificationcollectionforeclosure,,Yes,Referral,,,30124,,N/A,2013-09-30,Closed with explanation,No,544501
+2013-10-01,Capital Management Services LP,GA,Debt collection,Auto,Cont'd attempts collect debt not owed,Debt was paid,Yes,Web,,,30152,,N/A,2013-11-14,Closed with explanation,No,549652
+2013-11-01,Servis One Inc,GA,Mortgage,Conventional fixed mortgage,Loan modificationcollectionforeclosure,,Yes,Web,,,30355,,N/A,2013-11-07,Closed with explanation,No,580950
+2013-10-17,Portfolio Recovery Associates Inc,GA,Debt collection,Other (ie phone health club etc),Cont'd attempts collect debt not owed,Debt was discharged in bankruptcy,Yes,Phone,,,31082,,N/A,2013-10-17,Closed with non-monetary relief,No,561003
+2013-08-14,Synchrony Financial,GA,Credit card,,Credit determination,,Yes,Web,,,31811,Older American,N/A,2013-08-14,Closed with explanation,No,489722
+2013-08-26,Residential Credit Solutions,GA,Debt collection,Mortgage,Cont'd attempts collect debt not owed,Debt was paid,Yes,Web,,,30048,,N/A,2013-08-26,Closed with explanation,No,501931
+2013-07-26,SquareTwo Financial Corporation,GA,Debt collection,Credit card,Cont'd attempts collect debt not owed,Debt is not mine,Yes,Web,,,30106,,N/A,2013-07-26,Closed with explanation,Yes,467755
+2013-07-26,Citibank,GA,Bank account or service,Other bank product/service,Making/receiving payments sending money,,Yes,Web,,,30331,,N/A,2013-08-01,Closed with explanation,No,467753
+2013-09-30,Allied Interstate LLC,GA,Debt collection,I do not know,Cont'd attempts collect debt not owed,Debt is not mine,Yes,Web,,,30416,,N/A,2013-09-30,Closed with non-monetary relief,No,547646
+2013-08-23,BBVA Compass,GA,Debt collection,Auto,Taking/threatening an illegal action,Sued where didn't live/sign for debt,Yes,Web,,,30040,,N/A,2013-08-23,Closed with explanation,Yes,502836
+2013-09-24,JPMorgan Chase & Co,GA,Mortgage,FHA mortgage,Settlement process and costs,,Yes,Web,,,30512,,N/A,2013-09-25,Closed with explanation,No,540055
+2013-11-19,Portfolio Recovery Associates Inc,GA,Debt collection,I do not know,Cont'd attempts collect debt not owed,Debt is not mine,Yes,Web,,,30101,Servicemember,N/A,2013-11-19,Closed with non-monetary relief,No,604096
+2013-08-21,Equifax,GA,Credit reporting,,Incorrect information on credit report,Personal information,Yes,Web,,,30228,,N/A,2013-08-21,Closed with non-monetary relief,No,499745
+2013-11-19,Bank of America,GA,Mortgage,Other mortgage,Loan modificationcollectionforeclosure,,Yes,Referral,,,30040,,N/A,2013-11-20,Closed with explanation,Yes,602873
+2013-10-25,JPMorgan Chase & Co,GA,Mortgage,Other mortgage,Application originator mortgage broker,,Yes,Referral,,,30041,,N/A,2013-10-28,Closed with explanation,No,571534
+2013-08-08,Ditech Financial LLC,GA,Debt collection,Mortgage,Cont'd attempts collect debt not owed,Debt was discharged in bankruptcy,Yes,Web,,,30152,,N/A,2013-08-08,Closed with explanation,No,483920
+2013-10-01,Citibank,GA,Mortgage,Conventional fixed mortgage,Loan servicing payments escrow account,,Yes,Web,,,30127,,N/A,2013-10-02,Closed with explanation,Yes,549290
+2013-08-10,National Credit SystemsInc,GA,Debt collection,Mortgage,False statements or representation,Attempted to collect wrong amount,No,Phone,,,30331,,N/A,2013-08-14,Closed with non-monetary relief,No,486238
+2013-08-21,Bank of America,GA,Mortgage,Conventional fixed mortgage,Loan servicing payments escrow account,,Yes,Web,,,30024,,N/A,2013-08-22,Closed with explanation,No,499619
+2013-10-01,Bank of America,GA,Mortgage,Other mortgage,Loan servicing payments escrow account,,Yes,Postal mail,,,30054,,N/A,2013-10-02,Closed with explanation,No,549126
+2013-09-05,Nationstar Mortgage,GA,Mortgage,FHA mortgage,Loan modificationcollectionforeclosure,,Yes,Web,,,30127,,N/A,2013-09-06,Closed with explanation,No,515669
+2013-09-19,Bank of America,GA,Mortgage,Other mortgage,Loan modificationcollectionforeclosure,,Yes,Referral,,,30253,,N/A,2013-09-23,Closed with explanation,No,535175
+2013-09-16,Navient Solutions Inc,GA,Debt collection,Federal student loan,Improper contact or sharing of info,Contacted employer after asked not to,Yes,Web,,,30341,,N/A,2013-09-17,Closed with explanation,No,529466
+2013-09-11,Capital One,GA,Credit card,,APR or interest rate,,Yes,Web,,,30135,,N/A,2013-09-14,Closed with explanation,No,523239
+2013-09-30,Nationstar Mortgage,GA,Debt collection,Mortgage,Communication tactics,Frequent or repeated calls,Yes,Web,,,30096,,N/A,2013-09-30,Closed with explanation,No,547517
+2013-10-01,Bank of America,GA,Mortgage,Other mortgage,Loan servicing payments escrow account,,Yes,Postal mail,,,30054,,N/A,2013-12-02,Closed with explanation,No,549125
+2013-08-28,Bank of America,GA,Mortgage,Other mortgage,Loan modificationcollectionforeclosure,,Yes,Postal mail,,,30058,Older American,N/A,2013-08-29,Closed with explanation,Yes,506102
+2013-10-28,Wells Fargo & Company,GA,Mortgage,Conventional adjustable mortgage (ARM),Loan modificationcollectionforeclosure,,Yes,Web,,,30080,,N/A,2013-10-28,Closed with explanation,No,574202
+2013-08-20,SunTrust Banks Inc,GA,Bank account or service,Checking account,Using a debit or ATM card,,Yes,Web,,,30067,,N/A,2013-08-22,Closed with explanation,Yes,497482
+2013-09-23,Ocwen,GA,Mortgage,Other mortgage,Loan modificationcollectionforeclosure,,Yes,Referral,,,30012,,N/A,2013-09-30,Closed with explanation,No,538149
+2013-08-28,Experian,GA,Credit reporting,,Incorrect information on credit report,Public record,Yes,Postal mail,,,31419,Servicemember,N/A,2013-12-04,Closed with non-monetary relief,No,507711
+2013-08-30,Wells Fargo & Company,GA,Mortgage,Other mortgage,Other,,Yes,Referral,,,30228,,N/A,2013-09-03,Closed with explanation,No,510837
+2013-09-26,Equifax,GA,Credit reporting,,Incorrect information on credit report,Public record,Yes,Web,,,30024,,N/A,2013-09-26,Closed with explanation,Yes,544540
+2013-08-30,AES/PHEAA,GA,Student loan,Non-federal student loan,Repaying your loan,Repaying your loan,Yes,Postal mail,,,30097,,N/A,2013-09-04,Closed with explanation,Yes,511653
+2013-08-10,Ocwen,GA,Mortgage,Other mortgage,Loan servicing payments escrow account,,Yes,Postal mail,,,30294,,N/A,2013-08-13,Closed with explanation,No,485257
+2013-09-27,Equifax,GA,Credit reporting,,Unable to get credit report/credit score,Problem getting my free annual report,Yes,Web,,,30549,,N/A,2013-09-27,Closed with explanation,Yes,546009
+2013-08-26,Allied Interstate LLC,GA,Debt collection,Credit card,Communication tactics,Frequent or repeated calls,Yes,Phone,,,30008,,N/A,2013-08-27,Closed with non-monetary relief,No,504886
+2013-09-13,Capital One,GA,Debt collection,Credit card,Disclosure verification of debt,Not given enough info to verify debt,No,Referral,,,30036,,N/A,2013-09-16,Closed with explanation,,527591
+2013-10-18,Nationstar Mortgage,GA,Mortgage,Conventional fixed mortgage,Loan servicing payments escrow account,,Yes,Web,,,30096,,N/A,2013-10-21,Closed with explanation,No,563667
+2013-11-14,Equifax,GA,Credit reporting,,Incorrect information on credit report,Account status,Yes,Postal mail,,,30215,Servicemember,N/A,2013-11-29,Closed with explanation,Yes,598488
+2013-11-22,CL Holdings LLC,GA,Debt collection,Credit card,Cont'd attempts collect debt not owed,Debt is not mine,Yes,Web,,,30357,,N/A,2013-11-22,Closed with explanation,No,610271
+2013-08-16,Nationstar Mortgage,GA,Mortgage,Other mortgage,Loan servicing payments escrow account,,Yes,Referral,,,30324,,N/A,2013-08-19,Closed with explanation,No,494192
+2013-09-11,Ditech Financial LLC,GA,Mortgage,Other mortgage,Loan modificationcollectionforeclosure,,Yes,Web,,,31520,,N/A,2013-09-12,Closed with explanation,No,524435
+2013-08-05,Nationstar Mortgage,GA,Mortgage,FHA mortgage,Loan modificationcollectionforeclosure,,Yes,Web,,,30315,,N/A,2013-08-08,Closed with explanation,No,474734
+2013-09-26,Ditech Financial LLC,GA,Debt collection,Mortgage,Cont'd attempts collect debt not owed,Debt was paid,Yes,Web,,,30734,,N/A,2013-09-27,Closed with explanation,No,544110
+2013-10-25,Bank of America,GA,Mortgage,Other mortgage,Other,,Yes,Postal mail,,,30340,,N/A,2013-10-28,Closed with explanation,No,571296
+2013-08-07,PNC Bank NA,GA,Mortgage,Conventional fixed mortgage,Loan servicing payments escrow account,,Yes,Web,,,30024,,N/A,2013-08-09,Closed with explanation,No,485043
+2013-08-01,PNC Bank NA,GA,Mortgage,Other mortgage,Loan modificationcollectionforeclosure,,Yes,Referral,,,30548,,N/A,2013-08-05,Closed with explanation,No,472638
+2013-11-13,Retrieval-Masters Creditors Bureau Inc,GA,Debt collection,Other (ie phone health club etc),Cont'd attempts collect debt not owed,Debt is not mine,Yes,Phone,,,31309,,N/A,2013-11-19,Closed with non-monetary relief,No,595782
+2013-09-26,Wells Fargo & Company,GA,Bank account or service,Checking account,Problems caused by my funds being low,,Yes,Web,,,30549,,N/A,2013-09-26,Closed with monetary relief,No,543313
+2013-11-06,Select Portfolio Servicing Inc,GA,Mortgage,Conventional adjustable mortgage (ARM),Loan modificationcollectionforeclosure,,Yes,Referral,,,30168,,N/A,2013-11-07,Closed with explanation,No,588515
+2013-09-10,Ditech Financial LLC,GA,Mortgage,Conventional fixed mortgage,Loan servicing payments escrow account,,Yes,Web,,,30824,,N/A,2013-09-11,Closed with explanation,Yes,521756
+2013-11-05,Prestige Financial Services Inc,GA,Debt collection,Auto,Disclosure verification of debt,Not given enough info to verify debt,Yes,Web,,,30096,,N/A,2013-11-12,Closed with explanation,No,586700
+2013-08-14,Wells Fargo & Company,GA,Mortgage,Conventional fixed mortgage,Loan servicing payments escrow account,,Yes,Web,,,30041,,N/A,2013-08-14,Closed with explanation,No,492043
+2013-10-25,SunTrust Banks Inc,GA,Mortgage,FHA mortgage,Application originator mortgage broker,,Yes,Web,,,30620,,N/A,2013-10-25,Closed with explanation,No,571962
+2013-09-19,Nationstar Mortgage,GA,Mortgage,FHA mortgage,Application originator mortgage broker,,Yes,Web,,,30606,,N/A,2013-09-20,Closed with explanation,Yes,534631
+2013-10-23,Bank of America,GA,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Referral,,,31603,Servicemember,N/A,2013-10-23,Closed with explanation,No,567715
+2013-11-23,Citibank,GA,Debt collection,Other (ie phone health club etc),Taking/threatening an illegal action,Threatened arrest/jail if do not pay,Yes,Web,,,30013,,N/A,2013-11-22,Closed with explanation,No,610112
+2013-10-01,Wells Fargo & Company,GA,Mortgage,Other mortgage,Other,,Yes,Postal mail,,,30044,,N/A,2013-10-02,Closed with explanation,No,549301
+2013-08-01,Wells Fargo & Company,GA,Bank account or service,Checking account,Deposits and withdrawals,NA,Yes,Web,NA,NA,30084,,N/A,2013-07-30,Closed with explanation,No,468949
+2013-09-27,Comerica,GA,Bank account or service,Checking account,Using a debit or ATM card,,Yes,Phone,,,30707,,N/A,2013-09-30,Closed with explanation,No,545901
+2013-08-14,Navient Solutions Inc,GA,Student loan,Non-federal student loan,Problems when you are unable to pay,Problems when you are unable to pay,Yes,Web,,,31750,,N/A,2013-08-15,Closed with monetary relief,No,489429
+2013-09-07,Wells Fargo & Company,GA,Mortgage,Other mortgage,Application originator mortgage broker,,Yes,Web,,,30074,Older American Servicemember,N/A,2013-09-09,Closed with explanation,No,516790
+2013-08-08,Navient Solutions Inc,GA,Student loan,Non-federal student loan,Repaying your loan,Repaying your loan,Yes,Web,,,30141,,N/A,2013-08-12,Closed with monetary relief,No,483855
+2013-09-26,OneMain Financial Holdings LLC,GA,Consumer Loan,Vehicle loan,Problems when you are unable to pay,,Yes,Web,,,30092,,N/A,2013-09-26,Closed with explanation,Yes,543180
+2013-10-28,Bank of America,GA,Consumer Loan,Personal line of credit,Account terms and changes,,Yes,Web,,,30345,Older American,N/A,2013-10-28,Closed with explanation,Yes,573756
+2013-08-19,Barclays PLC,GA,Credit card,,Identity theft / Fraud / Embezzlement,,Yes,Postal mail,,,31909,Older American,N/A,2013-08-21,Closed with explanation,No,495753
+2013-08-17,LexisNexis,GA,Credit reporting,,Incorrect information on credit report,Information is not mine,Yes,Referral,,,30506,,N/A,2013-09-12,Closed with explanation,No,494479
+2013-10-17,SunTrust Banks Inc,GA,Mortgage,FHA mortgage,Loan modificationcollectionforeclosure,,Yes,Web,,,30135,,N/A,2013-10-21,Closed with explanation,Yes,561135
+2013-08-07,Experian,GA,Credit reporting,,Incorrect information on credit report,Public record,Yes,Web,,,30024,,N/A,2013-08-07,Closed with explanation,Yes,487139
+2013-10-21,FirstSource Advantage LLC,GA,Debt collection,Credit card,Communication tactics,Used obscene/profane/abusive language,Yes,Web,,,30315,,N/A,2013-11-08,Closed with explanation,No,564665
+2013-09-16,Citibank,GA,Mortgage,Other mortgage,Loan modificationcollectionforeclosure,,Yes,Referral,,,30035,,N/A,2013-09-18,Closed with explanation,No,529547
+2013-08-08,Equifax,GA,Credit reporting,,Incorrect information on credit report,Public record,Yes,Web,,,30024,,N/A,2013-08-08,Closed with non-monetary relief,Yes,482995
+2013-08-28,Equifax,GA,Credit reporting,,Credit monitoring or identity protection,Problem cancelling or closing account,Yes,Referral,,,30236,,N/A,2013-09-09,Closed with non-monetary relief,No,506829
+2013-10-11,Integrity Solution Services Inc,GA,Debt collection,Other (ie phone health club etc),Communication tactics,Frequent or repeated calls,Yes,Phone,,,31093,,N/A,2013-10-29,Closed with explanation,No,557581
+2013-08-13,Bank of America,GA,Mortgage,Conventional fixed mortgage,Loan servicing payments escrow account,,Yes,Web,,,60438,,N/A,2013-08-14,Closed with non-monetary relief,No,491728
+2013-09-07,Bank of America,GA,Mortgage,Other mortgage,Loan modificationcollectionforeclosure,,Yes,Postal mail,,,30310,,N/A,2013-09-09,Closed with explanation,No,516875
+2013-09-25,Wells Fargo & Company,GA,Mortgage,Conventional fixed mortgage,Loan modificationcollectionforeclosure,,Yes,Web,,,30248,,N/A,2013-09-25,Closed with non-monetary relief,No,541408
+2013-09-16,Nationstar Mortgage,GA,Mortgage,Conventional adjustable mortgage (ARM),Loan servicing payments escrow account,,Yes,Web,,,30189,,N/A,2013-09-16,Closed with explanation,Yes,528250
+2013-08-08,Ocwen,GA,Mortgage,Other mortgage,Loan modificationcollectionforeclosure,,Yes,Referral,,,30075,Servicemember,N/A,2013-08-09,Closed with explanation,No,484193
+2013-08-27,GM Financial,GA,Consumer Loan,Vehicle loan,Taking out the loan or lease,,Yes,Phone,,,90293,,N/A,2013-08-30,Closed with explanation,No,505842
+2013-08-12,HSBC North America Holdings Inc,GA,Mortgage,VA mortgage,Loan modificationcollectionforeclosure,,Yes,Referral,,,31322,Servicemember,N/A,2013-08-14,Closed with explanation,Yes,487047
+2013-08-08,Bank of America,GA,Mortgage,Other mortgage,Loan modificationcollectionforeclosure,,Yes,Referral,,,30519,,N/A,2013-08-09,Closed with explanation,No,483560
+2013-09-04,Citibank,GA,Student loan,Non-federal student loan,Problems when you are unable to pay,Problems when you are unable to pay,Yes,Web,,,20001,,N/A,2013-09-04,Closed with explanation,Yes,513952
+2013-09-17,PNC Bank NA,GA,Mortgage,Conventional adjustable mortgage (ARM),Loan modificationcollectionforeclosure,,Yes,Web,,,30084,,N/A,2013-09-18,Closed with explanation,No,531305
+2013-11-16,BB&T Financial,GA,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Web,,,30040,,N/A,2013-12-02,Closed with explanation,No,601425
+2013-07-26,Equifax,GA,Credit reporting,,Credit reporting company's investigation,Problem with statement of dispute,Yes,Web,,,30213,,N/A,2013-07-26,Closed with non-monetary relief,No,475609
+2013-12-03,Citibank,GA,Credit card,,Closing/Cancelling account,,Yes,Web,,,30101,,N/A,2013-12-09,Closed with monetary relief,No,618891
+2013-09-18,Wells Fargo & Company,GA,Bank account or service,Checking account,Problems caused by my funds being low,,Yes,Web,,,30005,,N/A,2013-09-18,Closed with monetary relief,No,531906
+2013-11-06,ERC,GA,Debt collection,I do not know,Communication tactics,Frequent or repeated calls,Yes,Web,,,30269,Older American,N/A,2013-11-06,Closed with non-monetary relief,No,587918
+2013-09-12,Wells Fargo & Company,GA,Mortgage,Other mortgage,Loan modificationcollectionforeclosure,,Yes,Fax,,,30574,,N/A,2013-09-12,Closed with explanation,No,525107
+2013-07-24,Wells Fargo & Company,GA,Mortgage,Other mortgage,Loan modificationcollectionforeclosure,,Yes,Referral,,,30064,,N/A,2013-07-25,Closed with explanation,No,465506
+2013-10-18,Nationstar Mortgage,GA,Mortgage,Other mortgage,Loan modificationcollectionforeclosure,,Yes,Referral,,,30019,,N/A,2013-10-21,Closed with explanation,No,563783
+2013-11-14,TransUnion Intermediate Holdings Inc,GA,Credit reporting,,Incorrect information on credit report,Account status,Yes,Postal mail,,,30215,Servicemember,N/A,2013-11-29,Closed with non-monetary relief,Yes,598490
+2013-08-27,JPMorgan Chase & Co,GA,Mortgage,Conventional fixed mortgage,Loan modificationcollectionforeclosure,,Yes,Web,,,30622,Older American,N/A,2013-08-28,Closed with explanation,No,508267
+2013-08-21,Regions Financial Corporation,GA,Bank account or service,Checking account,Account opening closing or management,,Yes,Web,,,30058,,N/A,2013-08-22,Closed,No,499654
+2013-10-23,CashCall Inc,GA,Debt collection,Other (ie phone health club etc),Communication tactics,Frequent or repeated calls,Yes,Web,,,30047,Servicemember,N/A,2013-10-23,Closed with explanation,No,568413
+2013-09-30,Bank of America,GA,Credit card,,Unsolicited issuance of credit card,,Yes,Phone,,,31707,,N/A,2013-10-01,Closed with explanation,No,548192
+2013-08-27,Ditech Financial LLC,GA,Mortgage,Conventional fixed mortgage,Loan servicing payments escrow account,,Yes,Web,,,30236,,N/A,2013-08-28,Closed with explanation,Yes,501482
+2013-07-23,Equifax,GA,Credit reporting,,Incorrect information on credit report,Account terms,Yes,Web,,,30253,,N/A,2013-07-23,Closed with non-monetary relief,No,457178
+2013-10-14,Bank of America,GA,Credit card,,Identity theft / Fraud / Embezzlement,,Yes,Web,,,30281,,N/A,2013-10-15,Closed with explanation,No,558438
+2013-10-14,PayPal Holdings Inc,GA,Credit card,,Identity theft / Fraud / Embezzlement,,Yes,Web,,,30518,,N/A,2013-10-22,Closed with monetary relief,No,558418
+2013-07-26,Citibank,GA,Debt collection,Credit card,Communication tactics,Called outside of 8am-9pm,Yes,Phone,,,34340,,N/A,2013-08-01,Closed with explanation,No,467250
+2013-09-18,Synovus Bank,GA,Mortgage,Other mortgage,Loan modificationcollectionforeclosure,,Yes,Postal mail,,,31602,,N/A,2013-09-19,Closed with explanation,No,531985
+2013-08-29,Capital One,GA,Credit card,,Credit card protection / Debt protection,,Yes,Web,,,30342,,N/A,2013-08-29,Closed with explanation,No,509772
+2013-07-25,Nationstar Mortgage,GA,Mortgage,Other mortgage,Loan servicing payments escrow account,,Yes,Referral,,,30087,,N/A,2013-07-31,Closed with explanation,No,467093
+2013-11-24,Wells Fargo & Company,GA,Mortgage,Conventional adjustable mortgage (ARM),Loan servicing payments escrow account,,Yes,Web,,,30189,,N/A,2013-11-23,Closed with explanation,No,609608
+2013-10-28,Ocwen,GA,Mortgage,Other mortgage,Loan modificationcollectionforeclosure,,Yes,Referral,,,30189,,N/A,2013-10-29,Closed with explanation,Yes,574521
+2013-10-16,Cavalry Investments LLC,GA,Debt collection,I do not know,Communication tactics,Frequent or repeated calls,Yes,Web,,,30108,Older American,N/A,2013-10-15,Closed with explanation,No,560019
+2013-08-31,Bank of America,GA,Student loan,Non-federal student loan,Repaying your loan,Repaying your loan,Yes,Postal mail,,,30097,,N/A,2013-09-04,Closed with explanation,Yes,511654
+2013-10-23,Southern Management Corp,GA,Debt collection,Other (ie phone health club etc),Communication tactics,Frequent or repeated calls,Yes,Phone,,,30016,,N/A,2013-10-23,Closed with explanation,No,568614
+2013-08-25,Bank of America,GA,Mortgage,Other mortgage,Loan servicing payments escrow account,,Yes,Postal mail,,,30066,,N/A,2013-08-26,Closed with explanation,No,503703
+2013-09-12,CL Holdings LLC,GA,Debt collection,Non-federal student loan,Communication tactics,Used obscene/profane/abusive language,Yes,Web,,,30043,,N/A,2013-09-13,Closed with explanation,No,525238
+2013-09-12,Asset Recovery Solutions LLC,GA,Debt collection,Non-federal student loan,Communication tactics,Used obscene/profane/abusive language,No,Web,,,30043,,N/A,2013-10-09,Closed with non-monetary relief,,525237
+2013-10-21,Capital One,GA,Credit card,,Billing disputes,,Yes,Web,,,30170,,N/A,2013-10-22,Closed with explanation,No,564768
+2013-11-25,Wells Fargo & Company,GA,Bank account or service,Checking account,Account opening closing or management,,Yes,Phone,,,30038,,N/A,2013-11-26,Closed with non-monetary relief,No,611476
+2013-09-10,SunTrust Banks Inc,GA,Mortgage,Other mortgage,Loan modificationcollectionforeclosure,,Yes,Referral,,,30331,Servicemember,N/A,2013-09-11,Closed with explanation,No,522397
+2013-07-23,TransUnion Intermediate Holdings Inc,GA,Credit reporting,,Unable to get credit report/credit score,Problem getting report or credit score,Yes,Postal mail,,,30214,,N/A,2013-08-19,Closed with explanation,Yes,475511
+2013-08-12,Ocwen,GA,Mortgage,Conventional adjustable mortgage (ARM),Application originator mortgage broker,,Yes,Web,,,30052,,N/A,2013-08-13,Closed with explanation,Yes,487340
+2013-07-24,Equifax,GA,Credit reporting,,Incorrect information on credit report,Information is not mine,Yes,Web,,,30324,,N/A,2013-07-31,Closed with explanation,No,461581
+2013-11-13,Bank of America,GA,Mortgage,Other mortgage,Loan modificationcollectionforeclosure,,Yes,Postal mail,,,30297,,N/A,2013-11-19,Closed with non-monetary relief,No,596728
+2013-11-26,JPMorgan Chase & Co,GA,Mortgage,Other mortgage,Loan modificationcollectionforeclosure,,Yes,Referral,,,30168,,N/A,2013-11-26,Closed with explanation,Yes,612518
+2013-07-23,JPMorgan Chase & Co,GA,Mortgage,Other mortgage,Loan modificationcollectionforeclosure,,Yes,Phone,,,30228,,N/A,2013-07-25,Closed with explanation,No,463742
+2013-09-15,LexisNexis,GA,Credit reporting,,Incorrect information on credit report,Personal information,Yes,Web,,,30021,,N/A,2013-10-28,Closed with explanation,Yes,526489
+2013-10-31,Dynamic Recovery Solutions LLC,GA,Debt collection,Credit card,Cont'd attempts collect debt not owed,Debt was paid,Yes,Web,,,30321,,N/A,2013-10-31,Closed with explanation,No,579687
+2013-09-06,The Western Union Company,GA,Money transfers,Domestic (US) money transfer,Other transaction issues,,Yes,Referral,,,30058,,N/A,2013-09-09,Closed with explanation,No,517233
+2013-10-29,Ditech Financial LLC,GA,Mortgage,Conventional adjustable mortgage (ARM),Loan modificationcollectionforeclosure,,Yes,Web,,,30008,,N/A,2013-10-29,Closed with explanation,No,575682
+2013-10-01,Bank of America,GA,Mortgage,Second mortgage,Loan modificationcollectionforeclosure,,Yes,Referral,,,30274,Older American,N/A,2013-10-02,Closed with explanation,No,549779
+2013-09-03,Convergent Resources Inc,GA,Debt collection,Non-federal student loan,Disclosure verification of debt,Not given enough info to verify debt,No,Fax,,,30064,,N/A,2013-09-05,Closed with explanation,,513221
+2013-08-27,Wells Fargo & Company,GA,Mortgage,Conventional fixed mortgage,Loan servicing payments escrow account,,Yes,Web,,,30909,,N/A,2013-08-28,Closed with explanation,No,505632
+2013-09-04,Bank of America,GA,Mortgage,FHA mortgage,Loan modificationcollectionforeclosure,,Yes,Web,,,30061,,N/A,2013-09-05,Closed with explanation,No,514549
+2013-11-06,Medical Data Systems Inc,GA,Debt collection,Medical,Communication tactics,Frequent or repeated calls,Yes,Referral,,,30044,,N/A,2013-12-19,Closed with explanation,No,587566
+2013-09-13,Advance Bureau of Collections,GA,Debt collection,Medical,Communication tactics,Threatened to take legal action,Yes,Phone,,,31005,,N/A,2013-09-16,Closed with non-monetary relief,No,527302
+2013-07-26,Wells Fargo & Company,GA,Mortgage,Other mortgage,Loan servicing payments escrow account,,Yes,Referral,,,30087,,N/A,2013-07-30,Closed with explanation,No,467273
+2013-08-29,Navient Solutions Inc,GA,Student loan,Non-federal student loan,Repaying your loan,Repaying your loan,Yes,Web,,,30144,,N/A,2013-08-30,Closed with explanation,Yes,509327
+2013-11-06,Equifax,GA,Credit reporting,,Unable to get credit report/credit score,Problem getting my free annual report,Yes,Web,,,30077,,N/A,2013-11-08,Closed with explanation,Yes,588851
+2013-11-25,The Huntington National Bank,GA,Mortgage,Conventional fixed mortgage,Loan modificationcollectionforeclosure,,Yes,Web,,,30223,Older American,N/A,2013-11-26,Closed with explanation,No,610392
+2013-09-19,TransUnion Intermediate Holdings Inc,GA,Credit reporting,,Incorrect information on credit report,Information is not mine,Yes,Web,,,30824,Older American,N/A,2013-09-19,Closed with explanation,No,534850
+2013-07-25,CIT Bank National Association,GA,Mortgage,Home equity loan or line of credit,Loan servicing payments escrow account,,Yes,Web,,,30342,,N/A,2013-07-25,Closed with explanation,No,465934
+2013-11-25,PNC Bank NA,GA,Bank account or service,(CD) Certificate of deposit,Account opening closing or management,,Yes,Web,,,30022,,N/A,2013-11-29,Closed with explanation,No,611195
+2013-08-29,JPMorgan Chase & Co,GA,Mortgage,Conventional fixed mortgage,Loan servicing payments escrow account,,Yes,Web,,,30350,,N/A,2013-08-29,Closed with explanation,No,508834
+2013-09-20,Bank of America,GA,Mortgage,Other mortgage,Loan servicing payments escrow account,,Yes,Referral,,,30345,,N/A,2013-09-23,Closed with explanation,Yes,535675
+2013-09-18,JPMorgan Chase & Co,GA,Mortgage,Other mortgage,Loan modificationcollectionforeclosure,,Yes,Referral,,,30106,,N/A,2013-09-19,Closed with explanation,No,532914
+2013-07-25,Bank of America,GA,Mortgage,FHA mortgage,Loan modificationcollectionforeclosure,,Yes,Web,,,30281,,N/A,2013-07-26,Closed with explanation,No,480751
+2013-10-22,Ceannate,GA,Debt collection,Federal student loan,Improper contact or sharing of info,Contacted employer after asked not to,Yes,Web,,,30101,,N/A,2013-10-21,Closed with explanation,No,565840
+2013-11-06,Portfolio Recovery Associates Inc,GA,Debt collection,I do not know,Improper contact or sharing of info,Talked to a third party about my debt,Yes,Web,,,30157,,N/A,2013-11-08,Closed with explanation,No,588592
+2013-10-31,Capital One,GA,Debt collection,Credit card,Communication tactics,Frequent or repeated calls,Yes,Web,,,30066,,N/A,2013-10-31,Closed with non-monetary relief,No,580158
+2013-10-03,US Bancorp,GA,Mortgage,Other mortgage,Loan servicing payments escrow account,,Yes,Referral,,,30043,,N/A,2013-10-03,Closed with explanation,No,551687
+2013-10-04,Synchrony Financial,GA,Credit card,,Other,,Yes,Web,,,30342,Older American,N/A,2013-10-04,Closed with explanation,Yes,552813
+2013-09-16,JPMorgan Chase & Co,GA,Bank account or service,Savings account,Account opening closing or management,,Yes,Email,,,30097,,N/A,2013-09-18,Closed with explanation,Yes,529530
+2013-10-07,Flagstar Bank,GA,Mortgage,FHA mortgage,Loan servicing payments escrow account,,Yes,Web,,,30067,,N/A,2013-10-07,Closed with explanation,No,553716
+2013-09-16,Ocwen,GA,Mortgage,Other mortgage,Loan modificationcollectionforeclosure,,Yes,Referral,,,30223,,N/A,2013-09-17,Closed with explanation,No,529384
+2013-07-23,SunTrust Banks Inc,GA,Bank account or service,Other bank product/service,Account opening closing or management,,Yes,Web,,,30062,,N/A,2013-07-24,Closed with explanation,No,463640
+2013-09-21,Arvest Bank,GA,Mortgage,Conventional fixed mortgage,Loan servicing payments escrow account,,Yes,Web,,,30066,,N/A,2013-09-23,Closed with explanation,Yes,536977
+2013-08-05,Bank of America,GA,Mortgage,Other mortgage,Loan modificationcollectionforeclosure,,Yes,Web,,,30680,,N/A,2013-08-08,Closed with explanation,No,473106
+2013-08-09,Resurgent Capital Services LP,GA,Debt collection,I do not know,Cont'd attempts collect debt not owed,Debt is not mine,Yes,Web,,,30028,,N/A,2013-08-09,Closed with monetary relief,No,485258
+2013-10-29,Wells Fargo & Company,GA,Student loan,Non-federal student loan,Problems when you are unable to pay,Problems when you are unable to pay,Yes,Web,,,30087,,N/A,2013-10-29,Closed with explanation,No,575671
+2013-11-04,SunTrust Banks Inc,GA,Bank account or service,Checking account,Account opening closing or management,,Yes,Referral,,,30269,,N/A,2013-11-05,Closed with monetary relief,Yes,584624
+2013-08-26,Ditech Financial LLC,GA,Mortgage,Other mortgage,Loan modificationcollectionforeclosure,,Yes,Referral,,,30093,,N/A,2013-08-27,Closed with explanation,Yes,504674
+2013-07-27,Experian,GA,Credit reporting,,Incorrect information on credit report,Account status,Yes,Web,,,30213,Older American,N/A,2013-08-01,Closed with non-monetary relief,No,475611
+2013-11-04,Allied Interstate LLC,GA,Debt collection,Other (ie phone health club etc),Cont'd attempts collect debt not owed,Debt is not mine,Yes,Web,,,30058,,N/A,2013-11-13,Closed with non-monetary relief,No,583961
+2013-09-12,Capital One,GA,Consumer Loan,Vehicle loan,Managing the loan or lease,,Yes,Web,,,30238,Older American,N/A,2013-09-13,Closed with explanation,Yes,525554
+2013-09-04,Capital One,GA,Credit card,,Transaction issue,,Yes,Web,,,30117,Older American,N/A,2013-09-04,Closed with explanation,No,514411
+2013-07-24,Wells Fargo & Company,GA,Bank account or service,Checking account,Account opening closing or management,,Yes,Referral,,,31210,,N/A,2013-07-25,Closed with explanation,No,464973
+2013-10-22,Wells Fargo & Company,GA,Mortgage,Conventional fixed mortgage,Loan modificationcollectionforeclosure,,Yes,Web,,,31558,,N/A,2013-10-22,Closed with explanation,Yes,565860
+2013-09-21,Pentagon FCU,GA,Mortgage,Conventional adjustable mortgage (ARM),Application originator mortgage broker,,Yes,Web,,,31047,,N/A,2013-09-23,Closed with non-monetary relief,No,536955
+2013-08-12,Equifax,GA,Credit reporting,,Incorrect information on credit report,Account status,Yes,Postal mail,,,30901,,N/A,2013-08-28,Closed with non-monetary relief,No,487889
+2013-08-09,Exeter Finance Corp,GA,Consumer Loan,Vehicle loan,Problems when you are unable to pay,,Yes,Web,,,30236,,N/A,2013-08-12,Closed with explanation,No,485213
+2013-07-31,JPMorgan Chase & Co,GA,Mortgage,Other mortgage,Loan modificationcollectionforeclosure,,Yes,Referral,,,30349,,N/A,2013-08-02,Closed with explanation,No,475640
+2013-11-01,Flagstar Bank,GA,Mortgage,FHA mortgage,Loan modificationcollectionforeclosure,,Yes,Web,,,30044,,N/A,2013-11-01,Closed with explanation,No,581127
+2013-08-05,Nationstar Mortgage,GA,Mortgage,Conventional adjustable mortgage (ARM),Loan modificationcollectionforeclosure,,Yes,Web,,,30296,,N/A,2013-08-08,Closed with explanation,No,474473
+2013-11-18,Encore Capital Group,GA,Debt collection,Credit card,Communication tactics,Called outside of 8am-9pm,Yes,Web,,,30117,,N/A,2013-11-27,Closed with explanation,No,601617
+2013-09-03,Ocwen,GA,Mortgage,Conventional fixed mortgage,Loan servicing payments escrow account,,Yes,Web,,,30281,,N/A,2013-09-04,Closed with explanation,Yes,513482
+2013-08-15,SunTrust Banks Inc,GA,Bank account or service,Checking account,Account opening closing or management,,Yes,Referral,,,31763,Servicemember,N/A,2013-08-16,Closed with explanation,No,490652
+2013-10-23,GC Services Limited Partnership,GA,Debt collection,Other (ie phone health club etc),Disclosure verification of debt,Right to dispute notice not received,Yes,Web,,,33175,,N/A,2013-10-29,Closed with non-monetary relief,No,568733
+2013-11-09,Bank of America,GA,Mortgage,Conventional fixed mortgage,Loan servicing payments escrow account,,Yes,Web,,,30093,,N/A,2013-11-09,Closed with explanation,No,592658
+2013-07-31,Wells Fargo & Company,GA,Bank account or service,Checking account,Account opening closing or management,,Yes,Web,,,30680,,N/A,2013-08-01,Closed with non-monetary relief,Yes,470863
+2013-09-13,Bank of America,GA,Mortgage,Conventional adjustable mortgage (ARM),Loan modificationcollectionforeclosure,,Yes,Postal mail,,,30002,,N/A,2013-09-16,Closed with explanation,No,528198
+2013-08-12,Bank of America,GA,Mortgage,FHA mortgage,Loan servicing payments escrow account,,Yes,Web,,,30016,Servicemember,N/A,2013-08-13,Closed with explanation,No,487197
+2013-08-06,Capital One,GA,Mortgage,Conventional adjustable mortgage (ARM),Application originator mortgage broker,,Yes,Web,,,31833,Older American,N/A,2013-08-08,Closed with explanation,No,481276
+2013-10-07,Experian,GA,Credit reporting,,Incorrect information on credit report,Information is not mine,Yes,Web,,,30094,,N/A,2013-10-07,Closed with non-monetary relief,No,553709
+2013-09-16,Wells Fargo & Company,GA,Bank account or service,Checking account,Using a debit or ATM card,,Yes,Referral,,,30008,,N/A,2013-09-17,Closed with explanation,No,528408
+2013-09-20,Experian,GA,Credit reporting,,Credit reporting company's investigation,Inadequate help over the phone,Yes,Web,,,30047,,N/A,2013-09-23,Closed with non-monetary relief,Yes,536908
+2013-11-07,Select Portfolio Servicing Inc,GA,Mortgage,Conventional adjustable mortgage (ARM),Loan modificationcollectionforeclosure,,Yes,Web,,,30038,,N/A,2013-11-07,Closed with explanation,No,589825
+2013-11-04,Portfolio Recovery Associates Inc,GA,Debt collection,Other (ie phone health club etc),Cont'd attempts collect debt not owed,Debt was paid,Yes,Phone,,,30116,Older American,N/A,2013-11-06,Closed with non-monetary relief,No,583771
+2013-08-22,Bank of America,GA,Mortgage,VA mortgage,Loan modificationcollectionforeclosure,,Yes,Phone,,,30329,,N/A,2013-08-23,Closed with explanation,No,500176
+2013-08-12,Allied Interstate LLC,GA,Debt collection,I do not know,Cont'd attempts collect debt not owed,Debt is not mine,Yes,Phone,,,30040,Older American,N/A,2013-08-22,Closed with non-monetary relief,No,487414
+2013-10-22,Barclays PLC,GA,Bank account or service,Other bank product/service,Account opening closing or management,,Yes,Postal mail,,,30281,,N/A,2013-10-23,Closed with explanation,No,565948
+2013-09-20,Equifax,GA,Credit reporting,,Credit reporting company's investigation,Inadequate help over the phone,Yes,Web,,,30047,,N/A,2013-09-23,Closed with non-monetary relief,No,536906
+2013-11-06,Northland Group Inc,GA,Debt collection,I do not know,Disclosure verification of debt,Not given enough info to verify debt,Yes,Referral,,,30263,,N/A,2013-11-06,Closed with explanation,No,587406
+2013-08-10,Synchrony Financial,GA,Credit card,,Transaction issue,,Yes,Web,,,30470,,N/A,2013-08-10,Closed with explanation,No,486408
+2013-10-21,Bank of America,GA,Bank account or service,Checking account,Deposits and withdrawals,,Yes,Referral,,,30904,,N/A,2013-10-23,Closed with explanation,Yes,565298
+2013-11-10,Equifax,GA,Credit reporting,,Incorrect information on credit report,Public record,Yes,Web,,,30040,,N/A,2013-11-09,Closed with non-monetary relief,No,592744
+2013-08-18,HSBC North America Holdings Inc,GA,Mortgage,Other mortgage,Credit decision / Underwriting,,Yes,Web,,,30024,,N/A,2013-08-20,Closed with explanation,No,494691
+2013-09-24,Linebarger Goggan Blair & Sampson LLP,GA,Debt collection,Other (ie phone health club etc),Taking/threatening an illegal action,Threatened arrest/jail if do not pay,Yes,Web,,,30328,Older American Servicemember,N/A,2013-10-07,Closed with explanation,Yes,540776
+2013-07-30,Bank of America,GA,Mortgage,Conventional fixed mortgage,Loan servicing payments escrow account,,Yes,Web,,,30121,,N/A,2013-07-31,Closed with non-monetary relief,Yes,471164
+2013-11-08,Bank of America,GA,Bank account or service,(CD) Certificate of deposit,Account opening closing or management,,Yes,Web,,,30088,,N/A,2013-11-18,Closed with explanation,No,590887
+2013-10-22,Capital One,GA,Bank account or service,Other bank product/service,Account opening closing or management,,Yes,Postal mail,,,30281,,N/A,2013-10-22,Closed with explanation,No,565949
+2013-10-23,Allied Account Services Inc,GA,Debt collection,Other (ie phone health club etc),Improper contact or sharing of info,Talked to a third party about my debt,Yes,Web,,,30066,,N/A,2013-10-23,Closed with explanation,No,568718
+2013-07-31,TransUnion Intermediate Holdings Inc,GA,Credit reporting,,Unable to get credit report/credit score,Problem getting my free annual report,Yes,Web,,,30043,,N/A,2013-07-31,Closed with explanation,No,484765
+2013-08-21,Bank of America,GA,Bank account or service,Checking account,Making/receiving payments sending money,,Yes,Web,,,30021,,N/A,2013-08-23,Closed with explanation,No,499514
+2013-10-22,Citibank,GA,Credit card,,Other,,Yes,Postal mail,,,30223,,N/A,2013-10-24,Closed with explanation,No,567613
+2013-08-05,PNC Bank NA,GA,Mortgage,Conventional adjustable mortgage (ARM),Loan modificationcollectionforeclosure,,Yes,Web,,,30032,,N/A,2013-08-07,Closed with explanation,No,473719
+2013-11-04,US Bancorp,GA,Mortgage,VA mortgage,Loan servicing payments escrow account,,Yes,Phone,,,31605,Servicemember,N/A,2013-11-06,Closed with explanation,Yes,583644
+2013-11-12,Encore Capital Group,GA,Debt collection,Other (ie phone health club etc),Cont'd attempts collect debt not owed,Debt is not mine,Yes,Web,,,30281,,N/A,2013-11-14,Closed with explanation,No,593324
+2013-09-25,Wells Fargo & Company,GA,Mortgage,Conventional fixed mortgage,Loan modificationcollectionforeclosure,,Yes,Web,,,31410,,N/A,2013-09-26,Closed with explanation,No,541778
+2013-10-09,Encore Capital Group,GA,Debt collection,Credit card,Improper contact or sharing of info,Talked to a third party about my debt,Yes,Web,,,30052,,N/A,2013-10-09,Closed with explanation,Yes,555978

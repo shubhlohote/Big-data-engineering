@@ -1,0 +1,57 @@
+	84	New York Community Bank
+AE	4	Fifth Third Financial Corporation
+AK	11	Bank of America
+AL	98	Planet Home Lending LLC
+AP	2	JPMorgan Chase & Co
+AR	38	PHH Mortgage
+AZ	224	Citibank
+CA	1512	Wells Fargo & Company
+CO	167	Ditech Financial LLC
+CT	113	Encore Capital Group
+DC	51	JPMorgan Chase & Co
+DE	72	USAA Savings
+FL	953	Nationstar Mortgage
+FM	1	Expert Global Solutions Inc
+GA	397	Wells Fargo & Company
+HI	39	Bank of America
+IA	40	MoneyGram
+ID	35	Experian
+IL	317	Specialized Loan Servicing LLC
+IN	121	Stellar Recovery Inc
+KS	51	Wells Fargo & Company
+KY	64	Zwicker & Associates
+LA	107	OneMain Financial Holdings LLC
+MA	214	Bank of America
+MD	323	BB&T Financial
+ME	26	TD Bank US Holding Company
+MH	2	JPMorgan Chase & Co
+MI	295	Equifax
+MN	119	Experian
+MO	153	TransUnion Intermediate Holdings Inc
+MS	41	Expert Global Solutions Inc
+MT	17	Synchrony Financial
+NC	281	Equifax
+ND	8	Resurgent Capital Services LP
+NE	30	Equifax
+NH	47	Navy FCU
+NJ	430	Citibank
+NM	34	QC Holdings Inc
+NV	117	Synchrony Financial
+NY	704	Navient Solutions Inc
+OH	283	Navient Solutions Inc
+OK	66	Encore Capital Group
+OR	117	TransUnion Intermediate Holdings Inc
+PA	397	Equifax
+PR	22	Experian
+RI	38	Experian
+SC	124	First Data Corporation
+SD	8	Capital One
+TN	151	Ditech Financial LLC
+TX	779	Bank of America
+UT	51	Quicken Loans
+VA	310	Quicken Loans
+VT	14	USAA Savings
+WA	194	Wells Fargo & Company
+WI	102	Ditech Financial LLC
+WV	18	Portfolio Recovery Associates Inc
+WY	8	Navient Solutions Inc

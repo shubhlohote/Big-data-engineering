@@ -1,0 +1,9 @@
+Mortgage,3647
+Debt collection,1910
+Credit reporting,1457
+Bank account or service,1203
+Credit card,1164
+Consumer Loan,287
+Student loan,265
+Money transfers,72
+Payday loan,19

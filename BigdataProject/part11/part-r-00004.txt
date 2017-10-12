@@ -1,0 +1,44 @@
+"Neighborhood Assistance Corporation of America (""NACA"")"	1	1
+JH Portfolio Debt Equities LLC	5	4
+JPMorgan Chase & Co	668	668
+James B Nutter & Company	1	1
+Javitch Block & Rathbone LLC	1	1
+Johnson Mark LLC	1	1
+Jon Barry and Associates Inc	2	2
+Jonathan Neil & Associates Inc	1	0
+Justice Finance Company	2	2
+TCF National Bank	19	19
+TD Bank US Holding Company	79	79
+TMX Finance LLC	1	1
+TSC Accounts Receivable Solutions	1	1
+TaxServ LLC	1	0
+TekCollect Inc	1	0
+Tenet HealthCare Corporation	2	2
+The Affiliated Group Inc	2	2
+The Bureaus Inc	2	2
+The CBE Group Inc	17	17
+The CMI Group Inc	5	5
+The Huntington National Bank	21	21
+The Law Firm of Allan C Smith	1	1
+The Law Office of Daniel Slane	2	2
+The Law Offices of Mitchell D Bluhm & Associates	1	1
+The Minacs Group (USA) Inc	1	1
+The Moore Law Group	3	3
+The Mortgage Specialists Inc	1	0
+The Phoenix Recovery Group	2	2
+The Receivable Management Services Corporation	3	3
+The Regional Adjustment Bureau Incorporated	4	4
+The Stark Collection Agency Inc	2	2
+The Thomas Agency Inc	1	1
+The Western Union Company	29	29
+Third Federal Savings & Loan	5	5
+Thomas & Williams LLC	1	0
+Tiburon Financial LLC	1	1
+Total Card Inc	1	1
+Total Mortgage Services LLC	1	1
+Total Recovery Solutions	3	3
+Tower Loan	5	5
+Toyota Motor Credit Corporation	16	16
+TransUnion Intermediate Holdings Inc	341	341
+Trident Asset Management LLC	8	8
+Turning Point Solutions LLC	3	3

@@ -1,0 +1,95 @@
+21st Mortgage Corporation	4	4
+FAIR COLLECTIONS & OUTSOURCING INC	2	2
+FCI Lender Services Inc	3	3
+FINEX Group LLC	2	0
+FMS Inc	1	1
+Factual Data	1	1
+Fairway Capital Recovery LLC	1	1
+Fay Servicing LLC	3	3
+Federated Capital Corporation	2	2
+Fidelity Capital Holdings Inc	1	1
+Fidelity National Financial Inc	1	1
+Fidelity National Information Services Inc (FNIS)	26	26
+Fidelity Properties Inc	1	0
+Fifth Third Financial Corporation	65	65
+Finance of America Reverse LLC	3	3
+Financial Asset Management Systems Inc	2	2
+Financial Asset Resolution LLC	1	0
+Financial Business and Consumer Solutions	3	3
+Financial Credit Network Inc	2	2
+Financial Recovery Services Inc	2	2
+Finkelstein Kern Steinberg & Cunningham PC	1	1
+First Advantage Corporation	2	2
+First American Financial Corporation	3	3
+First American Mitigators PLLC	1	0
+First Associates Loan Servicing LLC	1	1
+First Citizens	1	1
+First Credit Services Inc	2	2
+First Data Corporation	3	1
+First Hawaiian Bank	1	1
+First National Bank of Omaha	11	11
+First National Collection Bureau Inc	1	0
+First Tennessee Bank	9	9
+FirstBank	2	2
+FirstBank of Puerto Rico	3	3
+FirstMerit Bank	6	5
+FirstSource Advantage LLC	3	3
+Five Lakes Agency	3	3
+Flagship Financial Group	1	1
+Flagstar Bank	25	25
+Focus Holding Company	2	2
+Focused Recovery Solutions Inc	1	1
+Ford Motor Credit Company	7	7
+Forster & Garbus LLP	1	1
+Forster Garbus and Garbus	1	1
+Franklin American Mortgage Company	1	1
+Franklin Collection Service Inc	8	8
+Franklin Credit Management	4	3
+Freedom Mortgage	5	5
+Frontline Asset Strategies LLC	3	3
+Frost Bank	2	2
+Frost-Arnett Company	3	3
+Fulton Friedman & Gullace LLP	1	1
+P&B Capital Group LLC	2	2
+PHH Mortgage	21	21
+PMAB LLC	1	1
+PNC Bank NA	150	150
+Paramount Residential Mortgage Group Inc	1	1
+Partners Financial Services Inc	1	1
+Partners for Payment Relief	1	1
+Patenaude & Felix APC	1	0
+PayPal Holdings Inc	31	31
+Penn Credit Corporation	2	2
+PennyMac Loan Services LLC	5	5
+Pentagon FCU	11	11
+People's United Bank	5	5
+Peoples Home Equity Inc	1	1
+Performant Financial Corporation	9	9
+Peroutka Miller Klima & Peters PA	1	1
+Peter Roberts & Associates Inc	1	1
+Phillips & Cohen Associates Ltd	4	4
+Pinnacle Credit Services LLC	7	7
+Pinnacle Recovery Inc	1	1
+Pioneer Credit Company	1	1
+Planet Home Lending LLC	3	3
+Platinum Holdings Group LLC	8	4
+Plaza Home Mortgage	2	2
+Pleasant Valley Home Mortgage Corporation	2	0
+Portfolio Recovery Associates Inc	59	59
+Pressler & Pressler LLP	6	6
+Prestige Financial Services Inc	4	4
+Primary Financial Services LLC	2	2
+Primary Residential Mortgage	2	2
+ProCollect Inc	3	3
+Professional Debt Mediation Inc	2	2
+Professional Finance Company Inc	1	1
+Professional Medical Management Inc	1	1
+Proficio Mortgage Ventures LLC	1	1
+Progressive Financial Services Inc	2	2
+Prospect Mortgage	4	4
+Protocol Recovery Service Inc	2	2
+Provident Funding	4	4
+Prudent Law Group	3	0
+Pulte Mortgage	4	4
+Zions Bancorporation	2	2
+Zwicker & Associates	2	2
